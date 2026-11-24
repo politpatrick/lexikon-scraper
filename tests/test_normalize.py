@@ -157,3 +157,12 @@ def test_is_content():
     assert is_content(raw("A", "Text"))
     assert not is_content(raw("B", "#WEITERLEITUNG [[A]]"))
     assert not is_content(raw("C", "egal", redirect=True))
+
+
+def test_norm_templates_rendered_regression():
+    """Live-Befund: Der alte Scraper machte daraus „vgl.  Abs. 3 SGB-I“."""
+    text = ("nach Maßgabe von {{Zitat de §|1|lfgg}} des Landesgesetzes; vgl. {{Zitat de §|30|sgb_1}} "
+            "Abs. 3 SGB-I und {{Rspr|XII ZB 1/20}} sowie {{PAGENAME}}")
+    a = normalize(raw("Betreuungsverfahren", text), {}, set())
+    assert a.sections[0].text == ("nach Maßgabe von § 1 des Landesgesetzes; vgl. § 30 Abs. 3 SGB-I "
+                                  "und XII ZB 1/20 sowie Betreuungsverfahren")

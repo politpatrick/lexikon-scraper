@@ -11,6 +11,7 @@ from mwparserfromhell.nodes import (
 
 from lexikon.links import classify, slug
 from lexikon.models import RawPage
+from lexikon.templates import render_template
 
 INTRO = "Einleitung"
 REDIRECT_RE = re.compile(r"^\s*#\s*(?:weiterleitung|redirect)\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
@@ -107,7 +108,7 @@ def resolve(key: str, redirects: dict[str, str]) -> str | None:
     return key
 
 
-def _render(nodes) -> str:
+def _render(nodes, title: str = "") -> str:
     out = []
     for node in nodes:
         if isinstance(node, Text):
@@ -117,20 +118,20 @@ def _render(nodes) -> str:
             if kind in ("image", "category"):
                 continue
             if node.text is not None:
-                out.append(_render(node.text.nodes))
+                out.append(_render(node.text.nodes, title))
             elif kind == "wikipedia":
                 out.append(target.split(":", 1)[-1])
             else:
                 out.append(target)
         elif isinstance(node, ExternalLink):
-            out.append(_render(node.title.nodes) if node.title else str(node.url))
+            out.append(_render(node.title.nodes, title) if node.title else str(node.url))
         elif isinstance(node, Tag):
             if node.tag in ("br",):
                 out.append("\n")
             elif node.tag == "li":
                 out.append("-")
             elif node.contents is not None:
-                inner = _render(node.contents.nodes)
+                inner = _render(node.contents.nodes, title)
                 if node.tag != "ref":
                     out.append(inner)
                 elif inner.strip():
@@ -140,7 +141,7 @@ def _render(nodes) -> str:
         elif isinstance(node, HTMLEntity):
             out.append(node.normalize())
         elif isinstance(node, Template):
-            out.append(str(node))  # Behandlung folgt mit der Vorlagen-Inventur (Ticket 02/04)
+            out.append(render_template(node, title))
         else:
             out.append(str(node))
     return "".join(out)
@@ -151,14 +152,14 @@ def _clean(text: str) -> str:
     return re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).strip()
 
 
-def _sections(code) -> list[Section]:
+def _sections(code, title: str) -> list[Section]:
     sections: list[Section] = []
     stack: list[tuple[int, str]] = []
     path: tuple[str, ...] = (INTRO,)
     buf: list = []
 
     def flush():
-        text = _clean(_render(buf))
+        text = _clean(_render(buf, title))
         if text:
             sections.append(Section(path, text))
 
@@ -209,7 +210,7 @@ def normalize(page: RawPage, redirects: dict[str, str], known: set[str]) -> Arti
         revid=page.revid,
         timestamp=page.timestamp,
         categories=list(page.categories),
-        sections=_sections(code),
+        sections=_sections(code, page.title),
         internal_links=sorted(internal),
         wikipedia_links=sorted(set(wiki)),
         images=sorted(set(images)),
