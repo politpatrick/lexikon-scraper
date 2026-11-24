@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Gesundheitssorge",
+    "Rechtsnormen"
+  ],
+  "category_links": [],
+  "dead_links": [],
+  "external_links": [
+    "https://www.bfarm.de/DE/Home/_node.html",
+    "https://www.bundesgesundheitsministerium.de/e-rezept.html"
+  ],
+  "images": [],
+  "internal_links": [
+    "arztzeugnis",
+    "assistenzleistungen",
+    "checkliste-für-arztgespräche",
+    "datenschutz",
+    "digitale-barrierefreiheit",
+    "e-rechnung",
+    "elektronischer-identitätsnachweis",
+    "forensik",
+    "geheimhaltungspflicht",
+    "gesundheitsdatennutzungsgesetz",
+    "interoperabilität",
+    "it-sicherheit",
+    "krankenhaussozialdienst",
+    "krankenversicherung",
+    "medikationsplan",
+    "neu",
+    "nutzungspflicht",
+    "rechtsverkehr-in-deutschland",
+    "schweigepflicht",
+    "software"
+  ],
+  "pageid": 39295,
+  "revid": 66078,
+  "sections": [
+    {
+      "path": [
+        "Einleitung"
+      ],
+      "text": "Das E-Rezept, d.h. die elektronische Verordnung oder Verschreibung für den Patienten durch seinen Arzt oder seine Ärztin, ist für verschreibungspflichtige Arzneimittel in Deutschland seit dem 01.01.2024 zur Regel geworden. Die Verwendung von Verordnungen und Empfehlungen in elektronischer Form wurde in § 86 SGB V sozialgesetzlich vorbereitet. Es geht dabei um sogenannte Bundesmantelverträge zwischen den Kassenärztlichen Bundesvereinigungen und dem Spitzenverband Bund der Krankenkassen in Deutschland.\n\nDie verpflichtende Einführung des E-Rezepts mit Hilfe der deutschen Telematikinfrastruktur hat die jahrelange „Zettelwirtschaft“ im Gesundheitswesen beendet. Die früheren Arztrezepte auf Papier werden zur rechtssicheren Abrechnung der Arzneimittelkosten des krankenversicherten Patienten heute nicht mehr benötigt. Bekanntlich konnten in Einzelfällen auch solche Arztrezepte gefälscht werden (= Urkundenfälschung § 267 StGB)."
+    },
+    {
+      "path": [
+        "Siehe auch"
+      ],
+      "text": "- digitale Barrierefreiheit, Assistenzleistungen\n- IT-Sicherheit, Datenschutz, Interoperabilität, Software\n- Rechtsverkehr in Deutschland, Forensik\n- elektronischer Identitätsnachweis\n- Medikationsplan, Checkliste für Arztgespräche, Arztzeugnis, Schweigepflicht\n- e-Rechnung, Nutzungspflicht\n- Was ist neu?\n- Gesundheitsdatennutzungsgesetz, Geheimhaltungspflicht\n- Krankenhaussozialdienst"
+    },
+    {
+      "path": [
+        "Weblinks"
+      ],
+      "text": "- Internetseite zum E-Rezept\n- Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM)"
+    }
+  ],
+  "slug": "e-rezept",
+  "timestamp": "2026-07-19T14:45:22Z",
+  "title": "E-Rezept",
+  "wikipedia_links": []
+}

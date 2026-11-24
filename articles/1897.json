@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Betreuungsende"
+  ],
+  "category_links": [],
+  "dead_links": [
+    "notgeschäftsführung"
+  ],
+  "external_links": [],
+  "images": [],
+  "internal_links": [
+    "aufhebung-der-betreuung",
+    "beaufsichtigung",
+    "betreuerhaftung",
+    "betreuerwechsel",
+    "einstweilige-anordnung",
+    "finanzamt",
+    "gerichtsbeschluss",
+    "schlussbericht",
+    "schlussrechnungslegung",
+    "schlusstätigkeiten",
+    "tod-des-betreuten",
+    "vorläufiger-betreuer"
+  ],
+  "pageid": 1897,
+  "revid": 64510,
+  "sections": [
+    {
+      "path": [
+        "Einleitung"
+      ],
+      "text": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.\n\nEine rechtliche Betreuung kann auf verschiedene Weisen enden:\n\n-Aufhebung der Betreuung durch Beschluss des Betreuungsgerichtes (§ 1870 BGB);\n-Tod des Betreuten (§ 1870 BGB);\n-aus der Sicht des jeweiligen Betreuers auch durch einen vom Gericht beschlossenen Betreuerwechsel (§ 1869 BGB);\n-sowie bei vorläufigen Betreuerbestellungen auch durch Zeitablauf des in der einstweiligen Anordnung genannten Datums (§ 302 FamFG)."
+    },
+    {
+      "path": [
+        "Siehe auch"
+      ],
+      "text": "-Schlusstätigkeiten, Finanzamt\n-Schlussbericht\n-Schlussrechnungslegung\n-Notgeschäftsführung\n-Betreuerhaftung, Beaufsichtigung"
+    }
+  ],
+  "slug": "ende-der-betreuung",
+  "timestamp": "2026-03-20T11:08:38Z",
+  "title": "Ende der Betreuung",
+  "wikipedia_links": []
+}

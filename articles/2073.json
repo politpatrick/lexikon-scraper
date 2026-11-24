@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Berichterstattung"
+  ],
+  "category_links": [],
+  "dead_links": [
+    "berichterstattung",
+    "notgeschäftsführung"
+  ],
+  "external_links": [
+    "https://btdirekt.de/wp-content/uploads/2023/06/BVfB_Mustervorlage_Schlussbericht.docx",
+    "https://justizportal.niedersachsen.de/download/191359/BT_220_-_Jahresbericht_Betreuung_-_barrierefrei.pdf",
+    "https://justizportal.niedersachsen.de/download/191364/BT_230_-_Schlussbericht_Betreuung_-_barrierefrei.pdf",
+    "https://justizportal.niedersachsen.de/download/191422/BT_210_-_Anfangsbericht_Betreuung_-_barrierefrei.pdf"
+  ],
+  "images": [],
+  "internal_links": [
+    "anfangsbericht",
+    "betreuerausweis",
+    "betreuerpflichten",
+    "betreuerwechsel",
+    "ende-der-betreuung",
+    "hamburger-mustergliederung",
+    "jahresbericht",
+    "schlussrechnungslegung",
+    "schlusstätigkeiten",
+    "selbstverwaltungserklärung",
+    "tod-des-betreuten",
+    "vermögenssorge"
+  ],
+  "pageid": 2073,
+  "revid": 66692,
+  "sections": [
+    {
+      "path": [
+        "Einleitung"
+      ],
+      "text": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst."
+    },
+    {
+      "path": [
+        "Die letzte Berichterstattung"
+      ],
+      "text": "Ein Schlussbericht muss nach der Beendigung einer Betreuung durch den Betreuer erstellt und an das Betreuungsgericht gesendet werden (§ 1863 Abs. 4 BGB). Wurde der Betreuer für den Aufgabenbereich Vermögenssorge bestellt, kann die Einreichung der Schlussrechnungslegung und/oder Selbstverwaltungserklärung zusammen mit dem Schlussbericht erfolgen.\n\nDer Schlussbericht knüpft i.d.R. an den letzten Jahresbericht an. Erfolgt die Beendigung der Betreuung innerhalb des ersten Betreuungsjahres knüpft er alternativ an den Anfangsbericht an. Der Betreuer hat die folgenden inhaltlichen Anforderungen nach § 1863 Abs. 4 BGB bei der Erstellung des Schlusssberichtes zu beachten:\n-die seit dem letzten Jahresbericht eingetretenen Änderungen der persönlichen Verhältnisse,\n-Angaben zur Herausgabe des der Verwaltung des Betreuers unterliegenden Vermögens des Betreuten und aller im Rahmen der Betreuung erlangten Unterlagen (§ 1872 BGB),\n-ob der Berechtigte auf sein Recht, die Schlussrechnung gerichtlich prüfen zu lassen (§ 1873 BGB), hingewiesen wurde und wann (wegen der 6-Wochenfrist).\n\nIst die Betreuung wegen Todes beendet, sollte der Betreuer den genauen Todestag und den Sterbeort (wichtig wegen Zuständigkeit des Standesamtes) nennen. Eine Sterbeurkunde zu übersenden, ist keine Betreuerpflicht. Das Gericht kann diese direkt vom Standesamt anfordern (§ 65 PStG).\n\nDer Betreuer hat auch den Betreuerausweis zurückzusenden (§ 290 FamFG)."
+    },
+    {
+      "path": [
+        "Siehe auch"
+      ],
+      "text": "- Ende der Betreuung, Tod des Betreuten, Betreuerwechsel\n- Hamburger Mustergliederung\n- Schlussrechnungslegung, Schlusstätigkeiten\n- Notgeschäftsführung"
+    },
+    {
+      "path": [
+        "Literatur"
+      ],
+      "text": "-Felix; Vermögensverwaltung und Berichtswesen im neuen Betreuungsrecht; Rpfleger 2024, ?\n-Thielke: Anfangsbericht - Anfangsgespräch - Jahresbericht - Schlussbericht; BtPrax 2022, 39\n-Thielke: Gut gemeint, aber Ziel verfehlt? Die neuen Vorschriften zur Schlussabwicklung; Teil 1 BtPrax 2023, 193; Teil 2 BtPrax 2024, 3"
+    },
+    {
+      "path": [
+        "Weblinks"
+      ],
+      "text": "-Vordruck Schlussbericht (BVfB - Word)\n-Vordruck Anfangsbericht (Niedersachsen, PDF)\n-Vordruck Jahresbericht (Niedersachsen, PDF)\n-Vordruck Schlussbericht (Niedersachsen, PDF)"
+    }
+  ],
+  "slug": "schlussbericht",
+  "timestamp": "2026-10-29T13:56:06Z",
+  "title": "Schlussbericht",
+  "wikipedia_links": []
+}

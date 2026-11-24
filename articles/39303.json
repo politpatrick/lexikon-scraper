@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Auswirkungen",
+    "Rechtsnormen"
+  ],
+  "category_links": [],
+  "dead_links": [],
+  "external_links": [],
+  "images": [],
+  "internal_links": [
+    "arztzeugnis",
+    "assistenzleistungen",
+    "bankvollmacht",
+    "betreuer-cockpit",
+    "datenschutz",
+    "digitale-barrierefreiheit",
+    "e-rezept",
+    "gesetzgebung",
+    "girokonto",
+    "heilbehandlung",
+    "interoperabilität",
+    "it-sicherheit",
+    "medikationsplan",
+    "nutzungspflicht",
+    "rechnungslegung",
+    "sachverständigengutachten",
+    "schlussrechnungslegung",
+    "software",
+    "stundensatz",
+    "vermögensverzeichnis",
+    "zug-um-zug-leistung",
+    "zugangsrecht",
+    "zugriffsrecht"
+  ],
+  "pageid": 39303,
+  "revid": 66804,
+  "sections": [
+    {
+      "path": [
+        "Allgemeines"
+      ],
+      "text": "Die e-Rechnung als ein Anwendungsbereich der Telematikinfrastruktur in Deutschland und in der Europäischen Union soll der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der gesundheitlichen Versorgung der Bevölkerung dienen. Die elektronische Rechnung ist in § 359a SGB V anfänglich gesetzlich geregelt, bis die erforderlichen Dienste und Komponenten in der Telematikinfrastruktur ausreichend und rechtssicher zur Verfügung stehen."
+    },
+    {
+      "path": [
+        "Definition e-Rechnung"
+      ],
+      "text": "Eine Rechnung, die in einem strukturierten elektronischen Format erstellt worden ist, gilt in Deutschland als e-Rechnung. Im marktwirtschaftlichen System müssen mehrere Formate zur Auswahl für Kunden und zur automatisierten Verarbeitung bereitstehen, damit kein Monopol (= beherrschende Marktstellung) entsteht. Einfache pdf-Dateien gelten zukünftig nicht mehr als elektronische Rechnungen in diesem Sinne.\n\nBekannte e-Rechnungsformate sind in Deutschland das sogenannte ZUGFeRD (hybrides Datenformat aus einer pdf-Datei und einer eingebetteten XML-Datei) und die X-Rechnung (nur XML-Datei ohne bildliche Darstellung). Die Rechnungsdaten aus diesen e-Rechnungen können direkt in die Buchhaltungssoftware importiert werden, da sie maschinenlesbar sind. Eine einheitliche Norm für die interoperable elektronische Rechnungsstellung innerhalb der Europäischen Union lieferte die EU-Richtlinie 2014/55/EU."
+    },
+    {
+      "path": [
+        "Siehe auch"
+      ],
+      "text": "- Rechnungslegung, Interoperabilität\n- Schlussrechnung\n- Stundensatz\n- Vermögensverzeichnis\n- Software, Betreuer Cockpit, Zugangsrecht, Zugriffsrecht\n- Nutzungspflicht\n- Medikationsplan, Arztzeugnis, Heilbehandlung, Assistenzleistungen, Sachverständigengutachten, e-Rezept\n- digitale Barrierefreiheit, Datenschutz, IT-Sicherheit\n- Girokonto, Bankvollmacht\n- Zug-um-Zug-Leistung"
+    }
+  ],
+  "slug": "e-rechnung",
+  "timestamp": "2026-11-02T10:41:38Z",
+  "title": "E-Rechnung",
+  "wikipedia_links": []
+}

@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Bundesländer",
+    "Rechtsnormen",
+    "Vermögenssorge"
+  ],
+  "category_links": [],
+  "dead_links": [
+    "betreuer",
+    "bundesländer"
+  ],
+  "external_links": [
+    "https://www.meineschufa.de/index.php?site=11_2",
+    "https://www.vollstreckungsportal.de"
+  ],
+  "images": [],
+  "internal_links": [
+    "allgemeines",
+    "betreuer-(ehrenamt)",
+    "checkliste-vermögenssorge",
+    "datenschutz",
+    "erbschaft",
+    "föderalismus",
+    "geschäftsfähigkeit",
+    "it-sicherheit",
+    "mittellosigkeit",
+    "neu",
+    "vermögensverzeichnis",
+    "zug-um-zug-leistung",
+    "zwangsvollstreckung"
+  ],
+  "pageid": 39322,
+  "revid": 65952,
+  "sections": [
+    {
+      "path": [
+        "Allgemeines"
+      ],
+      "text": "Im Vermögensverzeichnis für den betreuten Menschen sind vom Betreuer auch die Passiva anzugeben. Hierzu zählen Schulden aller Art (öffentlich-rechtlicher oder privatrechtlicher Natur), z.B. Mietrückstände, offene Ratenzahlungsverpflichtungen, Darlehensverpflichtungen, Unterhaltsrückstände, Steuerschulden, Geldbußen und –strafen. Ist bei Forderungen an den Betreuten deren Statthaftigkeit unklar (z.B. Zweifel an der Geschäftsfähigkeit bei Vertragsabschluss, Wucher, Forderung u. U. verjährt usw.), sollte dies mit vermerkt werden.\n\nDer Schuldenstand kann durch direkte Anfrage bei den einzelnen Gläubigern des Betreuten, soweit bekannt, erfragt werden. Sind Gläubiger u. U. nicht bekannt, empfiehlt sich eine Selbstauskunft bei der Schutzgemeinschaft für allgemeine Kreditsicherung e.V. (Schufa), [*http://www.schufa.de sowie eine Auskunft aus dem Schuldnerverzeichnis des örtlichen Amtsgerichtes (Zwangsvollstreckungsabteilung). Auch Rückfragen beim örtlich zuständigen Gerichtsvollzieher (feststellbar durch die Verteilungsstelle für Gerichtsvollzieher beim Amtsgericht) können nützliche Hinweise bringen.\n\nAnzugeben sind im Vermögensverzeichnis die Bezeichnungen der Gläubiger, die Darlehens- oder sonstige Schuldsumme, die Fälligkeit und Vollstreckbarkeit, Verzinsung und etwaige Nebenkosten."
+    },
+    {
+      "path": [
+        "gesetzliche Zuständigkeit für die Schuldnerverzeichnisse der Länder"
+      ],
+      "text": "Gemäß § 882h ZPO wird das Schuldnerverzeichnis für jedes Bundesland seit 2013 von einem zentralen Vollstreckungsgericht geführt. Der Inhalt des Schuldnerverzeichnisses kann über eine zentrale und länderübergreifende Abfrage im Internet eingesehen werden. Die Führung der Schuldnerverzeichnisse stellt eine Angelegenheit der jeweiligen Justizverwaltung der Bundesländer dar (siehe: Föderalismus). Die beiden Rechtsverordnungen über die Führung des Schuldnerverzeichnisses (SchuFV) und über den Bezug von Abdrucken aus dem Schuldnerverzeichnis (SchuVAbdrV) müssen beachtet werden. Die Übermittlung der Daten erfolgt bundesweit einheitlich durch ein geeignetes Transportprotokoll sowie in einheitlich strukturierten Datensätzen. Datenschutz und Datensicherheit müssen dabei sichergestellt sein (§ 2 SchuFV)."
+    },
+    {
+      "path": [
+        "Weblinks"
+      ],
+      "text": "- länderübergreifendes, zentrales Abrufportal für Einträge in den Schuldnerverzeichnissen der Amtsgerichte"
+    },
+    {
+      "path": [
+        "Siehe auch"
+      ],
+      "text": "- Betreuer (Ehrenamt), Checkliste Vermögenssorge\n- Vermögensverzeichnis, Erbschaft\n- Zwangsvollstreckung, Mittellosigkeit, Zug-um-Zug-Leistung\n- Was ist neu?"
+    }
+  ],
+  "slug": "schuldnerverzeichnis",
+  "timestamp": "2026-06-29T09:03:39Z",
+  "title": "Schuldnerverzeichnis",
+  "wikipedia_links": []
+}

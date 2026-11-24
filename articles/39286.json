@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Auswirkungen"
+  ],
+  "category_links": [],
+  "dead_links": [],
+  "external_links": [
+    "https://buergerservice.org"
+  ],
+  "images": [],
+  "internal_links": [
+    "betreuerausweis",
+    "betreuungsrechtsreform",
+    "datenschutz",
+    "digitale-barrierefreiheit",
+    "e-rechnung",
+    "e-rezept",
+    "elektronische-patientenakte",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "forensik",
+    "formulare",
+    "gemeinwohlorientierung",
+    "gesetzliche-vertretung",
+    "gesetzlicher-vertreter",
+    "informationspflicht",
+    "interoperabilität",
+    "it-sicherheit",
+    "medikationsplan",
+    "neu",
+    "nutzungspflicht",
+    "ordre-public",
+    "personalausweis",
+    "personenstand",
+    "polizeirecht",
+    "postkontrolle",
+    "rechtsverkehr-in-deutschland",
+    "registrierung",
+    "schwerbehindertenausweis",
+    "software",
+    "strafprozess",
+    "zugriffsrecht"
+  ],
+  "pageid": 39286,
+  "revid": 66324,
+  "sections": [
+    {
+      "path": [
+        "Einleitung"
+      ],
+      "text": "Was der Personalausweis oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet bzw. im \"Cyberspace\".\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n- Urkundenfälschung § 267 StGB\n- Fälschung beweiserheblicher Daten § 269 StGB\n- Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB\n- Missbrauch von Ausweispapieren § 281 StGB"
+    },
+    {
+      "path": [
+        "Siehe auch"
+      ],
+      "text": "- Personalausweis, Schwerbehindertenausweis, Personenstand\n- Betreuerausweis, gesetzlicher Vertreter, Vertretungsbefugnis\n- Betreuungsrechtsreform, Was ist neu?\n- e-Rezept, Medikationsplan, elektronische Patientenakte\n- Software, Formulare\n- digitale Barrierefreiheit, e-Rechnung\n- Informationspflicht\n- Interoperabilität\n- Datenschutz\n- IT-Sicherheit, Gemeinwohlorientierung\n- Registrierung\n- ordre public, Polizeirecht, Forensik\n- Rechtsverkehr in Deutschland, Postkontrolle\n- Strafprozess\n- Zugriffsrecht\n- Elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht"
+    },
+    {
+      "path": [
+        "Weblinks"
+      ],
+      "text": "- gemeinnütziger Bürgerservice e.V. zur Förderung der Nutzung der Online-Ausweisfunktion"
+    }
+  ],
+  "slug": "elektronischer-identitätsnachweis",
+  "timestamp": "2026-10-12T12:33:27Z",
+  "title": "Elektronischer Identitätsnachweis",
+  "wikipedia_links": []
+}
