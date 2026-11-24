@@ -16,6 +16,15 @@ INTRO = "Einleitung"
 REDIRECT_RE = re.compile(r"^\s*#\s*(?:weiterleitung|redirect)\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 
 
+CATEGORY_SLUG_PREFIXES = ("kategorie:", "category:")
+
+
+def target_category_name(redirects: dict[str, str], key: str) -> str:
+    """Kategoriename aus dem aufgelösten Slug, Anfangsbuchstabe groß."""
+    name = resolve(key, redirects).split(":", 1)[1].replace("-", " ")
+    return name[:1].upper() + name[1:]
+
+
 @dataclass
 class Section:
     path: tuple[str, ...]
@@ -64,13 +73,26 @@ def redirect_target(page: RawPage) -> str | None:
     return None
 
 
-def build_redirect_map(pages: list[RawPage]) -> dict[str, str]:
-    """Slug der Weiterleitung → Slug des direkten Ziels."""
+def is_content(page: RawPage) -> bool:
+    """Seite mit eigenem Inhalt, also keine Weiterleitung."""
+    return not page.is_redirect and redirect_target(page) is None
+
+
+def build_redirect_map(pages: list[RawPage], unreadable: list[dict] = ()) -> dict[str, str]:
+    """Slug der Weiterleitung → Slug des direkten Ziels.
+
+    Inhaltsseiten haben Vorrang: Hat eine Weiterleitung denselben Slug wie ein
+    Artikel (z. B. Titel mit Soft-Hyphens), wird sie ignoriert. Für Seiten ohne
+    abrufbare Revision dient ``redirect_to`` aus der Weiterleitungstabelle.
+    """
+    content = {slug(p.title) for p in pages if is_content(p)}
+    candidates = [(p.title, redirect_target(p)) for p in pages if not is_content(p)]
+    candidates += [(u["title"], u.get("redirect_to")) for u in unreadable]
     result = {}
-    for page in pages:
-        target = redirect_target(page)
-        if target:
-            result[slug(page.title)] = slug(target)
+    for title, target in candidates:
+        source = slug(title)
+        if target and source not in content and slug(target) != source:
+            result[source] = slug(target)
     return result
 
 
@@ -165,7 +187,12 @@ def normalize(page: RawPage, redirects: dict[str, str], known: set[str]) -> Arti
                 continue
             key = slug(target)
             resolved = resolve(key, redirects)
-            (internal.add(resolved) if resolved in known else dead.add(key))
+            if resolved in known:
+                internal.add(resolved)
+            elif resolved and resolved.startswith(CATEGORY_SLUG_PREFIXES):
+                cat_links.append(target_category_name(redirects, key))
+            else:
+                dead.add(key)
         elif kind == "wikipedia":
             wiki.append(target)
         elif kind == "image":

@@ -121,3 +121,23 @@ def iter_raw_pages(
             time.sleep(pause)
     if acc:
         raise ApiError("Abruf endete mit unvollständigem Paket")
+
+
+def fetch_redirect_targets(
+    session: requests.Session,
+    titles: list[str],
+    base_url: str = BASE_URL,
+    pause: float = 0.5,
+) -> dict[str, str]:
+    """Ziele von Weiterleitungen laut Weiterleitungstabelle (auch ohne lesbare Revision)."""
+    result: dict[str, str] = {}
+    for i in range(0, len(titles), 50):
+        data = _get(session, base_url, {
+            "action": "query", "format": "json", "formatversion": 2,
+            "titles": "|".join(titles[i:i + 50]), "redirects": 1, "maxlag": 5,
+        }, pause)
+        for r in data.get("query", {}).get("redirects", []):
+            result[r["from"]] = r["to"]
+        if pause:
+            time.sleep(pause)
+    return result

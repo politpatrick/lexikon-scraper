@@ -1,7 +1,7 @@
 from pathlib import Path
 
 from lexikon.models import RawPage
-from lexikon.normalize import build_redirect_map, normalize
+from lexikon.normalize import build_redirect_map, is_content, normalize
 
 FIX = Path(__file__).parent / "fixtures" / "wikitext"
 KNOWN = {"betreuerbestellung", "betreuungsgericht", "betreuer", "betreuungsverfahren"}
@@ -122,3 +122,38 @@ def test_flagged_redirect_uses_first_link():
 def test_reused_named_ref_leaves_no_empty_brackets():
     a = normalize(raw("R", 'Satz.<ref name="a">BGH XII ZB 1/20</ref> Mehr.<ref name="a"/>'), {}, set())
     assert a.sections[0].text == "Satz. [BGH XII ZB 1/20] Mehr."
+
+
+def test_content_page_wins_slug_collision_with_redirect():
+    """Live-Befund: Weiterleitung mit Soft-Hyphens hat denselben Slug wie der Artikel."""
+    pages = [
+        raw("Einwilligungsvorbehalt", "Text", 1),
+        raw("E­inwilligungs­vor­be­halt", "#redirect [[Einwilligungsvorbehalt]]", 2, True),
+        raw("Gesundheitssorge", "Text", 3),
+        raw("Gesund­heitssorge", "#redirect [[Gesundheitsfürsorge]]", 4, True),
+    ]
+    redirects = build_redirect_map(pages)
+    assert redirects == {}
+    a = normalize(raw("Q", "[[Einwilligungsvorbehalt]] [[Gesundheitssorge]]"), redirects,
+                  {"einwilligungsvorbehalt", "gesundheitssorge"})
+    assert a.internal_links == ["einwilligungsvorbehalt", "gesundheitssorge"]
+
+
+def test_unreadable_redirects_from_redirect_table():
+    unreadable = [
+        {"pageid": 1, "title": "BtPrax", "lastrevid": 1, "redirect_to": "Betreuungsrechtliche Praxis"},
+        {"pageid": 2, "title": "Betreuer", "lastrevid": 2, "redirect_to": "Kategorie:Betreuungspersonen"},
+        {"pageid": 3, "title": "Leer", "lastrevid": 3},
+    ]
+    redirects = build_redirect_map([], unreadable)
+    assert redirects == {"btprax": "betreuungsrechtliche-praxis", "betreuer": "kategorie:betreuungspersonen"}
+    a = normalize(raw("Q", "[[BtPrax]] [[Betreuer]] [[Leer]]"), redirects, {"betreuungsrechtliche-praxis"})
+    assert a.internal_links == ["betreuungsrechtliche-praxis"]
+    assert a.category_links == ["Betreuungspersonen"]
+    assert a.dead_links == ["leer"]
+
+
+def test_is_content():
+    assert is_content(raw("A", "Text"))
+    assert not is_content(raw("B", "#WEITERLEITUNG [[A]]"))
+    assert not is_content(raw("C", "egal", redirect=True))

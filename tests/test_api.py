@@ -130,3 +130,23 @@ def test_page_without_revision_collected_when_list_given():
     unreadable = []
     assert list(iter_raw_pages(FakeSession([payload]), pause=0, unreadable=unreadable)) == []
     assert unreadable == [{"pageid": 5, "title": "X", "lastrevid": 9}]
+
+
+def test_fetch_redirect_targets():
+    from lexikon.api import fetch_redirect_targets
+    payload = {"batchcomplete": True, "query": {"redirects": [
+        {"from": "Beschwerde", "to": "Rechtsmittel"},
+        {"from": "Betreuer", "to": "Kategorie:Betreuungspersonen"}]}}
+    s = FakeSession([payload])
+    assert fetch_redirect_targets(s, ["Beschwerde", "Betreuer"], pause=0) == {
+        "Beschwerde": "Rechtsmittel", "Betreuer": "Kategorie:Betreuungspersonen"}
+    assert s.calls[0]["titles"] == "Beschwerde|Betreuer"
+    assert s.calls[0]["redirects"] == 1
+
+
+def test_fetch_redirect_targets_batches_of_50():
+    from lexikon.api import fetch_redirect_targets
+    empty = {"batchcomplete": True, "query": {}}
+    s = FakeSession([empty, empty])
+    fetch_redirect_targets(s, [f"T{i}" for i in range(51)], pause=0)
+    assert len(s.calls) == 2

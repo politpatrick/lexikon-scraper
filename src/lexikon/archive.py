@@ -99,3 +99,8 @@ def load_raw(raw_dir: Path, include_deleted: bool = True) -> list[RawPage]:
     deleted = set() if include_deleted else {e["pageid"] for e in _read_log(raw_dir)}
     pages = [_read_page(p) for p in raw_dir.glob("*.json")]
     return sorted((p for p in pages if p.pageid not in deleted), key=lambda p: p.pageid)
+
+
+def load_unreadable(raw_dir: Path) -> list[dict]:
+    """Seiten ohne abrufbare Revision aus dem letzten Abruf."""
+    return _read_log(Path(raw_dir), UNREADABLE_LOG)
