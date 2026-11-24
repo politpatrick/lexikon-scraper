@@ -5,32 +5,39 @@ import argparse
 import sys
 from pathlib import Path
 
-from lexikon.archive import dump_json, load_raw, sync_raw
+from lexikon.archive import dump_json, load_raw, load_unreadable, sync_raw
 from lexikon.graph import build_graph
 from lexikon.links import slug
-from lexikon.normalize import build_redirect_map, normalize
+from lexikon.normalize import build_redirect_map, is_content, normalize
 from lexikon.report import quality_report
 
 
 def cmd_archive(args) -> int:
     import requests
 
-    from lexikon.api import iter_raw_pages
+    from lexikon.api import fetch_redirect_targets, iter_raw_pages
 
+    unreadable: list[dict] = []
     with requests.Session() as session:
-        res = sync_raw(iter_raw_pages(session), Path(args.raw))
+        pages = list(iter_raw_pages(session, unreadable=unreadable))
+        targets = fetch_redirect_targets(session, [u["title"] for u in unreadable])
+    for u in unreadable:
+        if u["title"] in targets:
+            u["redirect_to"] = targets[u["title"]]
+    res = sync_raw(pages, Path(args.raw), unreadable)
     print(f"Rohseiten: {res.written} geschrieben, {res.unchanged} unverändert, "
-          f"{len(res.deleted)} neu als gelöscht protokolliert")
+          f"{len(res.deleted)} neu als gelöscht protokolliert, "
+          f"{res.unreadable} ohne abrufbare Revision (siehe _unreadable.jsonl)")
     return 0
 
 
 def cmd_build(args) -> int:
     pages = load_raw(Path(args.raw), include_deleted=False)
-    redirects = build_redirect_map(pages)
-    content = [p for p in pages if not p.is_redirect and slug(p.title) not in redirects]
+    redirects = build_redirect_map(pages, load_unreadable(Path(args.raw)))
+    content = [p for p in pages if is_content(p)]
     for p in pages:
-        if p.is_redirect and slug(p.title) not in redirects:
-            print(f"Warnung: Weiterleitung ohne erkennbares Ziel: {p.title}", file=sys.stderr)
+        if not is_content(p) and slug(p.title) not in redirects:
+            print(f"Hinweis: Weiterleitung ohne eigenen Eintrag: {p.title}", file=sys.stderr)
     known = {slug(p.title) for p in content}
     articles = [normalize(p, redirects, known) for p in content]
 

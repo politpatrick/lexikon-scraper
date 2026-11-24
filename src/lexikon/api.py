@@ -71,12 +71,17 @@ def iter_raw_pages(
     base_url: str = BASE_URL,
     batch_size: int = 50,
     pause: float = 0.5,
+    unreadable: list[dict] | None = None,
 ) -> Iterator[RawPage]:
     """Liefert alle Seiten des Hauptnamensraums inklusive Weiterleitungen.
 
     Teilantworten (z. B. Kategorien über mehrere Antworten verteilt) werden
     zusammengeführt; Seiten werden erst ausgegeben, wenn die API das Paket als
     vollständig meldet (``batchcomplete``).
+
+    Manche alte Seiten liefert die API ohne abrufbare Revision. Ist
+    ``unreadable`` eine Liste, werden sie dort als ``{pageid, title, lastrevid}``
+    gesammelt; sonst bricht der Abruf mit ``ApiError`` ab.
     """
     base = {
         "action": "query",
@@ -101,9 +106,13 @@ def iter_raw_pages(
             _merge(acc, page)
         if data.get("batchcomplete"):
             for page in acc.values():
-                if not page.get("revisions"):
+                if page.get("revisions"):
+                    yield _to_rawpage(page)
+                elif unreadable is not None:
+                    unreadable.append({"pageid": page["pageid"], "title": page.get("title"),
+                                       "lastrevid": page.get("lastrevid")})
+                else:
                     raise ApiError(f"Seite ohne Revision: {page.get('title')!r}")
-                yield _to_rawpage(page)
             acc = {}
         if "continue" not in data:
             break
@@ -112,3 +121,23 @@ def iter_raw_pages(
             time.sleep(pause)
     if acc:
         raise ApiError("Abruf endete mit unvollständigem Paket")
+
+
+def fetch_redirect_targets(
+    session: requests.Session,
+    titles: list[str],
+    base_url: str = BASE_URL,
+    pause: float = 0.5,
+) -> dict[str, str]:
+    """Ziele von Weiterleitungen laut Weiterleitungstabelle (auch ohne lesbare Revision)."""
+    result: dict[str, str] = {}
+    for i in range(0, len(titles), 50):
+        data = _get(session, base_url, {
+            "action": "query", "format": "json", "formatversion": 2,
+            "titles": "|".join(titles[i:i + 50]), "redirects": 1, "maxlag": 5,
+        }, pause)
+        for r in data.get("query", {}).get("redirects", []):
+            result[r["from"]] = r["to"]
+        if pause:
+            time.sleep(pause)
+    return result

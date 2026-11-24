@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Betreuerpflichten"
+  ],
+  "category_links": [],
+  "dead_links": [],
+  "external_links": [],
+  "images": [],
+  "internal_links": [
+    "anzeigepflicht",
+    "aufgabenkreis",
+    "aufwandspauschale",
+    "behördenbetreuer",
+    "bestellung-mehrerer-betreuer",
+    "betreuervergütung",
+    "betreuerwechsel",
+    "betreuungsgericht",
+    "ende-der-betreuung",
+    "rechnungslegung",
+    "schlussrechnungslegung",
+    "tod-des-betreuten",
+    "vereinsbetreuer"
+  ],
+  "pageid": 2242,
+  "revid": 64798,
+  "sections": [
+    {
+      "path": [
+        "Anzeigepflicht"
+      ],
+      "text": "Eine Notgeschäftsführungspflicht besteht für den Erben des Betreuers nicht (MünchKomm/Schwab § 1894 Rn 1; Jurgeleit/Meier § 1894 Rn 1).\n\nDen Tod eines Mitbetreuers (§ 1817 BGB) hat jeder der anderen Betreuer mitzuteilen.  Auf den Aufgabenkreis des jeweiligen Betreuers kommt es nicht an.\n\nSoweit die Betreuung von einem Vereinsbetreuer oder Behördenbetreuer (§ 1818 BGB) geführt und die Betreuungsführung als Teil der arbeits- oder dienstrechtlich geschuldeten Berufstätigkeit erbracht wurde, die Handakten des verstorbenen Betreuers üblicherweise sich in den Geschäftsräumen des Vereins oder der Behörde befinden und der Erbe des Mitarbeiters kaum die Möglichkeit der Akteneinsicht haben dürfte, erfolgt in der Praxis in solchen Fällen die Mitteilung durch den Geschäftsführer des Vereins oder den Leiter der Behörde."
+    },
+    {
+      "path": [
+        "Schlusspflichten"
+      ],
+      "text": "Abschließende Rechnungslegungspflichten gegenüber dem Gericht hat der BGH dem Erben des Betreuers nicht auferlegt. Zwar tritt nach allgemeiner Meinung der Erbe des Betreuers in dessen Pflichten ein. Hierbei handelt es sich indes um privatrechtliche Ansprüche des Betreuten gegen den ehemaligen Betreuer bzw. dessen Erben, die der Betreute ggf. durch Erhebung einer Klage vor dem Prozessgericht durchsetzen müsste. Aufgrund des privatrechtlichen Charakters dieser Ansprüche kann das Betreuungsgericht jedoch deren Erfüllung gegenüber einem nicht mehr im Amt befindlichen Betreuer bzw. dessen Erben nicht zwangsweise durchsetzen. (BGH, Beschl. v. 26.7.2017 – XII ZB 515/16).\n\nDie Herausgabe des Eigentums des Betreuten an den Nachfolgebetreuer (also auch der Betreuungsakte) ist allerdings Erbenpflicht und ergibt sich aus § 1872 Abs. 1 BGB iVm § 1922 BGB."
+    },
+    {
+      "path": [
+        "Fortsetzung der Betreuung"
+      ],
+      "text": "Die Betreuung als solche bleibt vom Tod des Betreuers unberührt. Es ist nach § 1869 BGB ein neuer Betreuer zu bestellen. Hierfür ist nach § 15 Abs. 1 Nr. 2 RpflG der Richter des BetrG zuständig. Beim Nachfolgebetreuer zählt die Betreuung nicht als Neufall. Die bisherige Betreuungszeit ist mitzurechnen (OLG München, Beschl v. 09.02.2006 - 33 Wx 237/05, BtPrax 2006, 73)."
+    },
+    {
+      "path": [
+        "Restliche Betreuervergütung"
+      ],
+      "text": "Ansprüche auf Betreuervergütung bis zum Tod des bisherigen Betreuers (bzw beim Ehrenamtler die anteilige Aufwandspauschale) kann der Erbe als Rechtsnachfolger (§ 1922 BGB) ebenfalls geltend machen. Hierzu ist eine Kopie des Erbscheins mitzuschicken. Sofern eine Erbengemeinschaft besteht, kann ein einzelner Erbe die Ansprüche nur im Namen der gesamten Erbengemeinschaft geltend machen und sollte sich von den Miterben dazu bevollmächtigen lassen."
+    },
+    {
+      "path": [
+        "Siehe auch"
+      ],
+      "text": "- Ende der Betreuung, Bestellung mehrerer Betreuer\n- Betreuerwechsel\n- Tod des Betreuten\n- Schlussrechnungslegung"
+    }
+  ],
+  "slug": "tod-des-betreuers",
+  "timestamp": "2026-04-04T07:53:17Z",
+  "title": "Tod des Betreuers",
+  "wikipedia_links": [
+    "de:Erbengemeinschaft",
+    "de:Erbschein"
+  ]
+}

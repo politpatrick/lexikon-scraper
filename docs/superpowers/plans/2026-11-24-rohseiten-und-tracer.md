@@ -179,4 +179,4 @@ Die Fixture `verfahren.txt` ist ein gekürzter Wikitext mit `== Zuständigkeit =
 - [x] **Step 4:** `pytest -v` → alle PASS
 - [x] **Step 5:** Workflow `wissensnetz.yml`: `workflow_dispatch` plus täglich `0 5 * * *`; Python 3.11; `pip install -e . pytest`; `pytest`; `python -m lexikon archive`; `python -m lexikon build`; Commit von `raw/ articles/ graph/ reports/` nur bei Änderungen. `permissions: contents: write`, `concurrency: wissensnetz`.
 - [x] **Step 6:** Commit `feat: CLI und Workflow für das Wissensnetz`
-- [ ] **Step 7 (HITL, offen):** Workflow manuell starten. Danach prüfen: Anzahl `raw/*.json` gegen die Seitenzahl im Lexikon, und ob ein zweiter Lauf ohne Änderungen keinen Commit erzeugt. Anschließend die Fixtures aus Task 2 und Task 5 durch echte Daten ersetzen.
+- [x] **Step 7 (HITL, erledigt 24.11.2026):** Workflow manuell starten. Danach prüfen: Anzahl `raw/*.json` gegen die Seitenzahl im Lexikon, und ob ein zweiter Lauf ohne Änderungen keinen Commit erzeugt. Anschließend die Fixtures aus Task 2 und Task 5 durch echte Daten ersetzen.

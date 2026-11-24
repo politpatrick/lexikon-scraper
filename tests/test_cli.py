@@ -35,3 +35,20 @@ def test_build_removes_stale_article_files(tmp_path):
     main(["build", "--raw", str(raw), "--articles", str(arts),
           "--graph", str(tmp_path / "g.json"), "--report", str(tmp_path / "r.md")])
     assert sorted(p.name for p in arts.glob("*.json")) == ["1.json"]
+
+
+def test_build_keeps_article_on_slug_collision(tmp_path):
+    raw = tmp_path / "raw"
+    sync_raw([
+        RawPage(1, "Einwilligungsvorbehalt", 1, "t", "Inhalt", ()),
+        RawPage(2, "E­inwilligungs­vor­be­halt", 1, "t", "#redirect [[Einwilligungsvorbehalt]]", (), True),
+        RawPage(3, "Andere", 1, "t", "[[Einwilligungsvorbehalt]] [[BtPrax]]", ()),
+        RawPage(4, "Betreuungsrechtliche Praxis", 1, "t", "Zeitschrift", ()),
+    ], raw, unreadable=[{"pageid": 9, "title": "BtPrax", "lastrevid": 1,
+                         "redirect_to": "Betreuungsrechtliche Praxis"}])
+    main(["build", "--raw", str(raw), "--articles", str(tmp_path / "a"),
+          "--graph", str(tmp_path / "g.json"), "--report", str(tmp_path / "r.md")])
+    assert sorted(p.name for p in (tmp_path / "a").glob("*.json")) == ["1.json", "3.json", "4.json"]
+    andere = json.loads((tmp_path / "a" / "3.json").read_text(encoding="utf-8"))
+    assert andere["internal_links"] == ["betreuungsrechtliche-praxis", "einwilligungsvorbehalt"]
+    assert andere["dead_links"] == []

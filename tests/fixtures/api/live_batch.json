@@ -1,0 +1,124 @@
+{
+ "batchcomplete": true,
+ "query": {
+  "pages": [
+   {
+    "pageid": 1502,
+    "ns": 0,
+    "title": "Adressen",
+    "contentmodel": "wikitext",
+    "pagelanguage": "de",
+    "pagelanguagehtmlcode": "de",
+    "pagelanguagedir": "ltr",
+    "touched": "2008-02-15T14:55:33Z",
+    "lastrevid": 1510,
+    "length": 191,
+    "redirect": true,
+    "new": true
+   },
+   {
+    "pageid": 1503,
+    "ns": 0,
+    "title": "Allgemeines",
+    "revisions": [
+     {
+      "revid": 66179,
+      "parentid": 66008,
+      "timestamp": "2026-08-29T09:00:53Z",
+      "slots": {
+       "main": {
+        "contentmodel": "wikitext",
+        "contentformat": "text/x-wiki",
+        "content": "===Allgemeines zur Betreuung===\n\nDas Rechtsinstitut der '''rechtlichen Betreuung''' wurde in Deutschland durch das am 1. Januar 1992 in Kraft getretene [[Betreuungsgesetz]] geschaffen. Die rechtliche Betreuung ist '''an die Stelle''' der früheren [[wikipedia:de:Vormundschaft|Vormundschaft]] über Volljährige und der [[wikipedia:de:Pflegschaft|Gebrechlichkeitspflegschaft]] getreten und geht über sie"
+       }
+      }
+     }
+    ],
+    "categories": [
+     {
+      "ns": 14,
+      "title": "Kategorie:Inhaltliches"
+     }
+    ],
+    "contentmodel": "wikitext",
+    "pagelanguage": "de",
+    "pagelanguagehtmlcode": "de",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-08-29T09:00:53Z",
+    "lastrevid": 66179,
+    "length": 1640
+   },
+   {
+    "pageid": 2092,
+    "ns": 0,
+    "title": "Altenheim",
+    "revisions": [
+     {
+      "revid": 66482,
+      "parentid": 66481,
+      "timestamp": "2026-10-28T13:58:13Z",
+      "slots": {
+       "main": {
+        "contentmodel": "wikitext",
+        "contentformat": "text/x-wiki",
+        "content": "\n==Heimplatzsuche==\n\nDer Betreuer mit dem Aufgabenkreis der [[Aufenthaltsbestimmung]] hat oftmals die Pflicht, einen Alten/Pflegeheimplatz zu suchen, weil die Versorgung des Betreuten in der eigenen Wohnung nicht mehr möglich ist.\n\nDas LG Frankfurt/Oder (19 T 529/02  vom 13.12.2002) hat (zum alten Vergütungsrecht für [[Berufsbetreuer]]) zu der Frage Stellung genommen, ob ein Betreuer, dem die [[Au"
+       }
+      }
+     }
+    ],
+    "categories": [
+     {
+      "ns": 14,
+      "title": "Kategorie:Betreuerpflichten"
+     },
+     {
+      "ns": 14,
+      "title": "Kategorie:Sozialrecht"
+     }
+    ],
+    "contentmodel": "wikitext",
+    "pagelanguage": "de",
+    "pagelanguagehtmlcode": "de",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-10-28T13:58:13Z",
+    "lastrevid": 66482,
+    "length": 81062
+   },
+   {
+    "pageid": 2114,
+    "ns": 0,
+    "title": "Alltagsgeschäfte",
+    "revisions": [
+     {
+      "revid": 66463,
+      "parentid": 66142,
+      "timestamp": "2026-10-28T12:19:14Z",
+      "slots": {
+       "main": {
+        "contentmodel": "wikitext",
+        "contentformat": "text/x-wiki",
+        "content": "\n==Geschäfte des täglichen Lebens (Alltagsgeschäfte Geschäftsunfähiger)==\n\n===Vorbemerkung===\nNach § 105a BGB sind auch bestimmte Rechtsgeschäfte, die durch [[Geschäftsfähigkeit|Geschäftsunfähige]] getätigt wurden, als rechtswirksam anzusehen. Es handelt sich dabei um Alltagsgeschäfte mit geringwertigen Mitteln, soweit Leistung und Gegenleistung erfolgt sind. Ratenzahlungskäufe sind somit nicht er"
+       }
+      }
+     }
+    ],
+    "categories": [
+     {
+      "ns": 14,
+      "title": "Kategorie:Auswirkungen"
+     }
+    ],
+    "contentmodel": "wikitext",
+    "pagelanguage": "de",
+    "pagelanguagehtmlcode": "de",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-10-28T12:19:14Z",
+    "lastrevid": 66463,
+    "length": 6680
+   }
+  ]
+ },
+ "limits": {
+  "categories": 500
+ }
+}

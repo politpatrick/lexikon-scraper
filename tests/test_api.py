@@ -113,3 +113,40 @@ def test_page_without_revision_fails_loudly():
     payload = {"batchcomplete": True, "query": {"pages": [{"pageid": 5, "title": "X"}]}}
     with pytest.raises(ApiError):
         pages([payload])
+
+
+def test_live_response_shape():
+    """Aufgezeichnet von der Live-API am 24.11.2026 (Inhalte gekürzt)."""
+    unreadable = []
+    result = list(iter_raw_pages(FakeSession([load("live_batch.json")]), pause=0, unreadable=unreadable))
+    assert [p.title for p in result] == ["Allgemeines", "Altenheim", "Alltagsgeschäfte"]
+    assert result[0].categories == ("Inhaltliches",)
+    assert result[0].wikitext
+    assert unreadable == [{"pageid": 1502, "title": "Adressen", "lastrevid": 1510}]
+
+
+def test_page_without_revision_collected_when_list_given():
+    payload = {"batchcomplete": True, "query": {"pages": [{"pageid": 5, "title": "X", "lastrevid": 9}]}}
+    unreadable = []
+    assert list(iter_raw_pages(FakeSession([payload]), pause=0, unreadable=unreadable)) == []
+    assert unreadable == [{"pageid": 5, "title": "X", "lastrevid": 9}]
+
+
+def test_fetch_redirect_targets():
+    from lexikon.api import fetch_redirect_targets
+    payload = {"batchcomplete": True, "query": {"redirects": [
+        {"from": "Beschwerde", "to": "Rechtsmittel"},
+        {"from": "Betreuer", "to": "Kategorie:Betreuungspersonen"}]}}
+    s = FakeSession([payload])
+    assert fetch_redirect_targets(s, ["Beschwerde", "Betreuer"], pause=0) == {
+        "Beschwerde": "Rechtsmittel", "Betreuer": "Kategorie:Betreuungspersonen"}
+    assert s.calls[0]["titles"] == "Beschwerde|Betreuer"
+    assert s.calls[0]["redirects"] == 1
+
+
+def test_fetch_redirect_targets_batches_of_50():
+    from lexikon.api import fetch_redirect_targets
+    empty = {"batchcomplete": True, "query": {}}
+    s = FakeSession([empty, empty])
+    fetch_redirect_targets(s, [f"T{i}" for i in range(51)], pause=0)
+    assert len(s.calls) == 2

@@ -83,3 +83,25 @@ def test_category_change_without_new_revid_is_written(tmp_path):
     res = sync_raw([changed], tmp_path)
     assert res.written == 1
     assert load_raw(tmp_path)[0].categories == ("K", "Neu")
+
+
+def test_unreadable_pages_never_logged_as_deleted(tmp_path):
+    sync_raw([page(123), page(124)], tmp_path)
+    unreadable = []
+
+    def pages_then_unreadable():
+        yield page(124)
+        unreadable.append({"pageid": 123, "title": "Seite 123", "lastrevid": 2})
+
+    res = sync_raw(pages_then_unreadable(), tmp_path, unreadable=unreadable)
+    assert res.deleted == []
+    assert res.unreadable == 1
+    assert not (tmp_path / "_deleted.jsonl").exists()
+    log = [json.loads(l) for l in (tmp_path / "_unreadable.jsonl").read_text().splitlines()]
+    assert log == [{"pageid": 123, "title": "Seite 123", "lastrevid": 2}]
+
+
+def test_unreadable_log_replaced_each_run(tmp_path):
+    sync_raw([], tmp_path, unreadable=[{"pageid": 1, "title": "A", "lastrevid": 1}])
+    sync_raw([], tmp_path, unreadable=[])
+    assert not (tmp_path / "_unreadable.jsonl").exists()

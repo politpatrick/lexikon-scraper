@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Betreuerpflichten",
+    "Checklisten"
+  ],
+  "category_links": [
+    "Betreuungspersonen"
+  ],
+  "dead_links": [],
+  "external_links": [],
+  "images": [],
+  "internal_links": [
+    "arztzeugnis",
+    "dokumentationspflicht",
+    "e-rezept",
+    "einwilligungsfähigkeit",
+    "einwilligungsvorbehalt",
+    "elektronische-patientenakte",
+    "erörterungsgespräch",
+    "forensik",
+    "genehmigung-der-heilbehandlung",
+    "genehmigungspflichten",
+    "gesundheitliche-versorgungsplanung",
+    "heilbehandlung",
+    "informationspflicht",
+    "interoperabilität",
+    "medikationsplan",
+    "medizinische-begriffe",
+    "notfalldaten",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "vulnerabilität",
+    "zwangsbehandlung"
+  ],
+  "pageid": 1771,
+  "revid": 66588,
+  "sections": [
+    {
+      "path": [
+        "Checkliste für Arztgespräche zur konkreten Behandlungsbedürftigkeit des Betreuten"
+      ],
+      "text": "Für die Entscheidung des Betreuers zur Einwilligung in eine konkrete Behandlung und zur Frage der etwaigen Genehmigungspflicht (Behandlungsrisiko) muß der Arzt ein aufklärendes Gespräch mit dem Betreuer führen und das Gesprächsergebnis dokumentieren. Hierfür kann folgende Checkliste eine Hilfe für den Betreuer sein (nach Wolter-Henseler, BtPrax 1995, 168):\n\n1. Was liegt eigentlich vor? Wie lautet die Diagnose ? Wo liegt gegenwärtig das Hauptproblem?\n\n2. Welche Unklarheiten bestehen noch hinsichtlich der aktuellen Diagnose? Auf welche Weise, durch welche Untersuchungen, sollen diese Unklarheiten ausgeräumt werden?\n\n3. Welche weiteren früheren Erkrankungen sind bekannt ?\n\n4. Was ist über die Medikamentenanamnese bekannt?\n\n5. Welche Erkrankungen/Beschwerden/Symptome sollen aktuell behandelt werden?\n\n6. Wie soll die Behandlung konkret aussehen (Behandlungsplan) ?\n\n7. Mit welchem Risiko ist zu rechnen, wenn die vorgeschlagene Untersuchung bzw. Behandlung unterbleibt ?\n\n8. Welche Risiken beinhalten die vorgeschlagenen Maßnahmen (Untersuchung und/oder Behandlung)?\n\n9. Woran soll der Erfolg (Teilerfolg, Misserfolg) der geplanten Behandlung gemessen werden ?\n\n10. Will der Arzt noch etwas vom Betreuer wissen ?\n\n11. Will der Betreuer dem Arzt noch etwas mitteilen, auch wenn dieser nicht danach gefragt hat ?"
+    },
+    {
+      "path": [
+        "Siehe auch"
+      ],
+      "text": "- Heilbehandlung, Vulnerabilität, Medikationsplan, Arztzeugnis, Erörterungsgespräch, Dokumentationspflicht, Einwilligungsfähigkeit, Einwilligungsvorbehalt, Informationspflicht, Genehmigung der Heilbehandlung, Forensik, Zwangsbehandlung, Medizinische Begriffe, Notfalldaten\n- elektronische Patientenakte, e-Rezept, Interoperabilität\n- gesundheitliche Versorgungsplanung\n- Selbstverwaltung der deutschen Gemeinden"
+    }
+  ],
+  "slug": "checkliste-für-arztgespräche",
+  "timestamp": "2026-10-29T10:25:01Z",
+  "title": "Checkliste für Arztgespräche",
+  "wikipedia_links": []
+}

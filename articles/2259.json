@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Betreuungsalternativen",
+    "Betreuungspersonen"
+  ],
+  "category_links": [
+    "Betreuungspersonen"
+  ],
+  "dead_links": [],
+  "external_links": [
+    "https://www.aerzteblatt.de/archiv/208054/Hinweise-und-Empfehlungen-der-Bundesaerztekammer-zum-Umgang-mit-Zweifeln-an-der-Einwilligungsfaehigkeit-bei-erwachsenen-Patienten"
+  ],
+  "images": [],
+  "internal_links": [
+    "angehörigenvertretungsrecht",
+    "aufgabenkreis",
+    "betreuungsverfügung",
+    "einwilligungsfähigkeit",
+    "gesundheitliche-versorgungsplanung",
+    "gesundheitssorge",
+    "heilbehandlung",
+    "informationspflicht",
+    "notfalldaten",
+    "organspende",
+    "patientenverfügung",
+    "personenstand",
+    "sterbehilfe",
+    "vorsorgevollmacht",
+    "vulnerabilität"
+  ],
+  "pageid": 2259,
+  "revid": 65256,
+  "sections": [
+    {
+      "path": [
+        "Einleitung"
+      ],
+      "text": "Als Patientenvertreter wird eine Person bezeichnet, die berechtigt ist, als Dritter in Behandlungsverträge gem. § 630d BGB einzuwilligen, weil der Patient selbst einwilligungsunfähig ist. Dabei kann eine Patientenverfügung (§ 1827 BGB) vorliegen oder nicht.\n\nAls Patientenvertreter kommen in Frage:\n\n-Bei Volljährigen:\n--rechtliche Betreuer, deren Aufgabenkreis die Gesundheitssorge beinhaltet;\n--(Vorsorge-)Bevollmächtigte, bei denen selbiges der Fall ist. Bei Generalvollmachten ohne weitere Spezifikation ist zu unterscheiden: geht es um eine Einwilligung in eine Maßnahme, die § 1829 BGB betrifft, reicht die Generalvollmacht nicht aus, bei sonst. med. Eingriffen schon.\n\n-Bei Minderjährigen:\n--die sorgenberechtigten Eltern oder der alleinsorgeberechtigte Elternteil (Personensorge)\n--der Vormund\n--der Ergänzungspfleger (§ 1809 BGB), dessen Wirkungskreis die Gesundheitssorge oder die Einwilligung in med. Behandlungen beinhaltet\n\nEhegatten sind (ohne Vollmacht) für sechs Monate übergangsweise notentscheidungsbefugt (§ 1358 BGB)."
+    },
+    {
+      "path": [
+        "Weblinks"
+      ],
+      "text": "-Empfehlungen der Bundesärztekammer"
+    },
+    {
+      "path": [
+        "Siehe auch"
+      ],
+      "text": "- Patientenverfügung\n- Heilbehandlung, Informationspflicht\n- Gesundheitssorge\n- Gesundheitliche Versorgungsplanung, Notfalldaten\n- Vorsorgevollmacht\n- Angehörigenvertretungsrecht, Personenstand\n- Vulnerabilität\n- Betreuungsverfügung\n- Sterbehilfe, Organspende"
+    }
+  ],
+  "slug": "patientenvertreter",
+  "timestamp": "2026-05-01T13:54:17Z",
+  "title": "Patientenvertreter",
+  "wikipedia_links": []
+}

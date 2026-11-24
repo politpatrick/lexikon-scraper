@@ -4,7 +4,7 @@
 
 **Blocked by:** 01
 
-**Status:** implementiert, wartet auf ersten Live-Lauf im Workflow (Kriterien mit echten Daten prüfen)
+**Status:** erledigt. Live-Lauf 24.11.2026: 317 Artikel, 924 Knoten, 11.844 Kanten, tote Links von 564 auf 15
 
 - [ ] Kein Wikipedia- oder Bild-Link erscheint als `links_to`
 - [ ] Tote interne Links sinken deutlich unter die heutigen 564 (Restliste im Bericht)

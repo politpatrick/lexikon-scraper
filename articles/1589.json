@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Arbeitshilfen"
+  ],
+  "category_links": [],
+  "dead_links": [],
+  "external_links": [
+    "http://lists.ruhr-uni-bochum.de/mailman/listinfo/btr-behoerde",
+    "http://www.ethik-in-der-praxis.de/betreuungsrecht/mailingliste-betreuungsrecht/",
+    "http://www.forum-betreuung.de"
+  ],
+  "images": [],
+  "internal_links": [
+    "ausbildung",
+    "betreuungsbehörde",
+    "datenschutz",
+    "digitale-barrierefreiheit",
+    "it-sicherheit",
+    "link-liste",
+    "querschnittsaufgaben",
+    "software"
+  ],
+  "pageid": 1589,
+  "revid": 66276,
+  "sections": [
+    {
+      "path": [
+        "Mailingliste Betreuungsrecht"
+      ],
+      "text": "Die Mailingliste Betreuungsrecht der Ruhr-Uni Bochum ermöglicht seit über 30 Jahren den Meinungs- und Infoaustausch zu allen Fragen des Betreuungsrechtes.\n\nSiehe unter: http://www.ethik-in-der-praxis.de/betreuungsrecht/mailingliste-betreuungsrecht/"
+    },
+    {
+      "path": [
+        "Mailingliste Betreuungsrecht",
+        "Mailingliste Betreuungsbehörden"
+      ],
+      "text": "Ist eine Mailingliste nur für Mitarbeiterinnen von Betreuungsbehörden.\n\nSiehe unter: http://lists.ruhr-uni-bochum.de/mailman/listinfo/btr-behoerde"
+    },
+    {
+      "path": [
+        "Diskussionsforum zum Betreuungsrecht"
+      ],
+      "text": "Forum Betreuung: http://www.forum-betreuung.de"
+    },
+    {
+      "path": [
+        "Siehe auch"
+      ],
+      "text": "- Fortbildung, Link-Liste\n- Software\n- digitale Barrierefreiheit, IT-Sicherheit, Datenschutz\n- Querschnittsaufgaben"
+    }
+  ],
+  "slug": "mailingliste",
+  "timestamp": "2026-09-28T10:42:12Z",
+  "title": "Mailingliste",
+  "wikipedia_links": []
+}
