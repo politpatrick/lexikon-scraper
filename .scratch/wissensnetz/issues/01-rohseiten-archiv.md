@@ -4,7 +4,7 @@
 
 **Blocked by:** None (can start immediately). Die Lizenzfrage aus der Spec muss vor dem ersten Push von `raw/` geklärt sein.
 
-**Status:** implementiert, wartet auf ersten Live-Lauf im Workflow (Kriterien mit echten Daten prüfen)
+**Status:** erledigt. Live-Lauf 24.11.2026: 514 Rohseiten, 102 Seiten ohne abrufbare Revision (Ziele über die Weiterleitungstabelle), zweiter Lauf ohne Commit
 
 - [ ] Anzahl der Rohseiten entspricht `siteinfo.statistics.articles` (± Weiterleitungen, im Log ausgewiesen)
 - [ ] Zweiter Lauf ohne Änderungen im Lexikon erzeugt keinen Commit
