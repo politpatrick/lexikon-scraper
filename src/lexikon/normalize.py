@@ -13,7 +13,7 @@ from lexikon.links import classify, slug
 from lexikon.models import RawPage
 
 INTRO = "Einleitung"
-REDIRECT_RE = re.compile(r"^\s*#\s*(?:weiterleitung|redirect)\s*\[\[([^\]|]+)", re.IGNORECASE)
+REDIRECT_RE = re.compile(r"^\s*#\s*(?:weiterleitung|redirect)\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 
 
 @dataclass
@@ -44,17 +44,31 @@ class Article:
         return d
 
 
-def redirect_target(wikitext: str) -> str | None:
-    """Ziel einer Weiterleitungsseite (ohne Anker) oder None."""
-    m = REDIRECT_RE.match(wikitext)
-    return m.group(1).split("#", 1)[0].strip() if m else None
+def _clean_target(target: str) -> str:
+    return target.strip().lstrip(":").split("#", 1)[0].strip()
+
+
+def redirect_target(page: RawPage) -> str | None:
+    """Ziel einer Weiterleitungsseite (ohne Anker) oder None.
+
+    Erkennt ``#WEITERLEITUNG``/``#REDIRECT`` mit und ohne Doppelpunkt. Meldet
+    die API eine Weiterleitung mit anderem Zauberwort, gilt der erste Link.
+    """
+    m = REDIRECT_RE.match(page.wikitext)
+    if m:
+        return _clean_target(m.group(1)) or None
+    if page.is_redirect:
+        links = mwparserfromhell.parse(page.wikitext).filter_wikilinks()
+        if links:
+            return _clean_target(str(links[0].title)) or None
+    return None
 
 
 def build_redirect_map(pages: list[RawPage]) -> dict[str, str]:
     """Slug der Weiterleitung → Slug des direkten Ziels."""
     result = {}
     for page in pages:
-        target = redirect_target(page.wikitext)
+        target = redirect_target(page)
         if target:
             result[slug(page.title)] = slug(target)
     return result
@@ -95,7 +109,10 @@ def _render(nodes) -> str:
                 out.append("-")
             elif node.contents is not None:
                 inner = _render(node.contents.nodes)
-                out.append(f" [{inner.strip()}]" if node.tag == "ref" else inner)
+                if node.tag != "ref":
+                    out.append(inner)
+                elif inner.strip():
+                    out.append(f" [{inner.strip()}]")
         elif isinstance(node, Comment):
             continue
         elif isinstance(node, HTMLEntity):

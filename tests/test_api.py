@@ -107,3 +107,9 @@ def test_merges_categories_split_across_responses():
     result, _ = pages([part1, part2])
     assert len(result) == 1
     assert result[0].categories == ("Eins", "Zwei")
+
+
+def test_page_without_revision_fails_loudly():
+    payload = {"batchcomplete": True, "query": {"pages": [{"pageid": 5, "title": "X"}]}}
+    with pytest.raises(ApiError):
+        pages([payload])

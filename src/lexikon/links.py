@@ -17,8 +17,8 @@ def slug(title: str) -> str:
     dass der erste Buchstabe nicht unterscheidet) und ersetzt Leerzeichen und
     Unterstriche durch Bindestriche.
     """
-    s = title.replace("­", "").replace("_", " ").strip()
-    return "-".join(s.split(" ")).lower()
+    s = title.replace("\u00ad", "").replace("_", " ")
+    return "-".join(s.split()).lower()
 
 
 def _strip_prefix(target: str, prefixes: tuple[str, ...]) -> str | None:

@@ -101,8 +101,9 @@ def iter_raw_pages(
             _merge(acc, page)
         if data.get("batchcomplete"):
             for page in acc.values():
-                if page.get("revisions"):
-                    yield _to_rawpage(page)
+                if not page.get("revisions"):
+                    raise ApiError(f"Seite ohne Revision: {page.get('title')!r}")
+                yield _to_rawpage(page)
             acc = {}
         if "continue" not in data:
             break

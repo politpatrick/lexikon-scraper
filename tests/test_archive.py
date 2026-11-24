@@ -74,3 +74,12 @@ def test_load_raw_excludes_deleted_when_asked(tmp_path):
     sync_raw([page(123), page(124)], tmp_path)
     sync_raw([page(124)], tmp_path)
     assert {p.pageid for p in load_raw(tmp_path, include_deleted=False)} == {124}
+
+
+def test_category_change_without_new_revid_is_written(tmp_path):
+    sync_raw([page()], tmp_path)
+    changed = RawPage(pageid=123, title="Seite 123", revid=1, timestamp="2024-01-01T00:00:00Z",
+                      wikitext=page().wikitext, categories=("K", "Neu"))
+    res = sync_raw([changed], tmp_path)
+    assert res.written == 1
+    assert load_raw(tmp_path)[0].categories == ("K", "Neu")

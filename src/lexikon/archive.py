@@ -49,7 +49,7 @@ def _read_page(path: Path) -> RawPage:
 
 
 def sync_raw(pages: Iterable[RawPage], raw_dir: Path) -> SyncResult:
-    """Schreibt neue/geänderte Rohseiten und protokolliert verschwundene Seiten.
+    """Schreibt neue oder geänderte Rohseiten (Wikitext, Revision oder Kategorien) und protokolliert verschwundene Seiten.
 
     Das Lösch-Protokoll wird erst geschrieben, wenn ``pages`` vollständig
     durchlaufen wurde. Bricht der Abruf ab, gilt keine Seite als gelöscht.
@@ -62,7 +62,7 @@ def sync_raw(pages: Iterable[RawPage], raw_dir: Path) -> SyncResult:
     for page in pages:
         seen.add(page.pageid)
         path = raw_dir / f"{page.pageid}.json"
-        if path.exists() and _read_page(path).revid == page.revid:
+        if path.exists() and _read_page(path) == page:  # auch Kategorien ändern sich ohne neue revid
             result.unchanged += 1
             continue
         dump_json(page.to_json(), path)

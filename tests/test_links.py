@@ -35,3 +35,7 @@ def test_slug_first_letter_case_insensitive():
 ])
 def test_classify(target, expected):
     assert classify(target) == expected
+
+
+def test_slug_collapses_whitespace():
+    assert slug("Betreuer  Ehrenamt") == "betreuer-ehrenamt"

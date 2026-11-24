@@ -28,6 +28,9 @@ def cmd_build(args) -> int:
     pages = load_raw(Path(args.raw), include_deleted=False)
     redirects = build_redirect_map(pages)
     content = [p for p in pages if not p.is_redirect and slug(p.title) not in redirects]
+    for p in pages:
+        if p.is_redirect and slug(p.title) not in redirects:
+            print(f"Warnung: Weiterleitung ohne erkennbares Ziel: {p.title}", file=sys.stderr)
     known = {slug(p.title) for p in content}
     articles = [normalize(p, redirects, known) for p in content]
 

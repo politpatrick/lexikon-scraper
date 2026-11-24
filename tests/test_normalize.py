@@ -104,3 +104,21 @@ def test_to_json_shape():
 
 def test_list_items_readable():
     assert verfahren().sections[2].text.startswith("- deutsche Staatsbürgerschaft\n- Ausländer")
+
+
+def test_redirect_variants():
+    pages = [
+        raw("A", "#WEITERLEITUNG: [[Ziel]]", 1, True),
+        raw("B", "#WEITERLEITUNG [[:Ziel]]", 2, True),
+        raw("C", "#REDIRECT[[ Ziel | Text ]]", 3, True),
+    ]
+    assert build_redirect_map(pages) == {"a": "ziel", "b": "ziel", "c": "ziel"}
+
+
+def test_flagged_redirect_uses_first_link():
+    assert build_redirect_map([raw("D", "#UMLEITUNG [[Ziel]]", 4, True)]) == {"d": "ziel"}
+
+
+def test_reused_named_ref_leaves_no_empty_brackets():
+    a = normalize(raw("R", 'Satz.<ref name="a">BGH XII ZB 1/20</ref> Mehr.<ref name="a"/>'), {}, set())
+    assert a.sections[0].text == "Satz. [BGH XII ZB 1/20] Mehr."
