@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://www.gesetze-bayern.de/Content/Document/BayPsychKHG",
     "http://www.justiz.bayern.de/",
@@ -23,6 +21,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "neu",
     "rechtsprechung",
     "sachverständigengutachten"

@@ -4,10 +4,7 @@
     "Betreuungsverfahren"
   ],
   "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "einwilligungsvorbehalt"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://lrbw.juris.de/cgi-bin/laender_rechtsprechung/document.py?Gericht=bw&GerichtAuswahl=Oberlandesgerichte&Art=en&sid=3b1a7d8c8a50e2fa603608610488ac82&nr=7397&pos=3&anz=10",
     "https://www.ueag-nrw.org/media/filer_public/c5/06/c506a6e6-d66f-4ea3-8f2b-8f6b716a02fb/leitfaden_unterbringung.pdf"
@@ -21,6 +18,7 @@
     "betreuungsbehörde",
     "betreuungsgericht",
     "betreuungsverfahren",
+    "einwilligungsvorbehalt",
     "familienverfahrensgesetz",
     "forensik",
     "gerichtskosten",

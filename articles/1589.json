@@ -3,9 +3,7 @@
     "Arbeitshilfen"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://lists.ruhr-uni-bochum.de/mailman/listinfo/btr-behoerde",
     "http://www.ethik-in-der-praxis.de/betreuungsrecht/mailingliste-betreuungsrecht/",
@@ -13,6 +11,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "betreuungsbehörde",
     "datenschutz",
     "digitale-barrierefreiheit",

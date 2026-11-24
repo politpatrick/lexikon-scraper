@@ -2,12 +2,10 @@
   "categories": [
     "Betreuungspersonen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuerentlassung",
-    "btprax",
-    "bundesländer"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://www.amazon.de/exec/obidos/ASIN/3769409930/internetsevon-21"
   ],
@@ -18,7 +16,9 @@
     "aufgabenkreis",
     "betreuerbestellung",
     "betreuervorschlag",
+    "betreuerwechsel",
     "betreutes-wohnen",
+    "betreuungsrechtliche-praxis",
     "betreuungsverein",
     "diskriminierungsverbot",
     "eingliederungshilfe",

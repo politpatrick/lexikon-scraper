@@ -5,15 +5,13 @@
     "Betreuungsverein"
   ],
   "category_links": [],
-  "dead_links": [
-    "btplus",
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://www.bdb-ev.de"
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "behördenbetreuer",
     "berufsbetreuer",
     "betreuervergütung",
@@ -32,7 +30,8 @@
     "sachkundenachweis",
     "software",
     "unterstützungspflicht",
-    "vereinsbetreuer"
+    "vereinsbetreuer",
+    "zeitschrift-für-professionelle-betreuungsarbeit"
   ],
   "pageid": 1793,
   "revid": 65690,

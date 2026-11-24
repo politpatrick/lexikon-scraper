@@ -2,12 +2,10 @@
   "categories": [
     "Betreuungsverfahren"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuungsaufhebung",
-    "bundesländer",
-    "einwilligungsvorbehalt"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://de.wikipedia.org/w/index.php?title=Vormundschaftsgericht&oldid=19183730",
     "http://www.amazon.de/exec/obidos/ASIN/3170163337/internetsevon-21",
@@ -18,6 +16,7 @@
   "images": [],
   "internal_links": [
     "aufgabenkreis",
+    "aufhebung-der-betreuung",
     "baden-württemberg",
     "beaufsichtigung",
     "behindertenkonvention",
@@ -32,6 +31,7 @@
     "betreuungsvoraussetzung",
     "drittes-betreuungsrechtsänderungsgesetz",
     "eingruppierung",
+    "einwilligungsvorbehalt",
     "formulare",
     "freier-wille",
     "genehmigungspflichten",

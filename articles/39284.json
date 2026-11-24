@@ -2,11 +2,10 @@
   "categories": [
     "Betreuerpflichten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "gesundheitsfürsorge"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://gesunde-staedte-netzwerk.de",
     "https://iris.who.int/handle/10665/349654",
@@ -56,6 +55,7 @@
     "gesetzliche-vertretung",
     "gesundheitliche-versorgungsplanung",
     "gesundheitsdatennutzungsgesetz",
+    "gesundheitssorge",
     "globales-nachhaltigkeitsziel-10",
     "inklusionsbetrieb",
     "krankenhaussozialdienst",

@@ -3,16 +3,11 @@
     "Aufgabenkreise",
     "Betreuerpflichten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "btman",
-    "btprax",
-    "bundesländer",
-    "ehescheidung",
-    "einwilligungsvorbehalt",
-    "gesundheitssorge"
+  "category_links": [
+    "Adressen",
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&sid=e5104cfbc0f2164bdcc471ac366e396c&client=%5B%2713%27%2C+%2713%27%5D&client=%5B%2713%27%2C+%2713%27%5D&nr=43659&pos=0&anz=1",
     "http://www.amazon.de/exec/obidos/ASIN/3769409930/internetsevon-21",
@@ -34,7 +29,9 @@
     "betreuerhaftung",
     "betreuungsbehörde",
     "betreuungsgericht",
+    "betreuungsmanagement",
     "betreuungsrecht-lexikon:haftungsausschluss",
+    "betreuungsrechtliche-praxis",
     "betreuungsverein",
     "betreuungsverfahren",
     "datenschutz",
@@ -42,6 +39,7 @@
     "eherecht-und-betreuung",
     "eidesstattliche-versicherung",
     "einwilligungsfähigkeit",
+    "einwilligungsvorbehalt",
     "elektronische-patientenakte",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "forensik",
@@ -50,6 +48,7 @@
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
     "gesundheitsdatennutzungsgesetz",
+    "gesundheitssorge",
     "grundrechte",
     "it-sicherheit",
     "maßregeln-der-besserung-und-sicherung",

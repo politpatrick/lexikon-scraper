@@ -3,12 +3,11 @@
     "Auswirkungen",
     "Betreuerpflichten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "bundesländer",
-    "einwilligungsvorbehalt"
+  "category_links": [
+    "Adressen",
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://betroyt.de/podcast/folge-124-anmeldung-trifft-die-heimleitung-eine-meldepflicht/",
     "https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/anmeldung_bei_der_meldebehoerde.pdf",
@@ -31,6 +30,7 @@
     "bremen",
     "checkliste-personenbogen",
     "checkliste-wohnungsangelegenheiten",
+    "einwilligungsvorbehalt",
     "hamburg",
     "hessen",
     "mecklenburg-vorpommern",

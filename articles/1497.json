@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://www.wohnen-im-alter.de/Saarland/UebersichtSaarland.htm",
     "https://bvfbev.de/laenderpraesenz/saarland/laenderseite",
@@ -22,6 +20,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "betreuungsverein",
     "neu"
   ],

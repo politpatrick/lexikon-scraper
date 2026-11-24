@@ -4,11 +4,10 @@
     "Gesundheitssorge",
     "Sterbehilfe"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "gesundheitssorge"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://bgt-ev.de/patientenverfuegungsgesetz.html",
     "http://christoph-student.homepage.t-online.de/41518/41793.html",
@@ -108,6 +107,7 @@
     "genehmigung-der-heilbehandlung",
     "genehmigungspflichten",
     "gesundheitliche-versorgungsplanung",
+    "gesundheitssorge",
     "grundrechte",
     "heilbehandlung",
     "interoperabilität",

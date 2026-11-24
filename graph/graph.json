@@ -371,6 +371,13 @@
       "relation": "links_to",
       "source": "art:saarland",
       "source_file": "articles/1497.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:saarland",
+      "source_file": "articles/1497.json",
       "target": "art:betreuungsverein"
     },
     {
@@ -672,7 +679,21 @@
       "relation": "links_to",
       "source": "art:abkürzungen",
       "source_file": "articles/1500.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:abkürzungen",
+      "source_file": "articles/1500.json",
       "target": "art:betreuungsorganisationsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:abkürzungen",
+      "source_file": "articles/1500.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -708,6 +729,13 @@
       "source": "art:abkürzungen",
       "source_file": "articles/1500.json",
       "target": "art:einstweilige-anordnung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:abkürzungen",
+      "source_file": "articles/1500.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -1134,6 +1162,13 @@
       "relation": "links_to",
       "source": "art:allgemeines",
       "source_file": "articles/1503.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:allgemeines",
+      "source_file": "articles/1503.json",
       "target": "art:begleitforschung"
     },
     {
@@ -1331,6 +1366,13 @@
       "source": "art:anhörung",
       "source_file": "articles/1506.json",
       "target": "art:betreuungsbehörde"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:anhörung",
+      "source_file": "articles/1506.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -1680,6 +1722,13 @@
       "relation": "links_to",
       "source": "art:anregung-der-betreuerbestellung",
       "source_file": "articles/1507.json",
+      "target": "art:rechtsmittel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:anregung-der-betreuerbestellung",
+      "source_file": "articles/1507.json",
       "target": "art:rechtsverkehr-in-deutschland"
     },
     {
@@ -1785,7 +1834,21 @@
       "relation": "links_to",
       "source": "art:aufenthaltsbestimmung",
       "source_file": "articles/1512.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufenthaltsbestimmung",
+      "source_file": "articles/1512.json",
       "target": "art:betreuungsrichter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufenthaltsbestimmung",
+      "source_file": "articles/1512.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -1807,6 +1870,13 @@
       "source": "art:aufenthaltsbestimmung",
       "source_file": "articles/1512.json",
       "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufenthaltsbestimmung",
+      "source_file": "articles/1512.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -1988,6 +2058,13 @@
       "relation": "links_to",
       "source": "art:ausländer",
       "source_file": "articles/1517.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:ausländer",
+      "source_file": "articles/1517.json",
       "target": "art:betreuerbestellung"
     },
     {
@@ -2065,6 +2142,20 @@
       "relation": "links_to",
       "source": "art:ausländer",
       "source_file": "articles/1517.json",
+      "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:ausländer",
+      "source_file": "articles/1517.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:ausländer",
+      "source_file": "articles/1517.json",
       "target": "art:erbschaft"
     },
     {
@@ -2080,6 +2171,13 @@
       "source": "art:ausländer",
       "source_file": "articles/1517.json",
       "target": "art:gesundheitsdatennutzungsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:ausländer",
+      "source_file": "articles/1517.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -2325,6 +2423,13 @@
       "source": "art:baden-württemberg",
       "source_file": "articles/1519.json",
       "target": "art:anzeigepflicht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:baden-württemberg",
+      "source_file": "articles/1519.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -2709,6 +2814,13 @@
       "relation": "links_to",
       "source": "art:bayern",
       "source_file": "articles/1521.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bayern",
+      "source_file": "articles/1521.json",
       "target": "art:neu"
     },
     {
@@ -2801,6 +2913,13 @@
       "source": "art:bayern",
       "source_file": "articles/1521.json",
       "target": "ext:www.stmas.bayern.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:berlin",
+      "source_file": "articles/1527.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -3045,6 +3164,13 @@
       "relation": "links_to",
       "source": "art:berufsbetreuer",
       "source_file": "articles/1528.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:berufsbetreuer",
+      "source_file": "articles/1528.json",
       "target": "art:betreuungsorganisationsgesetz"
     },
     {
@@ -3060,6 +3186,13 @@
       "source": "art:berufsbetreuer",
       "source_file": "articles/1528.json",
       "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:berufsbetreuer",
+      "source_file": "articles/1528.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -3416,6 +3549,13 @@
       "relation": "links_to",
       "source": "art:bestattung",
       "source_file": "articles/1530.json",
+      "target": "art:betreuervergütung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bestattung",
+      "source_file": "articles/1530.json",
       "target": "art:brandenburg"
     },
     {
@@ -3424,6 +3564,13 @@
       "source": "art:bestattung",
       "source_file": "articles/1530.json",
       "target": "art:bremen"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bestattung",
+      "source_file": "articles/1530.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -3466,6 +3613,13 @@
       "source": "art:bestattung",
       "source_file": "articles/1530.json",
       "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bestattung",
+      "source_file": "articles/1530.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -3592,6 +3746,13 @@
       "source": "art:bestattung",
       "source_file": "articles/1530.json",
       "target": "art:thüringen"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bestattung",
+      "source_file": "articles/1530.json",
+      "target": "art:tod-des-betreuten"
     },
     {
       "confidence": "EXTRACTED",
@@ -3745,6 +3906,13 @@
       "relation": "links_to",
       "source": "art:betreuer-(ehrenamt)",
       "source_file": "articles/1533.json",
+      "target": "art:betreuervergütung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuer-(ehrenamt)",
+      "source_file": "articles/1533.json",
       "target": "art:betreuervorschlag"
     },
     {
@@ -3774,6 +3942,13 @@
       "source": "art:betreuer-(ehrenamt)",
       "source_file": "articles/1533.json",
       "target": "art:betreuungsorganisationsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuer-(ehrenamt)",
+      "source_file": "articles/1533.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -4172,6 +4347,13 @@
       "relation": "links_to",
       "source": "art:betreuerhaftung",
       "source_file": "articles/1537.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerhaftung",
+      "source_file": "articles/1537.json",
       "target": "art:auskunftspflicht"
     },
     {
@@ -4270,6 +4452,13 @@
       "relation": "links_to",
       "source": "art:betreuerhaftung",
       "source_file": "articles/1537.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerhaftung",
+      "source_file": "articles/1537.json",
       "target": "art:ende-der-betreuung"
     },
     {
@@ -4306,6 +4495,13 @@
       "source": "art:betreuerhaftung",
       "source_file": "articles/1537.json",
       "target": "art:geschäftsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerhaftung",
+      "source_file": "articles/1537.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -4522,6 +4718,13 @@
       "relation": "links_to",
       "source": "art:buchverzeichnis",
       "source_file": "articles/1547.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:buchverzeichnis",
+      "source_file": "articles/1547.json",
       "target": "art:berufsbetreuer"
     },
     {
@@ -4537,6 +4740,20 @@
       "source": "art:buchverzeichnis",
       "source_file": "articles/1547.json",
       "target": "art:betreuungsbehörde"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:buchverzeichnis",
+      "source_file": "articles/1547.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:buchverzeichnis",
+      "source_file": "articles/1547.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -5005,6 +5222,13 @@
       "relation": "links_to",
       "source": "art:einstweilige-anordnung",
       "source_file": "articles/1553.json",
+      "target": "art:betreuerwechsel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einstweilige-anordnung",
+      "source_file": "articles/1553.json",
       "target": "art:betreuungsbehörde"
     },
     {
@@ -5013,6 +5237,20 @@
       "source": "art:einstweilige-anordnung",
       "source_file": "articles/1553.json",
       "target": "art:betreuungsgericht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einstweilige-anordnung",
+      "source_file": "articles/1553.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einstweilige-anordnung",
+      "source_file": "articles/1553.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -5041,6 +5279,13 @@
       "source": "art:einstweilige-anordnung",
       "source_file": "articles/1553.json",
       "target": "art:ehefähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einstweilige-anordnung",
+      "source_file": "articles/1553.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -5411,6 +5656,13 @@
       "relation": "links_to",
       "source": "art:einwilligungsfähigkeit",
       "source_file": "articles/1557.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsfähigkeit",
+      "source_file": "articles/1557.json",
       "target": "art:checkliste-betreuerpflichten"
     },
     {
@@ -5460,6 +5712,13 @@
       "relation": "links_to",
       "source": "art:einwilligungsfähigkeit",
       "source_file": "articles/1557.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsfähigkeit",
+      "source_file": "articles/1557.json",
       "target": "art:elektronische-patientenakte"
     },
     {
@@ -5503,6 +5762,13 @@
       "source": "art:einwilligungsfähigkeit",
       "source_file": "articles/1557.json",
       "target": "art:gesundheitsdatennutzungsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsfähigkeit",
+      "source_file": "articles/1557.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -6447,6 +6713,20 @@
       "relation": "links_to",
       "source": "art:freier-wille",
       "source_file": "articles/1570.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:freier-wille",
+      "source_file": "articles/1570.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:freier-wille",
+      "source_file": "articles/1570.json",
       "target": "art:betreuungsverfahren"
     },
     {
@@ -6511,6 +6791,13 @@
       "source": "art:freier-wille",
       "source_file": "articles/1570.json",
       "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:freier-wille",
+      "source_file": "articles/1570.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -7021,6 +7308,13 @@
       "relation": "links_to",
       "source": "art:genehmigung-der-heilbehandlung",
       "source_file": "articles/1575.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:genehmigung-der-heilbehandlung",
+      "source_file": "articles/1575.json",
       "target": "art:elektronische-patientenakte"
     },
     {
@@ -7071,6 +7365,13 @@
       "source": "art:genehmigung-der-heilbehandlung",
       "source_file": "articles/1575.json",
       "target": "art:gesundheitliche-versorgungsplanung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:genehmigung-der-heilbehandlung",
+      "source_file": "articles/1575.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -7253,6 +7554,13 @@
       "source": "art:genehmigungen-von-a-bis-z",
       "source_file": "articles/1577.json",
       "target": "art:alltagsgeschäfte"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:genehmigungen-von-a-bis-z",
+      "source_file": "articles/1577.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -7453,6 +7761,342 @@
     {
       "confidence": "EXTRACTED",
       "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:altenheim"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:aufenthaltsbestimmung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:aufgabenkreis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:berufsbetreuer"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:betreuerhaftung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:betreuerpflichten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:checkliste-für-arztgespräche"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:dokumentationspflicht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:elektronische-patientenakte"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:genehmigung-der-heilbehandlung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:geschäftsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:gesundheitsdatennutzungsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:heilbehandlung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:krankenhaussozialdienst"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:krankenversicherung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:medikationsplan"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:medizinische-begriffe"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:natürlicher-wille"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:notfalldaten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:patientenverfügung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:patientenvertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:peg-sonde"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:pflegeversicherung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:psychisch-kranken-gesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:sterbehilfe"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:sterbehilfedokumente"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:sterilisation"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:sterilisationsbetreuer"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:tierschutz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:unterbringung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:vertretung-gegenüber-behörden"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:vulnerabilität"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "art:zwangsbehandlung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "in_category",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "cat:Aufgabenkreise"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "in_category",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "cat:Betreuerpflichten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "in_category",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "cat:Gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "ext:www.amazon.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "ext:www.betreuerhaftung.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "ext:www.gesr.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "ext:betroyt.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:gesundheitssorge",
+      "source_file": "articles/1581.json",
+      "target": "ext:www.bmj.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:link-liste",
+      "source_file": "articles/1587.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
       "source": "art:link-liste",
       "source_file": "articles/1587.json",
       "target": "art:ausländer"
@@ -7560,6 +8204,13 @@
       "relation": "links_to",
       "source": "art:mailingliste",
       "source_file": "articles/1589.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:mailingliste",
+      "source_file": "articles/1589.json",
       "target": "art:betreuungsbehörde"
     },
     {
@@ -7631,6 +8282,13 @@
       "source": "art:mailingliste",
       "source_file": "articles/1589.json",
       "target": "ext:www.forum-betreuung.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:mecklenburg-vorpommern",
+      "source_file": "articles/1591.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -7771,6 +8429,13 @@
       "source": "art:medizinische-begriffe",
       "source_file": "articles/1592.json",
       "target": "art:gesundheitliche-versorgungsplanung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:medizinische-begriffe",
+      "source_file": "articles/1592.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -8176,6 +8841,13 @@
       "relation": "links_to",
       "source": "art:mündelgeld",
       "source_file": "articles/1597.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:mündelgeld",
+      "source_file": "articles/1597.json",
       "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
     },
     {
@@ -8183,7 +8855,21 @@
       "relation": "links_to",
       "source": "art:mündelgeld",
       "source_file": "articles/1597.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:mündelgeld",
+      "source_file": "articles/1597.json",
       "target": "art:betreuungsverein"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:mündelgeld",
+      "source_file": "articles/1597.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -8275,6 +8961,13 @@
       "source": "art:mündelgeld",
       "source_file": "articles/1597.json",
       "target": "ext:www.amazon.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:nordrhein-westfalen",
+      "source_file": "articles/1598.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -8555,6 +9248,13 @@
       "source": "art:patientenverfügung",
       "source_file": "articles/1601.json",
       "target": "art:gesundheitliche-versorgungsplanung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:patientenverfügung",
+      "source_file": "articles/1601.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -8975,6 +9675,13 @@
       "source": "art:persönliche-betreuung",
       "source_file": "articles/1603.json",
       "target": "art:betreuerpflichten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:persönliche-betreuung",
+      "source_file": "articles/1603.json",
+      "target": "art:betreuerwechsel"
     },
     {
       "confidence": "EXTRACTED",
@@ -9877,6 +10584,13 @@
       "relation": "links_to",
       "source": "art:psychisch-kranken-gesetz",
       "source_file": "articles/1608.json",
+      "target": "art:rechtsmittel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:psychisch-kranken-gesetz",
+      "source_file": "articles/1608.json",
       "target": "art:rechtsprechung"
     },
     {
@@ -10549,6 +11263,20 @@
       "relation": "links_to",
       "source": "art:sachverständigengutachten",
       "source_file": "articles/1615.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sachverständigengutachten",
+      "source_file": "articles/1615.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sachverständigengutachten",
+      "source_file": "articles/1615.json",
       "target": "art:betreuungsrichter"
     },
     {
@@ -10564,6 +11292,13 @@
       "source": "art:sachverständigengutachten",
       "source_file": "articles/1615.json",
       "target": "art:e-rechnung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sachverständigengutachten",
+      "source_file": "articles/1615.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -10955,6 +11690,13 @@
       "relation": "links_to",
       "source": "art:sozialhilfe",
       "source_file": "articles/1621.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sozialhilfe",
+      "source_file": "articles/1621.json",
       "target": "art:ergänzungsbetreuer"
     },
     {
@@ -11284,6 +12026,13 @@
       "relation": "links_to",
       "source": "art:stundensatz",
       "source_file": "articles/1624.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:stundensatz",
+      "source_file": "articles/1624.json",
       "target": "art:ergänzungsbetreuer"
     },
     {
@@ -11508,6 +12257,13 @@
       "relation": "links_to",
       "source": "art:unterbringung",
       "source_file": "articles/1628.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:unterbringung",
+      "source_file": "articles/1628.json",
       "target": "art:betreuungsrichter"
     },
     {
@@ -11530,6 +12286,13 @@
       "source": "art:unterbringung",
       "source_file": "articles/1628.json",
       "target": "art:freier-wille"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:unterbringung",
+      "source_file": "articles/1628.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -11859,6 +12622,13 @@
       "source": "art:unterbringungsverfahren",
       "source_file": "articles/1630.json",
       "target": "art:betreuungsgericht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:unterbringungsverfahren",
+      "source_file": "articles/1630.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -12257,6 +13027,20 @@
       "relation": "links_to",
       "source": "art:unterbringungsähnliche-maßnahme",
       "source_file": "articles/1631.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:unterbringungsähnliche-maßnahme",
+      "source_file": "articles/1631.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:unterbringungsähnliche-maßnahme",
+      "source_file": "articles/1631.json",
       "target": "art:checkliste-wohnungsangelegenheiten"
     },
     {
@@ -12300,6 +13084,13 @@
       "source": "art:unterbringungsähnliche-maßnahme",
       "source_file": "articles/1631.json",
       "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:unterbringungsähnliche-maßnahme",
+      "source_file": "articles/1631.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -12999,6 +13790,13 @@
       "relation": "links_to",
       "source": "art:verpflichtungsgespräch",
       "source_file": "articles/1640.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:verpflichtungsgespräch",
+      "source_file": "articles/1640.json",
       "target": "art:betreuungsverein"
     },
     {
@@ -13153,7 +13951,21 @@
       "relation": "links_to",
       "source": "art:vertretung-gegenüber-behörden",
       "source_file": "articles/1641.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vertretung-gegenüber-behörden",
+      "source_file": "articles/1641.json",
       "target": "art:digitale-barrierefreiheit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vertretung-gegenüber-behörden",
+      "source_file": "articles/1641.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -13189,6 +14001,13 @@
       "source": "art:vertretung-gegenüber-behörden",
       "source_file": "articles/1641.json",
       "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vertretung-gegenüber-behörden",
+      "source_file": "articles/1641.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -13454,6 +14273,13 @@
       "relation": "links_to",
       "source": "art:vorführung",
       "source_file": "articles/1649.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vorführung",
+      "source_file": "articles/1649.json",
       "target": "art:familienverfahrensgesetz"
     },
     {
@@ -13678,6 +14504,20 @@
       "relation": "links_to",
       "source": "art:vorläufiger-betreuer",
       "source_file": "articles/1650.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vorläufiger-betreuer",
+      "source_file": "articles/1650.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vorläufiger-betreuer",
+      "source_file": "articles/1650.json",
       "target": "art:betreuungsverfahren"
     },
     {
@@ -13699,6 +14539,13 @@
       "relation": "links_to",
       "source": "art:vorläufiger-betreuer",
       "source_file": "articles/1650.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vorläufiger-betreuer",
+      "source_file": "articles/1650.json",
       "target": "art:ergänzungsbetreuer"
     },
     {
@@ -13714,6 +14561,13 @@
       "source": "art:vorläufiger-betreuer",
       "source_file": "articles/1650.json",
       "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vorläufiger-betreuer",
+      "source_file": "articles/1650.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -13742,6 +14596,13 @@
       "source": "art:vorläufiger-betreuer",
       "source_file": "articles/1650.json",
       "target": "art:ordre-public"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vorläufiger-betreuer",
+      "source_file": "articles/1650.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -13826,6 +14687,13 @@
       "source": "art:vormundschaftsgericht",
       "source_file": "articles/1652.json",
       "target": "art:aufgabenkreis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vormundschaftsgericht",
+      "source_file": "articles/1652.json",
+      "target": "art:aufhebung-der-betreuung"
     },
     {
       "confidence": "EXTRACTED",
@@ -13924,6 +14792,13 @@
       "source": "art:vormundschaftsgericht",
       "source_file": "articles/1652.json",
       "target": "art:eingruppierung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vormundschaftsgericht",
+      "source_file": "articles/1652.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -14168,6 +15043,13 @@
       "relation": "links_to",
       "source": "art:wahlrecht",
       "source_file": "articles/1655.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:wahlrecht",
+      "source_file": "articles/1655.json",
       "target": "art:forensik"
     },
     {
@@ -14197,6 +15079,13 @@
       "source": "art:wahlrecht",
       "source_file": "articles/1655.json",
       "target": "art:gesetzgebung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:wahlrecht",
+      "source_file": "articles/1655.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -14567,7 +15456,21 @@
       "relation": "links_to",
       "source": "art:wohnungsangelegenheiten",
       "source_file": "articles/1657.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:wohnungsangelegenheiten",
+      "source_file": "articles/1657.json",
       "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:wohnungsangelegenheiten",
+      "source_file": "articles/1657.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -14596,6 +15499,13 @@
       "source": "art:wohnungsangelegenheiten",
       "source_file": "articles/1657.json",
       "target": "art:diskriminierungsverbot"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:wohnungsangelegenheiten",
+      "source_file": "articles/1657.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -15127,6 +16037,20 @@
       "relation": "links_to",
       "source": "art:zeitschrift-für-professionelle-betreuungsarbeit",
       "source_file": "articles/1660.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:zeitschrift-für-professionelle-betreuungsarbeit",
+      "source_file": "articles/1660.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:zeitschrift-für-professionelle-betreuungsarbeit",
+      "source_file": "articles/1660.json",
       "target": "art:bundesverband-der-berufsbetreuer"
     },
     {
@@ -15554,6 +16478,13 @@
       "relation": "links_to",
       "source": "art:selbstbestimmung",
       "source_file": "articles/1666.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:selbstbestimmung",
+      "source_file": "articles/1666.json",
       "target": "art:betreuungsverfügung"
     },
     {
@@ -15576,6 +16507,13 @@
       "source": "art:selbstbestimmung",
       "source_file": "articles/1666.json",
       "target": "art:eingliederungshilfe"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:selbstbestimmung",
+      "source_file": "articles/1666.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -16737,6 +17675,13 @@
       "relation": "links_to",
       "source": "art:betreuungszahlen",
       "source_file": "articles/1668.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungszahlen",
+      "source_file": "articles/1668.json",
       "target": "art:föderalismus"
     },
     {
@@ -16745,6 +17690,13 @@
       "source": "art:betreuungszahlen",
       "source_file": "articles/1668.json",
       "target": "art:gesundheitsdatennutzungsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungszahlen",
+      "source_file": "articles/1668.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -16920,6 +17872,13 @@
       "source": "art:beaufsichtigung",
       "source_file": "articles/1669.json",
       "target": "art:anzeigepflicht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:beaufsichtigung",
+      "source_file": "articles/1669.json",
+      "target": "art:aufenthaltsbestimmung"
     },
     {
       "confidence": "EXTRACTED",
@@ -17108,6 +18067,13 @@
       "relation": "links_to",
       "source": "art:beaufsichtigung",
       "source_file": "articles/1669.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:beaufsichtigung",
+      "source_file": "articles/1669.json",
       "target": "art:elektronisches-gerichts--und-verwaltungspostfach"
     },
     {
@@ -17242,6 +18208,13 @@
       "source": "art:beaufsichtigung",
       "source_file": "articles/1669.json",
       "target": "art:rechtsanwalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:beaufsichtigung",
+      "source_file": "articles/1669.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -17423,7 +18396,28 @@
       "relation": "links_to",
       "source": "art:gesetzlicher-vertreter",
       "source_file": "articles/1680.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesetzlicher-vertreter",
+      "source_file": "articles/1680.json",
       "target": "art:datenschutz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesetzlicher-vertreter",
+      "source_file": "articles/1680.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesetzlicher-vertreter",
+      "source_file": "articles/1680.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -17557,6 +18551,13 @@
       "source": "art:gesetzlicher-vertreter",
       "source_file": "articles/1680.json",
       "target": "art:schenkung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesetzlicher-vertreter",
+      "source_file": "articles/1680.json",
+      "target": "art:selbstbestimmung"
     },
     {
       "confidence": "EXTRACTED",
@@ -17815,6 +18816,13 @@
       "relation": "links_to",
       "source": "art:betreuerbestellung",
       "source_file": "articles/1681.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerbestellung",
+      "source_file": "articles/1681.json",
       "target": "art:betreuungsverein"
     },
     {
@@ -17969,6 +18977,13 @@
       "relation": "links_to",
       "source": "art:betreuerbestellung",
       "source_file": "articles/1681.json",
+      "target": "art:rechtsmittel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerbestellung",
+      "source_file": "articles/1681.json",
       "target": "art:regress-der-staatskasse"
     },
     {
@@ -17977,6 +18992,13 @@
       "source": "art:betreuerbestellung",
       "source_file": "articles/1681.json",
       "target": "art:schuldnerverzeichnis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerbestellung",
+      "source_file": "articles/1681.json",
+      "target": "art:selbstbestimmung"
     },
     {
       "confidence": "EXTRACTED",
@@ -18200,6 +19222,13 @@
       "relation": "links_to",
       "source": "art:betreuungsvoraussetzung",
       "source_file": "articles/1682.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsvoraussetzung",
+      "source_file": "articles/1682.json",
       "target": "art:betreuungsverfahren"
     },
     {
@@ -18215,6 +19244,13 @@
       "source": "art:betreuungsvoraussetzung",
       "source_file": "articles/1682.json",
       "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsvoraussetzung",
+      "source_file": "articles/1682.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -18263,6 +19299,13 @@
       "relation": "links_to",
       "source": "art:betreuungsvoraussetzung",
       "source_file": "articles/1682.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsvoraussetzung",
+      "source_file": "articles/1682.json",
       "target": "art:grundrechte"
     },
     {
@@ -18292,6 +19335,20 @@
       "source": "art:betreuungsvoraussetzung",
       "source_file": "articles/1682.json",
       "target": "art:medizinische-begriffe"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsvoraussetzung",
+      "source_file": "articles/1682.json",
+      "target": "art:postkontrolle"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsvoraussetzung",
+      "source_file": "articles/1682.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -18585,7 +19642,21 @@
       "relation": "links_to",
       "source": "art:prozessführung",
       "source_file": "articles/1683.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:prozessführung",
+      "source_file": "articles/1683.json",
       "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:prozessführung",
+      "source_file": "articles/1683.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -18635,6 +19706,13 @@
       "source": "art:prozessführung",
       "source_file": "articles/1683.json",
       "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:prozessführung",
+      "source_file": "articles/1683.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -18691,6 +19769,13 @@
       "source": "art:prozessführung",
       "source_file": "articles/1683.json",
       "target": "art:gesundheitsdatennutzungsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:prozessführung",
+      "source_file": "articles/1683.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -19146,6 +20231,13 @@
       "source": "art:betreuungsverein",
       "source_file": "articles/1684.json",
       "target": "art:rechnungslegung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsverein",
+      "source_file": "articles/1684.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -19880,7 +20972,21 @@
       "relation": "links_to",
       "source": "art:betreuungsverfahren",
       "source_file": "articles/1728.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsverfahren",
+      "source_file": "articles/1728.json",
       "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsverfahren",
+      "source_file": "articles/1728.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -19936,6 +21042,13 @@
       "relation": "links_to",
       "source": "art:betreuungsverfahren",
       "source_file": "articles/1728.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsverfahren",
+      "source_file": "articles/1728.json",
       "target": "art:einstweilige-anordnung"
     },
     {
@@ -19944,6 +21057,13 @@
       "source": "art:betreuungsverfahren",
       "source_file": "articles/1728.json",
       "target": "art:einverständniserklärung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsverfahren",
+      "source_file": "articles/1728.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -20741,6 +21861,13 @@
       "relation": "links_to",
       "source": "art:betreuungsrechtsreform",
       "source_file": "articles/1731.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsrechtsreform",
+      "source_file": "articles/1731.json",
       "target": "art:jahresbericht"
     },
     {
@@ -21112,6 +22239,13 @@
       "relation": "links_to",
       "source": "art:gesetzestexte",
       "source_file": "articles/1733.json",
+      "target": "art:betreuerhaftung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesetzestexte",
+      "source_file": "articles/1733.json",
       "target": "art:betreuerpflichten"
     },
     {
@@ -21203,6 +22337,13 @@
       "relation": "links_to",
       "source": "art:gesetzestexte",
       "source_file": "articles/1733.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesetzestexte",
+      "source_file": "articles/1733.json",
       "target": "art:einstweilige-anordnung"
     },
     {
@@ -21211,6 +22352,13 @@
       "source": "art:gesetzestexte",
       "source_file": "articles/1733.json",
       "target": "art:einverständniserklärung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesetzestexte",
+      "source_file": "articles/1733.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -21791,6 +22939,13 @@
       "relation": "links_to",
       "source": "art:betreuerpflichten",
       "source_file": "articles/1734.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerpflichten",
+      "source_file": "articles/1734.json",
       "target": "art:girokonto"
     },
     {
@@ -21967,6 +23122,13 @@
       "source": "art:betreuerpflichten",
       "source_file": "articles/1734.json",
       "target": "art:unterbringung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerpflichten",
+      "source_file": "articles/1734.json",
+      "target": "art:unterbringungsähnliche-maßnahme"
     },
     {
       "confidence": "EXTRACTED",
@@ -22204,6 +23366,13 @@
       "relation": "links_to",
       "source": "art:genehmigungspflichten",
       "source_file": "articles/1736.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:genehmigungspflichten",
+      "source_file": "articles/1736.json",
       "target": "art:checkliste-für-arztgespräche"
     },
     {
@@ -22268,6 +23437,13 @@
       "source": "art:genehmigungspflichten",
       "source_file": "articles/1736.json",
       "target": "art:gesetzliche-vertretung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:genehmigungspflichten",
+      "source_file": "articles/1736.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -22575,6 +23751,13 @@
       "relation": "links_to",
       "source": "art:heilbehandlung",
       "source_file": "articles/1738.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:heilbehandlung",
+      "source_file": "articles/1738.json",
       "target": "art:checkliste-für-arztgespräche"
     },
     {
@@ -22695,6 +23878,13 @@
       "source": "art:heilbehandlung",
       "source_file": "articles/1738.json",
       "target": "art:gesundheitsdatennutzungsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:heilbehandlung",
+      "source_file": "articles/1738.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -22932,6 +24122,13 @@
       "relation": "links_to",
       "source": "art:betreuungsverfügung",
       "source_file": "articles/1739.json",
+      "target": "art:betreuerwechsel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsverfügung",
+      "source_file": "articles/1739.json",
       "target": "art:betreuungsbehörde"
     },
     {
@@ -22947,6 +24144,13 @@
       "source": "art:betreuungsverfügung",
       "source_file": "articles/1739.json",
       "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsverfügung",
+      "source_file": "articles/1739.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -23164,6 +24368,13 @@
       "source": "art:betreuungsverfügung",
       "source_file": "articles/1739.json",
       "target": "ext:www.patientenverfuegung.digital"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsbehördengesetz",
+      "source_file": "articles/1740.json",
+      "target": "art:beglaubigung-durch-betreuungsbehörde"
     },
     {
       "confidence": "EXTRACTED",
@@ -23520,6 +24731,20 @@
       "relation": "links_to",
       "source": "art:betreuervergütung",
       "source_file": "articles/1742.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuervergütung",
+      "source_file": "articles/1742.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuervergütung",
+      "source_file": "articles/1742.json",
       "target": "art:betreuungsrechtsreform"
     },
     {
@@ -23640,6 +24865,13 @@
       "source": "art:betreuervergütung",
       "source_file": "articles/1742.json",
       "target": "art:regress-der-staatskasse"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuervergütung",
+      "source_file": "articles/1742.json",
+      "target": "art:schlusstätigkeiten"
     },
     {
       "confidence": "EXTRACTED",
@@ -23885,6 +25117,13 @@
       "source": "art:aufhebung-der-betreuung",
       "source_file": "articles/1744.json",
       "target": "art:datenschutz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufhebung-der-betreuung",
+      "source_file": "articles/1744.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -24192,7 +25431,21 @@
       "relation": "links_to",
       "source": "art:betreuerwechsel",
       "source_file": "articles/1745.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerwechsel",
+      "source_file": "articles/1745.json",
       "target": "art:betreuungsorganisationsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerwechsel",
+      "source_file": "articles/1745.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -24493,6 +25746,13 @@
       "relation": "links_to",
       "source": "art:schlusstätigkeiten",
       "source_file": "articles/1746.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:schlusstätigkeiten",
+      "source_file": "articles/1746.json",
       "target": "art:betreuungsverfahren"
     },
     {
@@ -24697,6 +25957,13 @@
       "source": "art:bestellung-mehrerer-betreuer",
       "source_file": "articles/1747.json",
       "target": "art:betreuerpflichten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bestellung-mehrerer-betreuer",
+      "source_file": "articles/1747.json",
+      "target": "art:betreuerwechsel"
     },
     {
       "confidence": "EXTRACTED",
@@ -24913,6 +26180,13 @@
       "relation": "links_to",
       "source": "art:verhinderungsbetreuer",
       "source_file": "articles/1748.json",
+      "target": "art:betreuervergütung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:verhinderungsbetreuer",
+      "source_file": "articles/1748.json",
       "target": "art:betreuerwechsel"
     },
     {
@@ -24935,6 +26209,13 @@
       "source": "art:verhinderungsbetreuer",
       "source_file": "articles/1748.json",
       "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:verhinderungsbetreuer",
+      "source_file": "articles/1748.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -24991,6 +26272,13 @@
       "source": "art:verhinderungsbetreuer",
       "source_file": "articles/1748.json",
       "target": "art:persönliche-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:verhinderungsbetreuer",
+      "source_file": "articles/1748.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -25242,6 +26530,13 @@
       "relation": "links_to",
       "source": "art:kontrollbetreuer",
       "source_file": "articles/1749.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:kontrollbetreuer",
+      "source_file": "articles/1749.json",
       "target": "art:grundrechte"
     },
     {
@@ -25438,6 +26733,20 @@
       "relation": "links_to",
       "source": "art:vermögenssorge",
       "source_file": "articles/1750.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vermögenssorge",
+      "source_file": "articles/1750.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vermögenssorge",
+      "source_file": "articles/1750.json",
       "target": "art:checkliste-vermögenssorge"
     },
     {
@@ -25446,6 +26755,13 @@
       "source": "art:vermögenssorge",
       "source_file": "articles/1750.json",
       "target": "art:eidesstattliche-versicherung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vermögenssorge",
+      "source_file": "articles/1750.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -25774,6 +27090,13 @@
       "relation": "links_to",
       "source": "art:geldanlage",
       "source_file": "articles/1751.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:geldanlage",
+      "source_file": "articles/1751.json",
       "target": "art:betreuungsverein"
     },
     {
@@ -25782,6 +27105,13 @@
       "source": "art:geldanlage",
       "source_file": "articles/1751.json",
       "target": "art:checkliste-vermögenssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:geldanlage",
+      "source_file": "articles/1751.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -25999,6 +27329,13 @@
       "source": "art:schenkung",
       "source_file": "articles/1752.json",
       "target": "art:betreuungsvoraussetzung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:schenkung",
+      "source_file": "articles/1752.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -26313,6 +27650,13 @@
       "relation": "links_to",
       "source": "art:rechnungslegung",
       "source_file": "articles/1755.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechnungslegung",
+      "source_file": "articles/1755.json",
       "target": "art:elektronisches-gerichts--und-verwaltungspostfach"
     },
     {
@@ -26586,6 +27930,13 @@
       "relation": "links_to",
       "source": "art:aufwandspauschale",
       "source_file": "articles/1756.json",
+      "target": "art:betreuerwechsel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufwandspauschale",
+      "source_file": "articles/1756.json",
       "target": "art:digitale-barrierefreiheit"
     },
     {
@@ -26698,7 +28049,21 @@
       "relation": "links_to",
       "source": "art:aufwandspauschale",
       "source_file": "articles/1756.json",
+      "target": "art:verfahrenspfleger"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufwandspauschale",
+      "source_file": "articles/1756.json",
       "target": "art:vermögenssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufwandspauschale",
+      "source_file": "articles/1756.json",
+      "target": "art:verpflichtungsgespräch"
     },
     {
       "confidence": "EXTRACTED",
@@ -26713,6 +28078,13 @@
       "source": "art:aufwandspauschale",
       "source_file": "articles/1756.json",
       "target": "cat:Betreuerentschädigung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:brandenburg",
+      "source_file": "articles/1757.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -26803,6 +28175,13 @@
       "relation": "links_to",
       "source": "art:bremen",
       "source_file": "articles/1758.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bremen",
+      "source_file": "articles/1758.json",
       "target": "art:betreuungsgericht"
     },
     {
@@ -26881,6 +28260,13 @@
       "source": "art:bremen",
       "source_file": "articles/1758.json",
       "target": "ext:www.transparenz.bremen.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:hamburg",
+      "source_file": "articles/1759.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -26992,6 +28378,13 @@
       "relation": "links_to",
       "source": "art:hessen",
       "source_file": "articles/1760.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:hessen",
+      "source_file": "articles/1760.json",
       "target": "art:betreuungsgericht"
     },
     {
@@ -27097,6 +28490,13 @@
       "relation": "links_to",
       "source": "art:niedersachsen",
       "source_file": "articles/1761.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:niedersachsen",
+      "source_file": "articles/1761.json",
       "target": "art:betreuungsgericht"
     },
     {
@@ -27174,6 +28574,13 @@
       "relation": "links_to",
       "source": "art:rheinland-pfalz",
       "source_file": "articles/1762.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rheinland-pfalz",
+      "source_file": "articles/1762.json",
       "target": "art:neu"
     },
     {
@@ -27245,6 +28652,13 @@
       "source": "art:rheinland-pfalz",
       "source_file": "articles/1762.json",
       "target": "ext:www.landesrecht.rlp.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sachsen",
+      "source_file": "articles/1763.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -27377,6 +28791,13 @@
       "relation": "links_to",
       "source": "art:sachsen-anhalt",
       "source_file": "articles/1764.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sachsen-anhalt",
+      "source_file": "articles/1764.json",
       "target": "art:betreuungsgericht"
     },
     {
@@ -27489,6 +28910,13 @@
       "relation": "links_to",
       "source": "art:schleswig-holstein",
       "source_file": "articles/1765.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:schleswig-holstein",
+      "source_file": "articles/1765.json",
       "target": "art:betreuungsverein"
     },
     {
@@ -27553,6 +28981,13 @@
       "source": "art:schleswig-holstein",
       "source_file": "articles/1765.json",
       "target": "ext:www.gesetze-rechtsprechung.sh.juris.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:thüringen",
+      "source_file": "articles/1766.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -28021,6 +29456,13 @@
       "relation": "links_to",
       "source": "art:vereinsbetreuer",
       "source_file": "articles/1768.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vereinsbetreuer",
+      "source_file": "articles/1768.json",
       "target": "art:betreuungsverein"
     },
     {
@@ -28175,6 +29617,13 @@
       "relation": "links_to",
       "source": "art:betreuerausweis",
       "source_file": "articles/1769.json",
+      "target": "art:beaufsichtigung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerausweis",
+      "source_file": "articles/1769.json",
       "target": "art:befreiter-betreuer"
     },
     {
@@ -28218,6 +29667,13 @@
       "source": "art:betreuerausweis",
       "source_file": "articles/1769.json",
       "target": "art:betreuerpflichten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerausweis",
+      "source_file": "articles/1769.json",
+      "target": "art:betreuerwechsel"
     },
     {
       "confidence": "EXTRACTED",
@@ -28288,6 +29744,13 @@
       "source": "art:betreuerausweis",
       "source_file": "articles/1769.json",
       "target": "art:einstweilige-anordnung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerausweis",
+      "source_file": "articles/1769.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -28393,6 +29856,13 @@
       "source": "art:betreuerausweis",
       "source_file": "articles/1769.json",
       "target": "art:software"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuerausweis",
+      "source_file": "articles/1769.json",
+      "target": "art:unterbringung"
     },
     {
       "confidence": "EXTRACTED",
@@ -28546,6 +30016,13 @@
       "relation": "links_to",
       "source": "art:checkliste-gesundheitssorge",
       "source_file": "articles/1770.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:checkliste-gesundheitssorge",
+      "source_file": "articles/1770.json",
       "target": "art:mdk-gutachten"
     },
     {
@@ -28638,6 +30115,13 @@
       "source": "art:checkliste-für-arztgespräche",
       "source_file": "articles/1771.json",
       "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:checkliste-für-arztgespräche",
+      "source_file": "articles/1771.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -28757,6 +30241,433 @@
       "source": "art:checkliste-für-arztgespräche",
       "source_file": "articles/1771.json",
       "target": "cat:Checklisten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:alltagsgeschäfte"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:anhörung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:anzeigepflicht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:aufenthaltsbestimmung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:aufgabenkreis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:aufhebung-der-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:aufwendungsersatz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:bayern"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:betreuerbestellung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:betreuerhaftung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:betreuerpflichten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:betreuungsgericht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:betreuungsrichter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:betreuungssache"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:betreuungsverfahren"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:brandenburg"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:bremen"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:ehefähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:einstweilige-anordnung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:freier-wille"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:geschäftsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:heilbehandlung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:mitteilungspflicht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:ordre-public"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:personenstand"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:prozessfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:prozessführung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:rechtsmittel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:rechtsverkehr-in-deutschland"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:sachverständigengutachten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:schenkung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:schleswig-holstein"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:schweigepflicht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:selbstbestimmung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:stundensatz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:testierfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:tierschutz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:unterbringung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:verfahrensfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:verhältnismäßigkeitsprinzip"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:vermögenssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:vertretung-gegenüber-behörden"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:vorläufiger-betreuer"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:vorsorgevollmacht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:wahlrecht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:wohnungsangelegenheiten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "art:überprüfungsfrist"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "in_category",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "cat:Auswirkungen"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "in_category",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "cat:Betreuerpflichten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "ext:www.amazon.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "ext:www.anwaltonline.net"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "ext:www.ehrenamt-im-netz.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "ext:www.juraexamen.info"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "ext:www.verfassungsgerichtshof-saarland.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "ext:betroyt.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "ext:dopus.uni-speyer.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "ext:www.gesetzliche-betreuung-nbg.de"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "references_external",
+      "source": "art:einwilligungsvorbehalt",
+      "source_file": "articles/1773.json",
+      "target": "ext:youtu.be"
     },
     {
       "confidence": "EXTRACTED",
@@ -28924,6 +30835,13 @@
       "relation": "links_to",
       "source": "art:betreuungsbehörde",
       "source_file": "articles/1774.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsbehörde",
+      "source_file": "articles/1774.json",
       "target": "art:betreuungsorganisationsgesetz"
     },
     {
@@ -28932,6 +30850,13 @@
       "source": "art:betreuungsbehörde",
       "source_file": "articles/1774.json",
       "target": "art:betreuungsplan"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsbehörde",
+      "source_file": "articles/1774.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -29079,6 +31004,13 @@
       "source": "art:betreuungsbehörde",
       "source_file": "articles/1774.json",
       "target": "art:querschnittsaufgaben"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsbehörde",
+      "source_file": "articles/1774.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -29310,6 +31242,13 @@
       "source": "art:sterbehilfe",
       "source_file": "articles/1775.json",
       "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sterbehilfe",
+      "source_file": "articles/1775.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -29820,6 +31759,13 @@
       "relation": "links_to",
       "source": "art:sterilisation",
       "source_file": "articles/1776.json",
+      "target": "art:rechtsmittel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sterilisation",
+      "source_file": "articles/1776.json",
       "target": "art:rechtsprechung"
     },
     {
@@ -29842,6 +31788,13 @@
       "source": "art:sterilisation",
       "source_file": "articles/1776.json",
       "target": "art:sterilisationsbetreuer"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sterilisation",
+      "source_file": "articles/1776.json",
+      "target": "art:unterbringungsähnliche-maßnahme"
     },
     {
       "confidence": "EXTRACTED",
@@ -29988,6 +31941,13 @@
       "relation": "links_to",
       "source": "art:ehefähigkeit",
       "source_file": "articles/1777.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:ehefähigkeit",
+      "source_file": "articles/1777.json",
       "target": "art:brandenburg"
     },
     {
@@ -29996,6 +31956,13 @@
       "source": "art:ehefähigkeit",
       "source_file": "articles/1777.json",
       "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:ehefähigkeit",
+      "source_file": "articles/1777.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -30247,6 +32214,13 @@
       "relation": "links_to",
       "source": "art:eherecht-und-betreuung",
       "source_file": "articles/1778.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:eherecht-und-betreuung",
+      "source_file": "articles/1778.json",
       "target": "art:erbausschlagung"
     },
     {
@@ -30297,6 +32271,13 @@
       "source": "art:eherecht-und-betreuung",
       "source_file": "articles/1778.json",
       "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:eherecht-und-betreuung",
+      "source_file": "articles/1778.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -30542,6 +32523,13 @@
       "source": "art:testierfähigkeit",
       "source_file": "articles/1779.json",
       "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:testierfähigkeit",
+      "source_file": "articles/1779.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -30870,6 +32858,13 @@
       "relation": "links_to",
       "source": "art:rechtsmittel",
       "source_file": "articles/1780.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsmittel",
+      "source_file": "articles/1780.json",
       "target": "art:elektronisches-gerichts--und-verwaltungspostfach"
     },
     {
@@ -31039,6 +33034,13 @@
       "source": "art:rechtsmittel",
       "source_file": "articles/1780.json",
       "target": "art:unterbringungsverfahren"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsmittel",
+      "source_file": "articles/1780.json",
+      "target": "art:unterbringungsähnliche-maßnahme"
     },
     {
       "confidence": "EXTRACTED",
@@ -31843,6 +33845,13 @@
       "relation": "links_to",
       "source": "art:vorsorgevollmacht---vertiefte-infos",
       "source_file": "articles/1785.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vorsorgevollmacht---vertiefte-infos",
+      "source_file": "articles/1785.json",
       "target": "art:elektronische-patientenakte"
     },
     {
@@ -32123,6 +34132,13 @@
       "relation": "links_to",
       "source": "art:beglaubigung-durch-betreuungsbehörde",
       "source_file": "articles/1786.json",
+      "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:beglaubigung-durch-betreuungsbehörde",
+      "source_file": "articles/1786.json",
       "target": "art:freier-wille"
     },
     {
@@ -32138,6 +34154,13 @@
       "source": "art:beglaubigung-durch-betreuungsbehörde",
       "source_file": "articles/1786.json",
       "target": "art:gesetzgebung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:beglaubigung-durch-betreuungsbehörde",
+      "source_file": "articles/1786.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -32410,6 +34433,13 @@
       "relation": "links_to",
       "source": "art:betreuungsgerichtshilfe",
       "source_file": "articles/1787.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsgerichtshilfe",
+      "source_file": "articles/1787.json",
       "target": "art:erweiterte-unterstützung"
     },
     {
@@ -32481,6 +34511,13 @@
       "source": "art:betreuungsgerichtshilfe",
       "source_file": "articles/1787.json",
       "target": "art:rechtsanwalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsgerichtshilfe",
+      "source_file": "articles/1787.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -32704,6 +34741,13 @@
       "relation": "links_to",
       "source": "art:betreuervorschlag",
       "source_file": "articles/1788.json",
+      "target": "art:betreuervergütung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuervorschlag",
+      "source_file": "articles/1788.json",
       "target": "art:betreutes-wohnen"
     },
     {
@@ -32753,6 +34797,13 @@
       "relation": "links_to",
       "source": "art:betreuervorschlag",
       "source_file": "articles/1788.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuervorschlag",
+      "source_file": "articles/1788.json",
       "target": "art:betreuungsrechtsreform"
     },
     {
@@ -32796,6 +34847,13 @@
       "source": "art:betreuervorschlag",
       "source_file": "articles/1788.json",
       "target": "art:geschäftsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuervorschlag",
+      "source_file": "articles/1788.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -33068,6 +35126,13 @@
       "relation": "links_to",
       "source": "art:aufgabenkreis",
       "source_file": "articles/1791.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufgabenkreis",
+      "source_file": "articles/1791.json",
       "target": "art:betreuungsverfahren"
     },
     {
@@ -33103,6 +35168,13 @@
       "relation": "links_to",
       "source": "art:aufgabenkreis",
       "source_file": "articles/1791.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufgabenkreis",
+      "source_file": "articles/1791.json",
       "target": "art:erbausschlagung"
     },
     {
@@ -33132,6 +35204,13 @@
       "source": "art:aufgabenkreis",
       "source_file": "articles/1791.json",
       "target": "art:gesundheitliche-versorgungsplanung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufgabenkreis",
+      "source_file": "articles/1791.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -33258,6 +35337,13 @@
       "source": "art:aufgabenkreis",
       "source_file": "articles/1791.json",
       "target": "art:querschnittsaufgaben"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:aufgabenkreis",
+      "source_file": "articles/1791.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -33439,6 +35525,13 @@
       "relation": "links_to",
       "source": "art:bundesverband-freier-berufsbetreuer",
       "source_file": "articles/1792.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bundesverband-freier-berufsbetreuer",
+      "source_file": "articles/1792.json",
       "target": "art:berlin"
     },
     {
@@ -33559,6 +35652,13 @@
       "source": "art:bundesverband-freier-berufsbetreuer",
       "source_file": "articles/1792.json",
       "target": "ext:www.youtube.com"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bundesverband-der-berufsbetreuer",
+      "source_file": "articles/1793.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -33695,6 +35795,13 @@
     },
     {
       "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bundesverband-der-berufsbetreuer",
+      "source_file": "articles/1793.json",
+      "target": "art:zeitschrift-für-professionelle-betreuungsarbeit"
+    },
+    {
+      "confidence": "EXTRACTED",
       "relation": "in_category",
       "source": "art:bundesverband-der-berufsbetreuer",
       "source_file": "articles/1793.json",
@@ -33803,7 +35910,21 @@
       "relation": "links_to",
       "source": "art:geschäftsfähigkeit",
       "source_file": "articles/1795.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:geschäftsfähigkeit",
+      "source_file": "articles/1795.json",
       "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:geschäftsfähigkeit",
+      "source_file": "articles/1795.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -34188,6 +36309,13 @@
       "relation": "links_to",
       "source": "art:vormünder--und-betreuervergütungsgesetz",
       "source_file": "articles/1796.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vormünder--und-betreuervergütungsgesetz",
+      "source_file": "articles/1796.json",
       "target": "art:betreuungsorganisationsgesetz"
     },
     {
@@ -34196,6 +36324,13 @@
       "source": "art:vormünder--und-betreuervergütungsgesetz",
       "source_file": "articles/1796.json",
       "target": "art:betreuungsrecht-lexikon:haftungsausschluss"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vormünder--und-betreuervergütungsgesetz",
+      "source_file": "articles/1796.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -34427,6 +36562,13 @@
       "source": "art:tod-des-betreuten",
       "source_file": "articles/1797.json",
       "target": "art:genehmigungspflichten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:tod-des-betreuten",
+      "source_file": "articles/1797.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -34916,6 +37058,13 @@
       "relation": "links_to",
       "source": "art:gerichtskosten",
       "source_file": "articles/1799.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gerichtskosten",
+      "source_file": "articles/1799.json",
       "target": "art:elektronisches-gerichts--und-verwaltungspostfach"
     },
     {
@@ -34994,6 +37143,13 @@
       "source": "art:gerichtskosten",
       "source_file": "articles/1799.json",
       "target": "art:rechtsanwalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gerichtskosten",
+      "source_file": "articles/1799.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -35252,6 +37408,13 @@
       "relation": "links_to",
       "source": "art:gerichtsbeschluss",
       "source_file": "articles/1800.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gerichtsbeschluss",
+      "source_file": "articles/1800.json",
       "target": "art:familienverfahrensgesetz"
     },
     {
@@ -35498,6 +37661,20 @@
       "source": "art:rechtspfleger",
       "source_file": "articles/1801.json",
       "target": "art:bezirksrevisor"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtspfleger",
+      "source_file": "articles/1801.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtspfleger",
+      "source_file": "articles/1801.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -35771,6 +37948,13 @@
       "source": "art:kindschaftsrecht",
       "source_file": "articles/1802.json",
       "target": "art:eidesstattliche-versicherung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:kindschaftsrecht",
+      "source_file": "articles/1802.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -36387,6 +38571,13 @@
       "source": "art:jahresbericht",
       "source_file": "articles/1804.json",
       "target": "art:betreuer-(ehrenamt)"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:jahresbericht",
+      "source_file": "articles/1804.json",
+      "target": "art:betreuerwechsel"
     },
     {
       "confidence": "EXTRACTED",
@@ -38087,6 +40278,13 @@
       "relation": "links_to",
       "source": "art:verfahrensfähigkeit",
       "source_file": "articles/1827.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:verfahrensfähigkeit",
+      "source_file": "articles/1827.json",
       "target": "art:freier-wille"
     },
     {
@@ -38262,6 +40460,13 @@
       "relation": "links_to",
       "source": "art:prozessfähigkeit",
       "source_file": "articles/1828.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:prozessfähigkeit",
+      "source_file": "articles/1828.json",
       "target": "art:betreuungsrichter"
     },
     {
@@ -38291,6 +40496,13 @@
       "source": "art:prozessfähigkeit",
       "source_file": "articles/1828.json",
       "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:prozessfähigkeit",
+      "source_file": "articles/1828.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -38333,6 +40545,13 @@
       "source": "art:prozessfähigkeit",
       "source_file": "articles/1828.json",
       "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:prozessfähigkeit",
+      "source_file": "articles/1828.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -38493,6 +40712,20 @@
       "relation": "links_to",
       "source": "art:betreuungsrechtliche-praxis",
       "source_file": "articles/1839.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsrechtliche-praxis",
+      "source_file": "articles/1839.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsrechtliche-praxis",
+      "source_file": "articles/1839.json",
       "target": "art:buchverzeichnis"
     },
     {
@@ -38543,6 +40776,13 @@
       "source": "art:betreuungsrechtliche-praxis",
       "source_file": "articles/1839.json",
       "target": "art:tod-des-betreuten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsrechtliche-praxis",
+      "source_file": "articles/1839.json",
+      "target": "art:zeitschrift-für-professionelle-betreuungsarbeit"
     },
     {
       "confidence": "EXTRACTED",
@@ -38619,6 +40859,13 @@
       "relation": "links_to",
       "source": "art:betreuungsmanagement",
       "source_file": "articles/1840.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsmanagement",
+      "source_file": "articles/1840.json",
       "target": "art:betreuungsverein"
     },
     {
@@ -38662,6 +40909,13 @@
       "source": "art:betreuungsmanagement",
       "source_file": "articles/1840.json",
       "target": "art:persönliches-budget"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsmanagement",
+      "source_file": "articles/1840.json",
+      "target": "art:zeitschrift-für-professionelle-betreuungsarbeit"
     },
     {
       "confidence": "EXTRACTED",
@@ -39438,7 +41692,21 @@
       "relation": "links_to",
       "source": "art:gesetzliche-vertretung",
       "source_file": "articles/1851.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesetzliche-vertretung",
+      "source_file": "articles/1851.json",
       "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesetzliche-vertretung",
+      "source_file": "articles/1851.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -40152,7 +42420,21 @@
       "relation": "links_to",
       "source": "art:heimmitarbeiter-als-betreuer",
       "source_file": "articles/1866.json",
+      "target": "art:betreuerwechsel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:heimmitarbeiter-als-betreuer",
+      "source_file": "articles/1866.json",
       "target": "art:betreutes-wohnen"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:heimmitarbeiter-als-betreuer",
+      "source_file": "articles/1866.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -40712,6 +42994,13 @@
       "relation": "links_to",
       "source": "art:rechtsprechung",
       "source_file": "articles/1887.json",
+      "target": "art:aufhebung-der-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung",
+      "source_file": "articles/1887.json",
       "target": "art:baden-württemberg"
     },
     {
@@ -40733,6 +43022,13 @@
       "relation": "links_to",
       "source": "art:rechtsprechung",
       "source_file": "articles/1887.json",
+      "target": "art:betreuerbestellung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung",
+      "source_file": "articles/1887.json",
       "target": "art:betreuervergütung"
     },
     {
@@ -40741,6 +43037,13 @@
       "source": "art:rechtsprechung",
       "source_file": "articles/1887.json",
       "target": "art:betreuerwechsel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung",
+      "source_file": "articles/1887.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -40762,6 +43065,13 @@
       "source": "art:rechtsprechung",
       "source_file": "articles/1887.json",
       "target": "art:diskriminierungsverbot"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung",
+      "source_file": "articles/1887.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -41140,6 +43450,13 @@
       "source": "art:zwangsbehandlung",
       "source_file": "articles/1888.json",
       "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:zwangsbehandlung",
+      "source_file": "articles/1888.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -42070,6 +44387,13 @@
       "relation": "links_to",
       "source": "art:delegation",
       "source_file": "articles/1911.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:delegation",
+      "source_file": "articles/1911.json",
       "target": "art:betreuungsverfügung"
     },
     {
@@ -42092,6 +44416,13 @@
       "source": "art:delegation",
       "source_file": "articles/1911.json",
       "target": "art:elektronische-patientenakte"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:delegation",
+      "source_file": "articles/1911.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -43057,6 +45388,13 @@
       "relation": "links_to",
       "source": "art:vaterschaftsanerkennung",
       "source_file": "articles/1934.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vaterschaftsanerkennung",
+      "source_file": "articles/1934.json",
       "target": "art:erbausschlagung"
     },
     {
@@ -43079,6 +45417,13 @@
       "source": "art:vaterschaftsanerkennung",
       "source_file": "articles/1934.json",
       "target": "art:freibetrag"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vaterschaftsanerkennung",
+      "source_file": "articles/1934.json",
+      "target": "art:genehmigungspflichten"
     },
     {
       "confidence": "EXTRACTED",
@@ -43197,6 +45542,13 @@
       "relation": "links_to",
       "source": "art:betreuungskosten-im-steuerrecht",
       "source_file": "articles/1935.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungskosten-im-steuerrecht",
+      "source_file": "articles/1935.json",
       "target": "art:dauervergütung"
     },
     {
@@ -43212,6 +45564,13 @@
       "source": "art:betreuungskosten-im-steuerrecht",
       "source_file": "articles/1935.json",
       "target": "art:gerichtskosten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungskosten-im-steuerrecht",
+      "source_file": "articles/1935.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -43568,6 +45927,13 @@
       "relation": "links_to",
       "source": "art:datenschutz",
       "source_file": "articles/1936.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:datenschutz",
+      "source_file": "articles/1936.json",
       "target": "art:gewaltschutzanordnung"
     },
     {
@@ -43793,6 +46159,13 @@
       "source": "art:datenschutz",
       "source_file": "articles/1936.json",
       "target": "art:schleswig-holstein"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:datenschutz",
+      "source_file": "articles/1936.json",
+      "target": "art:schlusstätigkeiten"
     },
     {
       "confidence": "EXTRACTED",
@@ -44163,6 +46536,13 @@
       "relation": "links_to",
       "source": "art:schweigepflicht",
       "source_file": "articles/1937.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:schweigepflicht",
+      "source_file": "articles/1937.json",
       "target": "art:elektronische-patientenakte"
     },
     {
@@ -44213,6 +46593,13 @@
       "source": "art:schweigepflicht",
       "source_file": "articles/1937.json",
       "target": "art:gesundheitsdatennutzungsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:schweigepflicht",
+      "source_file": "articles/1937.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -44779,6 +47166,13 @@
       "relation": "links_to",
       "source": "art:strafprozess",
       "source_file": "articles/1947.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:strafprozess",
+      "source_file": "articles/1947.json",
       "target": "art:gewaltschutzanordnung"
     },
     {
@@ -45241,6 +47635,13 @@
       "relation": "links_to",
       "source": "art:meldepflicht",
       "source_file": "articles/1962.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:meldepflicht",
+      "source_file": "articles/1962.json",
       "target": "art:hamburg"
     },
     {
@@ -45403,6 +47804,13 @@
       "source": "art:betreuungsarbeitsgemeinschaft",
       "source_file": "articles/1971.json",
       "target": "art:aufgabenkreis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsarbeitsgemeinschaft",
+      "source_file": "articles/1971.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -46123,6 +48531,13 @@
       "relation": "links_to",
       "source": "art:checkliste-vermögenssorge",
       "source_file": "articles/2009.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:checkliste-vermögenssorge",
+      "source_file": "articles/2009.json",
       "target": "art:erbausschlagung"
     },
     {
@@ -46264,6 +48679,13 @@
       "source": "art:betreuungsgericht",
       "source_file": "articles/2036.json",
       "target": "art:aufgabenkreis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsgericht",
+      "source_file": "articles/2036.json",
+      "target": "art:aufhebung-der-betreuung"
     },
     {
       "confidence": "EXTRACTED",
@@ -46418,6 +48840,13 @@
       "source": "art:betreuungsgericht",
       "source_file": "articles/2036.json",
       "target": "art:einstweilige-anordnung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsgericht",
+      "source_file": "articles/2036.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -46739,6 +49168,13 @@
       "relation": "links_to",
       "source": "art:personalausweis",
       "source_file": "articles/2040.json",
+      "target": "art:beglaubigung-durch-betreuungsbehörde"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:personalausweis",
+      "source_file": "articles/2040.json",
       "target": "art:betreuer-(ehrenamt)"
     },
     {
@@ -46824,6 +49260,13 @@
       "source": "art:personalausweis",
       "source_file": "articles/2040.json",
       "target": "art:einwilligungsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:personalausweis",
+      "source_file": "articles/2040.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -47278,6 +49721,13 @@
       "relation": "links_to",
       "source": "art:abschlussbericht",
       "source_file": "articles/2055.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:abschlussbericht",
+      "source_file": "articles/2055.json",
       "target": "art:selbstbestimmung"
     },
     {
@@ -47670,6 +50120,13 @@
       "relation": "links_to",
       "source": "art:vbvg-rechtsprechung",
       "source_file": "articles/2072.json",
+      "target": "art:betreuerhaftung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vbvg-rechtsprechung",
+      "source_file": "articles/2072.json",
       "target": "art:betreuerpflichten"
     },
     {
@@ -47706,6 +50163,20 @@
       "source": "art:vbvg-rechtsprechung",
       "source_file": "articles/2072.json",
       "target": "art:betreuungsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vbvg-rechtsprechung",
+      "source_file": "articles/2072.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vbvg-rechtsprechung",
+      "source_file": "articles/2072.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -47755,6 +50226,13 @@
       "source": "art:vbvg-rechtsprechung",
       "source_file": "articles/2072.json",
       "target": "art:gegenbetreuer"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vbvg-rechtsprechung",
+      "source_file": "articles/2072.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -47818,6 +50296,13 @@
       "source": "art:vbvg-rechtsprechung",
       "source_file": "articles/2072.json",
       "target": "art:schlussbericht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vbvg-rechtsprechung",
+      "source_file": "articles/2072.json",
+      "target": "art:schlusstätigkeiten"
     },
     {
       "confidence": "EXTRACTED",
@@ -48076,6 +50561,13 @@
       "relation": "links_to",
       "source": "art:synopse-patientenverfügungsgesetze",
       "source_file": "articles/2078.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:synopse-patientenverfügungsgesetze",
+      "source_file": "articles/2078.json",
       "target": "art:freier-wille"
     },
     {
@@ -48202,6 +50694,20 @@
       "relation": "links_to",
       "source": "art:peg-sonde",
       "source_file": "articles/2084.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:peg-sonde",
+      "source_file": "articles/2084.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:peg-sonde",
+      "source_file": "articles/2084.json",
       "target": "art:betreuungsverfahren"
     },
     {
@@ -48245,6 +50751,13 @@
       "source": "art:peg-sonde",
       "source_file": "articles/2084.json",
       "target": "art:gesundheitliche-versorgungsplanung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:peg-sonde",
+      "source_file": "articles/2084.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -48440,6 +50953,13 @@
       "relation": "links_to",
       "source": "art:pflegeversicherung",
       "source_file": "articles/2090.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:pflegeversicherung",
+      "source_file": "articles/2090.json",
       "target": "art:informationspflicht"
     },
     {
@@ -48587,6 +51107,13 @@
       "relation": "links_to",
       "source": "art:altenheim",
       "source_file": "articles/2092.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:altenheim",
+      "source_file": "articles/2092.json",
       "target": "art:betreuungsverein"
     },
     {
@@ -48609,6 +51136,13 @@
       "source": "art:altenheim",
       "source_file": "articles/2092.json",
       "target": "art:dokumentationspflicht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:altenheim",
+      "source_file": "articles/2092.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -48644,6 +51178,13 @@
       "source": "art:altenheim",
       "source_file": "articles/2092.json",
       "target": "art:gesundheitliche-versorgungsplanung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:altenheim",
+      "source_file": "articles/2092.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -49399,6 +51940,13 @@
       "relation": "links_to",
       "source": "art:finanzamt",
       "source_file": "articles/2101.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:finanzamt",
+      "source_file": "articles/2101.json",
       "target": "art:ende-der-betreuung"
     },
     {
@@ -49756,6 +52304,13 @@
       "relation": "links_to",
       "source": "art:angehörigenvertretungsrecht",
       "source_file": "articles/2106.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:angehörigenvertretungsrecht",
+      "source_file": "articles/2106.json",
       "target": "art:heilbehandlung"
     },
     {
@@ -49980,6 +52535,13 @@
       "relation": "links_to",
       "source": "art:alltagsgeschäfte",
       "source_file": "articles/2114.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:alltagsgeschäfte",
+      "source_file": "articles/2114.json",
       "target": "art:ausländer"
     },
     {
@@ -50002,6 +52564,13 @@
       "source": "art:alltagsgeschäfte",
       "source_file": "articles/2114.json",
       "target": "art:eingliederungshilfe"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:alltagsgeschäfte",
+      "source_file": "articles/2114.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -50148,6 +52717,13 @@
       "relation": "links_to",
       "source": "art:rechtsprechung-zum-sachverständigengutachten",
       "source_file": "articles/2119.json",
+      "target": "art:betreuungsbehörde"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung-zum-sachverständigengutachten",
+      "source_file": "articles/2119.json",
       "target": "art:betreuungsgericht"
     },
     {
@@ -50177,6 +52753,13 @@
       "source": "art:rechtsprechung-zum-sachverständigengutachten",
       "source_file": "articles/2119.json",
       "target": "art:einstweilige-anordnung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung-zum-sachverständigengutachten",
+      "source_file": "articles/2119.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -50428,6 +53011,13 @@
       "relation": "links_to",
       "source": "art:rechtsprechung-zur-anhörung",
       "source_file": "articles/2121.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung-zur-anhörung",
+      "source_file": "articles/2121.json",
       "target": "art:erörterungsgespräch"
     },
     {
@@ -50478,6 +53068,13 @@
       "source": "art:rechtsprechung-zur-anhörung",
       "source_file": "articles/2121.json",
       "target": "art:kontrollbetreuer"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung-zur-anhörung",
+      "source_file": "articles/2121.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -50680,6 +53277,13 @@
       "relation": "links_to",
       "source": "art:rechtsprechung-zum-verfahrenspfleger",
       "source_file": "articles/2122.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung-zum-verfahrenspfleger",
+      "source_file": "articles/2122.json",
       "target": "art:freier-wille"
     },
     {
@@ -50702,6 +53306,13 @@
       "source": "art:rechtsprechung-zum-verfahrenspfleger",
       "source_file": "articles/2122.json",
       "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung-zum-verfahrenspfleger",
+      "source_file": "articles/2122.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -50757,6 +53368,13 @@
       "relation": "links_to",
       "source": "art:rechtsprechung-zum-verfahrenspfleger",
       "source_file": "articles/2122.json",
+      "target": "art:rechtsmittel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung-zum-verfahrenspfleger",
+      "source_file": "articles/2122.json",
       "target": "art:rechtsprechung-zur-unterbringung"
     },
     {
@@ -50800,6 +53418,13 @@
       "source": "art:rechtsprechung-zum-verfahrenspfleger",
       "source_file": "articles/2122.json",
       "target": "art:unterbringungsverfahren"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung-zum-verfahrenspfleger",
+      "source_file": "articles/2122.json",
+      "target": "art:unterbringungsähnliche-maßnahme"
     },
     {
       "confidence": "EXTRACTED",
@@ -51345,6 +53970,13 @@
       "relation": "links_to",
       "source": "art:persönliches-budget",
       "source_file": "articles/2127.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:persönliches-budget",
+      "source_file": "articles/2127.json",
       "target": "art:eingliederungshilfe"
     },
     {
@@ -51646,6 +54278,13 @@
       "relation": "links_to",
       "source": "art:familienverfahrensgesetz",
       "source_file": "articles/2128.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:familienverfahrensgesetz",
+      "source_file": "articles/2128.json",
       "target": "art:eidesstattliche-versicherung"
     },
     {
@@ -51654,6 +54293,13 @@
       "source": "art:familienverfahrensgesetz",
       "source_file": "articles/2128.json",
       "target": "art:einstweilige-anordnung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:familienverfahrensgesetz",
+      "source_file": "articles/2128.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -52227,6 +54873,13 @@
       "relation": "links_to",
       "source": "art:rechtsprechung-zur-unterbringung",
       "source_file": "articles/2133.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsprechung-zur-unterbringung",
+      "source_file": "articles/2133.json",
       "target": "art:grundrechte"
     },
     {
@@ -52514,6 +55167,13 @@
       "relation": "links_to",
       "source": "art:arbeitsvertrag",
       "source_file": "articles/2142.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:arbeitsvertrag",
+      "source_file": "articles/2142.json",
       "target": "art:erweiterte-unterstützung"
     },
     {
@@ -52571,6 +55231,13 @@
       "source": "art:arbeitsvertrag",
       "source_file": "articles/2142.json",
       "target": "art:gesetzlicher-vertreter"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:arbeitsvertrag",
+      "source_file": "articles/2142.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -52864,6 +55531,20 @@
       "relation": "links_to",
       "source": "art:betreuungssache",
       "source_file": "articles/2147.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungssache",
+      "source_file": "articles/2147.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungssache",
+      "source_file": "articles/2147.json",
       "target": "art:ende-der-betreuung"
     },
     {
@@ -53025,6 +55706,13 @@
       "relation": "links_to",
       "source": "art:zwangsvollstreckung",
       "source_file": "articles/2149.json",
+      "target": "art:betreuervergütung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:zwangsvollstreckung",
+      "source_file": "articles/2149.json",
       "target": "art:betreutes-wohnen"
     },
     {
@@ -53054,6 +55742,13 @@
       "source": "art:zwangsvollstreckung",
       "source_file": "articles/2149.json",
       "target": "art:eidesstattliche-versicherung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:zwangsvollstreckung",
+      "source_file": "articles/2149.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -53403,6 +56098,20 @@
       "relation": "links_to",
       "source": "art:kirchenaustritt",
       "source_file": "articles/2160.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:kirchenaustritt",
+      "source_file": "articles/2160.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:kirchenaustritt",
+      "source_file": "articles/2160.json",
       "target": "art:finanzamt"
     },
     {
@@ -53446,6 +56155,13 @@
       "source": "art:kirchenaustritt",
       "source_file": "articles/2160.json",
       "target": "art:gesetzliche-vertretung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:kirchenaustritt",
+      "source_file": "articles/2160.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -53565,6 +56281,13 @@
       "source": "art:kirchenaustritt",
       "source_file": "articles/2160.json",
       "target": "art:schleswig-holstein"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:kirchenaustritt",
+      "source_file": "articles/2160.json",
+      "target": "art:selbstbestimmung"
     },
     {
       "confidence": "EXTRACTED",
@@ -53747,6 +56470,13 @@
       "source": "art:betreuer-als-erbe",
       "source_file": "articles/2162.json",
       "target": "art:betreuerbestellung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuer-als-erbe",
+      "source_file": "articles/2162.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -54810,6 +57540,13 @@
       "relation": "links_to",
       "source": "art:neu",
       "source_file": "articles/2175.json",
+      "target": "art:unterbringungsähnliche-maßnahme"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:neu",
+      "source_file": "articles/2175.json",
       "target": "art:verbraucherstreitbeilegung"
     },
     {
@@ -55013,6 +57750,13 @@
       "relation": "links_to",
       "source": "art:krankenversicherung",
       "source_file": "articles/2178.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:krankenversicherung",
+      "source_file": "articles/2178.json",
       "target": "art:informationspflicht"
     },
     {
@@ -55174,7 +57918,28 @@
       "relation": "links_to",
       "source": "art:rente",
       "source_file": "articles/2184.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rente",
+      "source_file": "articles/2184.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rente",
+      "source_file": "articles/2184.json",
       "target": "art:einstweilige-anordnung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rente",
+      "source_file": "articles/2184.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -55363,7 +58128,21 @@
       "relation": "links_to",
       "source": "art:tierschutz",
       "source_file": "articles/2186.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:tierschutz",
+      "source_file": "articles/2186.json",
       "target": "art:forensik"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:tierschutz",
+      "source_file": "articles/2186.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -55706,7 +58485,21 @@
       "relation": "links_to",
       "source": "art:betreuungsrichter",
       "source_file": "articles/2222.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsrichter",
+      "source_file": "articles/2222.json",
       "target": "art:einstweilige-anordnung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsrichter",
+      "source_file": "articles/2222.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -55958,6 +58751,13 @@
       "relation": "links_to",
       "source": "art:verlängerung-der-betreuung",
       "source_file": "articles/2234.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:verlängerung-der-betreuung",
+      "source_file": "articles/2234.json",
       "target": "art:neu"
     },
     {
@@ -56161,6 +58961,13 @@
       "relation": "links_to",
       "source": "art:rechtsanwalt",
       "source_file": "articles/2237.json",
+      "target": "art:betreuervergütung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsanwalt",
+      "source_file": "articles/2237.json",
       "target": "art:betreuungsverfahren"
     },
     {
@@ -56190,6 +58997,13 @@
       "source": "art:rechtsanwalt",
       "source_file": "articles/2237.json",
       "target": "art:geschäftsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsanwalt",
+      "source_file": "articles/2237.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -56651,6 +59465,13 @@
       "relation": "links_to",
       "source": "art:mahnverfahren",
       "source_file": "articles/2247.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:mahnverfahren",
+      "source_file": "articles/2247.json",
       "target": "art:freier-wille"
     },
     {
@@ -57036,6 +59857,13 @@
       "relation": "links_to",
       "source": "art:patientenvertreter",
       "source_file": "articles/2259.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:patientenvertreter",
+      "source_file": "articles/2259.json",
       "target": "art:heilbehandlung"
     },
     {
@@ -57170,6 +59998,13 @@
       "source": "art:grundstück",
       "source_file": "articles/2261.json",
       "target": "art:betreuungsgericht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:grundstück",
+      "source_file": "articles/2261.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -57414,6 +60249,20 @@
       "relation": "links_to",
       "source": "art:checkliste-personenbogen",
       "source_file": "articles/2269.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:checkliste-personenbogen",
+      "source_file": "articles/2269.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:checkliste-personenbogen",
+      "source_file": "articles/2269.json",
       "target": "art:haftpflichtversicherung"
     },
     {
@@ -57519,6 +60368,13 @@
       "relation": "links_to",
       "source": "art:insichgeschäft",
       "source_file": "articles/2271.json",
+      "target": "art:beglaubigung-durch-betreuungsbehörde"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:insichgeschäft",
+      "source_file": "articles/2271.json",
       "target": "art:bestellung-mehrerer-betreuer"
     },
     {
@@ -57540,6 +60396,13 @@
       "relation": "links_to",
       "source": "art:insichgeschäft",
       "source_file": "articles/2271.json",
+      "target": "art:betreuervergütung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:insichgeschäft",
+      "source_file": "articles/2271.json",
       "target": "art:betreuungsgericht"
     },
     {
@@ -57547,7 +60410,21 @@
       "relation": "links_to",
       "source": "art:insichgeschäft",
       "source_file": "articles/2271.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:insichgeschäft",
+      "source_file": "articles/2271.json",
       "target": "art:ergänzungsbetreuer"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:insichgeschäft",
+      "source_file": "articles/2271.json",
+      "target": "art:geschäftsfähigkeit"
     },
     {
       "confidence": "EXTRACTED",
@@ -58520,6 +61397,13 @@
       "relation": "links_to",
       "source": "art:gesundheitliche-versorgungsplanung",
       "source_file": "articles/2307.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitliche-versorgungsplanung",
+      "source_file": "articles/2307.json",
       "target": "art:heilbehandlung"
     },
     {
@@ -58570,6 +61454,13 @@
       "source": "art:gesundheitliche-versorgungsplanung",
       "source_file": "articles/2307.json",
       "target": "art:schweigepflicht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitliche-versorgungsplanung",
+      "source_file": "articles/2307.json",
+      "target": "art:selbstbestimmung"
     },
     {
       "confidence": "EXTRACTED",
@@ -58898,6 +61789,13 @@
       "relation": "links_to",
       "source": "art:girokonto",
       "source_file": "articles/2321.json",
+      "target": "art:geldanlage"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:girokonto",
+      "source_file": "articles/2321.json",
       "target": "art:genehmigungspflichten"
     },
     {
@@ -59046,6 +61944,20 @@
       "source": "art:girokonto",
       "source_file": "articles/2321.json",
       "target": "ext:www.ueag-nrw.org"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsorganisationsgesetz",
+      "source_file": "articles/2329.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:betreuungsorganisationsgesetz",
+      "source_file": "articles/2329.json",
+      "target": "art:beglaubigung-durch-betreuungsbehörde"
     },
     {
       "confidence": "EXTRACTED",
@@ -59500,6 +62412,13 @@
       "relation": "links_to",
       "source": "art:registrierung",
       "source_file": "articles/2333.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:registrierung",
+      "source_file": "articles/2333.json",
       "target": "art:grundrechte"
     },
     {
@@ -59948,6 +62867,13 @@
       "relation": "links_to",
       "source": "art:sachkundenachweis",
       "source_file": "articles/2349.json",
+      "target": "art:betreuerhaftung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sachkundenachweis",
+      "source_file": "articles/2349.json",
       "target": "art:betreuerpflichten"
     },
     {
@@ -60081,6 +63007,13 @@
       "relation": "links_to",
       "source": "art:sachkundenachweis",
       "source_file": "articles/2349.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sachkundenachweis",
+      "source_file": "articles/2349.json",
       "target": "art:elektronisches-gerichts--und-verwaltungspostfach"
     },
     {
@@ -60131,6 +63064,13 @@
       "source": "art:sachkundenachweis",
       "source_file": "articles/2349.json",
       "target": "art:gesetzliche-vertretung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sachkundenachweis",
+      "source_file": "articles/2349.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -60250,6 +63190,13 @@
       "source": "art:sachkundenachweis",
       "source_file": "articles/2349.json",
       "target": "art:sachverständigengutachten"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:sachkundenachweis",
+      "source_file": "articles/2349.json",
+      "target": "art:selbstbestimmung"
     },
     {
       "confidence": "EXTRACTED",
@@ -60550,6 +63497,13 @@
       "relation": "links_to",
       "source": "art:online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
       "source_file": "articles/2350.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:online-lexikon-betreuungsrecht:über-online-lexikon-betreuungsrecht",
+      "source_file": "articles/2350.json",
       "target": "art:freier-wille"
     },
     {
@@ -60817,6 +63771,13 @@
       "source": "art:anfangsbericht",
       "source_file": "articles/39221.json",
       "target": "art:aufgabenkreis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:anfangsbericht",
+      "source_file": "articles/39221.json",
+      "target": "art:beaufsichtigung"
     },
     {
       "confidence": "EXTRACTED",
@@ -61243,6 +64204,13 @@
       "relation": "links_to",
       "source": "art:erörterungsgespräch",
       "source_file": "articles/39228.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:erörterungsgespräch",
+      "source_file": "articles/39228.json",
       "target": "art:grundrechte"
     },
     {
@@ -61467,6 +64435,13 @@
       "relation": "links_to",
       "source": "art:anfangsgespräch",
       "source_file": "articles/39229.json",
+      "target": "art:selbstbestimmung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:anfangsgespräch",
+      "source_file": "articles/39229.json",
       "target": "art:verpflichtungsgespräch"
     },
     {
@@ -61503,6 +64478,13 @@
       "source": "art:schlussrechnungslegung",
       "source_file": "articles/39231.json",
       "target": "art:betreuerwechsel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:schlussrechnungslegung",
+      "source_file": "articles/39231.json",
+      "target": "art:betreuungsrechtliche-praxis"
     },
     {
       "confidence": "EXTRACTED",
@@ -61559,6 +64541,13 @@
       "source": "art:schlussrechnungslegung",
       "source_file": "articles/39231.json",
       "target": "art:schlussbericht"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:schlussrechnungslegung",
+      "source_file": "articles/39231.json",
+      "target": "art:schlusstätigkeiten"
     },
     {
       "confidence": "EXTRACTED",
@@ -61712,7 +64701,21 @@
       "relation": "links_to",
       "source": "art:hamburger-mustergliederung",
       "source_file": "articles/39232.json",
+      "target": "art:selbstbestimmung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:hamburger-mustergliederung",
+      "source_file": "articles/39232.json",
       "target": "art:software"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:hamburger-mustergliederung",
+      "source_file": "articles/39232.json",
+      "target": "art:tod-des-betreuten"
     },
     {
       "confidence": "EXTRACTED",
@@ -61943,6 +64946,13 @@
       "relation": "links_to",
       "source": "art:ergänzungsbetreuer",
       "source_file": "articles/39236.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:ergänzungsbetreuer",
+      "source_file": "articles/39236.json",
       "target": "art:betreuungsverfahren"
     },
     {
@@ -61951,6 +64961,13 @@
       "source": "art:ergänzungsbetreuer",
       "source_file": "articles/39236.json",
       "target": "art:einstweilige-anordnung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:ergänzungsbetreuer",
+      "source_file": "articles/39236.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -62125,6 +65142,20 @@
       "relation": "links_to",
       "source": "art:anlagegeld",
       "source_file": "articles/39238.json",
+      "target": "art:betreuungsmanagement"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:anlagegeld",
+      "source_file": "articles/39238.json",
+      "target": "art:betreuungsrechtliche-praxis"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:anlagegeld",
+      "source_file": "articles/39238.json",
       "target": "art:betreuungsrechtsreform"
     },
     {
@@ -62230,6 +65261,13 @@
       "relation": "links_to",
       "source": "art:anlagegeld",
       "source_file": "articles/39238.json",
+      "target": "art:rechtsmittel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:anlagegeld",
+      "source_file": "articles/39238.json",
       "target": "art:rechtspfleger"
     },
     {
@@ -62238,6 +65276,13 @@
       "source": "art:anlagegeld",
       "source_file": "articles/39238.json",
       "target": "art:rechtsprechung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:anlagegeld",
+      "source_file": "articles/39238.json",
+      "target": "art:selbstbestimmung"
     },
     {
       "confidence": "EXTRACTED",
@@ -62356,6 +65401,13 @@
       "relation": "links_to",
       "source": "art:verfügungsgeld",
       "source_file": "articles/39239.json",
+      "target": "art:geldanlage"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:verfügungsgeld",
+      "source_file": "articles/39239.json",
       "target": "art:genehmigungspflichten"
     },
     {
@@ -62455,6 +65507,13 @@
       "source": "art:ausschließlichkeitserklärung",
       "source_file": "articles/39240.json",
       "target": "art:digitale-barrierefreiheit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:ausschließlichkeitserklärung",
+      "source_file": "articles/39240.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -62881,6 +65940,13 @@
       "relation": "links_to",
       "source": "art:bankvollmacht",
       "source_file": "articles/39247.json",
+      "target": "art:geschäftsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:bankvollmacht",
+      "source_file": "articles/39247.json",
       "target": "art:gesetzliche-vertretung"
     },
     {
@@ -62994,6 +66060,13 @@
       "source": "art:tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
       "source_file": "articles/39249.json",
       "target": "art:aufwendungsersatz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
+      "source_file": "articles/39249.json",
+      "target": "art:ausbildung"
     },
     {
       "confidence": "EXTRACTED",
@@ -63707,6 +66780,13 @@
       "relation": "links_to",
       "source": "art:vereinbarung-über-begleitung-und-unterstützung",
       "source_file": "articles/39252.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vereinbarung-über-begleitung-und-unterstützung",
+      "source_file": "articles/39252.json",
       "target": "art:ausländer"
     },
     {
@@ -64177,6 +67257,13 @@
       "source": "art:vertrauensperson",
       "source_file": "articles/39254.json",
       "target": "art:rechtsanwalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vertrauensperson",
+      "source_file": "articles/39254.json",
+      "target": "art:rechtsmittel"
     },
     {
       "confidence": "EXTRACTED",
@@ -64925,6 +68012,13 @@
       "relation": "links_to",
       "source": "art:mitteilungspflicht",
       "source_file": "articles/39258.json",
+      "target": "art:ausbildung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:mitteilungspflicht",
+      "source_file": "articles/39258.json",
       "target": "art:auskunftspflicht"
     },
     {
@@ -65024,6 +68118,13 @@
       "source": "art:mitteilungspflicht",
       "source_file": "articles/39258.json",
       "target": "art:dauervergütung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:mitteilungspflicht",
+      "source_file": "articles/39258.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -66087,6 +69188,13 @@
       "relation": "links_to",
       "source": "art:elektronische-patientenakte",
       "source_file": "articles/39263.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:elektronische-patientenakte",
+      "source_file": "articles/39263.json",
       "target": "art:grundrechte"
     },
     {
@@ -66528,6 +69636,13 @@
       "relation": "links_to",
       "source": "art:vulnerabilität",
       "source_file": "articles/39265.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:vulnerabilität",
+      "source_file": "articles/39265.json",
       "target": "art:grundrechte"
     },
     {
@@ -66927,6 +70042,13 @@
       "relation": "links_to",
       "source": "art:informationspflicht",
       "source_file": "articles/39266.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:informationspflicht",
+      "source_file": "articles/39266.json",
       "target": "art:girokonto"
     },
     {
@@ -67236,6 +70358,13 @@
       "source": "art:wohn--und-betreuungsvertragsgesetz",
       "source_file": "articles/39267.json",
       "target": "art:föderalismus"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:wohn--und-betreuungsvertragsgesetz",
+      "source_file": "articles/39267.json",
+      "target": "art:geschäftsfähigkeit"
     },
     {
       "confidence": "EXTRACTED",
@@ -68047,6 +71176,13 @@
       "relation": "links_to",
       "source": "art:amtsermittlungspflicht",
       "source_file": "articles/39271.json",
+      "target": "art:rechtsmittel"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:amtsermittlungspflicht",
+      "source_file": "articles/39271.json",
       "target": "art:rechtsprechung"
     },
     {
@@ -68461,6 +71597,13 @@
       "source": "art:verbraucherstreitbeilegung",
       "source_file": "articles/39273.json",
       "target": "art:gesetzgebung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:verbraucherstreitbeilegung",
+      "source_file": "articles/39273.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -69041,6 +72184,13 @@
       "relation": "links_to",
       "source": "art:intellektuelle-beeinträchtigung",
       "source_file": "articles/39275.json",
+      "target": "art:geschäftsfähigkeit"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:intellektuelle-beeinträchtigung",
+      "source_file": "articles/39275.json",
       "target": "art:gesundheitsdatennutzungsgesetz"
     },
     {
@@ -69259,6 +72409,13 @@
       "source": "art:rechtsverkehr-in-deutschland",
       "source_file": "articles/39276.json",
       "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:rechtsverkehr-in-deutschland",
+      "source_file": "articles/39276.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -69588,6 +72745,13 @@
       "source": "art:medikationsplan",
       "source_file": "articles/39277.json",
       "target": "art:gesundheitsdatennutzungsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:medikationsplan",
+      "source_file": "articles/39277.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -70994,6 +74158,13 @@
       "relation": "links_to",
       "source": "art:dokumentationspflicht",
       "source_file": "articles/39282.json",
+      "target": "art:gesundheitssorge"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:dokumentationspflicht",
+      "source_file": "articles/39282.json",
       "target": "art:grundrechte"
     },
     {
@@ -71688,6 +74859,13 @@
       "source": "art:unterstützungspflicht",
       "source_file": "articles/39284.json",
       "target": "art:gesundheitsdatennutzungsgesetz"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:unterstützungspflicht",
+      "source_file": "articles/39284.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -72843,6 +76021,13 @@
       "source": "art:anzeigepflicht",
       "source_file": "articles/39289.json",
       "target": "art:betreuungsverein"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:anzeigepflicht",
+      "source_file": "articles/39289.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -74733,6 +77918,13 @@
       "source": "art:gesundheitsdatennutzungsgesetz",
       "source_file": "articles/39296.json",
       "target": "art:gesetzgebung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gesundheitsdatennutzungsgesetz",
+      "source_file": "articles/39296.json",
+      "target": "art:gesundheitssorge"
     },
     {
       "confidence": "EXTRACTED",
@@ -77462,6 +80654,13 @@
       "relation": "links_to",
       "source": "art:auskunftspflicht",
       "source_file": "articles/39310.json",
+      "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:auskunftspflicht",
+      "source_file": "articles/39310.json",
       "target": "art:eidesstattliche-versicherung"
     },
     {
@@ -78407,6 +81606,13 @@
       "relation": "links_to",
       "source": "art:überprüfungsfrist",
       "source_file": "articles/39320.json",
+      "target": "art:einwilligungsvorbehalt"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:überprüfungsfrist",
+      "source_file": "articles/39320.json",
       "target": "art:gerichtsbeschluss"
     },
     {
@@ -78484,6 +81690,13 @@
       "relation": "links_to",
       "source": "art:personenstand",
       "source_file": "articles/39321.json",
+      "target": "art:beglaubigung-durch-betreuungsbehörde"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:personenstand",
+      "source_file": "articles/39321.json",
       "target": "art:bestattung"
     },
     {
@@ -78534,6 +81747,13 @@
       "source": "art:personenstand",
       "source_file": "articles/39321.json",
       "target": "art:eherecht-und-betreuung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:personenstand",
+      "source_file": "articles/39321.json",
+      "target": "art:einwilligungsvorbehalt"
     },
     {
       "confidence": "EXTRACTED",
@@ -80349,6 +83569,12 @@
     },
     {
       "file_type": "document",
+      "id": "art:einwilligungsvorbehalt",
+      "label": "Einwilligungsvorbehalt",
+      "source_file": "articles/1773.json"
+    },
+    {
+      "file_type": "document",
       "id": "art:elektronische-patientenakte",
       "label": "Elektronische Patientenakte",
       "source_file": "articles/39263.json"
@@ -80568,6 +83794,12 @@
       "id": "art:gesundheitsdatennutzungsgesetz",
       "label": "Gesundheitsdatennutzungsgesetz",
       "source_file": "articles/39296.json"
+    },
+    {
+      "file_type": "document",
+      "id": "art:gesundheitssorge",
+      "label": "Gesundheitssorge",
+      "source_file": "articles/1581.json"
     },
     {
       "file_type": "document",
@@ -82007,7 +85239,7 @@
       "file_type": "concept",
       "id": "ext:dopus.uni-speyer.de",
       "label": "dopus.uni-speyer.de",
-      "source_file": "articles/1795.json"
+      "source_file": "articles/1773.json"
     },
     {
       "file_type": "concept",
@@ -82961,7 +86193,7 @@
       "file_type": "concept",
       "id": "ext:www.betreuerhaftung.de",
       "label": "www.betreuerhaftung.de",
-      "source_file": "articles/1621.json"
+      "source_file": "articles/1581.json"
     },
     {
       "file_type": "concept",
@@ -83709,6 +86941,12 @@
     },
     {
       "file_type": "concept",
+      "id": "ext:www.gesr.de",
+      "label": "www.gesr.de",
+      "source_file": "articles/1581.json"
+    },
+    {
+      "file_type": "concept",
       "id": "ext:www.gez.de",
       "label": "www.gez.de",
       "source_file": "articles/1658.json"
@@ -83964,6 +87202,12 @@
       "id": "ext:www.jura.uni-bonn.de",
       "label": "www.jura.uni-bonn.de",
       "source_file": "articles/1557.json"
+    },
+    {
+      "file_type": "concept",
+      "id": "ext:www.juraexamen.info",
+      "label": "www.juraexamen.info",
+      "source_file": "articles/1773.json"
     },
     {
       "file_type": "concept",
@@ -85020,6 +88264,12 @@
       "id": "ext:www.verbraucherzentrale.nrw",
       "label": "www.verbraucherzentrale.nrw",
       "source_file": "articles/2092.json"
+    },
+    {
+      "file_type": "concept",
+      "id": "ext:www.verfassungsgerichtshof-saarland.de",
+      "label": "www.verfassungsgerichtshof-saarland.de",
+      "source_file": "articles/1773.json"
     },
     {
       "file_type": "concept",

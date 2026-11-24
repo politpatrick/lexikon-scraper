@@ -2,11 +2,10 @@
   "categories": [
     "Betreuerpflichten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "bundesländer",
-    "gesundheitssorge"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://www.kv-schulung.de/fachaufsaetze/",
     "https://betroyt.de/podcast/folge-20-krankenkasse-zwei-fallbeispiele-zum-thema-krankenversicherung/",
@@ -28,6 +27,7 @@
     "e-rezept",
     "freier-wille",
     "geschäftsfähigkeit",
+    "gesundheitssorge",
     "informationspflicht",
     "interoperabilität",
     "mdk-gutachten",

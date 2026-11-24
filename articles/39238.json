@@ -2,14 +2,10 @@
   "categories": [
     "Vermögenssorge"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "betreuer",
-    "btman",
-    "btprax",
-    "wunscherfüllung"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://www.amazon.de/exec/obidos/ASIN/3093057639/internetsevon-21",
     "http://www.amazon.de/exec/obidos/ASIN/3802984447/internetsevon-21",
@@ -30,6 +26,8 @@
     "befreiter-betreuer",
     "betreuerhaftung",
     "betreuungsgericht",
+    "betreuungsmanagement",
+    "betreuungsrechtliche-praxis",
     "betreuungsrechtsreform",
     "betreuungsverein",
     "eidesstattliche-versicherung",
@@ -45,8 +43,10 @@
     "neu",
     "nutzungspflicht",
     "rechnungslegung",
+    "rechtsmittel",
     "rechtspfleger",
     "rechtsprechung",
+    "selbstbestimmung",
     "vereinsbetreuer",
     "vermögenssorge",
     "vermögensverzeichnis"

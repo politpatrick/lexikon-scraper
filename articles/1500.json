@@ -2,14 +2,11 @@
   "categories": [
     "Arbeitshilfen"
   ],
-  "category_links": [],
+  "category_links": [
+    "Adressen"
+  ],
   "dead_links": [
-    "betreuungsgerichtstag",
-    "btman",
-    "btprax",
-    "bundesländer",
-    "einwilligungsvorbehalt",
-    "geschäftsunfähigkeit"
+    "betreuungsgerichtstag"
   ],
   "external_links": [
     "http://www.bundesgerichtshof.de",
@@ -38,12 +35,15 @@
     "betreuungsbehördengesetz",
     "betreuungsgericht",
     "betreuungsgesetz",
+    "betreuungsmanagement",
     "betreuungsorganisationsgesetz",
+    "betreuungsrechtliche-praxis",
     "bundesverband-der-berufsbetreuer",
     "bundesverband-freier-berufsbetreuer",
     "datenschutz",
     "eingliederungshilfe",
     "einstweilige-anordnung",
+    "einwilligungsvorbehalt",
     "erbschaft",
     "familienverfahrensgesetz",
     "finanzamt",

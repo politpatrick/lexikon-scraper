@@ -3,15 +3,12 @@
     "Betreuungspersonen"
   ],
   "category_links": [
+    "Adressen",
     "Betreuerpflichten",
     "Bundesländer"
   ],
   "dead_links": [
-    "aufwandsentschädigung",
-    "bgt",
-    "btprax",
-    "bundesländer",
-    "vergütung"
+    "bgt"
   ],
   "external_links": [
     "http://dejure.org/gesetze/GG/2.html",
@@ -44,11 +41,13 @@
     "betreuerbestellung",
     "betreuerhaftung",
     "betreuerpflichten",
+    "betreuervergütung",
     "betreuervorschlag",
     "betreuungsbehörde",
     "betreuungsgericht",
     "betreuungsgesetz",
     "betreuungsorganisationsgesetz",
+    "betreuungsrechtliche-praxis",
     "betreuungsverein",
     "betreuungsverfahren",
     "betreuungsverfügung",

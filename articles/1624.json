@@ -3,11 +3,10 @@
     "Berufsbetreuer",
     "Betreuerentschädigung"
   ],
-  "category_links": [],
-  "dead_links": [
-    "bundesländer",
-    "einwilligungsvorbehalt"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://www.amazon.de/exec/obidos/ASIN/3846215422/internetsevon-21"
   ],
@@ -25,6 +24,7 @@
     "betreuungsbehörde",
     "brandenburg",
     "e-rechnung",
+    "einwilligungsvorbehalt",
     "ergänzungsbetreuer",
     "freibetrag",
     "gerichtskosten",

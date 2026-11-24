@@ -2,12 +2,10 @@
   "categories": [
     "Betreuungsverfahren"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "btprax",
-    "entlassung-des-betreuers"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://de.wikipedia.org/w/index.php?title=Betreuungsverf%C3%BCgung&oldid=20104015",
     "http://dvzag.de/plattformrecht/urteil2.htm",
@@ -33,9 +31,11 @@
     "bestattungsvertrag",
     "betreuerbestellung",
     "betreuerpflichten",
+    "betreuerwechsel",
     "betreuungsbehörde",
     "betreuungsgericht",
     "betreuungsrecht-lexikon:haftungsausschluss",
+    "betreuungsrechtliche-praxis",
     "betreuungsverein",
     "betreuungsverfahren",
     "betreuungsvoraussetzung",

@@ -2,11 +2,10 @@
   "categories": [
     "Berichterstattung"
   ],
-  "category_links": [],
-  "dead_links": [
-    "berichterstattung",
-    "notgeschäftsführung"
+  "category_links": [
+    "Berichterstattung"
   ],
+  "dead_links": [],
   "external_links": [
     "https://btdirekt.de/wp-content/uploads/2023/06/BVfB_Mustervorlage_Schlussbericht.docx",
     "https://justizportal.niedersachsen.de/download/191359/BT_220_-_Jahresbericht_Betreuung_-_barrierefrei.pdf",

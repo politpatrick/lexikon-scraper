@@ -3,12 +3,10 @@
     "Betreuerpflichten",
     "Vermögenssorge"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "einwilligungsvorbehalt",
-    "vergütung"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://www.amtsgericht.bremen.de/sixcms/detail.php?gsid=bremen85.c.1599.de#insolvenz",
     "http://www.dgvb.de/vordrucke",
@@ -30,11 +28,13 @@
     "behindertenkonvention",
     "betreuerbestellung",
     "betreuerpflichten",
+    "betreuervergütung",
     "betreutes-wohnen",
     "betreuungsgericht",
     "betreuungsverfahren",
     "bezirksrevisor",
     "eidesstattliche-versicherung",
+    "einwilligungsvorbehalt",
     "formulare",
     "freibetrag",
     "genehmigungspflichten",

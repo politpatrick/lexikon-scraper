@@ -2,15 +2,10 @@
   "categories": [
     "Betreuerpflichten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "bundesländer",
-    "ehescheidung",
-    "einwilligungsvorbehalt",
-    "geschäftsunfähigkeit",
-    "gesundheitssorge",
-    "wunscherfüllung"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://bundesrecht.juris.de/kerzg/BJNR009390921.html",
     "http://gesetze.berlin.de/jportal/portal/t/t9o/page/bsbeprod.psml?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=1&numberofresults=9&fromdoctodoc=yes&doc.id=jlr-KiAustrGBErahmen&doc.part=X&doc.price=0.0&doc.hl=1#focuspoint",
@@ -44,6 +39,8 @@
     "brandenburg",
     "bremen",
     "diskriminierungsverbot",
+    "eherecht-und-betreuung",
+    "einwilligungsvorbehalt",
     "finanzamt",
     "freier-wille",
     "gemeinwohlorientierung",
@@ -51,6 +48,7 @@
     "geschäftsfähigkeit",
     "gesetzgebung",
     "gesetzliche-vertretung",
+    "gesundheitssorge",
     "grundrechte",
     "hamburg",
     "hessen",
@@ -68,6 +66,7 @@
     "sachsen-anhalt",
     "sachverständigengutachten",
     "schleswig-holstein",
+    "selbstbestimmung",
     "thüringen",
     "unterstützungspflicht",
     "vermögenssorge",

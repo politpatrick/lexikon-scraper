@@ -2,14 +2,10 @@
   "categories": [
     "Betreuungsverfahren"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "betreuer",
-    "betreuerauswahl",
-    "einwilligungsvorbehalt",
-    "sachverhaltsaufklärung"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -28,6 +24,7 @@
     "betreuungsverfahren",
     "diskriminierungsverbot",
     "einstweilige-anordnung",
+    "einwilligungsvorbehalt",
     "familienverfahrensgesetz",
     "forensik",
     "freier-wille",

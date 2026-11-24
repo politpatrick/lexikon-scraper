@@ -5,16 +5,10 @@
     "Rechtsprechung",
     "Unterbringung"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "betreuer",
-    "betreuungsstelle",
-    "einwilligungsvorbehalt",
-    "entlassung-des-betreuers",
-    "fixierung",
-    "gesundheitsfürsorge"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://lrbw.juris.de/cgi-bin/laender_rechtsprechung/document.py?Gericht=bw&Art=en&sid=5e65cea120d272c59207cab8e9f68089&nr=3983&pos=8&anz=14",
     "http://www.jurathek.de/showdocument.php?session=O&ID=6066&referrer=417",
@@ -36,10 +30,12 @@
     "betreuungsgericht",
     "betreuungsverein",
     "betreuungsverfahren",
+    "einwilligungsvorbehalt",
     "freier-wille",
     "genehmigungspflichten",
     "geschäftsfähigkeit",
     "gesetzlicher-vertreter",
+    "gesundheitssorge",
     "grundrechte",
     "kontrollbetreuer",
     "natürlicher-wille",
@@ -47,6 +43,7 @@
     "postkontrolle",
     "psychisch-kranken-gesetz",
     "rechtsanwalt",
+    "rechtsmittel",
     "rechtsprechung-zur-unterbringung",
     "rechtsweg-in-deutschland",
     "regress-der-staatskasse",
@@ -54,6 +51,7 @@
     "sterbehilfe",
     "unterbringung",
     "unterbringungsverfahren",
+    "unterbringungsähnliche-maßnahme",
     "verfahrenspfleger",
     "vermögenssorge",
     "vorsorgevollmacht",

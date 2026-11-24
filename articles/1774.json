@@ -3,15 +3,11 @@
     "Betreuungsbehörde",
     "Betreuungspersonen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "betreuer",
-    "btman",
-    "btprax",
-    "bundesländer",
-    "verfahrenspflegschaft"
+  "category_links": [
+    "Adressen",
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://dipbt.bundestag.de/extrakt/ba/WP17/521/52141.html",
     "http://www.apk-ev.de/public/themen-beitrag-details.asp?id=158&h=v",
@@ -54,8 +50,10 @@
     "betreuungsbehördengesetz",
     "betreuungsgerichtshilfe",
     "betreuungsgesetz",
+    "betreuungsmanagement",
     "betreuungsorganisationsgesetz",
     "betreuungsplan",
+    "betreuungsrechtliche-praxis",
     "betreuungsrechtsreform",
     "betreuungsverein",
     "betreuungsverfahren",
@@ -77,6 +75,7 @@
     "mitteilungspflicht",
     "niedersachsen",
     "querschnittsaufgaben",
+    "rechtsmittel",
     "registrierung",
     "sachsen-anhalt",
     "selbstverwaltung-der-deutschen-gemeinden",

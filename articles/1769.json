@@ -2,14 +2,10 @@
   "categories": [
     "Betreuungsverfahren"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "einwilligungsvorbehalt",
-    "entlassung-des-betreuers",
-    "freiheitsentziehung",
-    "zwangsgeld"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://epetitionen.bundestag.de/petitionen/_2021/_09/_13/Petition_126230.nc.html"
   ],
@@ -18,6 +14,7 @@
     "allgemeines",
     "aufgabenkreis",
     "bankvollmacht",
+    "beaufsichtigung",
     "befreiter-betreuer",
     "behördenbetreuer",
     "berlin",
@@ -25,6 +22,7 @@
     "betreuer-(ehrenamt)",
     "betreuerbestellung",
     "betreuerpflichten",
+    "betreuerwechsel",
     "betreuungsbehörde",
     "betreuungsgericht",
     "betreuungsrecht-lexikon:haftungsausschluss",
@@ -35,6 +33,7 @@
     "e-rechnung",
     "e-rezept",
     "einstweilige-anordnung",
+    "einwilligungsvorbehalt",
     "elektronische-patientenakte",
     "elektronischer-identitätsnachweis",
     "elektronisches-gerichts--und-verwaltungspostfach",
@@ -50,6 +49,7 @@
     "rechtsprechung",
     "rechtsverkehr-in-deutschland",
     "software",
+    "unterbringung",
     "vereinsbetreuer",
     "verfahrenspfleger",
     "verhinderungsbetreuer",

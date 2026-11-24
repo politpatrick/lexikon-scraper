@@ -3,19 +3,11 @@
     "Rechtsnormen"
   ],
   "category_links": [
+    "Berichterstattung",
     "Betreuungspersonen",
     "Bundesländer"
   ],
-  "dead_links": [
-    "berichtspflicht",
-    "beschwerde",
-    "ehescheidung",
-    "einwilligungsvorbehalt",
-    "haftung",
-    "notgeschäftsführung",
-    "schlusspflichten",
-    "sperrvermerk"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://bundesrecht.juris.de/bundesrecht/BMJ_index.html",
     "http://bundesrecht.juris.de/bundesrecht/bgb/",
@@ -44,6 +36,7 @@
     "bestellung-mehrerer-betreuer",
     "betreuerausweis",
     "betreuerbestellung",
+    "betreuerhaftung",
     "betreuerpflichten",
     "betreuerregistrierungsverordnung",
     "betreuervergütung",
@@ -57,8 +50,10 @@
     "buchverzeichnis",
     "checkliste-für-arztgespräche",
     "ehefähigkeit",
+    "eherecht-und-betreuung",
     "einstweilige-anordnung",
     "einverständniserklärung",
+    "einwilligungsvorbehalt",
     "erbausschlagung",
     "erbschaft",
     "ermessensvergütung",

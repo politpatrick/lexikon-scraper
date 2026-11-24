@@ -2,11 +2,10 @@
   "categories": [
     "Arbeitshilfen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "betreuer"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://www.justiz.bayern.de/media/images/behoerden-und-gerichte/amtsgerichte/hersbruck/anregung_zur_bestellung_eines_betreuers.pdf",
     "https://www.justiz.nrw.de/BS/formulare/betreuung/zwischentext_formulare/bs_26a.pdf"
@@ -32,6 +31,7 @@
     "intellektuelle-beeinträchtigung",
     "krankenhaussozialdienst",
     "mdk-gutachten",
+    "rechtsmittel",
     "rechtsverkehr-in-deutschland",
     "selbstverwaltung-der-deutschen-gemeinden",
     "vulnerabilität"

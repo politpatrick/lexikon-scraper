@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://www.justiz.sachsen.de/content/ag.htm",
     "https://publikationen.sachsen.de/bdb/artikel/10623/documents/57066",
@@ -25,6 +23,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "betreuungsgericht",
     "betreuungsplan",
     "betreuungsverein",

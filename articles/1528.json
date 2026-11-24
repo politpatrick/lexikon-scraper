@@ -3,15 +3,10 @@
     "Berufsbetreuer",
     "Betreuungspersonen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "bdb",
-    "btman",
-    "btprax",
-    "bundesländer",
-    "vergütung",
-    "vfb"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://dejure.org/gesetze/GG/2.html",
     "http://duepublico.uni-duisburg-essen.de/servlets/DerivateServlet/Derivate-5695/KlueserDiss.pdf",
@@ -55,9 +50,11 @@
     "betreuerwechsel",
     "betreuungsbehörde",
     "betreuungsgericht",
+    "betreuungsmanagement",
     "betreuungsorganisationsgesetz",
     "betreuungsplan",
     "betreuungsrecht-lexikon:haftungsausschluss",
+    "betreuungsrechtliche-praxis",
     "betreuungsrichter",
     "betreuungsverein",
     "betreuungsverfahren",

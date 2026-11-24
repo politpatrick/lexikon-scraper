@@ -5,12 +5,7 @@
     "Rechtsprechung"
   ],
   "category_links": [],
-  "dead_links": [
-    "betreuerauswahl",
-    "betreuungsaufhebung",
-    "btprax",
-    "einwilligungsvorbehalt"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://lrbw.juris.de/cgi-bin/laender_rechtsprechung/list.py?Gericht=bw&amp;Art=en&sid=5e65cea120d272c59207cab8e9f68089",
     "http://www.bundesfinanzhof.de",
@@ -26,14 +21,18 @@
   "images": [],
   "internal_links": [
     "amtsermittlungspflicht",
+    "aufhebung-der-betreuung",
     "baden-württemberg",
     "bayern",
     "beratung",
+    "betreuerbestellung",
     "betreuervergütung",
     "betreuerwechsel",
+    "betreuungsrechtliche-praxis",
     "betreuungssache",
     "betreuungsvoraussetzung",
     "diskriminierungsverbot",
+    "einwilligungsvorbehalt",
     "föderalismus",
     "haager-übereinkommen",
     "hessen",

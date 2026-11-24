@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://www.hmdj.hessen.de/",
     "http://www.rv.hessenrecht.hessen.de/lexsoft/default/hessenrecht_rv.html?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&fromdoctodoc=yes&doc.id=jlr-BtGAGHErahmen&doc.part=X&doc.price=0.0&doc.hl=0#docid:146009,1,20130101",
@@ -19,6 +17,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "betreuungsgericht",
     "betreuungsverein",
     "betreuungsverfügung",

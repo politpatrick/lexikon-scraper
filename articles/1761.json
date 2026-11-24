@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://www.wohnen-im-alter.de/Niedersachsen/UebersichtNiedersachsen.htm",
     "https://oberlandesgericht-oldenburg.niedersachsen.de/download/163115",
@@ -20,6 +18,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "betreuungsgericht",
     "betreuungsverfügung",
     "neu"

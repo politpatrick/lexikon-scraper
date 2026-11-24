@@ -2,11 +2,10 @@
   "categories": [
     "Rechtsnormen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "gesundheitssorge"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://www.who.int/europe/de"
   ],
@@ -29,6 +28,7 @@
     "gemeinwohlorientierung",
     "genehmigung-der-heilbehandlung",
     "gesetzgebung",
+    "gesundheitssorge",
     "globales-nachhaltigkeitsziel-10",
     "haager-übereinkommen",
     "heilbehandlung",

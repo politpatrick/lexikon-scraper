@@ -3,14 +3,10 @@
     "Aufgabenkreise",
     "Betreuerpflichten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "btprax",
-    "bundesländer",
-    "einwilligungsvorbehalt",
-    "gesundheitsfürsorge",
-    "gesundheitssorge"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://bundesrecht.juris.de/pauswg/__1.html",
     "http://bundesrecht.juris.de/pauswg/__9.html",
@@ -33,10 +29,13 @@
     "betreutes-wohnen",
     "betreuungsgericht",
     "betreuungsrecht-lexikon:haftungsausschluss",
+    "betreuungsrechtliche-praxis",
     "betreuungsrichter",
+    "einwilligungsvorbehalt",
     "gemeinwohlorientierung",
     "genehmigungspflichten",
     "gesetzlicher-vertreter",
+    "gesundheitssorge",
     "grundrechte",
     "meldepflicht",
     "personalausweis",

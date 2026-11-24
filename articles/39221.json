@@ -2,12 +2,11 @@
   "categories": [
     "Berichterstattung"
   ],
-  "category_links": [],
-  "dead_links": [
-    "berichterstattung",
-    "betreuer",
-    "zwangsgeld"
+  "category_links": [
+    "Berichterstattung",
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://btdirekt.de/wp-content/uploads/2023/04/Anfangsbericht.docx",
     "https://fs.egov.sachsen.de/formserv/findform?shortname=smjus_bs_627&formtecid=2&areashortname=SMJus",
@@ -19,6 +18,7 @@
   "internal_links": [
     "anfangsgespräch",
     "aufgabenkreis",
+    "beaufsichtigung",
     "befreiter-betreuer",
     "betreuerbestellung",
     "betreuungsgericht",

@@ -2,12 +2,11 @@
   "categories": [
     "Betreuungsverfahren"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "bundesländer",
-    "gesundheitssorge"
+  "category_links": [
+    "Adressen",
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://www.lexikon-betreuungsrecht.de/Forensik#Trauma"
   ],
@@ -38,6 +37,7 @@
     "gesamtplanverfahren",
     "gesetzgebung",
     "gesundheitliche-versorgungsplanung",
+    "gesundheitssorge",
     "grundrechte",
     "heilbehandlung",
     "informationspflicht",

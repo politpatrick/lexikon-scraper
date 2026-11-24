@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://landesrecht.thueringen.de/jportal/portal/t/vmj/page/bsthueprod.psml?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=1&numberofresults=54&fromdoctodoc=yes&doc.id=jlr-PsychKGTH2009rahmen%3Ajuris-lr00&doc.part=X&doc.price=0.0&doc.hl=1#focuspoint",
     "http://www.amazon.de/exec/obidos/ASIN/3415019500/internetsevon-21",
@@ -20,6 +18,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "betreuungsgericht",
     "betreuungsverein",
     "betreuungsverfügung",

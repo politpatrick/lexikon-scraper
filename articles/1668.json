@@ -2,12 +2,10 @@
   "categories": [
     "Inhaltliches"
   ],
-  "category_links": [],
-  "dead_links": [
-    "bundesländer",
-    "einwilligungsvorbehalt",
-    "gesundheitssorge"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://dip21.bundestag.de/dip21/btd/17/023/1702376.pdf",
     "http://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD14-9893.pdf",
@@ -30,8 +28,10 @@
     "betreuungsverfahren",
     "brandenburg",
     "dokumentationspflicht",
+    "einwilligungsvorbehalt",
     "föderalismus",
     "gesundheitsdatennutzungsgesetz",
+    "gesundheitssorge",
     "heilbehandlung",
     "intellektuelle-beeinträchtigung",
     "nutzungspflicht",

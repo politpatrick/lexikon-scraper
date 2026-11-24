@@ -3,13 +3,10 @@
     "Betreuungsalternativen",
     "Rechtsnormen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "bettgitter",
-    "fixierung",
-    "gesundheitssorge"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://dipbt.bundestag.de/extrakt/ba/WP18/765/76527.html",
     "http://www.amazon.de/exec/obidos/ASIN/3639059379/internetsevon-21",
@@ -57,6 +54,7 @@
     "genehmigungspflichten",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
+    "gesundheitssorge",
     "heilbehandlung",
     "krankenversicherung",
     "mdk-gutachten",

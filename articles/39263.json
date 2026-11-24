@@ -3,11 +3,10 @@
     "Gesundheitssorge",
     "Rechtsnormen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "gesundheitssorge"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://epaclient.de",
     "https://gesund.bund.de/themen/elektronische-patientenakte-epa",
@@ -36,6 +35,7 @@
     "genehmigung-der-heilbehandlung",
     "gesetzlicher-vertreter",
     "gesundheitsdatennutzungsgesetz",
+    "gesundheitssorge",
     "grundrechte",
     "heilbehandlung",
     "informationspflicht",

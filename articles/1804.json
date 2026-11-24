@@ -2,11 +2,10 @@
   "categories": [
     "Berichterstattung"
   ],
-  "category_links": [],
-  "dead_links": [
-    "berichterstattung",
-    "betreuerentlassung"
+  "category_links": [
+    "Berichterstattung"
   ],
+  "dead_links": [],
   "external_links": [
     "https://betroyt.de/podcast/folge-120-jahresbericht-was-sie-dem-gericht-wirklich-mitteilen-muessen/",
     "https://btdirekt.de/wp-content/uploads/2023/04/BVfB_Mustervorlage_Jahresbericht.docx",
@@ -21,6 +20,7 @@
     "anfangsgespräch",
     "aufwandspauschale",
     "betreuer-(ehrenamt)",
+    "betreuerwechsel",
     "betreuungsgericht",
     "betreuungsverfahren",
     "corona",

@@ -3,13 +3,10 @@
     "Betreuerpflichten",
     "Rechtsnormen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "betreuer",
-    "gesundheitssorge",
-    "schlusspflichten"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://dip21.bundestag.de/dip21/btd/16/013/1601339.pdf",
     "https://bdb-ev.de/243_Tipps_fuer_den_Berufsalltag.php?kurztext_ausklappen=3561#kurztext_243_bausteine_1_3561",
@@ -80,6 +77,7 @@
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
     "gesundheitsdatennutzungsgesetz",
+    "gesundheitssorge",
     "gewaltschutzanordnung",
     "girokonto",
     "grundrechte",
@@ -113,6 +111,7 @@
     "sachsen-anhalt",
     "schenkung",
     "schleswig-holstein",
+    "schlusstätigkeiten",
     "schuldnerverzeichnis",
     "schweigepflicht",
     "sozialhilfe",

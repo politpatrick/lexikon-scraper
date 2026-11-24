@@ -2,12 +2,10 @@
   "categories": [
     "Berichterstattung"
   ],
-  "category_links": [],
-  "dead_links": [
-    "berichterstattung",
-    "notgeschäftsführung",
-    "wunscherfüllung"
+  "category_links": [
+    "Berichterstattung"
   ],
+  "dead_links": [],
   "external_links": [
     "https://www.hamburg.de/resource/blob/51326/721f8fcd42eaf41464c5f6174708a209/mustergliederung-jahresbericht-data.pdf"
   ],
@@ -27,7 +25,9 @@
     "schlussbericht",
     "schlussrechnungslegung",
     "schlusstätigkeiten",
+    "selbstbestimmung",
     "software",
+    "tod-des-betreuten",
     "vermögenssorge",
     "vermögensverzeichnis"
   ],

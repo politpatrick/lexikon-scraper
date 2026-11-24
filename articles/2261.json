@@ -2,11 +2,10 @@
   "categories": [
     "Betreuerpflichten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "bundesländer",
-    "einwilligungsvorbehalt"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://betroyt.de/podcast/folge-139-§-1850-bgb-genehmigungen-bei-grundstuecken-und-schiffen/"
   ],
@@ -20,6 +19,7 @@
     "betreuervergütung",
     "betreutes-wohnen",
     "betreuungsgericht",
+    "einwilligungsvorbehalt",
     "finanzamt",
     "freibetrag",
     "freier-wille",

@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://landesrecht.rlp.de/jportal/?quelle=jlink&docid=VVRP000000142&psml=bsrlpprod.psml",
     "http://landesrecht.rlp.de/jportal/portal/t/gfz/page/bsrlpprod.psml?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=1&numberofresults=1&fromdoctodoc=yes&doc.id=jlr-BtGAGRP2010rahmen%3Ajuris-lr00&doc.part=X&doc.price=0.0&doc.hl=1#focuspoint",
@@ -21,6 +19,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "neu"
   ],
   "pageid": 1762,

@@ -3,17 +3,10 @@
     "Aufgabenkreise",
     "Betreuerpflichten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "betreuer",
-    "btprax",
-    "einwilligungsvorbehalt",
-    "freiheitsentziehung",
-    "gesundheitsfürsorge",
-    "gesundheitssorge",
-    "voraussetzung"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://lexetius.com/1999,1610",
     "http://web2.justiz.hessen.de/migration/rechtsp.nsf/8fed0ea3ab196309c1256c5d00486428/1b9a0e638cb4df72c12574e50046ae67?OpenDocument",
@@ -36,16 +29,19 @@
     "betreuungsarbeitsgemeinschaft",
     "betreuungsgericht",
     "betreuungsgerichtshilfe",
+    "betreuungsrechtliche-praxis",
     "betreuungsverfahren",
     "betreuungsvoraussetzung",
     "datenschutz",
     "eherecht-und-betreuung",
     "einwilligungsfähigkeit",
+    "einwilligungsvorbehalt",
     "erbausschlagung",
     "freier-wille",
     "geschäftsfähigkeit",
     "gesetzlicher-vertreter",
     "gesundheitliche-versorgungsplanung",
+    "gesundheitssorge",
     "grundrechte",
     "heilbehandlung",
     "kindschaftsrecht",
@@ -64,6 +60,7 @@
     "prozessfähigkeit",
     "prozessführung",
     "querschnittsaufgaben",
+    "rechtsmittel",
     "rechtsprechung",
     "rente",
     "sachverständigengutachten",

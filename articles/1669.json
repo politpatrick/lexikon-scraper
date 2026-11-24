@@ -3,15 +3,10 @@
     "Betreuerpflichten",
     "Betreuungsverfahren"
   ],
-  "category_links": [],
-  "dead_links": [
-    "aufenthaltsbestimmungsrecht",
-    "beschwerde",
-    "bundesländer",
-    "einwilligungsvorbehalt",
-    "entlassung-des-betreuers",
-    "sperrvermerk"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://beck-online.beck.de/default.aspx?vpath=bibdata%2Fkomm%2FJuergensKoBtG%2Fcont%2FJuergensKoBtG%2EFile560%2Ehtm",
     "http://www.anwaltonline.net/formulare/bericht.html",
@@ -29,6 +24,7 @@
     "anfangsbericht",
     "anlagegeld",
     "anzeigepflicht",
+    "aufenthaltsbestimmung",
     "aufgabenkreis",
     "auskunftspflicht",
     "behördenbetreuer",
@@ -55,6 +51,7 @@
     "corona",
     "digitale-barrierefreiheit",
     "einstweilige-anordnung",
+    "einwilligungsvorbehalt",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "ende-der-betreuung",
     "freier-wille",
@@ -75,6 +72,7 @@
     "peg-sonde",
     "rechnungslegung",
     "rechtsanwalt",
+    "rechtsmittel",
     "rechtspfleger",
     "regress-der-staatskasse",
     "rundfunkbeitrag",

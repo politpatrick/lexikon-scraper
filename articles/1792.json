@@ -3,9 +3,7 @@
     "Berufsbetreuer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://bz-erkner.com/site/bildungszentrum_erkner/",
     "http://www.BtDirekt.de/",
@@ -18,6 +16,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "berlin",
     "berufsbetreuer",
     "betreuungsmanagement",

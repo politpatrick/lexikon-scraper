@@ -3,13 +3,10 @@
     "Aufgabenkreise",
     "Betreuerpflichten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "bundesländer",
-    "einwilligungsvorbehalt",
-    "gesundheitssorge"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://www.amazon.de/exec/obidos/ASIN/3769409930/internetsevon-21"
   ],
@@ -27,6 +24,7 @@
     "betreuungsverfahren",
     "betreuungsverfügung",
     "ehefähigkeit",
+    "einwilligungsvorbehalt",
     "erbausschlagung",
     "erbschaft",
     "forensik",
@@ -35,6 +33,7 @@
     "geschäftsfähigkeit",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
+    "gesundheitssorge",
     "gewaltschutzanordnung",
     "grundrechte",
     "intellektuelle-beeinträchtigung",

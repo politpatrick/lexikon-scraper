@@ -3,14 +3,10 @@
     "Betreuerpflichten",
     "Betreuungsverfahren"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "betreuer",
-    "btprax",
-    "fixierung",
-    "gesundheitssorge"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://lrbw.juris.de/cgi-bin/laender_rechtsprechung/document.py?Gericht=bw&Art=en&sid=1417afcfa2e912767d411f96ebf55d01&nr=9894&pos=0&anz=121",
     "http://web1.justiz.hessen.de/migration/rechtsp.nsf/79E4FF8D527A3628C125716C0030AE6F/$file/20w23105.pdf",
@@ -41,6 +37,7 @@
     "betreuungsbehörde",
     "betreuungsgericht",
     "betreuungsrecht-lexikon:haftungsausschluss",
+    "betreuungsrechtliche-praxis",
     "checkliste-für-arztgespräche",
     "checkliste-wohnungsangelegenheiten",
     "corona",
@@ -51,6 +48,7 @@
     "genehmigungen-von-a-bis-z",
     "geschäftsfähigkeit",
     "gesetzliche-vertretung",
+    "gesundheitssorge",
     "girokonto",
     "grundrechte",
     "grundstück",

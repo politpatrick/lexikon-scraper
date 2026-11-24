@@ -2,13 +2,10 @@
   "categories": [
     "Auswirkungen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "bundesländer",
-    "einwilligungsvorbehalt",
-    "freiheitsentziehung",
-    "gesundheitsfürsorge"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://dip21.bundestag.de/dip21/btd/18/125/1812547.pdf",
     "http://dipbt.bundestag.de/doc/btd/19/045/1904568.pdf",
@@ -43,11 +40,13 @@
     "brandenburg",
     "bremen",
     "diskriminierungsverbot",
+    "einwilligungsvorbehalt",
     "forensik",
     "freier-wille",
     "föderalismus",
     "gemeinwohlorientierung",
     "gesetzgebung",
+    "gesundheitssorge",
     "grundrechte",
     "hamburg",
     "hessen",

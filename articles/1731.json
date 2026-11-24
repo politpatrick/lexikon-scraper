@@ -3,14 +3,10 @@
     "Betreuungsreform 2023",
     "Rechtsnormen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "betreuerauswahl",
-    "gesundheitssorge",
-    "vergütung",
-    "wunscherfüllung"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://dipbt.bundestag.de/extrakt/ba/WP19/2677/267744.html",
     "http://www.amazon.de/exec/obidos/ASIN/3406788912/internetsevon-21",
@@ -87,6 +83,7 @@
     "gegenbetreuer",
     "gesetzgebung",
     "gesetzliche-vertretung",
+    "gesundheitssorge",
     "jahresbericht",
     "mittellosigkeit",
     "neu",

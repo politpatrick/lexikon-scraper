@@ -4,14 +4,10 @@
     "Betreuungsbehörde",
     "Betreuungsverfahren"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "betreuer",
-    "einwilligungsvorbehalt",
-    "freiheitsentziehende-maßnahme",
-    "freiheitsentziehung"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://www.amazon.de/exec/obidos/ASIN/3769409930/internetsevon-21",
     "http://www.amazon.de/exec/obidos/ASIN/3928316087/internetsevon-21",
@@ -43,6 +39,7 @@
     "eherecht-und-betreuung",
     "eidesstattliche-versicherung",
     "einstweilige-anordnung",
+    "einwilligungsvorbehalt",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "familienverfahrensgesetz",
     "forensik",
@@ -68,6 +65,7 @@
     "subsidiaritätsprinzip",
     "unterbringung",
     "unterbringungsverfahren",
+    "unterbringungsähnliche-maßnahme",
     "verfahrenspfleger",
     "vermögenssorge",
     "vertrauensperson",

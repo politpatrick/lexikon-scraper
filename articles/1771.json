@@ -3,11 +3,10 @@
     "Betreuerpflichten",
     "Checklisten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "einwilligungsvorbehalt"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -15,6 +14,7 @@
     "dokumentationspflicht",
     "e-rezept",
     "einwilligungsfähigkeit",
+    "einwilligungsvorbehalt",
     "elektronische-patientenakte",
     "erörterungsgespräch",
     "forensik",

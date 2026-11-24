@@ -3,13 +3,11 @@
     "Rechtsnormen",
     "Unterbringung"
   ],
-  "category_links": [],
-  "dead_links": [
-    "aufenthaltsbestimmungsrecht",
-    "beschwerde",
-    "betreuer",
-    "bundesländer"
+  "category_links": [
+    "Adressen",
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://bravors.brandenburg.de/gesetze/bbgpsychkg_2016",
     "http://dejure.org/gesetze/UBG",
@@ -97,6 +95,7 @@
     "patientenverfügung",
     "polizeirecht",
     "postkontrolle",
+    "rechtsmittel",
     "rechtsprechung",
     "rheinland-pfalz",
     "saarland",

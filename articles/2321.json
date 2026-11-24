@@ -2,11 +2,10 @@
   "categories": [
     "Vermögenssorge"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "sperrvermerk"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://ao.bundesfinanzministerium.de/ao/2023/Abgabenordnung/Vierter-Teil/Zweiter-Abschnitt/Dritter-Unterabschnitt/Paragraf-154/inhalt.html#anchor42c2bb26-188a-47fd-a637-47fb31669204",
     "https://betroyt.de/podcast/#18",
@@ -32,6 +31,7 @@
     "datenschutz",
     "e-rechnung",
     "erbausschlagung",
+    "geldanlage",
     "genehmigungspflichten",
     "geschäftsfähigkeit",
     "gesetzlicher-vertreter",

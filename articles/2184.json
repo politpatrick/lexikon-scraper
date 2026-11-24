@@ -2,14 +2,11 @@
   "categories": [
     "Sozialrecht"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "btman",
-    "btprax",
-    "bundesländer",
-    "einwilligungsvorbehalt"
+  "category_links": [
+    "Adressen",
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://www.bundesanzeiger-verlag.de/fileadmin/BT-Prax/Dokumente/PDF/LG_Berlin2_31_O_658_99.pdf",
     "http://www.bundesanzeiger-verlag.de/fileadmin/BT-Prax/Dokumente/PDF/LG_Berlin_11_O_75_00.pdf",
@@ -23,7 +20,10 @@
     "betreuerhaftung",
     "betreuervergütung",
     "betreuungsgericht",
+    "betreuungsmanagement",
+    "betreuungsrechtliche-praxis",
     "einstweilige-anordnung",
+    "einwilligungsvorbehalt",
     "finanzamt",
     "freibetrag",
     "geschäftsfähigkeit",

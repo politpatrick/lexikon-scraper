@@ -2,13 +2,10 @@
   "categories": [
     "Betreuungsvoraussetzungen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "btman",
-    "btprax",
-    "einwilligungsvorbehalt"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://dejure.org/gesetze/GG/2.html",
     "http://www.ag-zossen.brandenburg.de/sixcms/media.php/4250/11%20Wx%20066-06.pdf",
@@ -32,6 +29,8 @@
     "aufhebung-der-betreuung",
     "betreuerbestellung",
     "betreuungsarbeitsgemeinschaft",
+    "betreuungsmanagement",
+    "betreuungsrechtliche-praxis",
     "betreuungsverfahren",
     "betreuungsverfügung",
     "betreuungsvoraussetzung",
@@ -42,6 +41,7 @@
     "eidesstattliche-versicherung",
     "einverständniserklärung",
     "einwilligungsfähigkeit",
+    "einwilligungsvorbehalt",
     "erbschaft",
     "erörterungsgespräch",
     "familienverfahrensgesetz",

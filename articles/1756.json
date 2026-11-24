@@ -2,13 +2,10 @@
   "categories": [
     "Betreuerentschädigung"
   ],
-  "category_links": [],
-  "dead_links": [
-    "bundesländer",
-    "entlassung-des-betreuers",
-    "verfahrenspflegschaft",
-    "verpflichtungserklärung"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -24,6 +21,7 @@
     "betreuervergütung",
     "betreuervergütung-2019",
     "betreuervergütung-2026",
+    "betreuerwechsel",
     "digitale-barrierefreiheit",
     "ermessensvergütung",
     "finanzamt",
@@ -40,7 +38,9 @@
     "stundensatz",
     "tag-der-ehrenamtlichen-betreuerinnen-und-betreuer",
     "tod-des-betreuten",
+    "verfahrenspfleger",
     "vermögenssorge",
+    "verpflichtungsgespräch",
     "vormünder--und-betreuervergütungsgesetz"
   ],
   "pageid": 1756,

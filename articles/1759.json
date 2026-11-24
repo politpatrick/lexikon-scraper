@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://homepage.hamburg.de/hamburgerbetreuungsvereine/",
     "http://www.hamburg.de/betreuungsrecht/veroeffentlichungen/103156/ich-sorge-vor.html",
@@ -26,6 +24,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "bundesverband-der-berufsbetreuer",
     "hamburger-mustergliederung",
     "neu",

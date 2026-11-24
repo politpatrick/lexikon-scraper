@@ -3,14 +3,10 @@
     "Betreuerpflichten",
     "Unterbringung"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "bettgitter",
-    "btprax",
-    "gesundheitsfürsorge",
-    "gesundheitssorge"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://de.wikipedia.org/w/index.php?title=Betreuerpflichten&oldid=19989638",
     "http://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2008-1&Seite=3&nr=43260&pos=103&anz=281",
@@ -51,10 +47,12 @@
     "bayern",
     "betreuerhaftung",
     "betreuungsgericht",
+    "betreuungsrechtliche-praxis",
     "betreuungsrichter",
     "einstweilige-anordnung",
     "einwilligungsfähigkeit",
     "freier-wille",
+    "gesundheitssorge",
     "gewaltschutzanordnung",
     "grundrechte",
     "hauptseite",

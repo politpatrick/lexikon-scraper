@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://www.igb-sh.de/btv.htm",
     "http://www.schleswig-holstein.de/DE/Fachinhalte/B/betreuungsrecht/adressen_betreuungsbehoerden.html",
@@ -21,6 +19,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "betreuungsverein",
     "neu"
   ],

@@ -3,11 +3,10 @@
     "Betreuungspersonen",
     "Betreuungsverfahren"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "bundesländer"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -28,6 +27,7 @@
     "mdk-gutachten",
     "prozesspfleger",
     "rechtsanwalt",
+    "rechtsmittel",
     "rechtspfleger",
     "sachverständigengutachten",
     "schweigepflicht",

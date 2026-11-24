@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://www.landesrecht.sachsen-anhalt.de/jportal/portal/t/uow/page/bssahprod.psml?doc.hl=1&doc.id=VVST-VVST000009981&documentnumber=5&numberofresults=9&doctyp=vvst&showdoccase=1&doc.part=F&paramfromHL=true#focuspoint",
     "http://www.wohnen-im-alter.de/Sachsen_Anhalt/UebersichtSachsenAnhalt.htm",
@@ -21,6 +19,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "betreuungsgericht",
     "betreuungsverein",
     "betreuungsverfügung",

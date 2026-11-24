@@ -4,14 +4,10 @@
     "Rechtsnormen",
     "Vermögenssorge"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beglaubigung",
-    "betreuer",
-    "einwilligungsvorbehalt",
-    "geschäftsunfähigkeit",
-    "vergütung"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://judicialis.de/Oberlandesgericht-Schleswig_2-U-19-00_Urteil_04.05.2000.html",
     "https://www.jurion.de/urteile/bgh/1979-02-23/v-zr-171_77/"
@@ -20,11 +16,15 @@
   "internal_links": [
     "aufgabenkreis",
     "aufwendungsersatz",
+    "beglaubigung-durch-betreuungsbehörde",
     "bestellung-mehrerer-betreuer",
     "betreuer-als-erbe",
     "betreuerbestellung",
+    "betreuervergütung",
     "betreuungsgericht",
+    "einwilligungsvorbehalt",
     "ergänzungsbetreuer",
+    "geschäftsfähigkeit",
     "gesetzliche-vertretung",
     "gesetzlicher-vertreter",
     "grundstück",

@@ -3,11 +3,10 @@
     "Betreuungsalternativen",
     "Betreuungspersonen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "gesundheitssorge"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://www.aerzteblatt.de/archiv/208054/Hinweise-und-Empfehlungen-der-Bundesaerztekammer-zum-Umgang-mit-Zweifeln-an-der-Einwilligungsfaehigkeit-bei-erwachsenen-Patienten"
   ],
@@ -18,6 +17,7 @@
     "betreuungsverfügung",
     "einwilligungsfähigkeit",
     "gesundheitliche-versorgungsplanung",
+    "gesundheitssorge",
     "heilbehandlung",
     "informationspflicht",
     "notfalldaten",

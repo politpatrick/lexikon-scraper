@@ -3,11 +3,10 @@
     "Auswirkungen",
     "Rechtsnormen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "gesundheitssorge"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://www.gesetze-im-internet.de/wbvg/__3.html",
     "https://www.g-ba.de",
@@ -42,6 +41,7 @@
     "gesetzlicher-vertreter",
     "gesundheitliche-versorgungsplanung",
     "gesundheitsdatennutzungsgesetz",
+    "gesundheitssorge",
     "girokonto",
     "grundrechte",
     "heilbehandlung",

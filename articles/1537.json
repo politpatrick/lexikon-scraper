@@ -3,15 +3,11 @@
     "Berufsbetreuer",
     "Betreuerpflichten"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "bundesländer",
-    "einwilligungsvorbehalt",
-    "fortbildung",
-    "gesundheitsfürsorge",
-    "gesundheitssorge"
+  "category_links": [
+    "Adressen",
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "http://de.wikipedia.org/w/index.php?title=Betreuerhaftung&oldid=19945857",
     "http://lexetius.com/2003,2644",
@@ -30,6 +26,7 @@
     "aufenthaltsbestimmung",
     "aufgabenkreis",
     "aufwendungsersatz",
+    "ausbildung",
     "auskunftspflicht",
     "behördenbetreuer",
     "beratung",
@@ -44,12 +41,14 @@
     "betreuungsverein",
     "bundesverband-der-berufsbetreuer",
     "bundesverband-freier-berufsbetreuer",
+    "einwilligungsvorbehalt",
     "ende-der-betreuung",
     "ergänzungsbetreuer",
     "freier-wille",
     "geldanlage",
     "genehmigungspflichten",
     "geschäftsfähigkeit",
+    "gesundheitssorge",
     "grundrechte",
     "haftpflichtversicherung",
     "heilbehandlung",

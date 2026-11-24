@@ -3,9 +3,7 @@
     "Arbeitshilfen"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://news.google.de/news?sourceid=navclient-ff&ie=UTF-8&rlz=1B2GGGL_deDE176DE177&q=berufsbetreuer&btnG=News-Suche",
     "http://news.google.de/news?sourceid=navclient-ff&ie=UTF-8&rlz=1B2GGGL_deDE176DE177&q=betreuungsrecht",
@@ -19,6 +17,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "ausländer",
     "behindertenkonvention",
     "broschüren",

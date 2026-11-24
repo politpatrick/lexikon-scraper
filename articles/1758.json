@@ -4,9 +4,7 @@
     "Bundesländer"
   ],
   "category_links": [],
-  "dead_links": [
-    "fortbildung"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://www.soziales.bremen.de/sixcms/detail.php?gsid=bremen69.c.3603.de&font=0",
     "http://www.soziales.bremen.de/sixcms/detail.php?gsid=bremen69.c.60588.de",
@@ -19,6 +17,7 @@
   ],
   "images": [],
   "internal_links": [
+    "ausbildung",
     "betreuungsgericht",
     "betreuungsverfügung",
     "neu",

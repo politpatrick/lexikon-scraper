@@ -4,13 +4,11 @@
     "Rechtsnormen"
   ],
   "category_links": [
+    "Adressen",
+    "Betreuungspersonen",
     "Bundesländer"
   ],
-  "dead_links": [
-    "beglaubigung",
-    "betreuer",
-    "bundesländer"
-  ],
+  "dead_links": [],
   "external_links": [
     "http://bravors.brandenburg.de/de/gesetze-211773",
     "http://de.wikipedia.org/w/index.php?title=Betreuungsbeh%C3%B6rdengesetz&oldid=17933072",
@@ -31,6 +29,7 @@
   ],
   "images": [],
   "internal_links": [
+    "beglaubigung-durch-betreuungsbehörde",
     "beratung",
     "betreuervorschlag",
     "betreuungsbehörde",

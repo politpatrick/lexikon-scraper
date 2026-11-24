@@ -2,15 +2,10 @@
   "categories": [
     "Betreuungspersonen"
   ],
-  "category_links": [],
-  "dead_links": [
-    "beschwerde",
-    "betreuer",
-    "betreuerauswahl",
-    "betreuerentlassung",
-    "btprax",
-    "vergütung"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://betroyt.de/podcast/folge-102-urlaub-wie-ich-meine-vertretung-regele/"
   ],
@@ -24,10 +19,12 @@
     "bestellung-mehrerer-betreuer",
     "betreuer-(ehrenamt)",
     "betreuerbestellung",
+    "betreuervergütung",
     "betreuerwechsel",
     "betreuungsbehörde",
     "betreuungsgericht",
     "betreuungsrecht-lexikon:haftungsausschluss",
+    "betreuungsrechtliche-praxis",
     "betreuungsrechtsreform",
     "betreuungsverein",
     "einstweilige-anordnung",
@@ -36,6 +33,7 @@
     "kontrollbetreuer",
     "neu",
     "persönliche-betreuung",
+    "rechtsmittel",
     "sozialhilfe",
     "testierfähigkeit",
     "vereinbarung-über-begleitung-und-unterstützung",

@@ -4,11 +4,10 @@
     "Betreuungsende",
     "Erbrecht"
   ],
-  "category_links": [],
-  "dead_links": [
-    "bundesländer",
-    "einwilligungsvorbehalt"
+  "category_links": [
+    "Adressen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://www.erbrecht.de/der-betreuer-als-erbe-des-betreuten-jetzt-und-ab-2023/"
   ],
@@ -20,6 +19,7 @@
     "berufsbetreuer",
     "betreuer-(ehrenamt)",
     "betreuerbestellung",
+    "einwilligungsvorbehalt",
     "freier-wille",
     "föderalismus",
     "genehmigungen-von-a-bis-z",

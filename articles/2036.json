@@ -3,12 +3,10 @@
     "Betreuungsverfahren",
     "Rechtsprechung"
   ],
-  "category_links": [],
-  "dead_links": [
-    "betreuer",
-    "betreuungsaufhebung",
-    "einwilligungsvorbehalt"
+  "category_links": [
+    "Betreuungspersonen"
   ],
+  "dead_links": [],
   "external_links": [
     "https://www.lexikon-betreuungsrecht.de/Postkontrolle#Zustellung"
   ],
@@ -18,6 +16,7 @@
     "anzeigepflicht",
     "arztzeugnis",
     "aufgabenkreis",
+    "aufhebung-der-betreuung",
     "auskunftspflicht",
     "baden-württemberg",
     "bayern",
@@ -40,6 +39,7 @@
     "bremen",
     "dokumentationspflicht",
     "einstweilige-anordnung",
+    "einwilligungsvorbehalt",
     "elektronisches-gerichts--und-verwaltungspostfach",
     "ermessensvergütung",
     "erörterungsgespräch",
