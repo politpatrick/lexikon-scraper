@@ -179,6 +179,25 @@ def test_norms_per_section_and_article():
                           "einheit": "§", "nummer": "1814", "alte_fassung": False}
 
 
-def test_norm_alte_fassung_if_any_mention_says_so():
-    a = normalize(raw("X", "§ 1896 BGB a.F. und später § 1896 BGB"), {}, set())
-    assert a.norms[0]["alte_fassung"] is True
+def test_old_and_current_version_are_separate_norms():
+    a = normalize(raw("X", "§ 1822 BGB a.F. und später § 1822 BGB"), {}, set())
+    assert [(n["id"], n["label"], n["alte_fassung"]) for n in a.norms] == [
+        ("BGB§1822", "§ 1822 BGB", False),
+        ("BGB§1822@aF", "§ 1822 BGB a.F.", True),
+    ]
+
+
+def test_heading_templates_rendered_and_norms_attached():
+    """Review: ==… {{Zitat de §|3|vbvg_2023}} VBVG== wurde zu „Zeitvergütung ( VBVG)“."""
+    a = normalize(raw("V", "Intro\n== Zeitvergütung ({{Zitat de §|3|vbvg_2023}} VBVG) ==\nText.\n"
+                           "== Volljährigkeit (§ 2 BGB) ==\nMehr."), {}, set())
+    assert a.sections[1].path == ("Zeitvergütung (§ 3 VBVG)",)
+    assert a.sections[1].norms == ["VBVG§3"]
+    assert a.sections[2].norms == ["BGB§2"]
+
+
+def test_template_norm_not_double_counted_from_rendered_text():
+    """{{Zitat de §|8|vbvg}} VBVG darf nicht zusätzlich als aktuelles § 8 VBVG zählen."""
+    a = normalize(raw("V", "Für {{Zitat de §|8|vbvg}} VBVG gilt"), {}, set())
+    assert a.sections[0].norms == ["VBVG§8@aF"]
+    assert a.sections[0].text == "Für § 8 VBVG gilt"

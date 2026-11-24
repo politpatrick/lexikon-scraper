@@ -98,3 +98,20 @@ def test_report_no_gap_for_double_space_after_number():
     a.sections = [Section(("Einleitung",), "erlischt der Anspruch (§ 7  Abs. 1 VBVG).")]
     part = quality_report([a], build_graph([a])).split("## Verdacht auf gelöschte Normverweise")[1]
     assert part.split("##")[0].strip().endswith("- keine")
+
+
+def test_report_unknown_laws():
+    a = art(6, "x", norms=[{"id": "XYZ§1", "label": "§ 1 XYZ", "gesetz": "XYZ", "einheit": "§",
+                            "nummer": "1", "alte_fassung": False}])
+    part = quality_report([a], build_graph([a])).split("## Unbekannte Gesetzeskürzel")[1]
+    assert "XYZ" in part.split("##")[0]
+
+
+def test_report_gap_check_is_fast():
+    import time
+    from lexikon.normalize import Section
+    a = art(7, "lang")
+    a.sections = [Section(("E",), "Wort " * 40000)]
+    start = time.perf_counter()
+    quality_report([a], build_graph([a]))
+    assert time.perf_counter() - start < 0.5

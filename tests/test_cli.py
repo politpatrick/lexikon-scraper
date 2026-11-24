@@ -14,7 +14,8 @@ def test_build_end_to_end(tmp_path):
     ], raw)
     rc = main(["build", "--raw", str(raw), "--articles", str(tmp_path / "articles"),
                "--graph", str(tmp_path / "graph" / "graph.json"),
-               "--report", str(tmp_path / "reports" / "qualitaet.md")])
+               "--report", str(tmp_path / "reports" / "qualitaet.md"),
+               "--templates-report", str(tmp_path / "reports" / "vorlagen.md")])
     assert rc == 0
     files = sorted(p.name for p in (tmp_path / "articles").glob("*.json"))
     assert files == ["1.json", "3.json"]
@@ -33,7 +34,8 @@ def test_build_removes_stale_article_files(tmp_path):
     arts.mkdir()
     (arts / "99.json").write_text("{}")
     main(["build", "--raw", str(raw), "--articles", str(arts),
-          "--graph", str(tmp_path / "g.json"), "--report", str(tmp_path / "r.md")])
+          "--graph", str(tmp_path / "g.json"), "--report", str(tmp_path / "r.md"),
+          "--templates-report", str(tmp_path / "v.md")])
     assert sorted(p.name for p in arts.glob("*.json")) == ["1.json"]
 
 
@@ -47,7 +49,8 @@ def test_build_keeps_article_on_slug_collision(tmp_path):
     ], raw, unreadable=[{"pageid": 9, "title": "BtPrax", "lastrevid": 1,
                          "redirect_to": "Betreuungsrechtliche Praxis"}])
     main(["build", "--raw", str(raw), "--articles", str(tmp_path / "a"),
-          "--graph", str(tmp_path / "g.json"), "--report", str(tmp_path / "r.md")])
+          "--graph", str(tmp_path / "g.json"), "--report", str(tmp_path / "r.md"),
+          "--templates-report", str(tmp_path / "v.md")])
     assert sorted(p.name for p in (tmp_path / "a").glob("*.json")) == ["1.json", "3.json", "4.json"]
     andere = json.loads((tmp_path / "a" / "3.json").read_text(encoding="utf-8"))
     assert andere["internal_links"] == ["betreuungsrechtliche-praxis", "einwilligungsvorbehalt"]

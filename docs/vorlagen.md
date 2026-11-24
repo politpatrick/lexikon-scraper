@@ -10,7 +10,7 @@ was Leser im Wiki sehen. Darüber muss niemand entscheiden. Fachlich festzulegen
 
 | Vorlage | Vorkommen | Definition im Wiki | Text | Strukturiert (Ticket) |
 |---|---|---|---|---|
-| `Zitat de §` | 793 in 88 Artikeln | `{{Zitat de §\|P\|gesetz}}` → Link „§ P“ auf gesetze-im-internet.de; das Gesetzeskürzel steht dahinter im Text | `§ P` | Normzitat (04): Gesetz aus 2. Parameter (juris-Kürzel, z. B. `bgb`, `sgb_1`, `btog`) |
+| `Zitat de §` | 793 in 88 Artikeln | `{{Zitat de §\|P\|gesetz}}` → Link „§ P“ auf gesetze-im-internet.de; das Gesetzeskürzel steht dahinter im Text | `§ P` | Normzitat (04): Gesetz aus 2. Parameter (juris-Kürzel, z. B. `bgb`, `sgb_1`, `btog`); `vbvg` ist die bis 2022 geltende Fassung (→ `@aF`), `vbvg_2023` die neue |
 | `Zitat-dej` | 136 in 19 | `{{Zitat-dej\|§/§§/Art.\|P\|GESETZ}}` → Link auf dejure.org | `§ P`, `§§ P`, `Art. P` | Normzitat (04): Gesetz aus 3. Parameter (dejure-Kürzel) |
 | `Zitat Art` | 42 in 19 | `{{Zitat Art\|A\|gesetz}}` → „Art. A“ | `Art. A` | Normzitat (04) |
 | `Rspr` / `rspr` | 111 in 36 | `{{Rspr\|Az. oder Fundstelle}}` → Link auf dejure.org | Parameter wörtlich | Entscheidungszitat (06) |
