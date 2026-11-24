@@ -9,6 +9,7 @@ from typing import Iterable
 from lexikon.models import RawPage
 
 DELETED_LOG = "_deleted.jsonl"
+UNREADABLE_LOG = "_unreadable.jsonl"
 
 
 @dataclass
@@ -16,6 +17,7 @@ class SyncResult:
     written: int = 0
     unchanged: int = 0
     deleted: list[int] = field(default_factory=list)
+    unreadable: int = 0
 
 
 def dump_json(data, path: Path) -> None:
@@ -26,15 +28,15 @@ def dump_json(data, path: Path) -> None:
     )
 
 
-def _read_log(raw_dir: Path) -> list[dict]:
-    f = raw_dir / DELETED_LOG
+def _read_log(raw_dir: Path, name: str = DELETED_LOG) -> list[dict]:
+    f = raw_dir / name
     if not f.exists():
         return []
     return [json.loads(line) for line in f.read_text(encoding="utf-8").splitlines() if line]
 
 
-def _write_log(raw_dir: Path, entries: list[dict]) -> None:
-    f = raw_dir / DELETED_LOG
+def _write_log(raw_dir: Path, entries: list[dict], name: str = DELETED_LOG) -> None:
+    f = raw_dir / name
     if not entries:
         f.unlink(missing_ok=True)
         return
@@ -48,12 +50,17 @@ def _read_page(path: Path) -> RawPage:
     return RawPage.from_json(json.loads(path.read_text(encoding="utf-8")))
 
 
-def sync_raw(pages: Iterable[RawPage], raw_dir: Path) -> SyncResult:
+def sync_raw(
+    pages: Iterable[RawPage], raw_dir: Path, unreadable: list[dict] | None = None
+) -> SyncResult:
     """Schreibt neue oder geänderte Rohseiten (Wikitext, Revision oder Kategorien) und protokolliert verschwundene Seiten.
 
     Das Lösch-Protokoll wird erst geschrieben, wenn ``pages`` vollständig
     durchlaufen wurde. Bricht der Abruf ab, gilt keine Seite als gelöscht.
-    Rohseiten-Dateien werden nie entfernt.
+    Rohseiten-Dateien werden nie entfernt. Seiten in ``unreadable`` (gelistet,
+    aber ohne abrufbare Revision) gelten als vorhanden und werden in
+    ``_unreadable.jsonl`` protokolliert; die Liste wird erst nach dem Durchlauf
+    gelesen, darf also währenddessen befüllt werden.
     """
     raw_dir = Path(raw_dir)
     raw_dir.mkdir(parents=True, exist_ok=True)
@@ -67,6 +74,11 @@ def sync_raw(pages: Iterable[RawPage], raw_dir: Path) -> SyncResult:
             continue
         dump_json(page.to_json(), path)
         result.written += 1
+
+    unreadable = unreadable or []
+    seen |= {u["pageid"] for u in unreadable}
+    result.unreadable = len(unreadable)
+    _write_log(raw_dir, sorted(unreadable, key=lambda u: u["pageid"]), UNREADABLE_LOG)
 
     log = [e for e in _read_log(raw_dir) if e["pageid"] not in seen]
     logged = {e["pageid"] for e in log}

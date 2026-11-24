@@ -113,3 +113,20 @@ def test_page_without_revision_fails_loudly():
     payload = {"batchcomplete": True, "query": {"pages": [{"pageid": 5, "title": "X"}]}}
     with pytest.raises(ApiError):
         pages([payload])
+
+
+def test_live_response_shape():
+    """Aufgezeichnet von der Live-API am 24.11.2026 (Inhalte gekürzt)."""
+    unreadable = []
+    result = list(iter_raw_pages(FakeSession([load("live_batch.json")]), pause=0, unreadable=unreadable))
+    assert [p.title for p in result] == ["Allgemeines", "Altenheim", "Alltagsgeschäfte"]
+    assert result[0].categories == ("Inhaltliches",)
+    assert result[0].wikitext
+    assert unreadable == [{"pageid": 1502, "title": "Adressen", "lastrevid": 1510}]
+
+
+def test_page_without_revision_collected_when_list_given():
+    payload = {"batchcomplete": True, "query": {"pages": [{"pageid": 5, "title": "X", "lastrevid": 9}]}}
+    unreadable = []
+    assert list(iter_raw_pages(FakeSession([payload]), pause=0, unreadable=unreadable)) == []
+    assert unreadable == [{"pageid": 5, "title": "X", "lastrevid": 9}]

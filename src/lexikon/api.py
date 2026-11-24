@@ -71,12 +71,17 @@ def iter_raw_pages(
     base_url: str = BASE_URL,
     batch_size: int = 50,
     pause: float = 0.5,
+    unreadable: list[dict] | None = None,
 ) -> Iterator[RawPage]:
     """Liefert alle Seiten des Hauptnamensraums inklusive Weiterleitungen.
 
     Teilantworten (z. B. Kategorien über mehrere Antworten verteilt) werden
     zusammengeführt; Seiten werden erst ausgegeben, wenn die API das Paket als
     vollständig meldet (``batchcomplete``).
+
+    Manche alte Seiten liefert die API ohne abrufbare Revision. Ist
+    ``unreadable`` eine Liste, werden sie dort als ``{pageid, title, lastrevid}``
+    gesammelt; sonst bricht der Abruf mit ``ApiError`` ab.
     """
     base = {
         "action": "query",
@@ -101,9 +106,13 @@ def iter_raw_pages(
             _merge(acc, page)
         if data.get("batchcomplete"):
             for page in acc.values():
-                if not page.get("revisions"):
+                if page.get("revisions"):
+                    yield _to_rawpage(page)
+                elif unreadable is not None:
+                    unreadable.append({"pageid": page["pageid"], "title": page.get("title"),
+                                       "lastrevid": page.get("lastrevid")})
+                else:
                     raise ApiError(f"Seite ohne Revision: {page.get('title')!r}")
-                yield _to_rawpage(page)
             acc = {}
         if "continue" not in data:
             break

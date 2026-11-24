@@ -17,10 +17,12 @@ def cmd_archive(args) -> int:
 
     from lexikon.api import iter_raw_pages
 
+    unreadable: list[dict] = []
     with requests.Session() as session:
-        res = sync_raw(iter_raw_pages(session), Path(args.raw))
+        res = sync_raw(iter_raw_pages(session, unreadable=unreadable), Path(args.raw), unreadable)
     print(f"Rohseiten: {res.written} geschrieben, {res.unchanged} unverändert, "
-          f"{len(res.deleted)} neu als gelöscht protokolliert")
+          f"{len(res.deleted)} neu als gelöscht protokolliert, "
+          f"{res.unreadable} ohne abrufbare Revision (siehe _unreadable.jsonl)")
     return 0
 
 
