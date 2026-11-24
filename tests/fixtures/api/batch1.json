@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "continue": {"gapcontinue": "Betreuungsverfahren", "continue": "gapcontinue||"},
+  "query": {
+    "pages": [
+      {
+        "pageid": 10,
+        "ns": 0,
+        "title": "Betreuer",
+        "revisions": [{"revid": 501, "timestamp": "2024-01-02T03:04:05Z",
+          "slots": {"main": {"contentmodel": "wikitext", "content": "Der '''Betreuer''' ist ..."}}}],
+        "categories": [{"ns": 14, "title": "Kategorie:Personen"}]
+      },
+      {
+        "pageid": 11,
+        "ns": 0,
+        "title": "Betreuerin",
+        "redirect": true,
+        "revisions": [{"revid": 502, "timestamp": "2024-01-02T03:04:06Z",
+          "slots": {"main": {"contentmodel": "wikitext", "content": "#WEITERLEITUNG [[Betreuer]]"}}}]
+      }
+    ]
+  }
+}

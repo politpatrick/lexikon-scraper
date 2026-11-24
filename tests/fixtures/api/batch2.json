@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 12,
+        "ns": 0,
+        "title": "Betreuungsverfahren",
+        "revisions": [{"revid": 777, "timestamp": "2023-04-26T10:00:00Z",
+          "slots": {"main": {"contentmodel": "wikitext", "content": "== Zuständigkeit ==\nText"}}}],
+        "categories": [{"ns": 14, "title": "Kategorie:Verfahren"}, {"ns": 14, "title": "Kategorie:Gericht"}]
+      }
+    ]
+  }
+}
