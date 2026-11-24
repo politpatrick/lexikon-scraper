@@ -5,14 +5,20 @@ import re
 from collections import Counter
 
 from lexikon.normalize import Article
+from lexikon.norms import is_known_law
 
 
 #: Präposition, dann Lücke aus mehreren Leerzeichen, dann typischer Normanschluss.
 #: Nicht nach einer Zahl (``§ 7  Abs. 1`` ist eine Doppel-Leerstelle der Quelle).
+#: Ohne führendes ``.{0,40}``: der Kontext wird per Slicing ergänzt (sonst quadratisch).
 GAP = re.compile(
-    r".{0,40}\b(?:von|vgl\.|nach|gem\.|gemäß|siehe|i\.\s?V\.\s?m\.) {2,}"
-    r"(?:Abs\.|des|der|dem|SGB|BGB|FamFG)\b.{0,30}"
+    r"\b(?:von|vgl\.|nach|gem\.|gemäß|siehe|i\.\s?V\.\s?m\.) {2,}"
+    r"(?:Abs\.|des|der|dem|SGB|BGB|FamFG)\b"
 )
+
+
+def _gap_snippets(text: str) -> list[str]:
+    return [text[max(0, m.start() - 40):m.end() + 30].strip() for m in GAP.finditer(text)]
 
 
 def quality_report(articles: list[Article], graph: dict) -> str:
@@ -41,12 +47,17 @@ def quality_report(articles: list[Article], graph: dict) -> str:
             f"{sum(1 for a in articles if a.norms)} Artikeln.", "",
             "| Norm | Artikel |", "|---|---|"]
     out += [f"| {norm_labels[i]} | {n} |" for i, n in sorted(citing.items(), key=lambda x: (-x[1], x[0]))[:50]]
-    suspects = [(a.title, m.group(0).strip()) for a in articles for s in a.sections
-                for m in GAP.finditer(s.text)]
+    suspects = [(a.title, snippet) for a in articles for s in a.sections
+                for snippet in _gap_snippets(s.text)]
     out += ["", "## Verdacht auf gelöschte Normverweise", "",
             "Stellen wie „nach Maßgabe von  des Landesgesetzes“. Prüfen, ob die Lücke schon "
             "im Original steht.", ""]
     out += [f"- {t}: `{snippet}`" for t, snippet in suspects] or ["- keine"]
+    unknown = Counter(n["gesetz"] for a in articles for n in a.norms if not is_known_law(n["gesetz"]))
+    out += ["", "## Unbekannte Gesetzeskürzel", "",
+            "Aus Vorlagen übernommene Kürzel, die nicht in der Gesetzesliste stehen "
+            "(Tippfehler im Wiki oder fehlender Eintrag in norms.py).", ""]
+    out += [f"- {law}: {n}" for law, n in sorted(unknown.items())] or ["- keine"]
     out += ["", "## Tote Links", "", "| Ziel | Anzahl |", "|---|---|"]
     out += [f"| {target} | {n} |" for target, n in sorted(dead.items(), key=lambda x: (-x[1], x[0]))]
     return "\n".join(out) + "\n"

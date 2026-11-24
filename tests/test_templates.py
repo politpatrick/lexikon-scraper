@@ -61,3 +61,8 @@ def test_inventory_counts_and_report():
     report = inventory_report(inventory(pages))
     assert "| Zitat de § | 3 | 2 |" in report
     assert "Unbekannte Vorlagen: 1" in report
+
+
+def test_infobox_values_without_markup():
+    t = tpl("{{Infobox Publikation\n|fachgebiet = [[Betreuungsrecht]]\n}}")
+    assert render_template(t, "S") == "fachgebiet: Betreuungsrecht"

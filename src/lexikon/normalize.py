@@ -11,8 +11,8 @@ from mwparserfromhell.nodes import (
 
 from lexikon.links import classify, slug
 from lexikon.models import RawPage
-from lexikon.norms import NormRef, norms_from_templates, parse_norms
-from lexikon.templates import render_template
+from lexikon.norms import NORM_TEMPLATES, NormRef, norms_from_templates, parse_norms
+from lexikon.templates import canonical_name, render_template
 
 INTRO = "Einleitung"
 REDIRECT_RE = re.compile(r"^\s*#\s*(?:weiterleitung|redirect)\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
@@ -112,7 +112,12 @@ def resolve(key: str, redirects: dict[str, str]) -> str | None:
     return key
 
 
-def _render(nodes, title: str = "") -> str:
+#: Platzhalter für Norm-Vorlagen beim Parsen des Fließtexts: unterbricht Zitatketten,
+#: damit „{{Zitat de §|8|vbvg}} VBVG“ nicht zusätzlich als aktuelles § 8 VBVG zählt.
+MASK = "\u2063"
+
+
+def _render(nodes, title: str = "", mask_norms: bool = False) -> str:
     out = []
     for node in nodes:
         if isinstance(node, Text):
@@ -122,20 +127,20 @@ def _render(nodes, title: str = "") -> str:
             if kind in ("image", "category"):
                 continue
             if node.text is not None:
-                out.append(_render(node.text.nodes, title))
+                out.append(_render(node.text.nodes, title, mask_norms))
             elif kind == "wikipedia":
                 out.append(target.split(":", 1)[-1])
             else:
                 out.append(target)
         elif isinstance(node, ExternalLink):
-            out.append(_render(node.title.nodes, title) if node.title else str(node.url))
+            out.append(_render(node.title.nodes, title, mask_norms) if node.title else str(node.url))
         elif isinstance(node, Tag):
             if node.tag in ("br",):
                 out.append("\n")
             elif node.tag == "li":
                 out.append("-")
             elif node.contents is not None:
-                inner = _render(node.contents.nodes, title)
+                inner = _render(node.contents.nodes, title, mask_norms)
                 if node.tag != "ref":
                     out.append(inner)
                 elif inner.strip():
@@ -145,7 +150,10 @@ def _render(nodes, title: str = "") -> str:
         elif isinstance(node, HTMLEntity):
             out.append(node.normalize())
         elif isinstance(node, Template):
-            out.append(render_template(node, title))
+            if mask_norms and canonical_name(str(node.name)) in NORM_TEMPLATES:
+                out.append(MASK)
+            else:
+                out.append(render_template(node, title))
         else:
             out.append(str(node))
     return "".join(out)
@@ -156,12 +164,11 @@ def _clean(text: str) -> str:
     return re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).strip()
 
 
-def _section_norms(buf: list, text: str) -> list[NormRef]:
+def _section_norms(nodes: list, title: str) -> list[NormRef]:
+    """Normzitate aus Vorlagen und Fließtext; Vorlagen werden nicht doppelt gezählt."""
     found: dict[str, NormRef] = {}
-    code = mwparserfromhell.parse("".join(str(n) for n in buf))
-    for ref in norms_from_templates(code) + parse_norms(text):
-        if ref.id in found and ref.alte_fassung:
-            found[ref.id] = ref
+    code = mwparserfromhell.parse("".join(str(n) for n in nodes))
+    for ref in norms_from_templates(code) + parse_norms(_render(nodes, title, mask_norms=True)):
         found.setdefault(ref.id, ref)
     return list(found.values())
 
@@ -170,22 +177,24 @@ def _sections(code, title: str) -> list[tuple[Section, list[NormRef]]]:
     sections: list[tuple[Section, list[NormRef]]] = []
     stack: list[tuple[int, str]] = []
     path: tuple[str, ...] = (INTRO,)
+    heading: list = []
     buf: list = []
 
     def flush():
         text = _clean(_render(buf, title))
         if text:
-            refs = _section_norms(buf, text)
+            refs = _section_norms(heading + [Text("\n")] + buf, title)
             sections.append((Section(path, text, [r.id for r in refs]), refs))
 
     for node in code.nodes:
         if isinstance(node, Heading):
             flush()
             buf = []
+            heading = list(node.title.nodes)
             while stack and stack[-1][0] >= node.level:
                 stack.pop()
-            stack.append((node.level, node.title.strip_code().strip()))
-            path = tuple(title for _, title in stack)
+            stack.append((node.level, " ".join(_render(heading, title).split())))
+            path = tuple(t for _, t in stack)
         else:
             buf.append(node)
     flush()
@@ -222,10 +231,9 @@ def normalize(page: RawPage, redirects: dict[str, str], known: set[str]) -> Arti
     norms: dict[str, dict] = {}
     for _, refs in sections:
         for r in refs:
-            entry = norms.setdefault(r.id, {"id": r.id, "label": r.label, "gesetz": r.gesetz,
-                                            "einheit": r.einheit, "nummer": r.nummer,
-                                            "alte_fassung": False})
-            entry["alte_fassung"] = entry["alte_fassung"] or r.alte_fassung
+            norms.setdefault(r.id, {"id": r.id, "label": r.label, "gesetz": r.gesetz,
+                                    "einheit": r.einheit, "nummer": r.nummer,
+                                    "alte_fassung": r.alte_fassung})
     return Article(
         pageid=page.pageid,
         title=page.title,

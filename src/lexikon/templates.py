@@ -56,7 +56,7 @@ def _quelle_wikipedia(t: Template) -> str:
 def _infobox(t: Template) -> str:
     lines = []
     for p in t.params:
-        value = str(p.value).strip()
+        value = p.value.strip_code().strip()
         if value:
             lines.append(f"{str(p.name).strip()}: {value}")
     return "\n".join(lines)
