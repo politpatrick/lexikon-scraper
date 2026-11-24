@@ -4,7 +4,7 @@
 
 **Blocked by:** None (can start immediately). Die Lizenzfrage aus der Spec muss vor dem ersten Push von `raw/` geklärt sein.
 
-**Status:** ready-for-agent
+**Status:** implementiert, wartet auf ersten Live-Lauf im Workflow (Kriterien mit echten Daten prüfen)
 
 - [ ] Anzahl der Rohseiten entspricht `siteinfo.statistics.articles` (± Weiterleitungen, im Log ausgewiesen)
 - [ ] Zweiter Lauf ohne Änderungen im Lexikon erzeugt keinen Commit

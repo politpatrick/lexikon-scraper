@@ -4,7 +4,7 @@
 
 **Blocked by:** 01
 
-**Status:** ready-for-agent
+**Status:** implementiert, wartet auf ersten Live-Lauf im Workflow (Kriterien mit echten Daten prüfen)
 
 - [ ] Kein Wikipedia- oder Bild-Link erscheint als `links_to`
 - [ ] Tote interne Links sinken deutlich unter die heutigen 564 (Restliste im Bericht)
