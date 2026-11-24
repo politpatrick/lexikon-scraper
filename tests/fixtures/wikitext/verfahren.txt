@@ -1,0 +1,17 @@
+Die Entscheidung über die [[Betreuerbestellung]] ergeht in einem Betreuungsverfahren. Dies ist ein Verfahren der [[wikipedia:de:Freiwillige Gerichtsbarkeit|freiwilligen Gerichtsbarkeit]].
+[[Bild:Justiz.jpg|thumb|Justitia]]
+<!-- interner Kommentar -->
+
+== Zuständigkeit bei Gericht ==
+Zuständig ist das [[Betreuungsgericht]], eine Abteilung des Amtsgerichts. Siehe auch [[Betreuer#Auswahl|der Betreuer]] und [[betreuerin]].
+
+=== International zuständig ===
+* deutsche Staatsbürgerschaft
+* Ausländer mit gewöhnlichem Aufenthalt in Deutschland
+Gewöhnlicher Aufenthalt ist der Lebensmittelpunkt (vgl. {{§|30|SGB I}} Abs. 3 SGB-I).<ref>LG Augsburg, Beschluss vom 30. Januar 2018 – 054 T 161/18</ref>
+
+== Literatur ==
+'''Weiterführend:''' [http://www.bundesanzeiger-verlag.de/betreuung BtPrax] und [https://example.org/x].
+[[Gibt es nicht]] [[:Kategorie:Verfahren]]
+
+[[Kategorie:Verfahren]]
