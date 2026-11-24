@@ -3,17 +3,24 @@ from lexikon.normalize import Article
 from lexikon.report import quality_report
 
 
-def art(pageid, slug, links=(), cats=(), ext=(), dead=()):
+def norm(i, label):
+    return {"id": i, "label": label, "gesetz": "BGB", "einheit": "§", "nummer": i[4:],
+            "alte_fassung": False}
+
+
+def art(pageid, slug, links=(), cats=(), ext=(), dead=(), norms=()):
     return Article(pageid=pageid, title=slug.title(), slug=slug, revid=1, timestamp="t",
                    categories=list(cats), internal_links=list(links),
                    external_links=list(ext), dead_links=list(dead),
-                   wikipedia_links=["de:Notar"], images=["x.jpg"])
+                   wikipedia_links=["de:Notar"], images=["x.jpg"], norms=list(norms))
 
 
 ARTICLES = [
     art(1, "betreuer", links=["betreuungsgericht"], cats=["Personen"],
-        ext=["https://www.bgh.de/a", "https://www.bgh.de/b"], dead=["gibt-es-nicht"]),
-    art(2, "betreuungsgericht", links=["betreuer"], cats=["Personen", "Gericht"]),
+        ext=["https://www.bgh.de/a", "https://www.bgh.de/b"], dead=["gibt-es-nicht"],
+        norms=[norm("BGB§1814", "§ 1814 BGB"), norm("BGB§1816", "§ 1816 BGB")]),
+    art(2, "betreuungsgericht", links=["betreuer"], cats=["Personen", "Gericht"],
+        norms=[norm("BGB§1814", "§ 1814 BGB")]),
     art(3, "waise", dead=["gibt-es-nicht"]),
 ]
 
@@ -58,3 +65,36 @@ def test_report_sections():
         assert heading in r
     assert "Waise" in r.split("## Waisen")[1].split("##")[0]
     assert "gibt-es-nicht | 2" in r
+
+
+def test_norm_nodes_and_edges():
+    g = build_graph(ARTICLES)
+    nodes = {n["id"]: n for n in g["nodes"]}
+    assert nodes["norm:BGB§1814"]["label"] == "§ 1814 BGB"
+    assert nodes["norm:BGB§1814"]["file_type"] == "concept"
+    rel = {(e["source"], e["relation"], e["target"]) for e in g["links"]}
+    assert ("art:betreuer", "cites_norm", "norm:BGB§1814") in rel
+    assert ("art:betreuungsgericht", "cites_norm", "norm:BGB§1814") in rel
+
+
+def test_report_top_norms():
+    r = quality_report(ARTICLES, build_graph(ARTICLES))
+    section = r.split("## Meistzitierte Normen")[1]
+    assert "| § 1814 BGB | 2 |" in section
+    assert "| § 1816 BGB | 1 |" in section
+
+
+def test_report_gap_suspects():
+    a = art(4, "luecke")
+    from lexikon.normalize import Section
+    a.sections = [Section(("Einleitung",), "nach Maßgabe von  des Landesgesetzes.")]
+    part = quality_report([a], build_graph([a])).split("## Verdacht auf gelöschte Normverweise")[1]
+    assert "- Luecke: `nach Maßgabe von  des Landesgesetzes.`" in part
+
+
+def test_report_no_gap_for_double_space_after_number():
+    a = art(5, "quelle")
+    from lexikon.normalize import Section
+    a.sections = [Section(("Einleitung",), "erlischt der Anspruch (§ 7  Abs. 1 VBVG).")]
+    part = quality_report([a], build_graph([a])).split("## Verdacht auf gelöschte Normverweise")[1]
+    assert part.split("##")[0].strip().endswith("- keine")

@@ -11,6 +11,7 @@ from mwparserfromhell.nodes import (
 
 from lexikon.links import classify, slug
 from lexikon.models import RawPage
+from lexikon.norms import NormRef, norms_from_templates, parse_norms
 from lexikon.templates import render_template
 
 INTRO = "Einleitung"
@@ -30,6 +31,7 @@ def target_category_name(redirects: dict[str, str], key: str) -> str:
 class Section:
     path: tuple[str, ...]
     text: str
+    norms: list[str] = field(default_factory=list)
 
 
 @dataclass
@@ -47,10 +49,12 @@ class Article:
     external_links: list[str] = field(default_factory=list)
     category_links: list[str] = field(default_factory=list)
     dead_links: list[str] = field(default_factory=list)
+    norms: list[dict] = field(default_factory=list)
 
     def to_json(self) -> dict:
         d = dict(self.__dict__)
-        d["sections"] = [{"path": list(s.path), "text": s.text} for s in self.sections]
+        d["sections"] = [{"path": list(s.path), "text": s.text, "norms": s.norms}
+                         for s in self.sections]
         return d
 
 
@@ -152,8 +156,18 @@ def _clean(text: str) -> str:
     return re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).strip()
 
 
-def _sections(code, title: str) -> list[Section]:
-    sections: list[Section] = []
+def _section_norms(buf: list, text: str) -> list[NormRef]:
+    found: dict[str, NormRef] = {}
+    code = mwparserfromhell.parse("".join(str(n) for n in buf))
+    for ref in norms_from_templates(code) + parse_norms(text):
+        if ref.id in found and ref.alte_fassung:
+            found[ref.id] = ref
+        found.setdefault(ref.id, ref)
+    return list(found.values())
+
+
+def _sections(code, title: str) -> list[tuple[Section, list[NormRef]]]:
+    sections: list[tuple[Section, list[NormRef]]] = []
     stack: list[tuple[int, str]] = []
     path: tuple[str, ...] = (INTRO,)
     buf: list = []
@@ -161,7 +175,8 @@ def _sections(code, title: str) -> list[Section]:
     def flush():
         text = _clean(_render(buf, title))
         if text:
-            sections.append(Section(path, text))
+            refs = _section_norms(buf, text)
+            sections.append((Section(path, text, [r.id for r in refs]), refs))
 
     for node in code.nodes:
         if isinstance(node, Heading):
@@ -203,6 +218,14 @@ def normalize(page: RawPage, redirects: dict[str, str], known: set[str]) -> Arti
     external = [str(l.url) for l in code.filter_external_links()]
     own = slug(page.title)
     internal.discard(own)
+    sections = _sections(code, page.title)
+    norms: dict[str, dict] = {}
+    for _, refs in sections:
+        for r in refs:
+            entry = norms.setdefault(r.id, {"id": r.id, "label": r.label, "gesetz": r.gesetz,
+                                            "einheit": r.einheit, "nummer": r.nummer,
+                                            "alte_fassung": False})
+            entry["alte_fassung"] = entry["alte_fassung"] or r.alte_fassung
     return Article(
         pageid=page.pageid,
         title=page.title,
@@ -210,11 +233,12 @@ def normalize(page: RawPage, redirects: dict[str, str], known: set[str]) -> Arti
         revid=page.revid,
         timestamp=page.timestamp,
         categories=list(page.categories),
-        sections=_sections(code, page.title),
+        sections=[sec for sec, _ in sections],
         internal_links=sorted(internal),
         wikipedia_links=sorted(set(wiki)),
         images=sorted(set(images)),
         external_links=sorted(set(external)),
         category_links=sorted(set(cat_links)),
         dead_links=sorted(dead),
+        norms=[norms[k] for k in sorted(norms)],
     )

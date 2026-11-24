@@ -11,7 +11,7 @@ def article_file(a: Article) -> str:
 
 
 def build_graph(articles: list[Article]) -> dict:
-    """Knoten: art:/cat:/ext:. Kanten: links_to, in_category, references_external.
+    """Knoten: art:/cat:/ext:/norm:. Kanten: links_to, in_category, cites_norm, references_external.
 
     ``directed: false`` folgt der graphify-Konvention; die Richtung steckt in
     der Reihenfolge source → target.
@@ -41,6 +41,9 @@ def build_graph(articles: list[Article]) -> dict:
         for cat in a.categories:
             node(f"cat:{cat}", cat, "concept", sf)
             edge(me, "in_category", f"cat:{cat}", sf)
+        for n in a.norms:
+            node(f"norm:{n['id']}", n["label"], "concept", sf)
+            edge(me, "cites_norm", f"norm:{n['id']}", sf)
         for url in a.external_links:
             host = urlparse(url).netloc.lower()
             if host:
