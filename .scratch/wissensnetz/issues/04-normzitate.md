@@ -4,9 +4,9 @@
 
 **Blocked by:** 02, 03
 
-**Status:** ready-for-agent
+**Status:** erledigt 24.11.2026. 1.449 Normen in 272 von 317 Artikeln, 4.825 cites_norm-Kanten; die zwei Lücken-Verdachtsfälle stehen so im Original
 
-- [ ] Regression: Der Satz aus „Betreuungsverfahren“ mit „vgl.  Abs. 3 SGB-I“ enthält wieder die Paragraphennummer
-- [ ] Tabellentests: `§§ 99, 104 FamFG`, `§ 272 Abs. 2 FamFG`, `Art. 24 EGBGB`, `§ 15, § 19 RPflG`, `§§ 1814 ff. BGB`, `§ 1896 BGB a.F.`
-- [ ] Abkürzungen sind normalisiert (`SGB-I`, `SGB I` → `SGBI`)
-- [ ] Kein Artikel mehr mit sichtbar gelöschtem Normverweis (Prüfskript im Bericht)
+- [x] Regression: Der Satz aus „Betreuungsverfahren“ mit „vgl.  Abs. 3 SGB-I“ enthält wieder die Paragraphennummer
+- [x] Tabellentests: `§§ 99, 104 FamFG`, `§ 272 Abs. 2 FamFG`, `Art. 24 EGBGB`, `§ 15, § 19 RPflG`, `§§ 1814 ff. BGB`, `§ 1896 BGB a.F.`
+- [x] Abkürzungen sind normalisiert (`SGB-I`, `SGB I` → `SGBI`)
+- [x] Kein Artikel mehr mit sichtbar gelöschtem Normverweis (Prüfskript im Bericht)

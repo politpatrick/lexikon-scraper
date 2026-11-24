@@ -10,6 +10,7 @@ from lexikon.graph import build_graph
 from lexikon.links import slug
 from lexikon.normalize import build_redirect_map, is_content, normalize
 from lexikon.report import quality_report
+from lexikon.templates import inventory, inventory_report
 
 
 def cmd_archive(args) -> int:
@@ -58,6 +59,9 @@ def cmd_build(args) -> int:
     report_path = Path(args.report)
     report_path.parent.mkdir(parents=True, exist_ok=True)
     report_path.write_text(quality_report(articles, graph), encoding="utf-8")
+    templates_path = Path(args.templates_report)
+    templates_path.parent.mkdir(parents=True, exist_ok=True)
+    templates_path.write_text(inventory_report(inventory(content)), encoding="utf-8")
     print(f"Artikel: {len(articles)}, Weiterleitungen: {len(redirects)}, "
           f"Knoten: {len(graph['nodes'])}, Kanten: {len(graph['links'])}")
     return 0
@@ -74,6 +78,7 @@ def main(argv: list[str] | None = None) -> int:
     b.add_argument("--articles", default="articles")
     b.add_argument("--graph", default="graph/graph.json")
     b.add_argument("--report", default="reports/qualitaet.md")
+    b.add_argument("--templates-report", default="reports/vorlagen.md")
     b.set_defaults(func=cmd_build)
     args = parser.parse_args(argv)
     return args.func(args)

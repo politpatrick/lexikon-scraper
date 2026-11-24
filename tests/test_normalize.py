@@ -157,3 +157,28 @@ def test_is_content():
     assert is_content(raw("A", "Text"))
     assert not is_content(raw("B", "#WEITERLEITUNG [[A]]"))
     assert not is_content(raw("C", "egal", redirect=True))
+
+
+def test_norm_templates_rendered_regression():
+    """Live-Befund: Der alte Scraper machte daraus „vgl.  Abs. 3 SGB-I“."""
+    text = ("nach Maßgabe von {{Zitat de §|1|lfgg}} des Landesgesetzes; vgl. {{Zitat de §|30|sgb_1}} "
+            "Abs. 3 SGB-I und {{Rspr|XII ZB 1/20}} sowie {{PAGENAME}}")
+    a = normalize(raw("Betreuungsverfahren", text), {}, set())
+    assert a.sections[0].text == ("nach Maßgabe von § 1 des Landesgesetzes; vgl. § 30 Abs. 3 SGB-I "
+                                  "und XII ZB 1/20 sowie Betreuungsverfahren")
+
+
+def test_norms_per_section_and_article():
+    text = ("Einleitung mit {{Zitat de §|37|lfgg}} des Landesgesetzes.\n"
+            "== Verfahren ==\nNach {{Zitat de §|1814|bgb}} [[BGB]] und § 272 Abs. 2 FamFG sowie § 1814 BGB.")
+    a = normalize(raw("X", text), {}, {"bgb"})
+    assert a.sections[0].norms == ["LFGG§37"]
+    assert a.sections[1].norms == ["BGB§1814", "FamFG§272"]
+    assert [n["id"] for n in a.norms] == ["BGB§1814", "FamFG§272", "LFGG§37"]
+    assert a.norms[0] == {"id": "BGB§1814", "label": "§ 1814 BGB", "gesetz": "BGB",
+                          "einheit": "§", "nummer": "1814", "alte_fassung": False}
+
+
+def test_norm_alte_fassung_if_any_mention_says_so():
+    a = normalize(raw("X", "§ 1896 BGB a.F. und später § 1896 BGB"), {}, set())
+    assert a.norms[0]["alte_fassung"] is True

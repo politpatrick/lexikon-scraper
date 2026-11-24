@@ -52,3 +52,14 @@ def test_build_keeps_article_on_slug_collision(tmp_path):
     andere = json.loads((tmp_path / "a" / "3.json").read_text(encoding="utf-8"))
     assert andere["internal_links"] == ["betreuungsrechtliche-praxis", "einwilligungsvorbehalt"]
     assert andere["dead_links"] == []
+
+
+def test_build_writes_template_inventory(tmp_path):
+    raw = tmp_path / "raw"
+    sync_raw([RawPage(1, "A", 1, "t", "{{Zitat de §|1|bgb}} {{Neu}}", ())], raw)
+    main(["build", "--raw", str(raw), "--articles", str(tmp_path / "a"),
+          "--graph", str(tmp_path / "g.json"), "--report", str(tmp_path / "r.md"),
+          "--templates-report", str(tmp_path / "v.md")])
+    report = (tmp_path / "v.md").read_text(encoding="utf-8")
+    assert "| Zitat de § | 1 | 1 | Normzitat |" in report
+    assert "Unbekannte Vorlagen: 1" in report
