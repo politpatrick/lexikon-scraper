@@ -75,52 +75,138 @@
     "zugangsrecht",
     "zugriffsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1862",
+      "label": "§ 1862 BGB",
+      "nummer": "1862"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§14",
+      "label": "§ 14 FamFG",
+      "nummer": "14"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§14b",
+      "label": "§ 14b FamFG",
+      "nummer": "14b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§23",
+      "label": "§ 23 FamFG",
+      "nummer": "23"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§292",
+      "label": "§ 292 FamFG",
+      "nummer": "292"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§303",
+      "label": "§ 303 FamFG",
+      "nummer": "303"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§64",
+      "label": "§ 64 FamFG",
+      "nummer": "64"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§130a",
+      "label": "§ 130a ZPO",
+      "nummer": "130a"
+    }
+  ],
   "pageid": 39250,
   "revid": 66811,
   "sections": [
     {
+      "norms": [
+        "FamFG§292"
+      ],
       "path": [
         "Allgemeines"
       ],
       "text": "Mit dem Elektronischen Gerichts- und Verwaltungspostfach (EGVP) hat die Justiz eine eigene elektronische - kritische - Kommunikationsinfrastruktur für den elektronischen Rechtsverkehr (ERV) geschaffen. Weder für ehrenamtliche Betreuer noch Berufsbetreuer gibt es bisher eine Pflicht zur Nutzung des EGVP (via eBo oder MJP). Die Jahresberichte können weiterhin papierhaft eingereicht werden. Allerdings ist die elektronische Einreichung des gesamten Schriftverkehrs bundesweit bei allen Gerichten via eBo oder MJP zulässig.\n\nZum Schriftverkehr von Berufsbetreuern mit Gerichten vertritt nunmehr das Landgericht Augsburg die Ansicht, dass auch hier der elektronische Weg verbindlich ist: LG Augsburg, Beschluss vom 9. Januar 2025 – 53 T 4110/24 e.\n\nNRW beabsichtigt außerdem, eine Pflicht zur elektronischen Antragstellung für Vergütungsanträge einzuführen (§ 292 Abs. 6 FamFG). In NRW sind Berufsbetreuer ab 1.7.26 verpflichtet, Pauschalvergütungsanträge nur noch auf speziellen einheitlichen Vordrucken und auf elektronischem Weg einzureichen."
     },
     {
+      "norms": [
+        "FamFG§14b",
+        "FamFG§303"
+      ],
       "path": [
         "Verpflichtende Verwendung für Beschwerdeschriften"
       ],
       "text": "Anwaltliche Berufsbetreuer sind lt. BGH verpflichtet, Beschwerden gegen Gerichtsbeschlüsse elektronisch (mit dem besonderen Anwaltspostfach - beA) einzureichen, § 14b FamFG (BGH, Beschluss v. 31.01.2023 - XIII ZB 90/22). Die dürfte auch gelten, wenn ein Anwalt als Verfahrenspfleger bestellt ist.\n\nUnd Betreuungsbehörden, die nach § 303 FamFG ebenfalls beschwerdeberechtigt sind, müssen wie Anwälte die elektronische Form beachten (und dazu ihr besonderes Behördenpostfach -beBPo - verwenden)."
     },
     {
+      "norms": [
+        "FamFG§14"
+      ],
       "path": [
         "Elektronische Akten und Dokumente der freiwilligen Gerichtsbarkeit"
       ],
       "text": "Gemäß § 14 Abs. 1 FamFG sollen die Gerichtsakten für Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit in ganz Deutschland ab 01.01.2026 nur noch elektronisch geführt werden. Die Digitalisierung in der deutschen Justiz ist ein sehr schwieriger Modernisierungsprozess, da es sich bei diesen IT-Systemen um eine sogenannte kritische Infrastruktur handelt."
     },
     {
+      "norms": [
+        "ZPO§130a",
+        "FamFG§64",
+        "FamFG§23",
+        "BGB§1862"
+      ],
       "path": [
         "Rechtsprechung"
       ],
       "text": "BGH, Beschluss vom 07.09.2022 - XII ZB 215/22\n\nDie einfache Signatur im Sinne des § 130a Abs. 3 Satz 1 Alt. 2 ZPO meint die einfache Wiedergabe des Namens am Ende des Textes, beispielsweise bestehend aus einem maschinenschriftlichen Namenszug unter dem Schriftsatz oder einer eingescannten Unterschrift. Nicht genügend ist das Wort \"Rechtsanwalt\" ohne Namensangabe.\n\nBGH, Beschluss v. 31.05.2023, XII ZB 428/22\n\n-Rechtsanwälte, die das Amt des Betreuers berufsmäßig ausüben und in dieser Eigenschaft im eigenen Namen eine Beschwerdeschrift nach § 64 Abs. 2 Satz 1 FamFG einreichen, haben diese gemäß § 14 b Abs. 1 Satz 1 FamFG als elektronisches Dokument zu übermitteln.\n- Werden verfahrenseinleitende Anträge nicht zur Niederschrift der Geschäftsstelle, sondern schriftlich abgegeben, hängt deren Wirksamkeit nach § 23 FamFG – anders als bei bestimmenden\nSchriftsätzen im Beschwerdeverfahren (§ 64 Abs. 2 Satz 3 und 4 FamFG) – nicht von der Beachtung zwingender Formvorschriften\nab, zu denen für einen Rechtsanwalt § 14 b Abs. 1 FamFG hinzutreten könnte. Auch ein Rechtsanwalt darf solche Anträge daher\ngemäß § 14 b Abs. 2 Satz 1 FamFG in gewöhnlicher Schriftform stellen; er ist in diesem Fall allerdings gemäß § 14 b Abs. 2 Satz 2 FamFG verpflichtet, auf Anforderung des Gerichts ein elektronisches Dokument nachzureichen.\n\nLG Augsburg, Beschluss vom 09.01.2025, 53 T 4110/24 e\n\n- Zur Verpflichtung eines Berufsbetreuers zur Teilnahme am elektronischen Rechtsverkehr und zur Eröffnung eines sicheren Übermittlungsweges zur Zustellung von elektronischen Dokumenten auf Anforderung des Betreuungsgerichts.\n- Verweigert der Berufsbetreuer die Eröffnung eines sicheren Übermittlungsweges zur Zustellung elektronischer Dokumente kann das Betreuungsgericht gegen Pflichtwidrigkeiten des Betreuers durch geeignete Gebote und Verbote einzuschreiten und kann den Betreuer zur Befolgung seiner Anordnungen durch die Festsetzung von Zwangsgeld nach § 1862 Abs. 3 S. 2 BGB anhalten."
     },
     {
+      "norms": [],
       "path": [
         "Umsetzungsstand"
       ],
       "text": "Stand der Umsetzung des elektronischen Rechtsverkehrs in den Bundesländern (Stand 1.6.2024)\n Bundesland  EGVP  eAkte  Umsetzungsstand\n Baden-Württemberg  ja  ja  alle 152 Gerichte in Baden-Württemberg = 100 %\n Bayern  ?  ?  ?\n Berlin  ?  ?  ?\n Brandenburg  ?  ?  ?\n Bremen  ?  ?  ?\n Hamburg  ?  ?  ?\n Hessen  ?  ?  ?\n Mecklenburg-Vorp.  ?  ?  ?\n Niedersachsen  ?  ?  ?\n Nordrhein-Westfalen  ?  ?  ?\n Rheinland-Pfalz  ?  ?  ?\n Saarland  ?  ?  ?\n Sachsen  ?  ?  ?\n Sachsen-Anhalt  ?  ?  ?\n Schleswig-Holstein  ?  ?  ?\n Thüringen  ?  ?  ?"
     },
     {
+      "norms": [],
       "path": [
         "Elektronisches Bürger- und Organisationspostfach (eBO)"
       ],
       "text": "Das privatrechtliche eBO erfordert eine Software von kommerziellen Anbietern, die auf dem eigenen Computer installiert werden muss. Dabei entstehen monatliche Lizenzkosten. Die gängigen Softwarelösungen für Berufsbetreuer stellen in der Regel bereits eine Anbindung an das eBO zur Verfügung."
     },
     {
+      "norms": [],
       "path": [
         "Mein Justizpostfach (MJP)"
       ],
       "text": "Das öffentlich-rechtliche MJP ist ein kostenfreies Angebot des Bundesinnenministeriums. Es handelt sich um eine Webanwendung, das heißt, das Postfach wird über den Internetbrowser aufgerufen. Mit dem MJP können Nutzer*innen ihre elektronischen Dokumente digitalisiert über eine einfache Benutzeroberfläche an die Amtsgerichte versenden und die eingehenden Dokumente über ihr eigenes Postfach abrufen.\n\nFür die Einrichtung und Nutzung des eBO oder des MJP müssen sich Interessierte zunächst identifizieren. Das geht aktuell noch am einfachsten mit der Online-Ausweisfunktion des deutschen Personalausweises. Dazu benötigt man ein passendes Kartenlesegerät oder ein NFC-fähiges Smartphone mit der AusweisApp."
     },
     {
+      "norms": [],
       "path": [
         "Die 10 Komponenten des Datenschutzes in Deutschland",
         "Auftragskontrolle"
@@ -128,6 +214,7 @@
       "text": "Auftragskontrolle ist die Fähigkeit, gewährleisten zu können, dass bei Daten, die im Auftrag für andere Personen verarbeitet werden, dies nur entsprechend den Weisungen des Auftraggebers geschieht. Die Daten sollten dabei nicht an andere Personen übermittelt werden können, auch nicht in Form einer CD an das Finanzamt."
     },
     {
+      "norms": [],
       "path": [
         "Die 10 Komponenten des Datenschutzes in Deutschland",
         "Benutzerkontrolle"
@@ -135,6 +222,7 @@
       "text": "Benutzerkontrolle ist die Fähigkeit, verhindern zu können, dass eigene Datenverarbeitungssysteme mit Hilfe von Einrichtungen zur Datenübertragung von Unbefugten mitgenutzt werden können."
     },
     {
+      "norms": [],
       "path": [
         "Die 10 Komponenten des Datenschutzes in Deutschland",
         "Datenträgerkontrolle"
@@ -142,6 +230,7 @@
       "text": "Datenträgerkontrolle ist die Fähigkeit, verhindern zu können, dass bestimmte Datenträger unbefugt gelesen, kopiert, verändert oder entfernt werden können."
     },
     {
+      "norms": [],
       "path": [
         "Die 10 Komponenten des Datenschutzes in Deutschland",
         "Eingabekontrolle"
@@ -149,6 +238,7 @@
       "text": "Eingabekontrolle ist die Fähigkeit, gewährleisten zu können, dass auch nachträglich noch überprüft und festgestellt werden kann, welche personenbezogenen Daten zu welcher Zeit von wem in die eigenen Datenverarbeitungssysteme eingegeben worden sind."
     },
     {
+      "norms": [],
       "path": [
         "Die 10 Komponenten des Datenschutzes in Deutschland",
         "Organisationskontrolle"
@@ -156,6 +246,7 @@
       "text": "Organisationskontrolle ist die Fähigkeit, die innerbehördliche oder innerbetriebliche Organisation so zu gestalten, dass sie den besonderen Anforderungen des Datenschutzes in Deutschland und der Europäischen Union gerecht wird."
     },
     {
+      "norms": [],
       "path": [
         "Die 10 Komponenten des Datenschutzes in Deutschland",
         "Speicherkontrolle"
@@ -163,6 +254,7 @@
       "text": "Speicherkontrolle ist die Fähigkeit, verhindern zu können, dass personenbezogene Daten in den betrachteten Speicher unbefugt eingegeben werden, von den Daten dort unbefugt Kenntnis genommen wird, sie unbefugt verändert oder gelöscht werden."
     },
     {
+      "norms": [],
       "path": [
         "Die 10 Komponenten des Datenschutzes in Deutschland",
         "Transportkontrolle"
@@ -170,6 +262,7 @@
       "text": "Transportkontrolle ist die Fähigkeit, verhindern zu können, dass bei der Übertragung personenbezogener Daten sowie beim Transport von Datenträgern die Daten unbefugt gelesen, kopiert, verändert oder gelöscht werden können."
     },
     {
+      "norms": [],
       "path": [
         "Die 10 Komponenten des Datenschutzes in Deutschland",
         "Übermittlungskontrolle"
@@ -177,6 +270,7 @@
       "text": "Übermittlungskontrolle ist die Fähigkeit, gewährleisten zu können, dass überprüft und festgestellt werden kann, an welche Stelle personenbezogene Daten durch Einrichtungen zur Datenübertragung übermittelt werden können."
     },
     {
+      "norms": [],
       "path": [
         "Die 10 Komponenten des Datenschutzes in Deutschland",
         "Zugangskontrolle"
@@ -184,6 +278,7 @@
       "text": "Zugangskontrolle ist die Fähigkeit, Unbefugten den Zugang zu Datenverarbeitungsanlagen, mit denen personenbezogene Daten verarbeitet werden, erfolgreich zu verwehren."
     },
     {
+      "norms": [],
       "path": [
         "Die 10 Komponenten des Datenschutzes in Deutschland",
         "Zugriffskontrolle"
@@ -191,6 +286,7 @@
       "text": "Zugriffskontrolle ist die Fähigkeit, gewährleisten zu können, dass die zur Benutzung eines Datenverarbeitungssystems Berechtigten ausschließlich auf die ihrer Zugriffsberechtigung unterliegenden Daten zugreifen können."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

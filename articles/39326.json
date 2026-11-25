@@ -6,7 +6,9 @@
     "Adressen"
   ],
   "dead_links": [],
-  "external_links": [],
+  "external_links": [
+    "https://www.charta-der-vielfalt.de"
+  ],
   "images": [],
   "internal_links": [
     "betreuungsarbeitsgemeinschaft",
@@ -44,34 +46,113 @@
     "wohnungsauflösung",
     "zugangsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "AO",
+      "id": "AO§52",
+      "label": "§ 52 AO",
+      "nummer": "52"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.70",
+      "label": "Art. 70 GG",
+      "nummer": "70"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.83",
+      "label": "Art. 83 GG",
+      "nummer": "83"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.91a",
+      "label": "Art. 91a GG",
+      "nummer": "91a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.91b",
+      "label": "Art. 91b GG",
+      "nummer": "91b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.91c",
+      "label": "Art. 91c GG",
+      "nummer": "91c"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.91d",
+      "label": "Art. 91d GG",
+      "nummer": "91d"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.91e",
+      "label": "Art. 91e GG",
+      "nummer": "91e"
+    }
+  ],
   "pageid": 39326,
-  "revid": 66924,
+  "revid": 66925,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Allgemeines"
       ],
       "text": "In Deutschland gilt die staatlich anerkannte Gemeinnützigkeit als ein Gütesiegel für die Vertrauenswürdigkeit von Organisationen wie eingetragene Vereine, Stiftungen und Gesellschaften mit beschränkter Haftung. Das deutsche Gemeinnützigkeitsrecht gibt es seit der Weimarer Republik dank der Reichsabgabenordnung, einem Reichssteuergesetz für den neuen deutschen Wohlfahrtsstaat. Den freien Wohlfahrtsverbänden wurde damals vom Gesetzgeber über das Subsidiaritätsprinzip eine gesetzliche Vorrangstellung eingeräumt. Die freien Träger wie die Caritas und die Diakonie sollten die sozialen Aufgaben vorrangig vor dem Staat erfüllen."
     },
     {
+      "norms": [],
       "path": [
         "Nationalismus und Sozialneid"
       ],
       "text": "Im Jahr 1934 trat jedoch das nationalsozialistische Steueranpassungsgesetz in Kraft, durch das der ideologische Rechtsbegriff der Deutschen Volksgemeinschaft in das bisherige Gemeinnützigkeitsrecht eingeführt wurde – mit verheerenden Rechtsfolgen. Die geänderte Reichsabgabenordnung wurde zur „Vernichtungswaffe“ der Finanzämter und -gerichte gegen alle Vereine, Wohlfahrtsverbände, Krankenhäuser, Schulen und Verlage, die nun kein Gütesiegel der Gemeinnützigkeit mehr besaßen. Die Zentralwohlfahrtsstelle der deutschen Juden war z.B. im Jahr 1917 gegründet worden."
     },
     {
+      "norms": [],
       "path": [
         "Zentralismus und Untergang"
       ],
       "text": "Die sozialdemokratische Arbeiterwohlfahrt wurde 1933 verboten und ihr Vermögen der neuen NS-Volkswohlfahrt übereignet. Ähnlich erging es anderen „linken“ Organisationen wie den „Naturfreunden“ und den freien Gewerkschaften. Die wirtschaftliche Ausplünderung freier zivilgesellschaftlicher Strukturen führte 1939 in den Zweiten Weltkrieg und bis 1945 zum Untergang des Deutschen Reiches."
     },
     {
+      "norms": [],
       "path": [
         "Bundesrepublik und Föderalismus"
       ],
       "text": "Die Entnazifizierung des deutschen Gemeinnützigkeitsrechts durch den Kontrollrat der vier (4) Sieger- und Besatzungsmächte führte im Westen zur bundesdeutschen Abgabenordnung (AO) der BRD. Der Bundesfinanzhof nahm 1950 die Arbeit des bisherigen Reichsfinanzhofs wieder auf. Zivilgesellschaftliche Verbände im Westen sollten nun politisch neutral sein, um das Gütesiegel „gemeinnützig“ erhalten zu können."
     },
     {
+      "norms": [
+        "GGArt.70",
+        "GGArt.83",
+        "GGArt.91a",
+        "GGArt.91b",
+        "GGArt.91c",
+        "GGArt.91d",
+        "GGArt.91e"
+      ],
       "path": [
         "Bundesrepublik und Föderalismus",
         "Kooperativer Föderalismus"
@@ -79,32 +160,45 @@
       "text": "Die Verpflichtung des deutschen Bundesstaats und seiner sechzehn (16) Gliedstaaten zur gegenseitigen Abstimmung und zur Zusammenarbeit im Interesse des Gemeinwohls wird Kooperativer Föderalismus genannt. Diese Kooperation ist weitgehend informell geregelt. Das Grundgesetz enthält jedoch auch einige verfassungsrechtliche Normen dazu (z.B. Art. 70 GG, Art. 83 GG, Art. 91a GG, Art. 91b GG, Art. 91c GG, Art. 91d GG, Art. 91e GG).\n\nDie Wirtschaftskraft der Bundesländer ist unterschiedlich und muss daher im Kooperativen Föderalismus angemessen ausgeglichen werden. Seit 1995 sind auch die fünf (5) neuen Bundesländer in diesen Länderfinanzausgleich einbezogen."
     },
     {
+      "norms": [],
       "path": [
         "Deutsche Demokratische Republik"
       ],
       "text": "In der DDR sorgte der sozialistische Staat gemäß linker Staatsverfassung seit 1949 selbst für das Gemeinwohl seiner Bürgerschaft. So war jedenfalls der verfassungsrechtliche Anspruch. Im Herbst 1989 kamen dann nach 40 Jahren zwei unterschiedlich geprägte, deutsche Zivilgesellschaften wieder zueinander und beschlossen ihre Wiedervereinigung auf demokratischem Weg (siehe unter Neu)."
     },
     {
+      "norms": [
+        "AO§52"
+      ],
       "path": [
         "Modernes Gemeinnützigkeitsrecht?"
       ],
       "text": "Eine Modernisierung des Gemeinnützigkeitsrechts ist eigentlich schon seit 1998 Teil des Arbeitsprogramms des Deutschen Bundestags als Gesetzgeber. Der historisch gewachsene Zweckkatalog in § 52 Abs. 2 AO sollte dringend überarbeitet und ergänzt werden, damit die wichtige gemeinnützige Arbeit in Deutschland nicht von staatlicher Seite behindert, sondern vielmehr steuerrechtlich gefördert wird. Ob das weiterhin politisch neutral gelingen kann, wird erst die Zukunft zeigen."
     },
     {
+      "norms": [],
       "path": [
         "Diversitätsorientierung"
       ],
       "text": "Die sogenannte Diversity-Kompetenz wird in zunehmendem Maß von kommunalen und städtischen Verwaltungsmitarbeitenden gefordert. Nur so können die notwendigen Veränderungen für Deutschland in der Europäischen Union langfristig umgesetzt werden. Kenntnis und Beachtung der Normen des deutschen Allgemeinen Gleichbehandlungsgesetzes (AGG) sind dazu unbedingt notwendig. Auch die Beachtung des internationalen UN Nachhaltigkeitszieles SDG 10 kann dabei sehr hilfreich sein."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Gesundheitsdatennutzungsgesetz, Grundrechte, Betreuungsarbeitsgemeinschaft, Querschnittsaufgaben\n- erweiterte Unterstützung, Unterstützungspflicht, Personenstand, Kindschaftsrecht, Verhältnismäßigkeitsprinzip\n- digitale Barrierefreiheit, Rundfunkbeitrag, Vulnerabilität, Interoperabilität\n- Mittellosigkeit, Eidesstattliche Versicherung, Schweigepflicht\n- Schenkung, Wohnungsauflösung\n- IT-Sicherheit, Datenschutz, Zugangsrecht, Rechtsmittel, Diskriminierungsverbot\n- Verbraucherstreitbeilegung, Wahlrecht\n- Inklusionsbetrieb, Kirchenaustritt"
+    },
+    {
+      "norms": [],
+      "path": [
+        "Weblinks"
+      ],
+      "text": "- Charta der Vielfalt"
     }
   ],
   "slug": "gemeinwohlorientierung",
-  "timestamp": "2026-11-24T12:08:17Z",
+  "timestamp": "2026-11-25T14:04:01Z",
   "title": "Gemeinwohlorientierung",
   "wikipedia_links": []
 }

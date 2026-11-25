@@ -38,40 +38,249 @@
     "verhinderungsbetreuer",
     "vormundschaftsgericht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1808",
+      "label": "§ 1808 BGB",
+      "nummer": "1808"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1809",
+      "label": "§ 1809 BGB",
+      "nummer": "1809"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1817",
+      "label": "§ 1817 BGB",
+      "nummer": "1817"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1876",
+      "label": "§ 1876 BGB",
+      "nummer": "1876"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1877",
+      "label": "§ 1877 BGB",
+      "nummer": "1877"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1879",
+      "label": "§ 1879 BGB",
+      "nummer": "1879"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1880",
+      "label": "§ 1880 BGB",
+      "nummer": "1880"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§277",
+      "label": "§ 277 FamFG",
+      "nummer": "277"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§48",
+      "label": "§ 48 FamFG",
+      "nummer": "48"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§1",
+      "label": "§ 1 VBVG",
+      "nummer": "1"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§12",
+      "label": "§ 12 VBVG",
+      "nummer": "12"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§13",
+      "label": "§ 13 VBVG",
+      "nummer": "13"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§14",
+      "label": "§ 14 VBVG",
+      "nummer": "14"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§15",
+      "label": "§ 15 VBVG",
+      "nummer": "15"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§16",
+      "label": "§ 16 VBVG",
+      "nummer": "16"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§3",
+      "label": "§ 3 VBVG",
+      "nummer": "3"
+    },
+    {
+      "alte_fassung": true,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§4@aF",
+      "label": "§ 4 VBVG a.F.",
+      "nummer": "4"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§5",
+      "label": "§ 5 VBVG",
+      "nummer": "5"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§6",
+      "label": "§ 6 VBVG",
+      "nummer": "6"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§7",
+      "label": "§ 7 VBVG",
+      "nummer": "7"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§8",
+      "label": "§ 8 VBVG",
+      "nummer": "8"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§9",
+      "label": "§ 9 VBVG",
+      "nummer": "9"
+    }
+  ],
   "pageid": 1796,
   "revid": 65200,
   "sections": [
     {
+      "norms": [
+        "BGB§1808",
+        "VBVG§7",
+        "FamFG§277",
+        "VBVG§1",
+        "VBVG§6"
+      ],
       "path": [
         "Einleitung"
       ],
-      "text": "Achtung: dieses Gesetz ist zum 31.12.2025 außer Kraft getreten und gilt nur für frühere Ansprüche weiter.\n\nZur Neuregelung ab 1.1.2026\n\n Basisdaten\n Volltitel: Gesetz über die Vergütung von\nVormündern und Betreuern\n Kurztitel:  Vormünder- und Betreuervergütungsgesetz\n Abkürzung:   VBVG (2023)\n Art:  Bundesgesetz\n Geltungsbereich:  Bundesrepublik Deutschland\n Rechtsmaterie:  Betreuungsrecht\n Fundstellennachweis:  400-16\n Datum des Gesetzes:   4.5.2021 (BGBl. I S. 882)\n Inkrafttreten:   01.01.2023\n Letzte Änderung: G. vom 26.6.2022 (BGBl. I. S. 959)\n Außerkrafttreten:  Ersetzte das VBVG von 2005\n\nDas Vormünder- und Betreuervergütungsgesetz war bis 31.12.25 Teil der am 1.1.2023 in Kraft getretenen Betreuungsrechtsreform und regelt alle Vergütungsansprüche beruflich tätiger Vormünder und Betreuer (Berufsbetreuer, Vereinsbetreuer und Behördenbetreuer). Über {{Zitat-dej|§|1808|bgb}} BGB galt es auch für beruflich geführte Pflegschaften und über § 277 FamFG für Verfahrenspflegschaften. Es hat das gleichnamige Gesetz aus dem Jahre 2005 ersetzt, das zuletzt 2019 grundlegend geändert wurde, vgl unter Betreuervergütung 2019. Und wurde seinerseits größtenteils durch eine Neuregelung zum 1.1.26 ersetzt.\n\nDas VBVG besteht zT aus Regelungen für Vormundschaften und Pflegschaften (§§ 1 - 6 VBVG) und zT für berufliche Betreuungen (§ {{Zitat de §|7|vbvg_2023}} ff VBVG)."
+      "text": "Achtung: dieses Gesetz ist zum 31.12.2025 außer Kraft getreten und gilt nur für frühere Ansprüche weiter.\n\nZur Neuregelung ab 1.1.2026\n\n Basisdaten\n Volltitel: Gesetz über die Vergütung von\nVormündern und Betreuern\n Kurztitel:  Vormünder- und Betreuervergütungsgesetz\n Abkürzung:   VBVG (2023)\n Art:  Bundesgesetz\n Geltungsbereich:  Bundesrepublik Deutschland\n Rechtsmaterie:  Betreuungsrecht\n Fundstellennachweis:  400-16\n Datum des Gesetzes:   4.5.2021 (BGBl. I S. 882)\n Inkrafttreten:   01.01.2023\n Letzte Änderung: G. vom 26.6.2022 (BGBl. I. S. 959)\n Außerkrafttreten:  Ersetzte das VBVG von 2005\n\nDas Vormünder- und Betreuervergütungsgesetz war bis 31.12.25 Teil der am 1.1.2023 in Kraft getretenen Betreuungsrechtsreform und regelt alle Vergütungsansprüche beruflich tätiger Vormünder und Betreuer (Berufsbetreuer, Vereinsbetreuer und Behördenbetreuer). Über § 1808 BGB galt es auch für beruflich geführte Pflegschaften und über § 277 FamFG für Verfahrenspflegschaften. Es hat das gleichnamige Gesetz aus dem Jahre 2005 ersetzt, das zuletzt 2019 grundlegend geändert wurde, vgl unter Betreuervergütung 2019. Und wurde seinerseits größtenteils durch eine Neuregelung zum 1.1.26 ersetzt.\n\nDas VBVG besteht zT aus Regelungen für Vormundschaften und Pflegschaften (§§ 1 - 6 VBVG) und zT für berufliche Betreuungen (§ § 7 ff VBVG)."
     },
     {
+      "norms": [
+        "VBVG§1",
+        "VBVG§7",
+        "VBVG§16",
+        "VBVG§12",
+        "VBVG§3",
+        "BGB§1877",
+        "VBVG§4@aF",
+        "VBVG§8",
+        "BGB§1879",
+        "BGB§1880",
+        "VBVG§9",
+        "BGB§1817",
+        "VBVG§13",
+        "VBVG§14",
+        "VBVG§15",
+        "FamFG§48",
+        "BGB§1809",
+        "BGB§1876"
+      ],
       "path": [
         "Grundaussagen"
       ],
-      "text": "Bei der Bestellung eines Vormundes und Pflegers muss im Beschluss des Gerichtes vermerkt sein, dass die Tätigkeit beruflich geführt wird ({{Zitat de §|1|vbvg_2023}} VBVG). Das ist in der Regel der Fall, wenn der Betroffene mehr als 10 gesetzliche Vertretungen führt oder (bei Vormundschaften) einen wöchentlichen Zeitaufwand von mindestens 20 Stunden hat. Wird die Feststellung versehentlich unterlassen, kann sie gem. § 48 FamFG nachträglich korrigiert werden, wenn ein offenkundiger Schriftfehler vorliegt. Meist wird nachträglich eine Änderung des Statusses in berufliche Betreuungsführung beantragt, dies hat der BGH zwar zugelassen, aber nicht mit rückwirkender Kraft (BGH Beschl v 8.1.2014, XII ZB 354/13).\n\nDas gilt bisher auch für Betreuungen, aber ab 1.1.23 ist das anders geregelt.\n\nFür rechtliche Betreuungen gelten ab 1.1.2023 keine Fallzahlen mehr und daher auch nicht mehr die Regelung über einen nachträglichen Statuswechsel. Der Vergütungsanspruch ({{Zitat de §|7|vbvg_2023}} Abs. 1 oder 2 VBVG) rührt nun vielmehr aus der Registrierung nach dem BtOG her.\n\nNach 15 Monaten erlöschen die Vergütungsansprüche. Die Frist kann vom Gericht verkürzt oder verlängert werden ({{Zitat de §|16|vbvg_2023}} Abs. 3 VBVG i.V.m. § 1877 Abs. 4 BGB). Eine Wiedereinsetzung in den vorigen Stand erfolgt bei Fristversäumung nicht (OLG Schleswig FamRZ 2002, 1288).\n\nVormünder, Pfleger (sowie die in {{Zitat de §|12|vbvg_2023}} Abs. 1 VBVG genannten Betreuer) können eine Vergütung für nachgewiesenen Zeitaufwand nach {{Zitat de §|3|vbvg_2023}} VBVG geltend machen. Der Stundensatz beträgt 23 Euro, bei nachgewiesenen Fachkenntnissen durch abgeschlossene Ausbildung 29,50 Euro und durch abgeschlossenes Studium 39 Euro (jeweils zuzügl Aufwendungsersatz nach {{Zitat-dej|§|1877|bgb}} BGB). Mehrwertsteuer fällt bei Betreuungen, Vormundschaften und Ergänzungspflegschaften nach § 1809 BGB allerdings seit 1.7.2013 nicht mehr an. Die Stundensätze können im Ausnahmefall sowohl abgesenkt  als auch erhöht ({{Zitat de §|3|vbvg_2023}} VBVG) werden.\n\nBerufliche Betreuer erhalten nur pauschalierte Zeitaufwände ersetzt (siehe Tabelle). Der Stundensatz betrug bis zum 26.7.2019 27,00 Euro; bei nachgewiesenen Fachkenntnissen durch abgeschlossene Ausbildung 33,50 Euro und durch abgeschlossenes Studium 44,00 Euro ({{Zitat-dej|§|4|vbvg}} VBVG). Diese Beträge sind \"Inklusivstundensätze\" und enthalten auch Aufwendungsersatz). Ab 27.7.2019 bemisst sich die monatliche Vergütungssumme nach dem Tabellenwert (Anlage zum VBVG, siehe unten).\n\nDie Höhe der pauschalierten Stundenansätze ( {{Zitat de §|8|vbvg_2023}} VBVG) hängt von der Dauer der Betreuung (ab erstmaliger Betreuerbestellung), davon, ob der Betreute vermögend oder mittellos ({{Zitat-dej|§|1879|bgb}}, {{Zitat-dej|§|1880|bgb}} BGB) ab und davon, ob er in einem Heim seinen gewöhnlichen Aufenthalt ab, wobei der Einrichtungsbegriff des {{Zitat de §|9|vbvg_2023}} Abs. 3 VBVG über den des § 1 Heimgesetz hinausgeht. Seit 27.7.2019 ist der Begriff des Heimes durch den der \"stationären oder gleichgestellten ambulanten Einrichtung\" ersetzt worden.\n\nSterilisationsbetreuer sowie Verhinderungsbetreuer (bei rechtlicher Verhinderung, z.B. Insichgeschäften), vgl. {{Zitat-dej|§|1817|bgb}} BGB,  {{Zitat de §|12|vbvg_2023}} Abs. 1 VBVG erhalten Vergütung für nachgewiesenen Zeitaufwand wie Vormünder; Verhinderungsbetreuer bei tatsächlicher Verhinderung des Betreuers (Urlaub, Krankheit) erhalten Pauschalvergütung nach Tagen, wobei dem verhinderten Betreuer diese Tage nicht als Vergütung gewährt werden.\n\nNach {{Zitat de §|13|vbvg_2023}} VBVG gelten die Regeln der §§ 7-10 auch für Vereinsbetreuer; für Behördenbetreuer jedoch gelten nach {{Zitat de §|14|vbvg_2023}} VBVG die Regeln für ausnahmsweise vergütete ehrenamtliche Betreuer, § 1876 BGB.\n\n{{Zitat de §|15|vbvg_2023}} Abs. 1 VBVG sieht einen Abrechnungsrhythmus von 3 Monaten vor. Die Mittellosigkeit ist in den § 1879 BGB und § 1880 BGB geregelt."
+      "text": "Bei der Bestellung eines Vormundes und Pflegers muss im Beschluss des Gerichtes vermerkt sein, dass die Tätigkeit beruflich geführt wird (§ 1 VBVG). Das ist in der Regel der Fall, wenn der Betroffene mehr als 10 gesetzliche Vertretungen führt oder (bei Vormundschaften) einen wöchentlichen Zeitaufwand von mindestens 20 Stunden hat. Wird die Feststellung versehentlich unterlassen, kann sie gem. § 48 FamFG nachträglich korrigiert werden, wenn ein offenkundiger Schriftfehler vorliegt. Meist wird nachträglich eine Änderung des Statusses in berufliche Betreuungsführung beantragt, dies hat der BGH zwar zugelassen, aber nicht mit rückwirkender Kraft (BGH Beschl v 8.1.2014, XII ZB 354/13).\n\nDas gilt bisher auch für Betreuungen, aber ab 1.1.23 ist das anders geregelt.\n\nFür rechtliche Betreuungen gelten ab 1.1.2023 keine Fallzahlen mehr und daher auch nicht mehr die Regelung über einen nachträglichen Statuswechsel. Der Vergütungsanspruch (§ 7 Abs. 1 oder 2 VBVG) rührt nun vielmehr aus der Registrierung nach dem BtOG her.\n\nNach 15 Monaten erlöschen die Vergütungsansprüche. Die Frist kann vom Gericht verkürzt oder verlängert werden (§ 16 Abs. 3 VBVG i.V.m. § 1877 Abs. 4 BGB). Eine Wiedereinsetzung in den vorigen Stand erfolgt bei Fristversäumung nicht (OLG Schleswig FamRZ 2002, 1288).\n\nVormünder, Pfleger (sowie die in § 12 Abs. 1 VBVG genannten Betreuer) können eine Vergütung für nachgewiesenen Zeitaufwand nach § 3 VBVG geltend machen. Der Stundensatz beträgt 23 Euro, bei nachgewiesenen Fachkenntnissen durch abgeschlossene Ausbildung 29,50 Euro und durch abgeschlossenes Studium 39 Euro (jeweils zuzügl Aufwendungsersatz nach § 1877 BGB). Mehrwertsteuer fällt bei Betreuungen, Vormundschaften und Ergänzungspflegschaften nach § 1809 BGB allerdings seit 1.7.2013 nicht mehr an. Die Stundensätze können im Ausnahmefall sowohl abgesenkt  als auch erhöht (§ 3 VBVG) werden.\n\nBerufliche Betreuer erhalten nur pauschalierte Zeitaufwände ersetzt (siehe Tabelle). Der Stundensatz betrug bis zum 26.7.2019 27,00 Euro; bei nachgewiesenen Fachkenntnissen durch abgeschlossene Ausbildung 33,50 Euro und durch abgeschlossenes Studium 44,00 Euro (§ 4 VBVG). Diese Beträge sind \"Inklusivstundensätze\" und enthalten auch Aufwendungsersatz). Ab 27.7.2019 bemisst sich die monatliche Vergütungssumme nach dem Tabellenwert (Anlage zum VBVG, siehe unten).\n\nDie Höhe der pauschalierten Stundenansätze ( § 8 VBVG) hängt von der Dauer der Betreuung (ab erstmaliger Betreuerbestellung), davon, ob der Betreute vermögend oder mittellos (§ 1879, § 1880 BGB) ab und davon, ob er in einem Heim seinen gewöhnlichen Aufenthalt ab, wobei der Einrichtungsbegriff des § 9 Abs. 3 VBVG über den des § 1 Heimgesetz hinausgeht. Seit 27.7.2019 ist der Begriff des Heimes durch den der \"stationären oder gleichgestellten ambulanten Einrichtung\" ersetzt worden.\n\nSterilisationsbetreuer sowie Verhinderungsbetreuer (bei rechtlicher Verhinderung, z.B. Insichgeschäften), vgl. § 1817 BGB,  § 12 Abs. 1 VBVG erhalten Vergütung für nachgewiesenen Zeitaufwand wie Vormünder; Verhinderungsbetreuer bei tatsächlicher Verhinderung des Betreuers (Urlaub, Krankheit) erhalten Pauschalvergütung nach Tagen, wobei dem verhinderten Betreuer diese Tage nicht als Vergütung gewährt werden.\n\nNach § 13 VBVG gelten die Regeln der §§ 7-10 auch für Vereinsbetreuer; für Behördenbetreuer jedoch gelten nach § 14 VBVG die Regeln für ausnahmsweise vergütete ehrenamtliche Betreuer, § 1876 BGB.\n\n§ 15 Abs. 1 VBVG sieht einen Abrechnungsrhythmus von 3 Monaten vor. Die Mittellosigkeit ist in den § 1879 BGB und § 1880 BGB geregelt."
     },
     {
+      "norms": [],
       "path": [
         "Tabelle ab 27.7.2019 (A-C kombiniert)"
       ],
       "text": "Nr.  Dauer der Betreuung  Nr.  Gewöhnlicher Aufenthaltsort  Nr.  Vermögensstatus  monatliche Pauschale\n A,B,C1\n In den ersten\n drei Monaten\n A,B,C1.1\n Stationäre Einrichtung oder\ngleichgestellte ambulant\nbetreute Wohnform\n A1.1.1\n mittellos  194 €\n   B1.1.1    241 €\n   C1.1.1   317 €\n   A1.1.2\n nicht mittellos  200 €\n   B1.1.2    249 €\n   C1.1.2   327 €\n A,B,C1.2\n andere Wohnform\n A1.2.1\n mittellos  208 €\n   B1.2.1   258 €\n   C1.2.1   339 €\n   A1.2.2\n nicht mittellos  298 €\n   B1.2.2   370 €\n   C1.2.2   486 €\n A,B,C2\n Im 4. bis 6. Monat\n A,B,C2.1\n Stationäre Einrichtung oder\ngleichgestellte ambulant\nbetreute Wohnform\n A2.1.1\n mittellos  129 €\n   B2.1.1   158 €\n   C2.1.1  208 €\n   A2.1.2\n nicht mittellos\n 158 €\n   B2.1.2   196 €\n   C2.1.2   257 €\n A,B,C2.2\nandere Wohnform\n A2.2.1\n mittellos  170 €\n   B2.2.1   211 €\n   C2.2.1   277 €\n  A2.2.2\n nicht mittellos  208 €\n  B2.2.2   258 €\n   C2.2.2  339 €\n A,B,C3\n Im 7. bis 12. Monat\n A,B,C3.1\n Stationäre Einrichtung oder\ngleichgestellte ambulant\nbetreute Wohnform\n A3.1.1\n mittellos  124 €\n  B3.1.1  154 €\n   C3.1.1  202 €\n  A3.1.2\n nicht mittellos  140 €\n  B3.1.2  174 €\n  C3.1.2   229 €\n A,B,C3.2\nandere Wohnform\n\n A3.2.1\n mittellos  151 €\n  B3.2.1   188 €\n   C3.2.1   246 €\n   A3.2.2\n nicht mittellos  192 €\n   B3.2.2  238 €\n  C3.2.2  312 €\n A,B,C4\n Im 13. bis 24. Monat\n A,B,C4.1\n Stationäre Einrichtung oder\ngleichgestellte ambulant\nbetreute Wohnform\n\n A4.1.1\n mittellos  87 €\n   B4.1.1    107 €\n   C4.1.1    141 €\n   A4.1.2\n nicht mittellos  91 €\n  B4.1.2   113 €\n C4.1.2   149 €\n A,B,C4.2\n andere Wohnform\n A4.2.1\n mittellos  122 €\n  B4.2.1    151 €\n  C4.2.1   198 €\n  A4.2.2\nnicht mittellos  158 €\n   B4.2.2   196 €\n   C4.2.2   257 €\n A,B,C5\n ab dem 25. Monat\n A,B,C5.1\n Stationäre Einrichtung oder\ngleichgestellte ambulant\nbetreute Wohnform\n\n A5.1.1\n mittellos  62 €\n  B5.1.1   78 €\n   C5.1.1   102 €\n   A5.1.2\nnicht mittellos  78 €\n   B5.1.2    96 €\n   C5.1.2   127 €\n A,B,C5.2\n andere Wohnform\n A5.2.1\n mittellos  105 €\n  B5.2.1    130 €\n C5.2.1    171 €\n   A5.2.2\nnicht mittellos  130 €\n   B5.2.2   161 €\n   C5.2.2   211 €"
     },
     {
+      "norms": [],
       "path": [
         "Rechtspolitische Kritik"
       ],
       "text": "Dem 2005er-Gesetz vorausgegangen waren kontroverse Diskussionen über Strukturreformen im Betreuungswesen, die im wesentlichen den gestiegenen Kosten (Betreuervergütung, Personalkosten bei den Vormundschaftsgerichten) entgegen wirken sollten. Während die in der Bundesrepublik tätigen rund 17.000 beruflichen Betreuer zuvor ihren Zeitaufwand für die Führung beruflich geführter Betreuungen (bei ca. 400.000 von insgesamt 1,1 Mio. Betreuten; Ende 2005) z.T. bis in kleinste Detail nachweisen mussten, was auch die Personalressourcen der Gerichte schwer belastete, war es Ziel des neuen Gesetzes, einfache, streitvermeidende und auskömmliche Regelungen zur beruflichen Betreuertätigkeit zu schaffen (so die Gesetzesbegründung). Freiwerdende Ressourcen sollen zweckentsprechend für Betreuungsarbeit Verwendung finden. Von den Berufsverbänden wurde das Gesetz als unrealistisch und ungerecht bezeichnet, da der individuelle Betreuungsaufwand zugunsten einer Mischkalkulation in Form einer Vergütungspauschale aufgegeben wurde."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "-VBVG-Rechtsprechung, Betreuervergütung, Stundensatz, Mittellosigkeit, Eidesstattliche Versicherung\n-Betreuervergütung 2019, Was ist neu?\n-Zu den aktuellen Gesetzesplänen bei der Vergütung ab 2026\n-Betreuungskosten im Steuerrecht"
     },
     {
+      "norms": [],
       "path": [
         "Literatur",
         "Bücher"
@@ -79,6 +288,9 @@
       "text": "- Felix: Vergütungskompass Betreuungsrecht, Reguvis, Köln 2024, 250 Seiten, 44 €"
     },
     {
+      "norms": [
+        "VBVG§5"
+      ],
       "path": [
         "Literatur",
         "Zeitschriftenbeiträge"
@@ -86,6 +298,7 @@
       "text": "-Amedick: Die JVA als Heim im Sinne des § 5 Abs. 3 VBVG; BtPrax 2012, 147\n-Bestelmeyer: Die Neuregelung des Vergütungsrechts nach dem 2. BtÄndG; Rpfleger 2005, 583\n-Bienwald: Die Vergütung eines Betreuers, dem die Besorgung einer einzelnen Angelegenheit aufgegeben wurde: JR 2012, 317\n-Deinert; Gewöhnlicher (Heim-) Aufenthalt und pauschale Betreuervergütung; FamRZ 2005; 954\n-ders.: Zur Neuregelung der Berufsbetreuer-, Berufsvormünder- und Berufspflegervergütung; BtPrax spezial 2005, S 13\n-ders.: Neue Pauschalvergütung für anwaltliche Berufsbetreuer; JurBüro 2005, 285 = FuR 2005, 308\n-ders.: Neue Betreuervergütung und Übergangsrecht; Rpfleger 2005, 304\n-ders: Die Vergütung der beruflichen Betreuer; Rechtspfleger-Studienhefte 2026, 46\n-Felix: VBVG. Neu denken. Die Überwindung der tradierten Pauschalmechanik BtPrax 2026, 51\n-Keuter: Vergütungsanspruch des berufsmäßigen Ergänzungspflegers für Tätigkeiten vor Bestellung, FamRZ 2010, 1955\n-Maier: Pauschalierung von Vergütung und Aufwendungsersatz; BtPrax spezial 2005, S. 17\n-Neumann/Neumann: Zur praktischen Umsetzung des ab dem 1.7.2005 geltenden Vergütungssystems, BtMan 2005, 90\n-Sonnenfeld: Das 2. BtÄndG - Überblick über die wesentlichen zum 1.7.2005 in Kraft tretenden Änderungen, FamRZ 2005, 941\n-Zimmermann: Die Betreuer- und Verfahrenspflegervergütung ab 1.7.2005, FamRZ 2005, 950\n-ders.: Neuere Rechtsprechung zur Vergütung von Betreuern, Verfahrenspflegern, Verfahrensbeiständen und Nachlasspflegern; FamRZ 2011, 1776"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],

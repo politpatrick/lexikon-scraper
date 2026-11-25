@@ -47,52 +47,150 @@
     "vulnerabilität",
     "zugriffsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§104",
+      "label": "§ 104 BGB",
+      "nummer": "104"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1821",
+      "label": "§ 1821 BGB",
+      "nummer": "1821"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1823",
+      "label": "§ 1823 BGB",
+      "nummer": "1823"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§203",
+      "label": "§ 203 StGB",
+      "nummer": "203"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StPO",
+      "id": "StPO§52",
+      "label": "§ 52 StPO",
+      "nummer": "52"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StPO",
+      "id": "StPO§53",
+      "label": "§ 53 StPO",
+      "nummer": "53"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StPO",
+      "id": "StPO§53a",
+      "label": "§ 53a StPO",
+      "nummer": "53a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§51",
+      "label": "§ 51 ZPO",
+      "nummer": "51"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§52",
+      "label": "§ 52 ZPO",
+      "nummer": "52"
+    }
+  ],
   "pageid": 1937,
   "revid": 66858,
   "sections": [
     {
+      "norms": [
+        "BGB§1823",
+        "BGB§1821"
+      ],
       "path": [
         "Funktion der gesetzlichen Vertretung"
       ],
-      "text": "Gemäß {{Zitat de §|1823|bgb}} BGB ist der Betreuer der gesetzliche Vertreter in den eingerichteten Aufgabenkreisen. Ist der Aufgabenkreis Gesundheitssorge eingerichtet, ist der Betreuer in diesem Bereich der gesetzliche Vertreter des Betroffenen. Er muss in der Regel (wenn der Patient nach ärztlicher Überzeugung nicht einwilligungsfähig ist), genauso von dem Arzt informiert werden wie der Betroffene selbst. Ist der einwilligungsfähige betreute Patient mit der Weitergabe seiner personenbezogenen Daten an den Betreuer nicht einverstanden, muss der Betreuer diesen Willen in der Regel beachten ({{Zitat de §|1821|bgb}} Abs. 2 BGB]). Ist der Betreute aktuell einwilligungsfähig, darf der Arzt nicht ohne Zustimmung des Betreuten Informationen an den Betreuer weitergeben. Bei Einwilligungsunfähigkeit jedoch muss der Betreuer an Stelle des Betreuten in ärztliche Behandlungen einwilligen und muss dazu vom Arzt umfassend aufgeklärt werden (§§ 630d, e, 1828 BGB)."
+      "text": "Gemäß § 1823 BGB ist der Betreuer der gesetzliche Vertreter in den eingerichteten Aufgabenkreisen. Ist der Aufgabenkreis Gesundheitssorge eingerichtet, ist der Betreuer in diesem Bereich der gesetzliche Vertreter des Betroffenen. Er muss in der Regel (wenn der Patient nach ärztlicher Überzeugung nicht einwilligungsfähig ist), genauso von dem Arzt informiert werden wie der Betroffene selbst. Ist der einwilligungsfähige betreute Patient mit der Weitergabe seiner personenbezogenen Daten an den Betreuer nicht einverstanden, muss der Betreuer diesen Willen in der Regel beachten (§ 1821 Abs. 2 BGB]). Ist der Betreute aktuell einwilligungsfähig, darf der Arzt nicht ohne Zustimmung des Betreuten Informationen an den Betreuer weitergeben. Bei Einwilligungsunfähigkeit jedoch muss der Betreuer an Stelle des Betreuten in ärztliche Behandlungen einwilligen und muss dazu vom Arzt umfassend aufgeklärt werden (§§ 630d, e, 1828 BGB)."
     },
     {
+      "norms": [
+        "StGB§203"
+      ],
       "path": [
         "Kein Zeugnisverweigerungsrecht"
       ],
-      "text": "Der Betreuer unterliegt nicht der Schweigepflicht gemäß {{Zitat de §|203|stgb}} StGB und besitzt auch keine Zeugnisverweigerungsrechte. Das kann problematisch sein, da er Informationen über den Betreuten von Personen bekommen darf/muss, die eigentlich die Schweigepflicht zu wahren haben. Verstöße sind mit Freiheitsstrafe bis zu einem Jahr zu ahnden. Nach geltender Rechtslage hat der Betreute keinerlei Datenschutz und keinerlei Intimsphäre. In Strafverfahren gegen den Betreuten muss der Betreuer als Zeuge aussagen."
+      "text": "Der Betreuer unterliegt nicht der Schweigepflicht gemäß § 203 StGB und besitzt auch keine Zeugnisverweigerungsrechte. Das kann problematisch sein, da er Informationen über den Betreuten von Personen bekommen darf/muss, die eigentlich die Schweigepflicht zu wahren haben. Verstöße sind mit Freiheitsstrafe bis zu einem Jahr zu ahnden. Nach geltender Rechtslage hat der Betreute keinerlei Datenschutz und keinerlei Intimsphäre. In Strafverfahren gegen den Betreuten muss der Betreuer als Zeuge aussagen."
     },
     {
+      "norms": [
+        "StPO§52"
+      ],
       "path": [
         "Zeugnisverweigerungsrecht aus persönlichen Gründen gemäß § 52 StPO"
       ],
       "text": "Menschen mit bestimmten persönlichen Beziehungen zum Beschuldigten können ihr Zeugnis gegen ihn mit Recht vor den Strafverfolgungsbehörden verweigern: Verlobte, Ehegatten, geschiedene Ehegatten, Lebenspartner, ehemalige Lebenspartner, Verwandte und Verschwägerte, die in gerader Linie und in der Seitenlinie bis zum 3. Grad verwandt oder bis zum 2. Grad verschwägert sind. Auch greifen bei diesen Menschen geltende Anzeigepflichten in der Regel nicht durch."
     },
     {
+      "norms": [
+        "StPO§53",
+        "StPO§53a"
+      ],
       "path": [
         "Zeugnisverweigerungsrecht aus beruflichen Gründen gemäß § 53 StPO und § 53a StPO"
       ],
       "text": "Menschen mit bestimmten Berufen und ihre Hilfspersonen sind zur Verweigerung des Zeugnisses über den Beschuldigten als ihren Mandanten, Patienten, Beratungskunden, ihr Mitglied oder ihren Informanten berechtigt:\n\n- Strafverteidiger, Rechtsanwälte, Mitglieder einer Rechtsanwaltskammer, Patentanwälte, Notare, Wirtschaftsprüfer, vereidigte Buchprüfer, Steuerberater, Steuerbevollmächtigte, Ärzte, Zahnärzte, psychologische Psychotherapeuten, Kinder- und Jugendlichenpsychotherapeuten, Apotheker und Hebammen;\n- Geistliche als Seelsorger; Mitglieder oder Beauftragte einer anerkannten Beratungsstelle zu Schwangerschaftskonflikten; Berater für Fragen der Betäubungsmittelabhängigkeit in einer Beratungsstelle, einer Behörde oder einer Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts;\n- Mitglieder des Deutschen Bundestags, eines Landtags oder einer Kammer sowie Mitglieder des Europäischen Parlaments;\n- Personen, die bei der Vorbereitung, Herstellung oder Verbreitung von periodischen Druckwerken oder Rundfunksendungen bzw. Medien berufsmäßig mitwirken oder mitgewirkt haben (= Presse)."
     },
     {
+      "norms": [
+        "BGB§104",
+        "ZPO§51",
+        "ZPO§52"
+      ],
       "path": [
         "Keine Offenbarungspflicht"
       ],
       "text": "Der Betreuer ist auch ggü. Vertragspartnern des Betreuten grundsätzlich nicht verpflichtet, diesen Kenntnis von der Betreuung zu geben (siehe dazu den Beschluss des BVerfG vom 11.06.1991, 1 BvR 239/90, BVerfGE 84, 192 = NJW 1991, 2411 = FamRZ 1991, 1037 = FamRZ 1991, 1284.\n\nIst der Betreute allerdings geschäftsunfähig (§ 104 Nr. 2 BGB) oder besteht ein Einwilligungsvorbehalt, kann der Betreute nur durch seinen Betreuer rechtlich verbindlich handeln. Dadurch ergibt sich zwangsläufig eine Offenbarung des Bestehens der Betreuung gegenüber Vertragspartnern und Behörden. Das gleiche gilt in gerichtlichen Verfahren bei Prozessunfähigkeit des Betreuten (§§ 51, 52 ZPO)."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Datenschutz, Zugriffsrecht, unterstützte Entscheidungsfindung, Informationspflicht, Erörterungsgespräch, Mitteilungspflicht, Mitwirkungspflicht, Anzeigepflicht, Betreuerhaftung\n- Vulnerabilität, Geheimhaltungspflicht, Gesundheitsdatennutzungsgesetz, Nutzungspflicht\n- elektronische Patientenakte, e-Rezept, Assistenzleistungen\n- Vereinbarung über Begleitung und Unterstützung, Freier Wille, Verbraucherstreitbeilegung\n- Ausländer, Haager Übereinkommen, Behindertenkonvention, Gemeinwohlorientierung"
     },
     {
+      "norms": [
+        "StGB§203"
+      ],
       "path": [
         "Literatur"
       ],
       "text": "-Rogall: Die Verletzung von Privatgeheimnissen (§ 203 StGB); NStZ 1983, S. 1"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],

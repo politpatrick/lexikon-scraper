@@ -47,46 +47,95 @@
     "vollmachtswiderruf",
     "vorführung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "AGG",
+      "id": "AGG§1",
+      "label": "§ 1 AGG",
+      "nummer": "1"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.1",
+      "label": "Art. 1 GG",
+      "nummer": "1"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.2",
+      "label": "Art. 2 GG",
+      "nummer": "2"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.20",
+      "label": "Art. 20 GG",
+      "nummer": "20"
+    }
+  ],
   "pageid": 1927,
   "revid": 66861,
   "sections": [
     {
+      "norms": [
+        "GGArt.2",
+        "GGArt.1",
+        "GGArt.20"
+      ],
       "path": [
         "Einleitung"
       ],
-      "text": "Das Verhältnismäßigkeitsprinzip, auch als Grundsatz der Verhältnismäßigkeit bezeichnet, ist ein Merkmal des Rechtsstaats. Zweck des Grundsatzes ist es, vor übermäßigen Eingriffen des Staats in Grundrechte, insbesondere auch in die allgemeine Handlungsfreiheit ({{Zitat Art|2|gg}} Abs. 1 GG), zu schützen (daher oft auch Übermaßverbot genannt). Als verfassungsrechtliches Gebot ist der Grundsatz der Verhältnismäßigkeit gem. {{Zitat Art|1|gg}} Abs. 3, {{Zitat Art|20|gg}} Abs. 3 GG für die gesamte Staatsgewalt unmittelbar verbindlich.\n\nVerhältnismäßigkeit verlangt von jeder Maßnahme, die in Grundrechte eingreift, dass sie einen legitimen öffentlichen Zweck verfolgt und überdies geeignet, erforderlich und angemessen ist. Eine Maßnahme, die diesen Anforderungen nicht entspricht, ist rechtswidrig."
+      "text": "Das Verhältnismäßigkeitsprinzip, auch als Grundsatz der Verhältnismäßigkeit bezeichnet, ist ein Merkmal des Rechtsstaats. Zweck des Grundsatzes ist es, vor übermäßigen Eingriffen des Staats in Grundrechte, insbesondere auch in die allgemeine Handlungsfreiheit (Art. 2 Abs. 1 GG), zu schützen (daher oft auch Übermaßverbot genannt). Als verfassungsrechtliches Gebot ist der Grundsatz der Verhältnismäßigkeit gem. Art. 1 Abs. 3, Art. 20 Abs. 3 GG für die gesamte Staatsgewalt unmittelbar verbindlich.\n\nVerhältnismäßigkeit verlangt von jeder Maßnahme, die in Grundrechte eingreift, dass sie einen legitimen öffentlichen Zweck verfolgt und überdies geeignet, erforderlich und angemessen ist. Eine Maßnahme, die diesen Anforderungen nicht entspricht, ist rechtswidrig."
     },
     {
+      "norms": [],
       "path": [
         "Geeignetheit"
       ],
       "text": "Ein Mittel zur Erreichung der Verhältnismäßigkeit gilt nach deutschem Recht dann als geeignet, wenn es den Gesetzeszweck fördert. Nach einem staatlichen Eingriff in Grundrechte sollte der neue Zustand die alten, bisher bestehenden Rechtsverhältnisse im Sinne des Gesetzes verbessert haben. Die Lage verschlechternde Rückschritte gelten demnach als rechtlich ungeeignet, auch wenn sie sich für die meisten Betroffenen noch gewohnheitsmäßiger anfühlen würden."
     },
     {
+      "norms": [],
       "path": [
         "Notwendigkeit bzw. Erforderlichkeit"
       ],
       "text": "Ein Mittel zur Erreichung der Verhältnismäßigkeit gilt nach deutschem Recht dann als notwendig bzw. erforderlich, wenn es keinen anderen Zustand gibt, den der Staat ohne großen Aufwand ebenfalls schaffen könnte und der für die Betroffenen weniger belastend wäre. Der Gesetzeszweck darf also nicht durch ein gleich wirksames, aber weniger belastendes Mittel erreichbar sein."
     },
     {
+      "norms": [
+        "GGArt.20"
+      ],
       "path": [
         "Angemessenheit"
       ],
       "text": "Als angemessen, zumutbar oder proportional gelten Grundrechtseingriffe nur dann, wenn der mit dem Eingriff verfolgte Zweck und die Beeinträchtigung durch ihn im Einzelfall in einem recht gewichteten und wohl abgewogenen Verhältnis zueinanderstehen. Für diese professionell richterliche Abwägung von Grundrechten, die gegeneinanderstehen, gibt es keine rationalen und verbindlichen Maßstäbe in deutschen Gesetzen. Hierbei kommt es auf die gelernte freie richterliche Urteilskraft an (= berufliche Kompetenz). Die Judikative in Deutschland ist dank des Verfassungsgrundsatzes der Gewaltenteilung (Art. 20 Abs. 2 GG) in der Regel von Einmischungen der Exekutive (Verwaltung) frei."
     },
     {
+      "norms": [
+        "AGG§1"
+      ],
       "path": [
         "Wie findet ein Richter den Gesetzeszweck?"
       ],
       "text": "Neuere deutsche Gesetze enthalten den Gesetzeszweck schon als einen Paragrafen: zum Beispiel das Allgemeine Gleichbehandlungsgesetz als „Ziel des Gesetzes“ in § 1 AGG. Die aufgeklärte Methode der Gesetzesinterpretation oder Auslegung soll den maßgebenden Sinn eines Gesetzes im Namen der rechtswissenschaftlichen, nichtreligiösen Wahrheit und Gerechtigkeit ermitteln. Diese Sinnermittlung ist in manchen Fällen schwierig, da Gesetzestexte nicht jeden vorkommenden Praxisfall wortgetreu abbilden können. Ein guter Jurist und eine gute Juristin sollten zwar immer vom Wortlaut des Gesetzes (= grammatikalische Auslegung) ausgehen, dann aber auch Sprach- und Rechtstraditionen (= historische Auslegung), rechtssystematische Zusammenhänge (= systematische Auslegung) und den eigentlichen\nGesetzeszweck (= teleologische Auslegung) bei ihrer Urteilsfindung mitbeachten.\n\nDurch eine fallbezogene Auslegung von Gesetzen darf oder muss es auch in manchen Fällen zu richterlichen Ergänzungen kommen (= ergänzende Auslegung), wenn der Wortlaut eines Gesetzes wegen Lückenhaftigkeit einen Praxisfall nicht vorgesehen hatte. Solche Lücken können vom jeweiligen Gesetzgeber auch bewusst freigelassen worden sein, damit die Gesetze für die Rechtspraxis textmäßig nicht zu komplex werden. In diese Lücke hat dann im Einzelfall das individuelle Richterrecht zu treten, das jedoch in der Europäischen Union ohne eigene moralische Wertung sachlich-professionell gefunden werden muss. Deshalb wird an die moderne (aufgeklärte) Richterausbildung global ein sehr hoher Anspruch gestellt: Ein guter Richter und eine gute Richterin dürfen Gesetzeslücken nur aus dem Geist des jeweils geltenden Rechts heraus ausfüllen. Sie ordnen sich berufsethisch freiwillig dem geltenden Recht unter im Namen und dank ihrer richterlichen Unabhängigkeit. (Kirchen- und Rabbinatsrichter sowie Parteigerichte sind nicht unabhängig!) Dazu fragen sie sich professionell, wie ihr nationaler bzw. staatlicher Gesetzgeber das anstehende rechtliche Problem geregelt hätte, wenn er es schon vorausgesehen hätte.\n\nDas Ziel des Allgemeinen Gleichbehandlungsgesetzes von Deutschland ist es, Benachteiligungen aus Gründen der Rasse oder wegen der ethischen Herkunft, des Geschlechts, der Religion oder Weltanschauung, einer Behinderung, des Alters oder der sexuellen Identität zu verhindern oder zu beseitigen."
     },
     {
+      "norms": [],
       "path": [
         "Europäisches Verhältnismäßigkeitsprinzip"
       ],
       "text": "Gemäß Art. 5 Abs. 4 EUV gehen die Maßnahmen der EU nach dem Grundsatz der Verhältnismäßigkeit inhaltlich wie formal nicht über das zur Erreichung der Ziele der Verträge erforderliche Maß hinaus. Die Organe der Europäischen Union wenden den Grundsatz der Verhältnismäßigkeit nach dem Protokoll über die Anwendung der Grundsätze der Subsidiarität und der Verhältnismäßigkeit (SubsProt) an."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

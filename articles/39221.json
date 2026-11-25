@@ -32,34 +32,80 @@
     "vermögenssorge",
     "vermögensverzeichnis"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1821",
+      "label": "§ 1821 BGB",
+      "nummer": "1821"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1835",
+      "label": "§ 1835 BGB",
+      "nummer": "1835"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1862",
+      "label": "§ 1862 BGB",
+      "nummer": "1862"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1863",
+      "label": "§ 1863 BGB",
+      "nummer": "1863"
+    }
+  ],
   "pageid": 39221,
   "revid": 66112,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Die Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst."
     },
     {
+      "norms": [
+        "BGB§1863",
+        "BGB§1821"
+      ],
       "path": [
         "Die erste Berichterstattung"
       ],
       "text": "Ein Anfangsbericht muss nach Bestellung innerhalb von drei Monaten durch den Betreuer erstellt und datengeschützt an das Betreuungsgericht gesendet werden (§ 1863 Abs. 1 BGB). Wurde der Betreuer für den Aufgabenbereich Vermögenssorge bestellt, muss er das Vermögensverzeichnis zusammen mit dem Anfangsbericht einreichen.\n\nDer Betreuer hat die folgenden inhaltlichen Anforderungen nach § 1863 Abs. 1 BGB bei der Erstellung des Anfangsberichtes zu beachten:\n-persönliche Situation des Betreuten,\n-Ziele der Betreuung, bereits durchgeführte und beabsichtigte Maßnahmen, insbesondere im Hinblick auf § 1821 Absatz 6 BGB, und\n-Wünsche des Betreuten hinsichtlich der Betreuung.\n\nIn geeigneten Fällen kann das Betreuungsgericht bzw. der Rechtspfleger den Anfangsbericht und das Vermögensverzeichnis im Erörterungsgespräch mit dem Betreuten und dem Betreuer besprechen."
     },
     {
+      "norms": [
+        "BGB§1835",
+        "BGB§1862",
+        "BGB§1863"
+      ],
       "path": [
         "Rechtsprechung"
       ],
       "text": "LG Frankfurt, Beschluss vom 10.07.2026, 2-12 T 170/26\n\n- Das Betreuungsgericht kann den Betreuer zur Befolgung seiner Anordnungen und Einhaltung seiner Pflichten (hier: Vorlage eines Vermögensverzeichnisses nach § 1835 Abs. 1 BGB) durch die Festsetzung eines Zwangsgelds nach § 1862 Abs. 3 BGB anhalten.\n-Erfüllt der nach § 1863 Abs. 1 BGB durch den Betreuer mit Übernahme der Betreuung zu erstellende Bericht über die persönlichen Verhältnisse (Anfangsbericht) nicht alle Anforderungen, so hat das Gericht vor Festsetzung eines Zwangsgelds den Betreuer durch geeignete Gebote nach § 1862 Abs. 3 BGB zunächst darauf hinweisen müssen, dass und warum der bisher vorlegte Bericht nicht ausreicht."
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],
       "text": "-Formular Anfangsbericht (PDF, Sachsen)\n-Vordruck Anfangsbericht (BVfB - Word\n-Vordruck Anfangsbericht (Niedersachsen, PDF)\n-Vordruck Jahresbericht (Niedersachsen, PDF)\n-Vordruck Schlussbericht (Niedersachsen, PDF)"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

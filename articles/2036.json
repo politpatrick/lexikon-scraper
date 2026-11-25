@@ -78,22 +78,79 @@
     "verfahrensfähigkeit",
     "vormundschaftsgericht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§271",
+      "label": "§ 271 FamFG",
+      "nummer": "271"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§312",
+      "label": "§ 312 FamFG",
+      "nummer": "312"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§340",
+      "label": "§ 340 FamFG",
+      "nummer": "340"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§23a",
+      "label": "§ 23a GVG",
+      "nummer": "23a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§23c",
+      "label": "§ 23c GVG",
+      "nummer": "23c"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§15",
+      "label": "§ 15 RPflG",
+      "nummer": "15"
+    }
+  ],
   "pageid": 2036,
   "revid": 66906,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst."
     },
     {
+      "norms": [
+        "FamFG§271",
+        "FamFG§312",
+        "FamFG§340"
+      ],
       "path": [
         "Aufgaben"
       ],
       "text": "Das Betreuungsgericht ist zuständig für Betreuungsverfahren (§ 271 FamFG), die Unterbringung von Volljährigen nach dem Betreuungsrecht und dem jeweiligen Landesgesetz der sechzehn deutschen Gliedstaaten über die Unterbringung von psychisch Kranken (PsychKG) (§312 FamFG) sowie für sog. betreuungsrechtliche Zuweisungssachen, dass sind z.B. Pflegschaften für Erwachsene (§ 340 FamFG) . Bis zum 31.8.2009 war das Vormundschaftsgericht zuständig.\n\nZum 01.09.2009 wurden durch Einführung des FamFG gesonderte Betreuungsgerichte gegründet.\n\nDas Betreuungsgericht entscheidet über die Einrichtung, den Umfang und die Aufhebung einer Betreuung und eines Einwilligungsvorbehaltes sowie über die Auswahl und Bestellung des Betreuers. Während einer Betreuung sind zahlreiche Rechtshandlungen des Betreuers durch das Gericht zu genehmigen. Das Gericht berät und beaufsichtigt den Betreuer und entscheidet ggf. über seine Ermessensvergütung."
     },
     {
+      "norms": [],
       "path": [
         "Aufgaben",
         "Meldepflicht bei der Unfallversicherung"
@@ -101,24 +158,32 @@
       "text": "Unfälle mit Todesfolge oder mit einer Arbeitsunfähigkeit des Rechtsbetreuers von mehr als 3 Tagen müssen innerhalb von 3 Tagen bei der Unfallversicherung gemeldet werden. Hierfür gibt es eine formularmäßige Unfallanzeige (gelber Vordruck), der innerhalb von 3 Tagen von der Stelle, die für den Versicherten zuständig ist, erstattet werden muss. Bei Einzelbetreuern ist die zuständige Stelle das Amtsgericht (in der Regel die Stelle, die auch für Zeugenentschädigung zuständig ist), bei Vereins- oder Behördenbetreuern die jeweilige Behörde bzw. der jeweilige Verein.\n\nLeider hat sich diese Pflicht bei einigen Betreuungsgerichten noch nicht herumgesprochen, auch sind z.T. die Meldeformulare der Unfallversicherung überhaupt nicht bekannt. Zusätzlich sollte der Verunglückte sich auch selbst bei der zuständigen Unfallversicherung melden oder seiner Krankenkasse eine Mitteilung über die Unfallursache machen, damit diese die Unfallversicherung verständigt."
     },
     {
+      "norms": [
+        "GVG§23a",
+        "GVG§23c",
+        "RPflG§15"
+      ],
       "path": [
         "Gerichtsorganisation"
       ],
       "text": "Das Betreuungsgericht ist eine Abteilung eines Amtsgerichts (§§ 23a und 23c GVG). Es entscheiden Richter (als Einzelrichter) oder Rechtspfleger.\n\nDas RpflG regelt, für welche Angelegenheiten der Richter und für welche der Rechtspfleger zuständig ist. Gemäß § 3 Ziffer 2 b RpflG ist das Betreuungsverfahren auf den Rechtspfleger übertragen. Die dem Betreuungsrichter vorbehaltenen Entscheidungen finden sich in § 15 RpflG. Es handelt sich dabei im wesentlichen um Entscheidungen, die in Grundrechte des Betroffenen eingreifen können, wie die Betreuerbestellung als solche - auch als einstweilige Anordnung -, den Einwilligungsvorbehalt, die Post- und Telefonkontrolle und die Genehmigungen von Heilbehandlungen, Sterilisationen und freiheitsentziehenden Unterbringungen. Dem Rechtspfleger obliegen die Aufsicht und die Beratung der Betreuer und die Festsetzung der Kosten der Betreuer.\n\nZum Betreuungsgericht gehört des Weiteren eine Geschäftsstelle, die die (elektronischen) Akten verwaltet, (elektronisch) eingehende Schriftstücke den Akten zuordnet und den Rechtsanwendern vorlegt, Verfügungen ausführt, auf die Einhaltung von Fristen achtet, die Zustellung und den Versand von Beschlüssen und sonstigen Schreiben besorgt, die Einsicht und den Versand von (elektronischen) Akten organisiert, die Ladung von Verfahrensbeteiligten zu gerichtlichen Terminen durchführt und die telefonische und persönliche Erreichbarkeit des Gerichts zu bestimmten Geschäftszeiten garantiert. Besonderen Aufgaben obliegen den Urkundsbeamten auf der Geschäftsstelle, wie z.B. die Aufnahme von Anträgen und Erklärungen, die Berechnung der Gerichtskosten und die Anweisung von aus der Staatskasse zu zahlenden Vergütungen an die Betreuer.\n\nBis zum 31.12 2017 übernahmen im württembergischen Teil von Baden-Württemberg Bezirksnotare Aufgaben der Betreuungsgerichte."
     },
     {
+      "norms": [],
       "path": [
         "16 Bundesländer in Deutschland"
       ],
       "text": "- Baden-Württemberg\n- Bayern\n- Berlin\n- Brandenburg\n- Bremen\n- Hamburg\n- Hessen\n- Mecklenburg-Vorpommern\n- Niedersachsen\n- Nordrhein-Westfalen\n- Rheinland-Pfalz\n- Saarland\n- Sachsen\n- Sachsen-Anhalt\n- Schleswig-Holstein\n- Thüringen"
     },
     {
+      "norms": [],
       "path": [
         "Betreuungsgerichtshilfe"
       ],
       "text": "Die kommunalen Betreuungsbehörden arbeiten in der Regel den zuständigen Betreuungsgerichten für ihre Städte und Gemeinden zu. Näheres unter Betreuungsgerichtshilfe."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

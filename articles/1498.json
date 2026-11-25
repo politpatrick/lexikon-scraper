@@ -33,34 +33,179 @@
     "vormundschaftsgericht",
     "vorsorgevollmacht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1896",
+      "label": "§ 1896 BGB",
+      "nummer": "1896"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1897",
+      "label": "§ 1897 BGB",
+      "nummer": "1897"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1899",
+      "label": "§ 1899 BGB",
+      "nummer": "1899"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1901",
+      "label": "§ 1901 BGB",
+      "nummer": "1901"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1901a",
+      "label": "§ 1901a BGB",
+      "nummer": "1901a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1908b",
+      "label": "§ 1908b BGB",
+      "nummer": "1908b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1908f",
+      "label": "§ 1908f BGB",
+      "nummer": "1908f"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FGG",
+      "id": "FGG§65",
+      "label": "§ 65 FGG",
+      "nummer": "65"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FGG",
+      "id": "FGG§68b",
+      "label": "§ 68b FGG",
+      "nummer": "68b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FGG",
+      "id": "FGG§69",
+      "label": "§ 69 FGG",
+      "nummer": "69"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§19",
+      "label": "§ 19 RPflG",
+      "nummer": "19"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XI",
+      "id": "SGBXI§94",
+      "label": "§ 94 SGB XI",
+      "nummer": "94"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§3",
+      "label": "§ 3 VBVG",
+      "nummer": "3"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§4",
+      "label": "§ 4 VBVG",
+      "nummer": "4"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§5",
+      "label": "§ 5 VBVG",
+      "nummer": "5"
+    }
+  ],
   "pageid": 1498,
   "revid": 66789,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Das 2. Betreuungsrechtsänderungsgesetz (2. BtÄndG) ist am 1.7.2005 in Kraft getreten. Es hat insbesondere das Recht der Betreuervergütung auf eine Pauschale umgestellt. Auch wurden zahlreiche weitere Gesetze geändert."
     },
     {
+      "norms": [
+        "BGB§1896",
+        "BGB§1901a",
+        "BGB§1908f"
+      ],
       "path": [
         "Allgemeines"
       ],
       "text": "- Gegen den freien Willen des Volljährigen darf ein Betreuer nicht mehr bestellt werden (§ 1896 Abs. 1a BGB).\n- Über die Existenz von Betreuungsverfügungen und jetzt auch Vorsorgevollmachten musste das Vormundschaftsgericht unterrichtet werden (§ 1901a BGB).\n- Betreuungsvereine sind nun auch für die Beratung von Bevollmächtigten zuständig und können im Einzelfall Personen bei der Errichtung einer Vorsorgevollmacht beraten (§ 1908f BGB)."
     },
     {
+      "norms": [
+        "FGG§65",
+        "FGG§68b",
+        "SGBXI§94",
+        "FGG§69",
+        "RPflG§19"
+      ],
       "path": [
         "Verfahrensfragen"
       ],
       "text": "- Richter auf Probe dürfen im ersten Berufsjahr nicht eingesetzt werden (§65 FGG).\n- Das Vormundschaftsgericht kann im Einzelfall auf bereits erstellte Sachverständigengutachten des Medizinischen Dienstes der Krankenversicherung (MdK) zugreifen, ein eigenes Gerichtsgutachten ist dann nicht mehr einzuholen. Der Betroffene oder der Verfahrenspfleger müssen dem zustimmen (§ 68b FGG und § 94 SGB XI).\n- Die Überprüfungsfrist bei Betreuungsanordnungen: von 5 auf 7 Jahre verlängert (§ 69 FGG).\n- Die Bundesländer können Aufgaben von Richtern auf Rechtspfleger übertragen: Auswahl und Bestellung eines Betreuers, Bestellung eines Ergänzungs-, Verhinderungsbetreuers, Entlassung eines Betreuers und Bestellung eines neuen Betreuers (§ 19 RpflG)."
     },
     {
+      "norms": [
+        "BGB§1897",
+        "BGB§1899",
+        "BGB§1901",
+        "BGB§1908b",
+        "VBVG§5",
+        "VBVG§4",
+        "VBVG§3"
+      ],
       "path": [
         "Berufsbetreuung"
       ],
       "text": "- Ein neuer Berufsbetreuer soll genauer überprüft werden (Führungszeugnis, Auskunft aus Schuldnerverzeichnis) (§ 1897 Abs. 7 BGB).\n- mehrere Berufsbetreuer nur bei Sterilisation, ansonsten nur als Verhinderungsbetreuung (§ 1899 BGB).\n- Erstellung eines Betreuungsplans kann vom Richter angeordnet werden (§ 1901 Abs. 4 BGB).\n- Entlassung von Berufsbetreuern bei vorsätzlich falscher Abrechnung (§ 1908b BGB).\n- Änderung der Vergütungsstruktur: es werden pauschale Stundenansätze abhängig von der Dauer der Betreuung, dem Wohnort des Betreuten und seiner Vermögenslage eingeführt (§ 5 VBVG).\n- Änderung des Stundensatzes für Berufsbetreuer (27 €,  33,50 €,  44 €, jeweils inkl. Auslagen und Umsatzsteuer) (§ 4 VBVG).\n- Änderung des Stundensatzes für Vormünder und Pfleger (19,50 €,  25 €,  33,50 €) (§ 3 VBVG).\n\nSiehe zu den Details unter Betreuungsrechtsreform.\n\nZur neuen Pauschalvergütung siehe unter Betreuervergütung"
     },
     {
+      "norms": [],
       "path": [
         "Literatur"
       ],

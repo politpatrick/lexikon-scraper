@@ -49,46 +49,111 @@
     "vermögensverzeichnis",
     "verpflichtungsgespräch"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FGG",
+      "id": "FGG§69b",
+      "label": "§ 69b FGG",
+      "nummer": "69b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.104",
+      "label": "Art. 104 GG",
+      "nummer": "104"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.138",
+      "label": "Art. 138 GG",
+      "nummer": "138"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.92",
+      "label": "Art. 92 GG",
+      "nummer": "92"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§123",
+      "label": "§ 123 GVG",
+      "nummer": "123"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "LFGG",
+      "id": "LFGG§37",
+      "label": "§ 37 LFGG",
+      "nummer": "37"
+    }
+  ],
   "pageid": 1652,
   "revid": 66763,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Siehe für neue Verfahren unter Betreuungsgericht."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines"
       ],
       "text": "Das Vormundschaftsgericht war bis 31.8.2009 zuständig für die rechtliche Betreuung von Volljährigen, eine Unterbringung nach dem jeweiligen Landesgesetz über die Unterbringung von psychisch Kranken (PsychKG), für Vormundschaften und Pflegschaften für Minderjährige und für Adoptionsverfahren. Zum 1.9.2009 wurde das Vormundschaftsgericht in Betreuungsgericht umbenannt.\nFür die Angelegenheiten Minderjähriger ist das Familiengericht zuständig.\n\nDas Vormundschaftsgericht war in Deutschland Teil eines Amtsgerichts, es entschieden Richter (als Einzelrichter) oder Rechtspfleger. Das RpflG regelt weiterhin, für welche Angelegenheiten der Richter und für welche der Rechtspfleger zuständig ist."
     },
     {
+      "norms": [],
       "path": [
         "Aufgaben"
       ],
       "text": "Das Vormundschaftsgericht entschied über die Einrichtung, den Umfang und die Aufhebung einer Betreuung und eines Einwilligungsvorbehaltes sowie über die Auswahl und Bestellung des Betreuers. Während einer Betreuung waren zahlreiche Rechtshandlungen des Betreuers durch das Vormundschaftsgericht zu genehmigen. Das Gericht beriet und beaufsichtigte den Betreuer."
     },
     {
+      "norms": [
+        "LFGG§37",
+        "GVG§123",
+        "GGArt.138",
+        "GGArt.92",
+        "GGArt.104"
+      ],
       "path": [
         "Württembergisches Rechtsgebiet"
       ],
-      "text": "Besonderheit im württembergischen Teil von Baden-Württemberg: die Funktion des Vormundschaftsgerichtes übernahm der zuständige Bezirksnotar nach Maßgabe von {{Zitat-dej|§|37|LFGG}} des Landesgesetzes Baden-Württemberg über die freiwillige Gerichtsbarkeit.\n\nAm 01.01.2018 ist die Justizstrukturreform in Baden-Württemberg in Kraft getreten, mit der Folge der Auflösung der alten württembergischen Gerichtsordnung. Diese württembergische Gerichtsordnung hatte sich von der badischen einst aus historischen Gründen unterschieden. Der traditionsreiche Gliedstaat Baden mit seiner alten Hauptstadt Karlsruhe hatte nach einer Volksabstimmung zusammen mit den ehemals protestantischen Gliedstaaten Württemberg-Hohenzollern und Württemberg-Baden eine neue gemeinsame Landesverfassung bekommen. Landeshauptstadt wurde Stuttgart. Karlsruhe wurde Sitz des Bundesverfassungsgerichts und des Bundesgerichtshofs (siehe § 123 GVG). Die neue Landesverfassung für Baden-Württemberg trat am 19.11.1953 in Kraft. Das besondere Süddeutsche Notariat war lange durch den Art. 138 GG gegen übereilte Rechtsreformen geschützt. Nun haben seit 2018 alle 16 deutschen Bundesländer die gleichen Gerichtsstrukturen gemäß den Art. 92 bis 104 GG."
+      "text": "Besonderheit im württembergischen Teil von Baden-Württemberg: die Funktion des Vormundschaftsgerichtes übernahm der zuständige Bezirksnotar nach Maßgabe von § 37 des Landesgesetzes Baden-Württemberg über die freiwillige Gerichtsbarkeit.\n\nAm 01.01.2018 ist die Justizstrukturreform in Baden-Württemberg in Kraft getreten, mit der Folge der Auflösung der alten württembergischen Gerichtsordnung. Diese württembergische Gerichtsordnung hatte sich von der badischen einst aus historischen Gründen unterschieden. Der traditionsreiche Gliedstaat Baden mit seiner alten Hauptstadt Karlsruhe hatte nach einer Volksabstimmung zusammen mit den ehemals protestantischen Gliedstaaten Württemberg-Hohenzollern und Württemberg-Baden eine neue gemeinsame Landesverfassung bekommen. Landeshauptstadt wurde Stuttgart. Karlsruhe wurde Sitz des Bundesverfassungsgerichts und des Bundesgerichtshofs (siehe § 123 GVG). Die neue Landesverfassung für Baden-Württemberg trat am 19.11.1953 in Kraft. Das besondere Süddeutsche Notariat war lange durch den Art. 138 GG gegen übereilte Rechtsreformen geschützt. Nun haben seit 2018 alle 16 deutschen Bundesländer die gleichen Gerichtsstrukturen gemäß den Art. 92 bis 104 GG."
     },
     {
+      "norms": [],
       "path": [
         "Umbenennung ab 1.9.2009"
       ],
       "text": "Das Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der Freiwilligen Gerichtsbarkeit (FamFG) enthielt eine vollständige Neukodifizierung und hatte als neues Stammgesetz das bisherige FGG und das Buch 6 der ZPO zum 01.09.2009 abgelöst. Hierin enthalten war auch eine Neuzuweisung der gerichtlichen Zuständigkeiten. Die Zuständigkeiten für Angelegenheiten Minderjähriger sind seither beim Familiengericht konzentriert, die Betreuungs- und Unterbringungsangelegenheiten verblieben beim Vormundschaftsgericht, das seither aber Betreuungsgericht genannt wird.\n\nAuch der eingetragene Verein Vormundschaftsgerichtstag e.V. benannte sich am 05.11.2010 zum Betreuungsgerichtstag e.V. um. Der juristische Fachverband hat seine Bundesgeschäftsstelle und seinen Vereinssitz in Bochum in Nordrhein-Westfalen."
     },
     {
+      "norms": [
+        "FGG§69b"
+      ],
       "path": [
         "Pflichten des Gerichtes"
       ],
-      "text": "Das Vormundschaftsgericht hatte eine Beratungspflicht gegenüber dem Betreuer. Auch war zu Beginn der Betreuung ein Einführungsgespräch zwischen dem Rechtspfleger des Vormundschaftsgerichtes und dem Betreuer vorgesehen, in dem er den Betreuerausweis erhielt. In diesem Gespräch sollte der Betreuer über seine Aufgaben informiert werden ({{Zitat de §|69b|fgg}} FGG). Der Betreuer durfte grundsätzlich dem Rechtsrat des Vormundschaftsgerichtes vertrauen.\n\nWaren dem Gericht Pflichtwidrigkeiten des Betreuers bekannt geworden, konnte das Gericht Gebote erteilen oder Verbote aussprechen. Diese konnten auch mit Zwangsgeld durchgesetzt werden."
+      "text": "Das Vormundschaftsgericht hatte eine Beratungspflicht gegenüber dem Betreuer. Auch war zu Beginn der Betreuung ein Einführungsgespräch zwischen dem Rechtspfleger des Vormundschaftsgerichtes und dem Betreuer vorgesehen, in dem er den Betreuerausweis erhielt. In diesem Gespräch sollte der Betreuer über seine Aufgaben informiert werden (§ 69b FGG). Der Betreuer durfte grundsätzlich dem Rechtsrat des Vormundschaftsgerichtes vertrauen.\n\nWaren dem Gericht Pflichtwidrigkeiten des Betreuers bekannt geworden, konnte das Gericht Gebote erteilen oder Verbote aussprechen. Diese konnten auch mit Zwangsgeld durchgesetzt werden."
     },
     {
+      "norms": [],
       "path": [
         "Pflichten des Betreuers",
         "Der Betreuer war dem Vormundschaftsgericht zur Auskunft verpflichtet"
@@ -96,6 +161,7 @@
       "text": "Rechtsgrundlagen: Bürgerliches Gesetzbuch, alte Fassung § 1837\n\nDie Aufsicht des Vormundschaftsgerichtes erstreckte sich die gesamte Tätigkeit des Betreuers, sie war nicht auf einzelne Aufgabenkreise, wie den der Vermögenssorge beschränkt. So hatte das Vormundschaftsgericht die Möglichkeit, jederzeit vom Betreuer Auskunft über die Führung der Betreuung zu verlangen. Solche Auskunft konnte schriftlich oder persönlich verlangt werden. Zuständig beim Gericht war hierfür der Rechtspfleger. Bei Pflichtverletzungen konnte ein Zwangsgeld verhängt werden."
     },
     {
+      "norms": [],
       "path": [
         "Pflichten des Betreuers",
         "Der Betreuer hatte regelmäßig über seine Tätigkeit zu berichten"
@@ -103,6 +169,7 @@
       "text": "Neben einer individuellen Auskunft hatte der Betreuer einmal jährlich auch unaufgefordert über die Führung der Betreuung gegenüber dem Gericht zu berichten. Hierzu konnten auch vom Gericht zur Verfügung gestellte Formulare verwendet werden. Neben dem Bericht über die persönlichen Verhältnisse des Betreuten war auch über die Vermögensverwaltung Rechnung zu legen, soweit der Betreuer auch den Aufgabenkreis Vermögenssorge innehatte. D.h., dass eine Aufstellung aller Kontobewegungen mit entsprechenden Belegen eingereicht werden musste. In diesem Fall war auch zu Beginn der Betreuung ein Vermögensverzeichnis zu erstellen."
     },
     {
+      "norms": [],
       "path": [
         "Pflichten des Betreuers",
         "Vor vielen Entscheidungen musste eine Genehmigung eingeholt werden"
@@ -110,16 +177,18 @@
       "text": "Eine Reihe besonders wichtiger Entscheidungen des Betreuers musste vom Vormundschaftsgericht genehmigt werden. Solche Genehmigungen waren grundsätzlich vor der beabsichtigten Rechtshandlung erforderlich. Auch wenn der Betreuer für eine Angelegenheit eine gerichtliche Genehmigung hatte, blieb er für diese Frage selbst verantwortlich, eine vormundschaftsgerichtliche Genehmigung gestattete eine Handlung lediglich. Die vermögensrechtlichen Genehmigungspflichten galten auch für Vormünder Minderjähriger und Pfleger."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Betreuungsgesetz, Betreuungsverfahren, Betreuerbestellung, Eingruppierung, Unterbringungsverfahren, Genehmigungspflichten, Beaufsichtigung, Rechtsprechung\n- Drittes Betreuungsrechtsänderungsgesetz\n- Kindschaftsrecht\n- Haager Übereinkommen, Behindertenkonvention"
     },
     {
+      "norms": [],
       "path": [
         "Literatur"
       ],
-      "text": "- Coeppicus: Handhabung und Reform des Betreuungsgesetzes, ISBN 376940260X\n- Coeppicus: Sachfragen des Betreuungs- und Unterbringungsrechts, ISBN 3170163337\n- Kierig/Kretz: Formularbuch Betreuungsrecht, 2. Auflage , ISBN 3406518680\n-Probst: Betreuungs- und Unterbringungsverfahren; Berlin 2005, ISBN 3503087451\n\n{{Quelle Wikipedia|Vormundschaftsgericht|20. Juli   2006|3=http://de.wikipedia.org/w/index.php?title=Vormundschaftsgericht&oldid=19183730}}"
+      "text": "- Coeppicus: Handhabung und Reform des Betreuungsgesetzes, ISBN 376940260X\n- Coeppicus: Sachfragen des Betreuungs- und Unterbringungsrechts, ISBN 3170163337\n- Kierig/Kretz: Formularbuch Betreuungsrecht, 2. Auflage , ISBN 3406518680\n-Probst: Betreuungs- und Unterbringungsverfahren; Berlin 2005, ISBN 3503087451\n\nQuelle: Wikipedia, Artikel „Vormundschaftsgericht“, Stand 20. Juli 2006 (http://de.wikipedia.org/w/index.php?title=Vormundschaftsgericht&oldid=19183730)"
     }
   ],
   "slug": "vormundschaftsgericht",

@@ -34,34 +34,61 @@
     "vollmachtswiderruf",
     "vorsorgevollmacht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§164",
+      "label": "§ 164 BGB",
+      "nummer": "164"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§167",
+      "label": "§ 167 BGB",
+      "nummer": "167"
+    }
+  ],
   "pageid": 39247,
   "revid": 65640,
   "sections": [
     {
+      "norms": [
+        "BGB§164"
+      ],
       "path": [
         "Allgemeines"
       ],
       "text": "Für alle geschäftsunfähigen Menschen müssen im Rechtsverkehr die gesetzlichen Vertreter handeln. Der Vertreter gibt eine eigene Willenserklärung ab, über deren Ob und Wie er selbst entscheidet. Er erklärt dem Gegenüber jedoch, dass er nicht für sich, sondern für einen anderen, den Vertretenen, handelt. Wenn die Voraussetzungen des § 164 BGB gegeben sind, treffen die Folgen dieser Willenserklärung unmittelbar den Vertretenen, nicht den Handelnden. Im Interesse des Empfängers der Erklärung muss aber der Handelnde ersichtlich machen, dass er nicht für sich selber, sondern für einen bestimmten anderen Menschen mit Folgen für diesen handeln will (Offenbarungsgrundsatz). Dazu dienen der Betreuerausweis, die Vorsorgevollmacht oder die schriftliche Einzelvollmacht."
     },
     {
+      "norms": [
+        "BGB§167"
+      ],
       "path": [
         "Vertretungsmacht"
       ],
       "text": "Die Vertretungsmacht bedeutet die Befugnis des Handelnden, mit Wirkung für und gegen den Vertretenen handeln zu können. Sie kann auf eine Willenserklärung des Vertretenen, die sogenannte Bevollmächtigung gemäß § 167 BGB zurückgehen. Ihr Ergebnis ist die Vollmacht im Unterschied zur gesetzlichen Vertretungsmacht wie beim Betreuer.\n\nMit der Vollmacht kann auch der Umfang der Vertretungsmacht bestimmt werden. Eine häufige Form ist die Bankvollmacht, die auch eine Vorsorgemaßnahme für die Wechselfälle des Lebens sein kann."
     },
     {
+      "norms": [],
       "path": [
         "Bankvollmacht"
       ],
       "text": "Mit der schriftlichen Bankvollmacht wird eine Person des Vertrauens ohne jede Einschränkung oder bis zu einem bestimmten monatlichen Geldbetrag vom Kontoinhaber bevollmächtigt, über ein bestimmtes (fremdes) Girokonto zu verfügen. Auf der schriftlichen Vollmacht soll auch der Zeitpunkt des Erlöschens der Vollmacht angegeben werden.\n\nDie Bankvollmacht, die erst ab dem Tod oder bei eingetretener Geschäftsunfähigkeit Gültigkeit erlangt, wird heute als Vorsorgevollmacht bezeichnet."
     },
     {
+      "norms": [],
       "path": [
         "Vordrucke"
       ],
       "text": "-Musterbankvollmacht (Bundesjustizmin., PDF)"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

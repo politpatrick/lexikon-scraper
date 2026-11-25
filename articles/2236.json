@@ -25,34 +25,79 @@
     "sozialhilfe",
     "vulnerabilität"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.5",
+      "label": "Art. 5 GG",
+      "nummer": "5"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB II",
+      "id": "SGBII§22",
+      "label": "§ 22 SGB II",
+      "nummer": "22"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB VIII",
+      "id": "SGBVIII§45",
+      "label": "§ 45 SGB VIII",
+      "nummer": "45"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XII",
+      "id": "SGBXII§72",
+      "label": "§ 72 SGB XII",
+      "nummer": "72"
+    }
+  ],
   "pageid": 2236,
   "revid": 66284,
   "sections": [
     {
+      "norms": [
+        "GGArt.5"
+      ],
       "path": [
         "Öffentlich-rechtlicher Rundfunk in Deutschland"
       ],
       "text": "Ab 1948/49 wurde in Westdeutschland nach dem Vorbild der britischen BBC der öffentlich-rechtliche Rundfunk mit mehreren Anstalten des öffentlichen Rechts in föderaler Ordnung aufgebaut (WDR, NDR, SR, BR, HR, SDR u.a.). Dieser Rundfunk ist vom Staat unabhängig, wird aber kontrolliert. Die Rundfunkaufsicht ist eine reine Rechtsaufsicht, die die Rundfunkfreiheit des Art. 5 GG vor allem als Programmfreiheit verfassungsgemäß achtet.\n\nIn den 70er Jahren des 20. Jahrhunderts nahmen die ersten privatrechtlichen Rundfunksender ihre kommerzielle Medienarbeit auch in Deutschland auf. Es entwickelte sich aus dem anfänglichen Konkurrenzkampf die vom Bundesverfassungsgericht durch mehrere Gerichtsurteile „abgesegnete“ duale Rundfunkordnung für Deutschland, die im Interesse der staatlichen Aufgabe „Daseinsvorsorge“ liegt. Die Rundfunkfreiheit soll in Deutschland und Europa der freien individuellen und öffentlichen Meinungsbildung dienen. Diese vollzieht sich in einer Demokratie in einem weitgehend staatsfreien Kommunikationsprozess. Erkennbaren Verfassungsfeinden muss im Rundfunk jedoch - auch über das Medium Internet - Einhalt geboten werden (können), denn der Rundfunk gehört zu den allgemein zugänglichen Informationsquellen, die für das Grundrecht auf Informationsfreiheit elementar sind.\n\nDa der Rundfunk in Deutschland der freien und umfassenden Meinungsbildung dienen soll, muss die Vielfalt der bestehenden Meinungen auch in möglichster Breite und Vollständigkeit in der Grundversorgung und Selbstverwaltung (= Intendant, Rundfunkrat, Verwaltungsrat) durch den öffentlich-rechtlichen Rundfunk ihren Ausdruck finden ( BVerfGE 57, 295 (320); BVerfGE 73, 118 (152)). Gerade die vulnerablen Gruppen von gemeinwohlorientierten Gesellschaften sind bzw. wären auf vertrauenswürdige und kostenlose Informationen zu ihren unterschiedlichsten Problemlagen durch den Rundfunk als Quelle angewiesen, denn für private Sender sind diese Menschen als weitgehend mittellose Medienkunden nicht sehr attraktiv."
     },
     {
+      "norms": [],
       "path": [
         "Befreiung vom Rundfunkbeitrag"
       ],
       "text": "Häufig haben Betreuer für betreute Menschen eine Befreiung vom Rundfunkbeitrag beim Beitragsservice zu stellen.\n\nBislang konnte eine rückwirkende Befreiung nicht erfolgen, auch wenn die Betroffenen krankheitsbedingt zum Stellen des Antrags nicht in der Lage waren.\n\nZum 1. Januar 2017 sind Änderungen des Rundfunkbeitragsstaatsvertrages in Kraft getreten. Mit dem neuen § 4 Abs. 4 sind rückwirkende Befreiungen oder Ermäßigungen vom Rundfunkbeitrag bis zu drei Jahren möglich. Im Rahmen der Beantragung ist als Nachweis regelmäßig die Einreichung einer Kopie des Leistungsbescheides oder einer entsprechenden Bestätigung der Behörde ausreichend; nur noch auf Verlangen sind die Unterlagen im Original oder in beglaubigter Kopie vorzulegen."
     },
     {
+      "norms": [
+        "SGBII§22",
+        "SGBXII§72",
+        "SGBVIII§45"
+      ],
       "path": [
         "Befreiungsvoraussetzungen"
       ],
       "text": "Befreiung von der Rundfunkbeitragspflicht – Voraussetzungen\n\nEine Befreiung von der Rundfunkbeitragspflicht erfolgt auf Antrag, wenn Betroffene zumindest eine der folgenden Sozialleistungen erhalten:\n\n-Grundsicherung oder Sozialgeld (einschließlich Leistungen nach § 22 SGB II = Bedarfe für Unterkunft und Heizung)\n-Hilfe zum Lebensunterhalt nach dem SGB XII (3. Kapitel) sowie nach dem Bundesversorgungsgesetz (BVG) (§§ 27a oder 27d)\n-Grundsicherung im Alter und bei Erwerbsminderung (4. Kapitel SGB XII)\n-Leistungen an Ausländer nach dem Asylbewerberleistungsgesetz\n-Blindenhilfe (§ 72 SGB XII sowie nach § 27d BVG)\n-Pflegegeld nach landesgesetzlichen Vorschriften\n-Pflegezulagen nach dem Lastenausgleichsgesetz (LAG) (§ 267 Abs. 1)\n-Hilfe zur Pflege nach dem SGB XII (7. Kapitel) oder Hilfe zur Pflege als Leistung der Kriegsopferfürsorge nach dem BVG\n-Personen, denen wegen Pflegebedürftigkeit ein Freibetrag zuerkannt wird (§ 267 Abs. 2 Satz 1 Nr. 2 Buchstabe c LAG)\n-Volljährige, die im Rahmen einer Leistungsgewährung in einer stationären Einrichtung leben (§ 45 SGB VIII)"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],
       "text": "-Befreiungsantrag online stellen\n-Rundfunkgebührenstaatsvertrag 2017 (PDF)"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

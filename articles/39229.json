@@ -28,34 +28,81 @@
     "verpflichtungsgespräch",
     "vertrauensperson"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1816",
+      "label": "§ 1816 BGB",
+      "nummer": "1816"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1821",
+      "label": "§ 1821 BGB",
+      "nummer": "1821"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1863",
+      "label": "§ 1863 BGB",
+      "nummer": "1863"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§170",
+      "label": "§ 170 GVG",
+      "nummer": "170"
+    }
+  ],
   "pageid": 39229,
   "revid": 65837,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Achtung: Die Seite entspricht der Rechtslage ab 1.1.23."
     },
     {
+      "norms": [
+        "BGB§1863",
+        "BGB§1816"
+      ],
       "path": [
         "Allgemeines"
       ],
       "text": "Seit 1.1.23 ist zu Beginn der Betreuung seitens des Betreuers ein Anfangsbericht zu erstellen (§ 1863 Abs. 1 BGB).\n\nFür ehrenamtliche Betreuer aus dem familiären Umfeld (entsprechend § 1816 Abs. 3 BGB), die sogenannte \"befreite Betreuer\" sind, soll stattdessen ein Anfangsgespräch bzw. ein Erörterungsgespräch geführt werden."
     },
     {
+      "norms": [
+        "BGB§1863",
+        "GVG§170"
+      ],
       "path": [
         "TeilnehmerInnen"
       ],
       "text": "An dem Gespräch sollen folgende Personen teilnehmen (§ 1863 Abs. 2 BGB):\n\n- der Rechtspfleger des Betreuungsgerichts (§ 3 Rechtspflegergesetz)\n- der Betreute\n- der ehrenamtliche Betreuer.\n\nOb weitere Personen teilnehmen dürfen, ergibt sich nicht aus der o.g. Bestimmung. Im Sinne von § 170 GVG dürfte aber eine weitere Vertrauensperson auf Wunsch des Betreuten teilnehmen dürfen."
     },
     {
+      "norms": [
+        "BGB§1821"
+      ],
       "path": [
         "Inhalt des Anfangsgesprächs"
       ],
       "text": "- persönliche Situation des Betreuten,\n- Ziele der Betreuung, bereits durchgeführte und beabsichtigte Maßnahmen, insbesondere im Hinblick auf § 1821 Abs. 6 BGB (Rehabilitationsgebot)\n-Wünsche des Betreuten hinsichtlich der Betreuung (§ 1821 Abs. 2 BGB).\n\nEine Protokollierung durch den Rechtspfleger dürfte üblich sein (vergleiche: Dokumentationspflicht)."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

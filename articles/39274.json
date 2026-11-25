@@ -43,22 +43,84 @@
     "unterstützungspflicht",
     "vermögensverzeichnis"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§839",
+      "label": "§ 839 BGB",
+      "nummer": "839"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.34",
+      "label": "Art. 34 GG",
+      "nummer": "34"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IV",
+      "id": "SGBIV§29",
+      "label": "§ 29 SGB IV",
+      "nummer": "29"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IV",
+      "id": "SGBIV§42",
+      "label": "§ 42 SGB IV",
+      "nummer": "42"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IV",
+      "id": "SGBIV§43",
+      "label": "§ 43 SGB IV",
+      "nummer": "43"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IV",
+      "id": "SGBIV§58",
+      "label": "§ 58 SGB IV",
+      "nummer": "58"
+    }
+  ],
   "pageid": 39274,
   "revid": 66267,
   "sections": [
     {
+      "norms": [
+        "BGB§839"
+      ],
       "path": [
         "Einleitung"
       ],
       "text": "Die Haftung bei Amtspflichtverletzungen durch deutsche Beamte ist in § 839 BGB gesetzlich geregelt.\n\nDeutsche Beamtinnen und Beamte legen alle einen beruflichen Amtseid ab, der sie vor allem rechtlich verpflichtet. Eine zusätzliche moralische Verpflichtung auf christliche Werte ist seit 1949 verfassungsgemäß freiwillig. Landesbeamtinnen und Landesbeamte in/für Baden-Württemberg leisten ihren Amtseid gemäß Art. 78 der Verfassung des Landes mit folgenden Worten: „Ich schwöre, dass ich mein Amt nach bestem Wissen und Können führen, Verfassung und Recht achten und verteidigen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe.“ Der Eid kann auch ohne religiöse Beteuerung geleistet werden."
     },
     {
+      "norms": [
+        "BGB§839",
+        "GGArt.34",
+        "SGBIV§42",
+        "SGBIV§29",
+        "SGBIV§43",
+        "SGBIV§58"
+      ],
       "path": [
         "Haftung der Mitglieder der Selbstverwaltungsorgane der Sozialversicherung"
       ],
       "text": "Die Haftung der Mitglieder der Selbstverwaltungsorgane der gesetzlichen Sozialversicherung in Deutschland richtet sich bei Verletzung einer ihnen einem Dritten gegenüber obliegenden Amtspflicht auch nach § 839 BGB und Art. 34 GG. Die Mitglieder der Selbstverwaltungsorgane haften für die Schäden, die dem Versicherungsträger aus vorsätzlichen oder grob fahrlässigen Verletzungen der ihnen obliegenden Pflichten entsteht. Dies ist in § 42 SGB IV gesetzlich normiert.\n\nDie Träger der Sozialversicherung in Deutschland sind rechtsfähige Körperschaften des öffentlichen Rechts mit Selbstverwaltung. Diese Selbstverwaltung wird in der Regel durch die Versicherten und die Arbeitgeber in Deutschland ausgeübt – also formal nicht vom Staat! Die Verfassung der Träger der Sozialversicherung ist ab § 29 SGB IV bis § 42 SGB IV sozialgesetzlich geregelt. Ab § 43 SGB IV folgen die Normen zur Wahl dieser Selbstverwaltungsorgane (= Sozialwahl). Gemäß § 58 SGB IV beträgt die Amtsdauer der gewählten Mitglieder sechs Jahre."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

@@ -41,40 +41,88 @@
     "werkstatt-für-behinderte-menschen",
     "wohn--und-betreuungsvertragsgesetz"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IX",
+      "id": "SGBIX§152",
+      "label": "§ 152 SGB IX",
+      "nummer": "152"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IX",
+      "id": "SGBIX§156",
+      "label": "§ 156 SGB IX",
+      "nummer": "156"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IX",
+      "id": "SGBIX§163",
+      "label": "§ 163 SGB IX",
+      "nummer": "163"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB X",
+      "id": "SGBX§19",
+      "label": "§ 19 SGB X",
+      "nummer": "19"
+    }
+  ],
   "pageid": 39272,
   "revid": 65366,
   "sections": [
     {
+      "norms": [
+        "SGBIX§152"
+      ],
       "path": [
         "Einleitung"
       ],
       "text": "Behinderungen werden vom Medizinischen Dienst öffentlich-rechtlich begutachtet, fallbezogen in Prozentstufen (= Grade) taxiert sowie amtlich festgestellt und mitgeteilt. Als schwerbehindert gelten Menschen mit einem Grad der Behinderung ab 50 %. Das Deutsche Schwerbehindertenrecht wurde als Teil 2 in das Sozialgesetzbuch 9 (SGB IX) integriert. Menschen mit einem festgestellten Grad der Behinderung zwischen 50 und 100 % gelten in Deutschland heute als geschützter Personenkreis. Schwerbehinderte besitzen gesetzlich geregelte Privilegien, zum Beispiel haben sie einen Anspruch auf unentgeltliche Beförderung im öffentlichen Personennahverkehr. Dies soll der Teilhabe von Schwerbehinderten am Leben in der Gemeinschaft dienen.\n\nDas Verfahren zur amtlichen Feststellung einer individuellen Behinderung ist in § 152 SGB IX gesetzlich geregelt."
     },
     {
+      "norms": [
+        "SGBIX§152",
+        "SGBX§19"
+      ],
       "path": [
         "Merkzeichen"
       ],
       "text": "Nach § 152 Abs. 4 SGB IX treffen die zuständigen Behörden, z.B. die Versorgungsämter, auch Feststellungen über die gesundheitlichen Merkmale (Merkzeichen) für die Inanspruchnahme von Nachteilsausgleichen. Neben dem Grad der Behinderung sind diese Merkzeichen wichtig, um besondere behinderungsbedingte Nachteile oder Mehraufwendungen individuell ausgleichen zu können. Die amtlich festgestellten Merkzeichen werden gegebenenfalls auf der Rückseite des Schwerbehindertenausweises links vom Grad der Behinderung (GdB) aufgeführt.\n\nDas Merkzeichen G steht für eine erhebliche Gehbehinderung. Diese Voraussetzung liegt vor, wenn ortsübliche Wegstrecken nicht mehr zu Fuß zurückgelegt werden können. Das Merkzeichen aG steht für eine außergewöhnliche Gehbehinderung. Hierzu zählen insbesondere Menschen, die infolge ihrer Behinderung aus medizinischer Notwendigkeit dauerhaft - auch für sehr kurze Entfernungen - auf die Verwendung eines Rollstuhles angewiesen sind.\n\nDas Merkzeichen H signalisiert Hilflosigkeit, d.h. der Mensch benötigt dauernd und in erheblichem Maße fremde Hilfe, Überwachung oder Anleitung für die gewöhnlichen und regelmäßig wiederkehrenden Verrichtungen des täglichen Lebens wie An- und Auskleiden, Nahrungsaufnahme, Körperpflege und Toilettengang.\n\nMit dem Merkzeichen B wird bestätigt, dass der behinderte Mensch berechtigt ist, eine Begleitperson mitzunehmen. Zusätzliche Voraussetzung ist, dass auch die Merkzeichen G, Gl oder H zugesprochen wurden.\n\nDas Merkzeichen Gl bekommen Hörbehinderte, bei denen Taubheit beiderseits vorliegt. Gehörlos sind auch Hörbehinderte mit einer an Taubheit grenzenden Schwerhörigkeit beiderseits, wenn daneben schwere Sprachstörungen (schwer verständliche Lautsprache, geringer Sprachschatz) vorliegen. Hörbehinderte haben allgemein das Recht, zur Verständigung in der Amtssprache die Gebärdensprache zu verwenden; daraus entstehender Aufwand für Dolmetscher ist von der Behörde oder dem für die Sozialleistung zuständigen Leistungsträger zu tragen (§ 19 Abs. 1 SGB X).\n\nDas Merkzeichen Bl bekommt der behinderte Mensch, dem das Augenlicht vollständig fehlt. Als blind ist auch der behinderte Mensch anzusehen, dessen Sehschärfe auf keinem Auge und auch nicht bei beidäugiger Prüfung mehr als 1/50 beträgt, oder wenn andere Störungen des Sehvermögens von einem solchen Schweregrad vorliegen, dass sie dieser Beeinträchtigung der Sehschärfe gleichzuachten sind.\n\nDas Merkzeichen TBl bekommt der behinderte Mensch, wenn er wegen einer Störung der Hörfunktion mindestens einen Grad der Behinderung von 70 und zusätzlich wegen einer Störung des Sehvermögens einen Grad der Behinderung von 100 hat. Das Merkzeichen TBl wird als Nachweis für eine Befreiung von der Rundfunkbeitragspflicht für taubblinde Menschen anerkannt.\n\nDas spezielle Merkzeichen RF berechtigt zur Befreiung vom Rundfunkbeitrag oder wenigstens zur Beitragsermäßigung.\n\nDas Merkzeichen 1. Kl. berechtigt zur Benutzung der 1. Wagenklasse mit Fahrausweisen der 2. Klasse bei Eisenbahnfahrten. Es wird nach den Tarifbestimmungen der Deutschen Bahn AG nur Schwerkriegsbeschädigten und Entschädigungsberechtigten nach dem Bundesentschädigungsgesetz mit einer Minderung der Erwerbsfähigkeit (MdE) um wenigstens 70 % zugestanden."
     },
     {
+      "norms": [
+        "SGBIX§156",
+        "SGBIX§163"
+      ],
       "path": [
         "Beschäftigung schwerbehinderter Menschen bis 31. März anzeigen"
       ],
       "text": "Arbeitgeber in Deutschland mit jahresdurchschnittlich monatlich mindestens 20 Arbeitsplätzen bzw. Arbeitsverträgen im Sinne des § 156 SGB IX müssen einmal jährlich bis spätestens 31. März der für ihren Sitz zuständigen Agentur für Arbeit für das vergangene Kalenderjahr, aufgegliedert nach Monaten, die Daten anzeigen, die zur Berechnung des Umfangs der Beschäftigungspflicht, zur Überwachung ihrer Erfüllung und der Ausgleichsabgabe notwendig sind. Genaueres ist in § 163 SGB IX sozialgesetzlich geregelt."
     },
     {
+      "norms": [],
       "path": [
         "European Disability Card (EDC)"
       ],
       "text": "Der einheitliche europäische Schwerbehindertenausweis (European Disability Card) soll zum 05.06.2028 in der ganzen Europäischen Union neu eingeführt werden. Mit diesem Ausweis können dann alle mitgliedstaatlich anerkannten Schwerbehinderten in allen 27 europäischen Mitgliedstaaten die dort jeweils angebotenen Vergünstigungen zur besseren Teilhabe am gesellschaftlichen Leben (= Inklusion) nutzen. Die Europäische Union soll in (ferner?) Zukunft ein inklusiver Rechtsraum werden."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Vulnerabilität, Elektronische Patientenakte, Notfalldaten\n- Eingliederungshilfe, Assistenzleistungen\n- Vertretung gegenüber Behörden\n- Personalausweis, elektronischer Identitätsnachweis, Personenstand\n- Vertrauensperson\n- Unterstützungspflicht\n- Digitale Barrierefreiheit, Nutzungspflicht\n- Inklusionsbetrieb, Anzeigepflicht, Arbeitsvertrag, Arbeitsunfall, Rente\n- Werkstatt für behinderte Menschen\n- Behindertenkonvention der Vereinten Nationen (UN)\n- Ausländer\n- Haager Übereinkommen\n- Altenheim\n- Betreutes Wohnen\n- Wohn- und Betreuungsvertragsgesetz"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],

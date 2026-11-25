@@ -60,22 +60,481 @@
     "wohnungsauflösung",
     "zwangsbehandlung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1814",
+      "label": "§ 1814 BGB",
+      "nummer": "1814"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1815",
+      "label": "§ 1815 BGB",
+      "nummer": "1815"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1816",
+      "label": "§ 1816 BGB",
+      "nummer": "1816"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1817",
+      "label": "§ 1817 BGB",
+      "nummer": "1817"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1818",
+      "label": "§ 1818 BGB",
+      "nummer": "1818"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1819",
+      "label": "§ 1819 BGB",
+      "nummer": "1819"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1820",
+      "label": "§ 1820 BGB",
+      "nummer": "1820"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1825",
+      "label": "§ 1825 BGB",
+      "nummer": "1825"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1829",
+      "label": "§ 1829 BGB",
+      "nummer": "1829"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1830",
+      "label": "§ 1830 BGB",
+      "nummer": "1830"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1831",
+      "label": "§ 1831 BGB",
+      "nummer": "1831"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1832",
+      "label": "§ 1832 BGB",
+      "nummer": "1832"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1833",
+      "label": "§ 1833 BGB",
+      "nummer": "1833"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1834",
+      "label": "§ 1834 BGB",
+      "nummer": "1834"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1835",
+      "label": "§ 1835 BGB",
+      "nummer": "1835"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1846",
+      "label": "§ 1846 BGB",
+      "nummer": "1846"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1847",
+      "label": "§ 1847 BGB",
+      "nummer": "1847"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1848",
+      "label": "§ 1848 BGB",
+      "nummer": "1848"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1849",
+      "label": "§ 1849 BGB",
+      "nummer": "1849"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1850",
+      "label": "§ 1850 BGB",
+      "nummer": "1850"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1851",
+      "label": "§ 1851 BGB",
+      "nummer": "1851"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1852",
+      "label": "§ 1852 BGB",
+      "nummer": "1852"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1853",
+      "label": "§ 1853 BGB",
+      "nummer": "1853"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1854",
+      "label": "§ 1854 BGB",
+      "nummer": "1854"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1861",
+      "label": "§ 1861 BGB",
+      "nummer": "1861"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1862",
+      "label": "§ 1862 BGB",
+      "nummer": "1862"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1863",
+      "label": "§ 1863 BGB",
+      "nummer": "1863"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1865",
+      "label": "§ 1865 BGB",
+      "nummer": "1865"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1868",
+      "label": "§ 1868 BGB",
+      "nummer": "1868"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1869",
+      "label": "§ 1869 BGB",
+      "nummer": "1869"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1871",
+      "label": "§ 1871 BGB",
+      "nummer": "1871"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1873",
+      "label": "§ 1873 BGB",
+      "nummer": "1873"
+    },
+    {
+      "alte_fassung": true,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
+      "nummer": "1896"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§125",
+      "label": "§ 125 FamFG",
+      "nummer": "125"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§290",
+      "label": "§ 290 FamFG",
+      "nummer": "290"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§291",
+      "label": "§ 291 FamFG",
+      "nummer": "291"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§292",
+      "label": "§ 292 FamFG",
+      "nummer": "292"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§292a",
+      "label": "§ 292a FamFG",
+      "nummer": "292a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§299",
+      "label": "§ 299 FamFG",
+      "nummer": "299"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§58",
+      "label": "§ 58 FamFG",
+      "nummer": "58"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§69",
+      "label": "§ 69 FamFG",
+      "nummer": "69"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§10",
+      "label": "§ 10 RPflG",
+      "nummer": "10"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§11",
+      "label": "§ 11 RPflG",
+      "nummer": "11"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§15",
+      "label": "§ 15 RPflG",
+      "nummer": "15"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§19",
+      "label": "§ 19 RPflG",
+      "nummer": "19"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§20",
+      "label": "§ 20 RPflG",
+      "nummer": "20"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§5",
+      "label": "§ 5 RPflG",
+      "nummer": "5"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§6",
+      "label": "§ 6 RPflG",
+      "nummer": "6"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§7",
+      "label": "§ 7 RPflG",
+      "nummer": "7"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§8",
+      "label": "§ 8 RPflG",
+      "nummer": "8"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "RPflG",
+      "id": "RPflG§9",
+      "label": "§ 9 RPflG",
+      "nummer": "9"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§688",
+      "label": "§ 688 ZPO",
+      "nummer": "688"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§693",
+      "label": "§ 693 ZPO",
+      "nummer": "693"
+    }
+  ],
   "pageid": 1801,
   "revid": 66677,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst."
     },
     {
+      "norms": [
+        "RPflG§15"
+      ],
       "path": [
         "Zuständigkeiten beim Betreuungsgericht"
       ],
       "text": "Gemäß § 3 Ziffer 2 b RpflG ist das Betreuungsverfahren auf den Rechtspfleger übertragen. Die dem Betreuungsrichter vorbehaltenen Entscheidungen finden sich in § 15 RpflG."
     },
     {
+      "norms": [
+        "BGB§1861",
+        "FamFG§290",
+        "BGB§1863",
+        "BGB§1862",
+        "BGB§1835",
+        "BGB§1865",
+        "BGB§1873",
+        "BGB§1833",
+        "FamFG§299",
+        "BGB§1848",
+        "BGB§1849",
+        "BGB§1850",
+        "BGB§1851",
+        "BGB§1852",
+        "BGB§1853",
+        "BGB§1854",
+        "BGB§1846",
+        "BGB§1847",
+        "BGB§1817",
+        "BGB§1868",
+        "BGB§1869",
+        "FamFG§292",
+        "FamFG§292a",
+        "RPflG§20",
+        "ZPO§688",
+        "ZPO§693",
+        "BGB§1896@aF"
+      ],
       "path": [
         "Zuständigkeiten beim Betreuungsgericht",
         "Der Rechtspfleger ist zuständig:"
@@ -83,6 +542,28 @@
       "text": "- Beratung des Betreuers, § 1861 BGB\n- Führung der Verpflichtungsgespräche mit den ehrenamtlichen Betreuern, § 1861 Abs. 2 BGB\n- Ausstellung der Bestellungsurkunde, § 290 FamFG\n- Führung der Anfangsgespräche in ehrenamtlich geführten Betreuungen, § 1863 Abs. 2 BGB\n- Aufsicht über den Betreuer, § 1862 BGB\n- Prüfung der Berichte des Betreuers, § 1863 BGB\n- Prüfung des Vermögensverzeichnisses, § 1835 BGB\n- Prüfung der jährlichen Rechnungslegungen und der Schlussabrechnung, § 1865 BGB und § 1873 BGB\n- Bearbeitung von Mietverhältnismitteilungen nach § 1833 Abs. 2 BGB und Genehmigung der Kündigung, der Aufgabe der Wohnung aufgrund Erklärung des Betreuers, der Vermietung oder dem Verkauf der Wohnung des Betroffenen, § 1833 Abs. 3 BGB, § 299 FamFG\n- Erteilung von Genehmigungen innerhalb der Aufgabenbereiche Vermögenssorge und Nachlassangelegenheiten, insbesondere nach §§ 1848, 1849, 1850, 1851, 1852, 1853, 1854 BGB; § 299 FamFG und Prüfung der Mitteilungen nach §§ 1846, 1847 BGB\n-Bestellung eines Ergänzungsbetreuers gemäß § 1817 Abs. 5 BGB\n-Betreuerentlassung, wenn der Betreute einen gleich geeigneten Betreuer vorschlägt, § 1868 Abs. 5 BGB, und Bestellung des neuen Betreuers, § 1869 BGB\n- Entlassung des Vereinsbetreuers/Behördenbetreuers auf Antrag des Vereins bzw. der Behörde, § 1868 Abs. 6 Satz 1 und 3 BGB und Bestellung des neuen Betreuers, § 1869 BGB;\n-Entscheidung, dass der Vereins-/Behördenbetreuer die Betreuung künftig als Privatperson weiterführt, § 1868 Abs. 6 Satz 2 und 3 BGB\n-Entscheidung über Aufwendungsersatz und Betreuervergütung sowie den Staatsregress, §§ 292, 292a FamFG\n-für Mahnverfahren als bürgerliche Rechtsstreitigkeiten um Geldforderungen gemäß § 20 Abs. 1 Nr. 1 RPflG (siehe: § 688 ZPO bis § 693 ZPO ohne Streitverfahren)\n\nBis zum 31.12.2022 war der Rechtspfleger für die Bestellung eines Kontrollbetreuers nach § 1896 BGB a.F. zuständig."
     },
     {
+      "norms": [
+        "RPflG§15",
+        "BGB§1814",
+        "BGB§1815",
+        "BGB§1816",
+        "BGB§1818",
+        "BGB§1819",
+        "BGB§1820",
+        "BGB§1817",
+        "BGB§1868",
+        "BGB§1869",
+        "BGB§1871",
+        "FamFG§291",
+        "BGB§1825",
+        "BGB§1829",
+        "BGB§1830",
+        "BGB§1834",
+        "FamFG§125",
+        "BGB§1831",
+        "BGB§1832",
+        "RPflG§19"
+      ],
       "path": [
         "Zuständigkeiten beim Betreuungsgericht",
         "Dem Betreuungsrichter sind gemäß § 15 RpflG vorbehalten:"
@@ -90,24 +571,40 @@
       "text": "- Bestellung eines Betreuers und Bestimmung des Aufgabenkreises (§§ 1814, 1815, 1816, 1818, 1819 BGB), Nr. 1\n- Bestellung eines Kontrollbetreuers, Suspendierung einer Vorsorgevollmacht und Erteilung einer Genehmigung zum Widerruf einer Vorsorgevollmacht (§ 1820 Abs. 3 bis 5 BGB), Nr. 1\n- Bestellung mehrerer Betreuer (§ 1817 Abs. 1 BGB), Nr. 1\n- Bestellung eines Verhinderungsbetreuers (§ 1817 Abs. 4 BGB), Nr. 1\n- Entlassung des Betreuers, wenn ein wichtiger Grund vorliegt (§ 1868 Abs. 1 BGB); Bestellung eines neuen Betreuers, Nr. 1\n- Entlassung des Betreuers bei Aufhebung oder Widerruf der Registrierung des beruflichen Betreuers (§ 1868 Abs. 2 BGB); Bestellung eines neuen Betreuers, Nr. 1\n- Entlassung des Betreuers, wenn ihm die Betreuung nicht mehr zugemutet werden kann (§ 1868 Abs. 4 BGB); Bestellung des neuen Betreuers, Nr. 1;\n- Entlassung des Vereins bzw. der Behörde als Betreuer (§ 1868 Abs. 7 BGB) und Bestellung einer Einzelperson als Betreuer, Nr. 1\n- Bestellung eines neuen Betreuers bei Tod des alten Betreuers (§ 1869 BGB), Nr. 2\n- Aufhebung der Betreuung, Erweiterung oder Einschränkung des Aufgabenkreises (§ 1871 Abs. 1 bis 3 BGB), Nr. 3\n- Überprüfung der Betreuerauswahl (§ 291 FamFG), Nr. 3\n- Anordnung des Einwilligungsvorbehaltes (§ 1825 BGB), dessen Aufhebung, Einschränkung, Erweiterung (§ 1871 Abs. 4 BGB), Nr. 3 und 4\n- Genehmigung der Einwilligung in gefährliche Heilbehandlungen (§ 1829 BGB), Nr. 4\n- Genehmigung der Einwilligung in eine Sterilisation, (§ 1830 BGB), Nr. 4\n- Anordnung einer Betreuung aufgrund dienstrechtlicher Vorschriften (also bei Beamten, Soldaten, Richtern, Notaren), Nr. 6\n- Entscheidung bei Streitigkeiten über Bestimmung des Umgangs und des Aufenthalts (§ 1834 BGB), Nr. 7\n- Genehmigung eines Scheidungsantrags, § 125 Abs. 2 FamFG\n- Maßnahmen nach dem Haager Übereinkommen über den Erwachsenenschutz\n\nDes Weiteren ist der Richter zuständig für\n- Genehmigung der freiheitsentziehenden Unterbringung, (§ 1831 BGB)\n- Genehmigung von ärztlichen Zwangsmaßnahmen (§ 1832 BGB)\n\nDurch Ermächtigung der Landesregierungen kann ein Teil der Richtervorbehalte von den Bundesländern nach Maßgabe des § 19 RpflG aufgehoben werden. Dies ist in Bayern und Rheinland-Pfalz erfolgt."
     },
     {
+      "norms": [
+        "RPflG§9",
+        "RPflG§11",
+        "RPflG§10",
+        "RPflG§5",
+        "RPflG§6",
+        "BGB§1833",
+        "RPflG§8",
+        "RPflG§7",
+        "BGB§1862",
+        "FamFG§58",
+        "FamFG§69"
+      ],
       "path": [
         "Status des Rechtspflegers"
       ],
       "text": "Rechtspfleger sind sachlich unabhängig und nur an Recht und Gesetz gebunden, (§ 9 RpflG).\n\nGegen Entscheidungen des Rechtspflegers sind die gleichen Rechtsmittel wie für richterliche Entscheidungen gegeben (§ 11 RpflG). Aber: Sieht das Gesetz kein Rechtsmittel vor, ist - im Gegensatz zu richterlichen Entscheidungen - die Erinnerung binnen 2 Wochen vorgesehen.\n\nÜber Ablehnungsanträge von Verfahrensbeteiligten entscheidet der Richter (§ 10 RpflG). Ist die Einholung einer Entscheidung des Bundesverfassungsgerichts erforderlich, ist das Verfahren ebenfalls dem Richter vorzulegen (§ 5 Abs. 1 Nr. 1 RpflG)\n\nDer Richter darf eine Entscheidung, für die Zuständigkeit des Rechtspflegers gegeben ist, an sich ziehen, wenn ein enger Sachzusammenhang zwischen einem Richter- und einem Rechtspfleger-Geschäft gegeben und eine getrennte Behandlung nicht sachdienlich ist (§ 5 Abs. 1, Nr. 2 RpflG, § 6 RpflG). Dies kommt im Betreuungsverfahren insbesondere dann vor, wenn wegen Umzugs der betreuten Person in eine Einrichtung und erforderlicher Auflösung der Wohnung der Aufgabenkreis um die Wohnungsangelegenheiten zu erweitern und die Erteilung einer Genehmigung der Wohnungskündigung nach § 1833 BGB erforderlich sind.\n\nEntscheidet der Richter in Verfahren, für die Rechtspflegerzuständigkeit gegeben ist, ist die Entscheidung dennoch wirksam, § 8 Abs. 1 RpflG. Im umgekehrten Fall (der Rechtspfleger entscheidet eine ihm nicht übertragbare Sache) ist die Entscheidung unwirksam (§ 8 Abs. 4 RPflG).\n\nBei Streit oder Ungewissheit über die funktionelle Zuständigkeit trifft der Richter die Bestimmung über die Zuständigkeit (§ 7 RpflG).\n\nÜber Dienstaufsichtsbeschwerden von Verfahrensbeteiligten über die Arbeit des Rechtspflegers, z.B. bei einer unzumutbaren zögerlichen Bearbeitung von Anträgen, entscheidet die Gerichtsleitung. Ist ein Verfahrenbeteiligter mit einer Entscheidung des Rechtspflegers, z.B. der Erteilung einer Weisung gemäß § 1862 Abs. 3 BGB, oder die Zurückweisung eines Antrags nicht einverstanden, kann er Beschwerde gemäß §§ 58 bis 69 FamFG einlegen."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Bezirksrevisor, Betreuungsrichter, Grundrechte, Beaufsichtigung, Registrierung; Prozesspfleger, Verfahrenspfleger, Betreuungsverfahren, Aufgabenkreis\n- Rechtsweg in Deutschland\n- Spielwiese"
     },
     {
+      "norms": [],
       "path": [
         "Videos und Podcasts"
       ],
       "text": "-Podcast betroyt.de zum Thema Rechtspfleger"
     },
     {
+      "norms": [],
       "path": [
         "Literatur"
       ],

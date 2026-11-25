@@ -60,40 +60,151 @@
     "zugangsrecht",
     "zwangsbehandlung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1814",
+      "label": "§ 1814 BGB",
+      "nummer": "1814"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1830",
+      "label": "§ 1830 BGB",
+      "nummer": "1830"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1832",
+      "label": "§ 1832 BGB",
+      "nummer": "1832"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1906",
+      "label": "§ 1906 BGB",
+      "nummer": "1906"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§276",
+      "label": "§ 276 FamFG",
+      "nummer": "276"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.1",
+      "label": "Art. 1 GG",
+      "nummer": "1"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.2",
+      "label": "Art. 2 GG",
+      "nummer": "2"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.4",
+      "label": "Art. 4 GG",
+      "nummer": "4"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.5",
+      "label": "Art. 5 GG",
+      "nummer": "5"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.8",
+      "label": "Art. 8 GG",
+      "nummer": "8"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§130",
+      "label": "§ 130 StGB",
+      "nummer": "130"
+    }
+  ],
   "pageid": 1926,
   "revid": 66206,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Der natürliche Wille ist der Wille, der in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung der Geistestätigkeit gefasst wird."
     },
     {
+      "norms": [
+        "BGB§1814",
+        "GGArt.2",
+        "BGB§1830",
+        "BGB§1832"
+      ],
       "path": [
         "Allgemeines"
       ],
-      "text": "Die Unterscheidung zwischen freiem und natürlichem Willen ist insbesondere im Betreuungsrecht wichtig, da ein Betreuer - im Unterschied zum Bewährungshelfer - nicht gegen den freien Willen eines Volljährigen bestellt werden darf ({{Zitat de §|1814|bgb}} Abs. 2 BGB). Durch das Fehlen eines freien Willens ist der Mensch heute weder geschäfts- noch einwilligungsunfähig. Der natürliche Wille hat eine menschenrechtliche Bedeutung.\n\nDas Grundrecht auf ein selbstbestimmtes Leben ({{Zitat Art|2|gg}} Absatz 1 GG) darf durch den Betreuer nur nach dem Maßstab der Verhältnismäßigkeit verletzt werden. Auch die Auswahl des Betreuers hat sich nach dem natürlichen Willen des Betreuten zu richten.\n\nDer natürliche Wille taucht im Betreuungsrecht noch an anderer Stelle auf, bei den Sterilisationsvoraussetzungen in {{Zitat de §|1830|bgb}} Abs. 1 Nr. 1 BGB. Eine Sterilisation darf nach den Vorstellungen des Gesetzgebers nämlich auch dem natürlichen Willen des Betroffenen nicht entgegenstehen.\n\nBei der medizinischen Zwangsmaßnahme (§ 1832 BGB) geht es ebenfalls um den entgegenstehenden natürlichen Willen."
+      "text": "Die Unterscheidung zwischen freiem und natürlichem Willen ist insbesondere im Betreuungsrecht wichtig, da ein Betreuer - im Unterschied zum Bewährungshelfer - nicht gegen den freien Willen eines Volljährigen bestellt werden darf (§ 1814 Abs. 2 BGB). Durch das Fehlen eines freien Willens ist der Mensch heute weder geschäfts- noch einwilligungsunfähig. Der natürliche Wille hat eine menschenrechtliche Bedeutung.\n\nDas Grundrecht auf ein selbstbestimmtes Leben (Art. 2 Absatz 1 GG) darf durch den Betreuer nur nach dem Maßstab der Verhältnismäßigkeit verletzt werden. Auch die Auswahl des Betreuers hat sich nach dem natürlichen Willen des Betreuten zu richten.\n\nDer natürliche Wille taucht im Betreuungsrecht noch an anderer Stelle auf, bei den Sterilisationsvoraussetzungen in § 1830 Abs. 1 Nr. 1 BGB. Eine Sterilisation darf nach den Vorstellungen des Gesetzgebers nämlich auch dem natürlichen Willen des Betroffenen nicht entgegenstehen.\n\nBei der medizinischen Zwangsmaßnahme (§ 1832 BGB) geht es ebenfalls um den entgegenstehenden natürlichen Willen."
     },
     {
+      "norms": [],
       "path": [
         "arbitrium brutum"
       ],
       "text": "Wenn betreute Menschen durch Naturgewalten, häusliche Gewalt oder Staatsgewalt wie Tiere in die Enge getrieben werden, reagieren sie oft mit instinktgetriebenen, natürlichen Verhaltensweisen, die dem individuellen Überleben dienen sollen. Dabei gibt es - je nach Bedrohungslage - drei völlig unterschiedlich geeignete, mehr oder weniger wirksame Überlebensstrategien:\n\n1. Angriff oder Aggression\n\nMögliche Formen von aggressiven Verhaltensmustern beim Menschen sind Ärger, Gereiztheit, Ironie, Spott, Sarkasmus, Überheblichkeit, Wutausbruch, Verurteilungen der Anderen, körperlicher Angriff, verbaler Angriff durch Anschreien oder Beschimpfen.\n\n2. Flucht oder Ausweichen\n\nMögliche Formen von ausweichenden Verhaltensmustern beim Menschen sind Beleidigtsein, Verzagtheit, Niedergeschlagenheit, Innerer Rückzug, Innere Kündigung, Verstummen.\n\n3. Totstellen oder Täuschung\n\nMögliche Formen von täuschenden Verhaltensmustern beim Menschen sind Körperstarre, Lähmung, Denkstarre, Begriffsstutzigkeit, Monotonie im Reden oder Fühlen, Verlust der Empathie.\n\nWerden alle drei biologischen Überlebensstrategien nach einer ungesunden Sozialisation vom individuellen Nervensystem synchron vermischt abgerufen, kann es paradoxerweise zum Suizid kommen, wenn die geistige Selbstbestimmung höher gewertet wird als das eigene Leben. Solche Menschen gelten heute als Kranke, denn sie stellen in Belastungssituationen eine gesundheitliche Gefahr für sich selbst dar. Ein gut funktionierender und aufgeklärter Rechts- und Sozialstaat könnte solche Belastungssituationen bei diesen Kranken präventiv verhindern, wenn sie rechtzeitig erkannt werden."
     },
     {
+      "norms": [
+        "GGArt.1",
+        "GGArt.5",
+        "GGArt.4",
+        "GGArt.8",
+        "StGB§130"
+      ],
       "path": [
         "Meinungsbildungsfreiheit!?"
       ],
       "text": "Wird in einem Staat durch Bedrohungen von innen oder außen die Meinungsbildung einiger Staatsbürger und/oder Staatsbürgerinnen durch Behinderungen der Informationsbeschaffung unmöglich gemacht, dann herrscht keine Meinungsbildungsfreiheit bzw. es gibt keine Informationsfreiheit als Grundrecht. In Deutschland steht seit 1949 allen Menschen gemäß Art. 1 GG die gleiche Menschenwürde zu – auch psychisch Kranken, Süchtigen und Straftätern. Auch diese Menschen bilden sich hier eigene Meinungen, die oft abstrus auf andere wirken.\n\nProblematisch könnten diese abstrusen Meinungen wegen der grundrechtlich geschützten Meinungsäußerungsfreiheit in den Medien werden (Art. 5 Abs. 1 GG). In der Regel wird die sogenannte öffentliche Meinung im demokratischen Staat durch wechselseitige Meinungsäußerungen vieler (publizierender) Staatsbürgerinnen und Staatsbürger gebildet. Es wandelt sich im Idealfall die Meinungsfreiheit einzelner Menschen im Staat langsam zur Kommunikationsfreiheit vieler - einschließlich der sogenannten Minderheiten.\n\nDie öffentliche Meinung sollte in einer Demokratie nicht nur die Summe der tatsächlich in der Bevölkerung vorhandenen unterschiedlichsten Ansichten über wichtige gesellschaftliche Gegenstände sein. Auch religiöse Bekenntnisse oder besondere Weltanschauungen stellen in Deutschland heute Meinungen dar, die speziell durch Art. 4 GG geschützt werden. Wissenschaftlich begründete Meinungen werden dagegen durch Art. 5 Abs. 3 GG geschützt, kollektive Meinungsäußerungen z.B. von wählbaren politischen Parteien durch Art. 8 GG. Unrichtige Informationen, die in den Medien als Wahrheiten bzw. Fakten kommuniziert werden, sollten jedoch in einem religionsneutralen demokratischen Staat nicht der öffentlichen Meinungsbildung dienen. Hierbei handelt es sich um Volksverdummung oder gar Volksverhetzung (§ 130 StGB)."
     },
     {
+      "norms": [
+        "BGB§1906",
+        "FamFG§276",
+        "BGB§1832"
+      ],
       "path": [
         "Rechtsprechung"
       ],
       "text": "OLG Hamm, Beschluss vom 28.02.2000 - 15 W 50/00; BtPrax 2000,168 (mit Anm. Hoffmann S. 2357 und Pöld-Krämer S. 237) = FamRZ 2001,314 = FGPrax 2000,107 = NJW 2001,1800 = OLGR 2000,176 = RdLH 2000,139:\n\n- Werden die Verfahren auf Bestellung eines Betreuers für die Einwilligung in die Sterilisation und betreuungsgerichtliche Genehmigung der Einwilligung des Betreuers zeitlich eng nacheinander durchgeführt, dann brauchen Verfahrenshandlungen gleichen Inhalts und Zwecks, wie die Bestellung von Sachverständigen und die persönliche Anhörung der Betroffenen, nicht doppelt vorgenommen zu werden.\n- Die Annahme eines der Sterilisation widersprechenden natürlichen Willens erfordert die Feststellung, dass der Betreute sich gegen die Sterilisation als solche wehrt. Richtet sich der Widerstand des Betroffenen gegen andere Beeinträchtigungen, so müssen die diesen Widerstand hervorrufenden Verhältnisse geändert werden.\n\nLG Freiburg, Beschluss vom 16.05.2012, 4 T 93/12:\n\nEine Unterbringung zur Heilbehandlung kann auch dann genehmigt werden, wenn sie allein darauf gerichtet ist, die Behandlung gegen den natürlichen Willen des Betroffenen durchzusetzen.\n\nBGH, Beschluss vom 08.08.2012, XII ZB 671/11:\n\n- Da die Einwilligung des Betreuers in eine Zwangsbehandlung mangels gesetzlicher Grundlage nicht genehmigungsfähig ist, kommt die Genehmigung einer entsprechenden Unterbringung nach § 1906 Abs. 1 Nr. 2 BGB nicht in Betracht, wenn die Heilbehandlung wegen der Weigerung des Betroffenen, sich behandeln zu lassen, nicht durchgeführt werden kann (im Anschluss an Senatsbeschlüsse vom 20. Juni 2012 - XII ZB 99/12 und XII ZB 130/12 - jeweils juris).\n- Die Genehmigung einer Unterbringung zur Heilbehandlung nach § 1906 Abs. 1 Nr. 2 BGB kommt allerdings noch in den Fällen in Betracht, in denen nicht von vornherein ausgeschlossen ist, dass sich der Betroffene in der Unterbringung behandeln lassen wird, sein natürlicher Wille also nicht bereits der medizinisch notwendigen Behandlung entgegensteht und er die Notwendigkeit der Unterbringung nicht einsieht (im Anschluss an Senatsbeschluss BGHZ 166, 141, 152 = FamRZ 2006, 615, 618).\n\nBGH, Beschluss vom 07. 08.2013, XII ZB 223/13:\n\nDie Bestellung eines Verfahrenspflegers für den Betroffenen ist nach § 276 Abs. 1 Satz 2 Nr. 2 FamFG regelmäßig schon dann geboten, wenn der Verfahrensgegenstand die Anordnung einer Betreuung in allen Angelegenheiten als möglich erscheinen lässt (im Anschluss an Senatsbeschlüsse vom 28. September 2011 XII ZB 16/11 FamRZ 2011, 1866 und vom 4. August 2010 XII ZB 167/10 FamRZ 2010, 1648). Das gilt grundsätzlich auch dann, wenn die beabsichtigte Entscheidung dem natürlichen Willen des Betroffenen entspricht.\n\nLG Lübeck, Beschluss vom 09.07.2014, 7 T 398/14\n\nAuch vor jeder erneuten oder verlängerten ärztlichen Zwangsmaßnahme ist nochmals darauf hinzuwirken, dass der Betroffene seinen natürlichen Willen so ändert, dass dieser sich nicht (mehr) gegen die Maßnahme richtet.\n\nBGH, Beschluss vom 29. April 2026 - XII ZB 60/26\n\n-Als natürlicher Wille im Sinne des § 1832 Abs. 1 Satz 1 BGB kann jede Willenskundgabe eines Einwilligungsunfähigen angesehen werden, die bewusst und nicht bloß reflexartig erfolgt. Voraussetzung hierfür ist lediglich die Fähigkeit des Betreuten zur Entäußerung seines natürlichen Willens.\n-Steht einer ärztlichen Maßnahme der natürliche Wille des Betreuten nicht entgegen, verbietet sich ein Vorratsbeschluss für den Fall, dass sich der Betreute zu einem späteren Zeitpunkt doch gegen die Maßnahme aussprechen sollte (im Anschluss an Senatsbeschlüsse BGHZ 193, 337 = FamRZ 2012, 1366 und vom 22. September 2010 - XII ZB 135/10 - FamRZ 2010, 1976).\n\nBGH, Beschluss vom 19. August 2026 - XII ZB 149/26:\n\n- Als natürlicher Wille im Sinne des § 1832 Abs. 1 Satz 1 BGB kann jede Willenskundgabe eines Einwilligungsunfähigen angesehen werden, die bewusst und nicht bloß reflexartig erfolgt. Voraussetzung hierfür ist lediglich die Fähigkeit des Betreuten zur Entäußerung seines natürlichen Willens. Steht einer ärztlichen Maßnahme der natürliche Willen des Betreuten nicht entgegen, verbietet sich ein Vorratsbeschluss für den Fall, dass sich der Betreute zu einem späteren Zeitpunkt doch gegen die Maßnahme aussprechen sollte (im Anschluss an Senatsbeschluss vom 29. April 2026 - XII ZB 60/26 - FamRZ 2026, 1125).\n-Ob der drohende erhebliche gesundheitliche Schaden durch keine andere den Betreuten weniger belastende Maßnahme abgewendet werden kann (§ 1832 Abs. 1 Satz 1 Nr. 5 BGB), ist allein anhand der Eignung der Maßnahme zur Schadensabwendung zu beurteilen. Wenn ein Betreuter - gleich aus welchen Gründen - die intramuskuläre Verabreichung eines Depotpräparats ablehnt, aber zuverlässig zur oralen Einnahme eines Präparats mit demselben Wirkstoff bereit ist, besteht regelmäßig keine Veranlassung für eine zwangsweise Verabreichung des Depotpräparats, sofern die orale Darreichungsform des Wirkstoffs zur Behandlung der psychischen Erkrankung des Betreuten in ähnlicher Weise geeignet ist wie das Depotpräparat."
     },
     {
+      "norms": [],
       "path": [
         "Literatur",
         "Zeitschriftenbeiträge"
@@ -101,6 +212,7 @@
       "text": "-Bschor: Freiheit zum Darmtumor? TAZ vom 12.10.2012\n-Steenbreker: Zivilrechtliche Unbeachtlichkeit eines \"natürlichen Willens\" für den Widerruf der Patientenverfügung; NJW 2012, 3207"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

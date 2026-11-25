@@ -20,16 +20,48 @@
     "tod-des-betreuten",
     "vorläufiger-betreuer"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1869",
+      "label": "§ 1869 BGB",
+      "nummer": "1869"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1870",
+      "label": "§ 1870 BGB",
+      "nummer": "1870"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§302",
+      "label": "§ 302 FamFG",
+      "nummer": "302"
+    }
+  ],
   "pageid": 1897,
   "revid": 64510,
   "sections": [
     {
+      "norms": [
+        "BGB§1870",
+        "BGB§1869",
+        "FamFG§302"
+      ],
       "path": [
         "Einleitung"
       ],
       "text": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.\n\nEine rechtliche Betreuung kann auf verschiedene Weisen enden:\n\n-Aufhebung der Betreuung durch Beschluss des Betreuungsgerichtes (§ 1870 BGB);\n-Tod des Betreuten (§ 1870 BGB);\n-aus der Sicht des jeweiligen Betreuers auch durch einen vom Gericht beschlossenen Betreuerwechsel (§ 1869 BGB);\n-sowie bei vorläufigen Betreuerbestellungen auch durch Zeitablauf des in der einstweiligen Anordnung genannten Datums (§ 302 FamFG)."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

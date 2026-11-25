@@ -21,16 +21,30 @@
     "vorsorgevollmacht---vertiefte-infos",
     "widerspruchsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1820",
+      "label": "§ 1820 BGB",
+      "nummer": "1820"
+    }
+  ],
   "pageid": 39302,
   "revid": 65643,
   "sections": [
     {
+      "norms": [
+        "BGB§1820"
+      ],
       "path": [
         "Allgemeines"
       ],
       "text": "Gemäß § 1820 Abs. 5 BGB kann ein Kontrollbetreuer im konkreten Einzelfall zum Widerruf einer Vorsorgevollmacht berechtigt sein."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

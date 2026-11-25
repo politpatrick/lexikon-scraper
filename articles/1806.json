@@ -35,22 +35,63 @@
     "vereinsbetreuer",
     "vermögenssorge"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1826",
+      "label": "§ 1826 BGB",
+      "nummer": "1826"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1877",
+      "label": "§ 1877 BGB",
+      "nummer": "1877"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§14",
+      "label": "§ 14 BtOG",
+      "nummer": "14"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§23",
+      "label": "§ 23 BtOG",
+      "nummer": "23"
+    }
+  ],
   "pageid": 1806,
   "revid": 65499,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Achtung: Beitrag ist an die Rechtslage ab 1.1.2023 angepasst."
     },
     {
+      "norms": [
+        "BGB§1826"
+      ],
       "path": [
         "Haftpflichtversicherung"
       ],
       "text": "Wegen der haftungsrechtlichen Folgen von Pflichtverletzungen des Betreuers (§ 1826 BGB) sollte dieser stets eine Haftpflichtversicherung besitzen, die die Tätigkeit als Betreuer mit abdeckt. Eine normale Privathaftpflichtversicherung ist nicht ausreichend."
     },
     {
+      "norms": [
+        "BGB§1877"
+      ],
       "path": [
         "Haftpflichtversicherung",
         "Ehrenamtliche Betreuer"
@@ -58,6 +99,9 @@
       "text": "In allen Bundesländern sind die ehrenamtlichen Betreuer (sowie Vormünder und Pfleger von Minderjährigen) aber im Rahmen von Sammelhaftpflichtversicherungen, die durch die Justizministerien bzw. -senate mit verschiedenen Versicherungsträgern abgeschlossen wurden, haftpflichtversichert.\n\nEhrenamtliche Betreuer sind hiernach alle (natürlichen) Personen, die keinen Anspruch auf Vergütung haben und die nicht bei einem Betreuungsverein oder der Betreuungsbehörde hauptamtlich beschäftigt sind. Mit Bestellung zum Betreuer werden die entsprechenden Personen in den Versicherungsschutz der Sammelversicherung einbezogen, ohne dass es einer weiteren Erklärung bedarf.\n\nIm Rahmen dieser Sammelversicherung sind (unterschiedlich in den einzelnen Bundesländern) Vermögensschäden bis 50.000 - 250.000 Euro sowie in allen Ländern Personen- und Sachschäden von 2 Mio. Euro (z.T. auch bis 7,5 Mio. Euro) versichert. Der Beitrag wird zur Zeit nicht einzeln abgerechnet, sondern pauschal aus den jeweiligen Justizhaushalten getragen. Diese pauschale Abrechnungsweise vermeidet einen gegenüber der Einzelabrechnung unverhältnismäßig hohen Verwaltungsaufwand sowohl bei Betreuern als auch Justizministerien und Versicherungsträgern.\n\nDie Höchstleistung der Versicherung beträgt je betreuter Person jährlich das 2fache der o.g. Versicherungssumme. Ausgeschlossen sind Haftpflichtansprüche aus kaufmännischer Kalkulations-, Spekulations- oder Organisationstätigkeit sowie Schäden aufgrund nicht eingehaltener Versicherungsverträge.\n\nSchadensfälle sind je nach Bundesland zum Teil direkt über das jeweilige Versicherungsunternehmen, z.T. über das Betreuungsgericht abzurechnen, aber auch im ersten Fall sollte das zuständige Betreuungsgericht informiert werden. Zuständiges Versicherungsunternehmen für die Sammelversicherung ist in den meisten  Ländern entsprechend einer überregionalen Absprache derzeit der Ecclesia-Versicherungsdienst Detmold. Genaue Infos gibt es bei den einzelnen Betreuungsgerichten.\n\nEine individuelle Höherversicherung ist über den jeweiligen Versicherungsträger möglich. Ist der Betreuer Mitglied eines Betreuungsvereines, ist er oft auch über die Haftpflichtversicherung des Vereines gesichert. Anderenfalls sollte er eine individuelle Haftpflichtversicherung abschließen, deren Kosten er gemäß § 1877 Abs. 2 BGB als Aufwendungsersatz abrechnen kann."
     },
     {
+      "norms": [
+        "BtOG§23"
+      ],
       "path": [
         "Haftpflichtversicherung",
         "Berufsbetreuer"
@@ -65,6 +109,9 @@
       "text": "Berufsbetreuer fallen nicht unter die obigen Sammelhaftpflichtversicherungen: Sie sollten im eigenen Interesse dringend sowohl eine allgemeine Haftpflichtversicherung für Personen- und Sachschäden als auch eine Vermögensschadensversicherung abschließen; bei letzterer wäre eine Versicherungssumme von 125.000 Euro Mindeststandard. Seit 1.1.2023 ist für alle Berufsbetreuer eine Vermögensschaden-Haftpflichtversicherung Pflicht (§ 23 Abs. 1 Nr. 3 BtOG)."
     },
     {
+      "norms": [
+        "BtOG§14"
+      ],
       "path": [
         "Haftpflichtversicherung",
         "Vereinsbetreuer"
@@ -72,6 +119,7 @@
       "text": "Vereinsbetreuer sind verpflichtend über ihren Arbeitgeber versichert. Dies ergibt sich aus der Anerkennungsvorschrift für Betreuungsvereine, § 14 BtOG. Zudem gilt die Versicherungspflicht in der Vermögensschaden-Haftpflicht (siehe unter Berufsbetreuer) seit 1.1.2023 auch für Vereinsbetreuer."
     },
     {
+      "norms": [],
       "path": [
         "Haftpflichtversicherung",
         "Behördenbetreuer"
@@ -79,6 +127,7 @@
       "text": "Für Behördenbetreuer ist eine Haftpflichtversicherung nicht nötig, da die Schäden nach allgemeiner Auffassung durch den Dienstherrn/Arbeitgeber zu tragen sind (siehe Amtspflichtverletzung)."
     },
     {
+      "norms": [],
       "path": [
         "Haftpflichtversicherung",
         "Haftpflichtversicherung bei Demenz"
@@ -86,6 +135,7 @@
       "text": "-Infos der Stiftung Warentest zum Thema."
     },
     {
+      "norms": [],
       "path": [
         "Haftpflichtversicherung",
         "Siehe auch"
@@ -93,6 +143,7 @@
       "text": "- Betreuerhaftung, Berufsbetreuer, Rechtsanwalt, gesetzlicher Vertreter, Vermögenssorge, Finanzamt, Amtspflichtverletzung, Wikipedia-Infos zur Haftpflichtversicherung, Unfallversicherung\n- Genehmigungspflichten"
     },
     {
+      "norms": [],
       "path": [
         "Haftpflichtversicherung",
         "Literatur"
@@ -100,6 +151,7 @@
       "text": "- Haftungsrecht für Betreuer, 2. Auflage 2007, ISBN 3898175944"
     },
     {
+      "norms": [],
       "path": [
         "Haftpflichtversicherung",
         "Literatur",
@@ -108,6 +160,7 @@
       "text": "-Deinert/Schreibauer: Haftung und Haftungsübernahme im Betreuungsverhältnis, BtPrax 1993, 185\n-Fiala/Keppel: Typische Schutzlücken in der Vermögensschaden-Haftpflichtversicherung des Betreuers, BtPrax 2008, 198\n-Henkemeier: Problematik des Deckungsausschlusses bei versäumten Versicherungsverträgen; BtPrax 2004, 233\n-dies.: Versicherungsrechtlicher Aspekt der Betreuerhaftung, BtPrax 2004, 59 (Anm. zu OLG Nürnberg BtPrax 2004, 38)"
     },
     {
+      "norms": [],
       "path": [
         "Haftpflichtversicherung",
         "Merkblätter zur Betreuerhaftpflichtversicherung"

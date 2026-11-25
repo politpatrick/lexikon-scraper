@@ -47,34 +47,123 @@
     "vormünder--und-betreuervergütungsgesetz",
     "vorsorgevollmacht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtBG",
+      "id": "BtBG§10",
+      "label": "§ 10 BtBG",
+      "nummer": "10"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtBG",
+      "id": "BtBG§2",
+      "label": "§ 2 BtBG",
+      "nummer": "2"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtBG",
+      "id": "BtBG§3",
+      "label": "§ 3 BtBG",
+      "nummer": "3"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtBG",
+      "id": "BtBG§4",
+      "label": "§ 4 BtBG",
+      "nummer": "4"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtBG",
+      "id": "BtBG§5",
+      "label": "§ 5 BtBG",
+      "nummer": "5"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtBG",
+      "id": "BtBG§6",
+      "label": "§ 6 BtBG",
+      "nummer": "6"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtBG",
+      "id": "BtBG§7",
+      "label": "§ 7 BtBG",
+      "nummer": "7"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtBG",
+      "id": "BtBG§8",
+      "label": "§ 8 BtBG",
+      "nummer": "8"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtBG",
+      "id": "BtBG§9",
+      "label": "§ 9 BtBG",
+      "nummer": "9"
+    }
+  ],
   "pageid": 1740,
   "revid": 64986,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Dieser Artikel enthält die Rechtslage bis 31.12.2022. Für die Rechtslage ab 1.1.2023 siehe unter Betreuungsorganisationsgesetz.\n\n Basisdaten\n Volltitel:  Gesetz über die Wahrnehmung behördlicher\nAufgaben bei der Betreuung Volljähriger\n Kurztitel:  Betreuungsbehördengesetz\n Abkürzung:  BtBG\n Art:  Bundesgesetz\n Geltungsbereich:  Bundesrepublik Deutschland\n Rechtsmaterie:  Betreuungsrecht\n Fundstellennachweis:  404-24\n Datum des Gesetzes:   12.09.1990 (BGBl. I S. 2002, 2025)\n Inkrafttreten:   01.01.1992\n Letzte Änderung:  Gesetz vom 17.7.2017\n(BGBl. I S. 2426)\n Außerkrafttreten: 31.12.2022"
     },
     {
+      "norms": [],
       "path": [
         "Betreuungsbehördengesetz (BtBG)"
       ],
       "text": "Das Betreuungsbehördengesetz war Bestandteil des am 1. Januar 1992 in Kraft getretenen Betreuungsgesetzes, im Rahmen dessen die Vormundschaft (für Volljährige) und Gebrechlichkeitspflegschaft durch die Betreuung ersetzt wurden. Es installierte eine neue Fachbehörde anstelle des zuvor auch für Erwachsene zuständigen Jugendamtes."
     },
     {
+      "norms": [
+        "BtBG§2",
+        "BtBG§3",
+        "BtBG§4",
+        "BtBG§5",
+        "BtBG§6",
+        "BtBG§7",
+        "BtBG§8",
+        "BtBG§9",
+        "BtBG§10"
+      ],
       "path": [
         "Grundzüge"
       ],
       "text": "-§ 1 BtBG- Bildung von Betreuungsbehörden (lt. Landesrecht überwiegend Landkreise und kreisfreie Städte)\n-§ 2 BtBG - zusätzliche Behörden (Landesermächtigungsklausel, in den meisten Ländern als überörtliche Betreuungsbehörden errichtet)\n-§ 3 BtBG - örtliche Zuständigkeit (gewöhnlicher Aufenthalt des Betroffenen)\n-§ 4 BtBG - Beratungs- und Unterstützungspflicht der Behörde gegenüber Betreuern und Bevollmächtigten; Hilfestellung bei Betreuungsplan\n-§ 5 BtBG - Bereitstellung von Informations- und Aufklärungsmöglichkeiten zu Vorsorgevollmachten und Betreuungsverfügungen\n-§ 6 BtBG - allgemeine Förderungspflicht, Beglaubigung von Unterschriften und Handzeichen unter Vorsorgevollmachten und Betreuungsverfügungen\n-§ 7 BtBG - Mitteilungsrechte gegenüber dem Betreuungsgericht - Datenschutz\n-§ 8 BtBG  - Allgemeine Unterstützungspflicht ggü. dem Betreuungsgericht, Sachverhaltsaufklärung, Benennung geeigneter Betreuer und Verfahrenspfleger\n-§ 9 BtBG - sonstige Aufgaben der Betreuungsbehörde (nach BGB, FamFG, VBVG, Landesrecht)\n-§ 10 BtBG - Berlin-Klausel (gegenstandslos)\n\nDas Betreuungsbehördengesetz war seltsamerweise kein Bestandteil des Sozialgesetzbuches, obwohl die Aufgaben denen des Jugendamtes (nach Sozialgesetzbuch VIII) ähnlich sind. Daher galten für die Betreuungsbehörde ergänzend die Verwaltungsverfahrensgesetze und Datenschutzgesetze der Bundesländer, nicht das Sozialgesetzbuch-X.\n\nDas Betreuungsbehördengesetz wurde zum 1.1.2023 durch das erheblich erweiterte Betreuungsorganisationsgesetz (BtOG) ersetzt. Synopse siehe unten."
     },
     {
+      "norms": [],
       "path": [
         "Literatur"
       ],
       "text": "-Hinweis: das BtBG ist nicht eigenständig kommentiert; es ist in den Kommentaren zum Betreuungsrecht enthalten."
     },
     {
+      "norms": [],
       "path": [
         "Literatur",
         "Bücher"
@@ -82,17 +171,19 @@
       "text": "-  Brucker: Aufgaben und Organisation der Betreuungsbehörde   -  Rezension dazu\n- Brucker: Besser betreuen. Beiträge zu einer qualitätsgesicherten gesetzlichen Betreuung,  ISBN 3940087130"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],
       "text": "-Synopse zum BtOG/BtBG, zusammengestellt von Guy Walther, PDF)\n-Neufassung aller Empfehlungen für Betreuungsbehörden zur Sachverhaltsaufklärung, zur Betreuerauswahl, zur Anerkennung von Betreuungsvereine, zur Vermittlung anderer Hilfen und zum Anforderungsprofil von Betreuungsbehörden (PDF)\n-Adressen aller Betreuungsbehörden"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks",
         "Landesausführungsgesetze"
       ],
-      "text": "-Bayern\n-Berlin\n-Brandenburg\n-Hessen\n-Mecklenburg-Vorpommern\n-Nordrhein-Westfalen\n-Rheinland-Pfalz\n-Sachsen\n-Sachsen-Anhalt\n-Thüringen\n\nInfos zum Haftungsausschluss\n\n{{Quelle Wikipedia|Betreuungsbehördengesetz|16. Juni  2006|3=http://de.wikipedia.org/w/index.php?title=Betreuungsbeh%C3%B6rdengesetz&oldid=17933072}}"
+      "text": "-Bayern\n-Berlin\n-Brandenburg\n-Hessen\n-Mecklenburg-Vorpommern\n-Nordrhein-Westfalen\n-Rheinland-Pfalz\n-Sachsen\n-Sachsen-Anhalt\n-Thüringen\n\nInfos zum Haftungsausschluss\n\nQuelle: Wikipedia, Artikel „Betreuungsbehördengesetz“, Stand 16. Juni 2006 (http://de.wikipedia.org/w/index.php?title=Betreuungsbeh%C3%B6rdengesetz&oldid=17933072)"
     }
   ],
   "slug": "betreuungsbehördengesetz",

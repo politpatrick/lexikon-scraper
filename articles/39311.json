@@ -28,28 +28,82 @@
     "vorsorgevollmacht",
     "widerspruchsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "AO",
+      "id": "AO§81",
+      "label": "§ 81 AO",
+      "nummer": "81"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§340",
+      "label": "§ 340 FamFG",
+      "nummer": "340"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§70",
+      "label": "§ 70 FamFG",
+      "nummer": "70"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB X",
+      "id": "SGBX§15",
+      "label": "§ 15 SGB X",
+      "nummer": "15"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VwVfG",
+      "id": "VwVfG§16",
+      "label": "§ 16 VwVfG",
+      "nummer": "16"
+    }
+  ],
   "pageid": 39311,
   "revid": 66895,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Wird noch weiter bearbeitet."
     },
     {
+      "norms": [
+        "FamFG§340",
+        "SGBX§15",
+        "AO§81",
+        "VwVfG§16"
+      ],
       "path": [
         "Allgemeines"
       ],
       "text": "Ist ein einem Verwaltungsverfahren ein Beteiligter nicht verfahrensfähig - und ist auch kein rechtlicher Betreuer bestellt - und liegt auch keine wirksame Vorsorgevollmacht vor, so hat die Behörde beim Betreuungsgericht (betreuungsrechtl. Zuweisungssache, § 340 FamFG) die Bestellung eines besonderen Vertreters im Verwaltungsverfahren zu beantragen.\n\nRechtsgrundlagen:\n- Sozialrecht: § 15 SGB X\n- Steuerrecht: § 81 AO\n- sonst. Verwaltungsverfahren: § 16 VwVfG (bzw landesrechtl. Parallelvorschriften)."
     },
     {
+      "norms": [
+        "SGBX§15",
+        "FamFG§70"
+      ],
       "path": [
         "Rechtsprechung"
       ],
       "text": "BGH, Beschluss vom 13. August 2025 - XII ZB 285/25\n\n-Gegen Entscheidungen des Beschwerdegerichts in betreuungsgerichtlichen Zuweisungssachen, welche die Bestellung eines Vertreters nach § 15 Abs. 1 Nr. 4 SGB X in einem sozialrechtlichen Verwaltungsverfahren betreffen, findet eine zulassungsfreie Rechtsbeschwerde gemäß § 15 Abs. 4 SGB X iVm § 70 Abs. 3 Satz 1 Nr. 1 FamFG statt (Abgrenzung zu Senatsbeschluss vom 19. September 2018 XII ZB 427/17 FamRZ 2018, 1935).\n- Für den Beteiligten eines sozialrechtlichen Verwaltungsverfahrens, der infolge einer psychischen Krankheit oder einer körperlichen, geistigen oder seelischen Behinderung in diesem Verfahren nicht sachgerecht handeln kann, darf ohne dessen Einwilligung kein Vertreter nach § 15 Abs. 1 Nr. 4 SGB X bestellt werden, wenn der Beteiligte hinsichtlich der Vertreterbestellung über einen freien Willen verfügt."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

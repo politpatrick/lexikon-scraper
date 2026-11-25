@@ -24,28 +24,99 @@
     "vorläufiger-betreuer",
     "zwangsbehandlung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§284",
+      "label": "§ 284 FamFG",
+      "nummer": "284"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§292",
+      "label": "§ 292 FamFG",
+      "nummer": "292"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§294",
+      "label": "§ 294 FamFG",
+      "nummer": "294"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§295",
+      "label": "§ 295 FamFG",
+      "nummer": "295"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§302",
+      "label": "§ 302 FamFG",
+      "nummer": "302"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§329",
+      "label": "§ 329 FamFG",
+      "nummer": "329"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§333",
+      "label": "§ 333 FamFG",
+      "nummer": "333"
+    }
+  ],
   "pageid": 39320,
   "revid": 65868,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "In Betreuungs- und Unterbringungssachen gibt es unterschiedliche Fristsetzungen."
     },
     {
+      "norms": [
+        "FamFG§302",
+        "FamFG§284",
+        "FamFG§333"
+      ],
       "path": [
         "Automatische Beendigung"
       ],
       "text": "-Anordnung der vorläufigen Betreuung: 6 Monate (Verlängerung auf 1 Jahr möglich), § 302 FamFG\n-Anordnung der Unterbringung zur Begutachtung: 6 Wochen, verlängerbar auf 3 Monate, § 284 Abs. 2 FamFG\n-Genehmigung der vorläufigen Unterbringung: 6 Wochen, Verlängerung auf 3 Monate möglich, § 333 Abs. 1 FamFG\n-Genehmigung der Zwangsbehandlung mit einstweiliger Anordnung: 2 Wochen, verlängerter auf insgesamt 6, § 333 Abs. 2 FamFG"
     },
     {
+      "norms": [
+        "FamFG§294",
+        "FamFG§295",
+        "FamFG§329",
+        "FamFG§292"
+      ],
       "path": [
         "Überprüfungsnotwendigkeit"
       ],
       "text": "-Anordnung der (endgültigen) Betreuerbestellung und eines Einwilligungsvorbehaltes: 7 Jahre (§ 294 Abs. 3 FamFG, § 295 Abs. 2 FamFG)\n-Anordnung der (endgültigen) Betreuerbestellung und eines Einwilligungsvorbehaltes gegen den Willen des Betreuten: 2 Jahre (§ 294 Abs. 3 FamFG, § 295 Abs. 2 FamFG)\n-Genehmigung der freiheitsentziehenden Unterbringung: 1 Jahr (§ 329 Abs. 1 FamFG)\n-Genehmigung der freiheitsentziehenden Unterbringung bei offensichtlich langer Unterbringungsbedürftigkeit: 2 Jahre (§ 329 Abs. 1 FamFG)\n-Genehmigung der Zwangsbehandlung: 6 Wochen, verlängerbar auf 3 Monate (§ 329 Abs. 1 FamFG)\n-Genehmigung der Dauervergütung: 2 Jahre (§ 292 Abs. 2 FamFG)"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

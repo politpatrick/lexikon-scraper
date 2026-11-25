@@ -54,89 +54,427 @@
     "vereinbarung-über-begleitung-und-unterstützung",
     "vereinsbetreuer"
   ],
+  "norms": [
+    {
+      "alte_fassung": true,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1908f@aF",
+      "label": "§ 1908f BGB a.F.",
+      "nummer": "1908f"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§1",
+      "label": "§ 1 BtOG",
+      "nummer": "1"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§10",
+      "label": "§ 10 BtOG",
+      "nummer": "10"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§11",
+      "label": "§ 11 BtOG",
+      "nummer": "11"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§12",
+      "label": "§ 12 BtOG",
+      "nummer": "12"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§13",
+      "label": "§ 13 BtOG",
+      "nummer": "13"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§14",
+      "label": "§ 14 BtOG",
+      "nummer": "14"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§15",
+      "label": "§ 15 BtOG",
+      "nummer": "15"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§16",
+      "label": "§ 16 BtOG",
+      "nummer": "16"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§17",
+      "label": "§ 17 BtOG",
+      "nummer": "17"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§18",
+      "label": "§ 18 BtOG",
+      "nummer": "18"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§19",
+      "label": "§ 19 BtOG",
+      "nummer": "19"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§2",
+      "label": "§ 2 BtOG",
+      "nummer": "2"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§20",
+      "label": "§ 20 BtOG",
+      "nummer": "20"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§21",
+      "label": "§ 21 BtOG",
+      "nummer": "21"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§22",
+      "label": "§ 22 BtOG",
+      "nummer": "22"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§23",
+      "label": "§ 23 BtOG",
+      "nummer": "23"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§24",
+      "label": "§ 24 BtOG",
+      "nummer": "24"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§25",
+      "label": "§ 25 BtOG",
+      "nummer": "25"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§26",
+      "label": "§ 26 BtOG",
+      "nummer": "26"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§27",
+      "label": "§ 27 BtOG",
+      "nummer": "27"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§28",
+      "label": "§ 28 BtOG",
+      "nummer": "28"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§29",
+      "label": "§ 29 BtOG",
+      "nummer": "29"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§3",
+      "label": "§ 3 BtOG",
+      "nummer": "3"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§30",
+      "label": "§ 30 BtOG",
+      "nummer": "30"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§31",
+      "label": "§ 31 BtOG",
+      "nummer": "31"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§32",
+      "label": "§ 32 BtOG",
+      "nummer": "32"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§33",
+      "label": "§ 33 BtOG",
+      "nummer": "33"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§34",
+      "label": "§ 34 BtOG",
+      "nummer": "34"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§4",
+      "label": "§ 4 BtOG",
+      "nummer": "4"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§5",
+      "label": "§ 5 BtOG",
+      "nummer": "5"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§6",
+      "label": "§ 6 BtOG",
+      "nummer": "6"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§7",
+      "label": "§ 7 BtOG",
+      "nummer": "7"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§8",
+      "label": "§ 8 BtOG",
+      "nummer": "8"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§9",
+      "label": "§ 9 BtOG",
+      "nummer": "9"
+    }
+  ],
   "pageid": 2329,
   "revid": 65813,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Basisdaten\n Volltitel:  Betreuungsorganisationsgesetz\n Kurztitel:  Betreuungsorganisationsgesetz\n Abkürzung:  BtOG\n Art:  Bundesgesetz\n Geltungsbereich:  Bundesrepublik Deutschland\n Rechtsmaterie:  Betreuungsrecht, Verwaltungsrecht, Berufsrecht\n Fundstellennachweis:  404-33\n Datum des Gesetzes:   4.5.2021 (BGBl. I S. 882/917)\n Inkrafttreten:   01.01.2023\n Letzte Änderung:  Gesetz vom 24.6.2022\n(BGBl. I S. 954)\n Außerkrafttreten:"
     },
     {
+      "norms": [
+        "BGB§1908f@aF"
+      ],
       "path": [
         "Betreuungsorganisationsgesetz (BtOG)"
       ],
       "text": "Das Betreuungsorganisationsgesetz (BtOG) ist ein Teil der 2021 verabschiedeten und am 1.1.2023 in Kraft tretenden Betreuungsrechtsreform (dessen Artikel 9). Es ersetzt u.a. das bisherige Betreuungsbehördengesetz (BtBG).\n\nAllerdings geht das BtOG über das Betreuungsbehördengesetz hinaus. Es enthält neben den erweiterten Aufgaben der Betreuungsbehörde auch Bestimmungen über die Anerkennung, die Arbeit und Finanzierung der Betreuungsvereine (bisher in § 1908f BGB a.F.) und über den Status von rechtlichen Betreuern. Bei letzterem sind vor allem die Bestimmungen über die zum 1.1.2023 neu eingeführte Registrierung beruflicher Betreuer zu erwähnen.\n\nDas BtOG wird zu diesem Punkt durch eine Rechtsverordnung, die Betreuerregistrierungsverordnung (BtRegV) konkretisiert, die im Juli 2022 veröffentlicht wurde. Hier werden Einzelheiten der Registrierung, insbesondere des neuen Sachkundenachweises, geregelt."
     },
     {
+      "norms": [
+        "BtOG§1",
+        "BtOG§2",
+        "BtOG§3",
+        "BtOG§4"
+      ],
       "path": [
         "Gliederung",
         "Abschnitt 1 Betreuungsbehörde",
         "Titel 1 Allgemeine Vorschriften"
       ],
-      "text": "-Sachliche Zuständigkeit und Durchführung überörtlicher Aufgaben, {{Zitat de §|1|btog}}\n-Örtliche Zuständigkeit, {{Zitat de §|2|btog}}\n-Fachkräfte, {{Zitat de §|3|btog}}\n-Verarbeitung personenbezogener Daten durch die Behörde, {{Zitat de §|4|btog}}"
+      "text": "-Sachliche Zuständigkeit und Durchführung überörtlicher Aufgaben, § 1\n-Örtliche Zuständigkeit, § 2\n-Fachkräfte, § 3\n-Verarbeitung personenbezogener Daten durch die Behörde, § 4"
     },
     {
+      "norms": [
+        "BtOG§5",
+        "BtOG§6",
+        "BtOG§7",
+        "BtOG§8",
+        "BtOG§9",
+        "BtOG§10",
+        "BtOG§11",
+        "BtOG§12",
+        "BtOG§13"
+      ],
       "path": [
         "Gliederung",
         "Abschnitt 1 Betreuungsbehörde",
         "Titel 2 Aufgaben der örtlichen Behörde"
       ],
-      "text": "--Informations- und Beratungspflichten, {{Zitat de §|5|btog}}\n-Förderungsaufgaben, {{Zitat de §|6|btog}}\n-Öffentliche Beglaubigung; {{Zitat de §|7|btog}} Verordnungsermächtigung\n-Beratungs- und Unterstützungsangebot, Vermittlung geeigneter Hilfen und erweiterte Unterstützung, {{Zitat de §|8|btog}}\n-Mitteilungen an das Betreuungsgericht und die Stammbehörde, {{Zitat de §|9|btog}}\n-Mitteilung an Betreuungsvereine, {{Zitat de §|10|btog}}\n-Aufgaben im gerichtlichen Verfahren, {{Zitat de §|11|btog}}\n-Betreuervorschlag, {{Zitat de §|12|btog}}\n-Weitere Aufgaben, {{Zitat de §|13|btog}}"
+      "text": "--Informations- und Beratungspflichten, § 5\n-Förderungsaufgaben, § 6\n-Öffentliche Beglaubigung; § 7 Verordnungsermächtigung\n-Beratungs- und Unterstützungsangebot, Vermittlung geeigneter Hilfen und erweiterte Unterstützung, § 8\n-Mitteilungen an das Betreuungsgericht und die Stammbehörde, § 9\n-Mitteilung an Betreuungsvereine, § 10\n-Aufgaben im gerichtlichen Verfahren, § 11\n-Betreuervorschlag, § 12\n-Weitere Aufgaben, § 13"
     },
     {
+      "norms": [
+        "BtOG§14",
+        "BtOG§15",
+        "BtOG§16",
+        "BtOG§17",
+        "BtOG§18"
+      ],
       "path": [
         "Gliederung",
         "Abschnitt 2 Anerkannte Betreuungsvereine"
       ],
-      "text": "--Anerkennung, {{Zitat de §|14|btog}}\n-Aufgaben kraft Gesetzes, {{Zitat de §|15|btog}}\n-Aufgaben kraft gerichtlicher Bestellung, {{Zitat de §|16|btog}}\n-Finanzielle Ausstattung, {{Zitat de §|17|btog}}\n-Verarbeitung personenbezogener Daten durch den Verein, {{Zitat de §|18|btog}}"
+      "text": "--Anerkennung, § 14\n-Aufgaben kraft Gesetzes, § 15\n-Aufgaben kraft gerichtlicher Bestellung, § 16\n-Finanzielle Ausstattung, § 17\n-Verarbeitung personenbezogener Daten durch den Verein, § 18"
     },
     {
+      "norms": [
+        "BtOG§19",
+        "BtOG§20"
+      ],
       "path": [
         "Gliederung",
         "Abschnitt 3 Rechtliche Betreuer",
         "Titel 1 Allgemeine Vorschriften"
       ],
-      "text": "--Begriffsbestimmung, {{Zitat de §|19|btog}}\n-Verarbeitung personenbezogener Daten durch den Betreuer, {{Zitat de §|20|btog}}"
+      "text": "--Begriffsbestimmung, § 19\n-Verarbeitung personenbezogener Daten durch den Betreuer, § 20"
     },
     {
+      "norms": [
+        "BtOG§21",
+        "BtOG§22"
+      ],
       "path": [
         "Gliederung",
         "Abschnitt 3 Rechtliche Betreuer",
         "Titel 2 Ehrenamtliche Betreuer"
       ],
-      "text": "--Voraussetzung für eine ehrenamtliche Tätigkeit, {{Zitat de §|21|btog}}\n-Abschluss einer Vereinbarung über Begleitung und Unterstützung, {{Zitat de §|22|btog}}"
+      "text": "--Voraussetzung für eine ehrenamtliche Tätigkeit, § 21\n-Abschluss einer Vereinbarung über Begleitung und Unterstützung, § 22"
     },
     {
+      "norms": [
+        "BtOG§23",
+        "BtOG§24",
+        "BtOG§25",
+        "BtOG§26",
+        "BtOG§27",
+        "BtOG§28",
+        "BtOG§29",
+        "BtOG§30"
+      ],
       "path": [
         "Gliederung",
         "Abschnitt 3 Rechtliche Betreuer",
         "Titel 3 Berufliche Betreuer"
       ],
-      "text": "--Registrierungsvoraussetzungen; Verordnungsermächtigung, {{Zitat de §|23|btog}}\n-Registrierungsverfahren; Verordnungsermächtigung, {{Zitat de §|24|btog}}\n-Mitteilungs- und Nachweispflichten beruflicher Betreuer, {{Zitat de §|25|btog}}\n-Umgang mit den für die Registrierung relevanten Daten, {{Zitat de §|26|btog}}\n- Widerruf, Rücknahme und Löschung der Registrierung, {{Zitat de §|27|btog}}\n-Wechsel des Sitzes oder Wohnsitzes, {{Zitat de §|28|btog}}\n-Fortbildung, {{Zitat de §|29|btog}}\n-Leistungen an berufliche Betreuer, {{Zitat de §|30|btog}}"
+      "text": "--Registrierungsvoraussetzungen; Verordnungsermächtigung, § 23\n-Registrierungsverfahren; Verordnungsermächtigung, § 24\n-Mitteilungs- und Nachweispflichten beruflicher Betreuer, § 25\n-Umgang mit den für die Registrierung relevanten Daten, § 26\n- Widerruf, Rücknahme und Löschung der Registrierung, § 27\n-Wechsel des Sitzes oder Wohnsitzes, § 28\n-Fortbildung, § 29\n-Leistungen an berufliche Betreuer, § 30"
     },
     {
+      "norms": [
+        "BtOG§31"
+      ],
       "path": [
         "Gliederung",
         "Abschnitt 4 Offenbarungsbefugnisse für Geheimnisträger"
       ],
-      "text": "--Beratung und Übermittlung von Informationen durch Geheimnisträger bei Gefährdung von Betreuten, {{Zitat de §|31|btog}}"
+      "text": "--Beratung und Übermittlung von Informationen durch Geheimnisträger bei Gefährdung von Betreuten, § 31"
     },
     {
+      "norms": [
+        "BtOG§32",
+        "BtOG§33",
+        "BtOG§34"
+      ],
       "path": [
         "Gliederung",
         "Abschnitt 5 Übergangsvorschriften"
       ],
-      "text": "--Registrierung von bereits tätigen beruflichen Betreuern, {{Zitat de §|32|btog}}\n--Vorläufige Registrierung,\n-{{Zitat de §|33|btog}}\n-Übergangsvorschrift zur Beglaubigung, {{Zitat de §|34|btog}}"
+      "text": "--Registrierung von bereits tätigen beruflichen Betreuern, § 32\n--Vorläufige Registrierung,\n-§ 33\n-Übergangsvorschrift zur Beglaubigung, § 34"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "-Gesetzgebung in Deutschland\n-Rechtsprechung in Deutschland\n-BtOG - Volltext\n-Empfehlungen des Rechtsausschusses zur Reparaturnovelle, 18.5.2022 (PDF)\n-Synopse zum BtOG/BtBG inkl. „Reparaturnovelle“, zusammengestellt von Guy Walther, (PDF)\n-Orientierungshilfe Orgaaufwand und Stellenbedarf (Arbeitsgruppe Deutscher Verein, PDF)\n-Tabelle dazu (XLSX)\n-Elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht\n-Dokumentationspflicht\n-Was ist neu?\n-Datenschutz, IT-Sicherheit\n-Unterstützungspflicht\n-Pflicht zur Betreuungsübernahme?"
     },
     {
+      "norms": [],
       "path": [
         "Literatur zur Reform",
         "Bücher"
@@ -144,6 +482,9 @@
       "text": "-Bürkel/Plitzko: Das neue Betreuungsorganisationsgesetz, 2. Aufl Walhalla 2022\n-Deinert/Walther: Handbuch Betreuungsbehörde, 2023\n- Joecker: Das neue Betreuungsrecht, Reguvis, 2021\n-Mazur (Hrsg.): Textsynopse zum Gesetz zur Reform des Vormundschafts- und Betreuungsrechts, Beck 2022"
     },
     {
+      "norms": [
+        "BtOG§30"
+      ],
       "path": [
         "Literatur zur Reform",
         "Zeitschriftenbeiträge"

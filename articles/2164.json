@@ -41,16 +41,164 @@
     "vermögensverzeichnis",
     "zwangsvollstreckung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1601",
+      "label": "§ 1601 BGB",
+      "nummer": "1601"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1836c",
+      "label": "§ 1836c BGB",
+      "nummer": "1836c"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1879",
+      "label": "§ 1879 BGB",
+      "nummer": "1879"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1880",
+      "label": "§ 1880 BGB",
+      "nummer": "1880"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1881",
+      "label": "§ 1881 BGB",
+      "nummer": "1881"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2311",
+      "label": "§ 2311 BGB",
+      "nummer": "2311"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§277",
+      "label": "§ 277 FamFG",
+      "nummer": "277"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§292a",
+      "label": "§ 292a FamFG",
+      "nummer": "292a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB II",
+      "id": "SGBII§12",
+      "label": "§ 12 SGB II",
+      "nummer": "12"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IV",
+      "id": "SGBIV§16",
+      "label": "§ 16 SGB IV",
+      "nummer": "16"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XII",
+      "id": "SGBXII§102",
+      "label": "§ 102 SGB XII",
+      "nummer": "102"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XII",
+      "id": "SGBXII§85",
+      "label": "§ 85 SGB XII",
+      "nummer": "85"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XII",
+      "id": "SGBXII§90",
+      "label": "§ 90 SGB XII",
+      "nummer": "90"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XII",
+      "id": "SGBXII§94",
+      "label": "§ 94 SGB XII",
+      "nummer": "94"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§5",
+      "label": "§ 5 VBVG",
+      "nummer": "5"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§850",
+      "label": "§ 850 ZPO",
+      "nummer": "850"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§850c",
+      "label": "§ 850c ZPO",
+      "nummer": "850c"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§850k",
+      "label": "§ 850k ZPO",
+      "nummer": "850k"
+    }
+  ],
   "pageid": 2164,
   "revid": 66808,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Achtung: Artikel entspricht der Rechtslage ab 1.1.2024."
     },
     {
+      "norms": [],
       "path": [
         "Freibeträge und Freigrenzen im Betreuungs- und Unterhaltsrecht",
         "Allgemeines"
@@ -58,6 +206,12 @@
       "text": "Die Frage der Heranziehung zu den Kosten des Betreuers, des Verfahrenspflegers, des Gerichtes etc. ist an unterschiedlichen Stellen im Gesetz geregelt. Nachstehend eine Übersicht der jeweils aktuellen Freibeträge und -grenzen (Stand 1.1.2024)"
     },
     {
+      "norms": [
+        "BGB§1879",
+        "BGB§1880",
+        "BGB§1881",
+        "FamFG§277"
+      ],
       "path": [
         "Freibeträge und Freigrenzen im Betreuungs- und Unterhaltsrecht",
         "Betreuervergütung"
@@ -65,6 +219,7 @@
       "text": "Die Frage der Mittellosigkeit, also der Pflicht der Staatskasse, für Aufwendungsersatz und ggf. Betreuervergütung aufzukommen, ist in den §§ 1879 und 1880 BGB geregelt. Bezug genommen wird auf Bestimmungen des Sozialhilferechtes. Die gleichen Beträge gelten für den Staatsregress, also die Rückzahlungspflicht des Betreuten, wenn zunächst die Zahlungen an den Betreuer aus der Staatskasse verauslagt wurden, nun aber wegen späteren Vermögenserwerbs zurück gefordert werden (§ 1881 BGB). Ebenfalls gilt die Regelung für die Erstattung von Verfahrenspflegervergütungen (§ 277 FamFG), die stets aus der Staatskasse bezahlt werden."
     },
     {
+      "norms": [],
       "path": [
         "Freibeträge und Freigrenzen im Betreuungs- und Unterhaltsrecht",
         "Betreuervergütung",
@@ -73,6 +228,10 @@
       "text": "Die Heranziehung von laufenden Einkünften ist seit 1.1.2023 bei der Betreuervergütung entfallen."
     },
     {
+      "norms": [
+        "SGBXII§90",
+        "SGBII§12"
+      ],
       "path": [
         "Freibeträge und Freigrenzen im Betreuungs- und Unterhaltsrecht",
         "Betreuervergütung",
@@ -81,6 +240,13 @@
       "text": "Abgestellt wird auf die sozialhilferechtliche Definition des Vermögens; es muss verfügbar sein (§ 90 SGB XII). Einige in dieser  Bestimmung genannte Gegenstände gelten nicht als Vermögen. Insbesondere gehört auch ein angemessenes selbstbewohntes Hausgrundstück nicht zum Vermögen (soweit angemessen).\n\nBeim Barvermögen ist nach allgemeiner Auffassung die Schongrenze für die Hilfen nach dem 5.-9. Kapitel des SGB XII (die ehemaligen Hilfen in besonderen Lebenslagen) anzuwenden. Er gilt auch für die Grundsicherung bei Erwerbsgeminderten.\n\nDer Freibetrag macht seit 1.1.2023 die Summe von 10.000 Euro aus (§ 1 der Verordnung zu § 90 SGB XII). Er ist nach der Rechtsprechung auch dann anzuwenden, wenn für den Betroffenen im Sozialrecht persönlich ein anderer Freibetrag gilt (die höheren Freibeträge für ALG-2-Empfänger nach § 12 SGB II oder für Kriegsopfer/-hinterbliebene nach § 25f BVG gelten für die Betreuervergütung nicht). Die Beträge können im Einzelfall erhöht werden (§ 2 der VO zu § 90 SGB XII, § 90 Abs. 3 SGB XII).\n\nIn der Eingliederungshilfe gilt ein erheblich höherer Vermögensfreibetrag (derzeit ca 62.000 €). Gilt dieser auch für die Betreuervergütung?\n\nDie Frage ist Anfang 2019 vom BGH im Rahmen von Rechtsbeschwerde entschieden worden Az. XII ZB 290/18, XII ZB 291/18, XII ZB 451/18, XII ZB 42/19 und XII ZB 73/19. Hiernach ist bei der Betreuervergütung der erhöhte Schonbetrag NICHT anzuwenden."
     },
     {
+      "norms": [
+        "BGB§1881",
+        "FamFG§292a",
+        "SGBXII§102",
+        "SGBXII§85",
+        "BGB§2311"
+      ],
       "path": [
         "Freibeträge und Freigrenzen im Betreuungs- und Unterhaltsrecht",
         "Betreuervergütung",
@@ -89,6 +255,9 @@
       "text": "Die Heranziehung des Erben nach dem Tod des Betreuten richtet sich nach § 1881 BGB (Verfahrensvorschrift § 292a FamFG). Die Bestimmung wird von der Rspr. auch angewendet, wenn es nicht um den Staatsregress, sondern um die direkte Bewilligung einer Betreuervergütung gegen den Erben geht.\n\nDer Freibetrag macht nach § 102 Abs. 1 SGB XII das 3fache des Grundfreibetrags nach § 85 SGB XII, also das 6 fache des Eckregelsatzes aus. Der Freibetrag macht 2024 eine Summe von 3.378 Euro aus.\n\nDieser Freibetrag bezieht sich auf den Aktivnachlass, von dem zunächst die Nachlassverbindlichkeiten (§ 2311 BGB) incl. der Bestattungskosten abzuziehen sind.\n\nWar der Erbe jedoch zu Lebzeiten des Erblassers pflegender Angehöriger, macht der Freibetrag 15.340 Euro aus."
     },
     {
+      "norms": [
+        "SGBXII§90"
+      ],
       "path": [
         "Freibeträge und Freigrenzen im Betreuungs- und Unterhaltsrecht",
         "Gerichtskosten"
@@ -96,6 +265,11 @@
       "text": "Die Kosten des Betreuungsgerichts einschl. Auslagen (z.B für Sachverständigengutachten) werden nach dem GNotKG in Rechnung gestellt. Siehe zur Berechnung den Artikel Gerichtskosten.\n\nHier wird nur das Vermögen des Betreuten in Anspruch genommen. Es gibt einen Freibetrag, der seit dem 1.6.2025 von bisher 25.000 auf den auch in der Betreuervergütung geltenden Freibetrag von 10.000 € herabgesetzt wurde. Die Verschonungsregelungen des § 90 Abs. 2 und 3 SGB XII sind nun anwendbar.\n\nFür den Ersatz der Verfahrenspflegervergütung, die auch Teil der Auslagen des Gerichtes ist, gelten nun die gleichen Freibeträge."
     },
     {
+      "norms": [
+        "SGBIV§16",
+        "SGBXII§94",
+        "BGB§1601"
+      ],
       "path": [
         "Freibeträge und Freigrenzen im Betreuungs- und Unterhaltsrecht",
         "Freibetrag zum Vorteil unterhaltspflichtiger Kinder mit geringem bis normalem Einkommen"
@@ -103,18 +277,28 @@
       "text": "Seit der Rechtskraft des deutschen Angehörigen-Entlastungsgesetzes zum 01.01.2020 beträgt der Freibetrag für Kinder, deren Eltern Sozialhilfe erhalten, genau 100.000,00 Euro (= Jahreseinkommensgrenze) bezogen auf ihr jährliches Gesamteinkommen im Sinne des § 16 SGB IV. Erst wenn das Jahresgesamteinkommen eines unterhaltspflichtigen Kindes offensichtlich mehr als 100.000,00 Euro beträgt, kann der Träger der Sozialhilfe gemäß § 94 Abs. 1a SGB XII eine Einkommensauskunft verlangen und dann ggf. den Unterhaltsanspruch gemäß den §§ 1601 ff. BGB vom Familiengericht auf sich übertragen lassen. So kann bzw. soll das zuständige Sozialamt stellvertretend für die armen Eltern den (anteiligen) Elternunterhalt bei Sozialhilfebezug von deren Kind(ern) eintreiben."
     },
     {
+      "norms": [
+        "ZPO§850c",
+        "ZPO§850",
+        "ZPO§850k"
+      ],
       "path": [
         "Pfändungsfreigrenzen"
       ],
       "text": "Um den lohnarbeitenden Menschen, die überschuldet sind, ihr Existenzminimum in Deutschland zum Leben zu sichern, werden in § 850c ZPO die gesetzlichen Pfändungsfreigrenzen für Arbeitseinkommen definiert. Arbeitseinkommen, das in Euro/Geld zahlbar ist und unter dieser Freigrenze liegt, ist somit unpfändbar. Gemäß § 850 Abs. 2 ZPO gehören zum Arbeitseinkommen: Dienst- und Versorgungsbezüge der Beamten, Arbeitslöhne, Dienstlöhne, Ruhegelder, Hinterbliebenenbezüge, sonstige Vergütungen für Dienstleistungen aller Art u.a. Das Geld sollte auf ein Pfändungsschutzkonto (siehe: § 850k ZPO) des Empfängers überwiesen werden."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Regress der Staatskasse, Auskunftspflicht, Unterstützungspflicht\n- Verfahrenspfleger, Besonderer Vertreter im Verwaltungsverfahren, Gerichtskosten, Zwangsvollstreckung\n- Mittellosigkeit, Gemeinwohlorientierung, Altenheim, Rente, Persönliches Budget\n- Rundfunkbeitrag\n- Bestattungsvertrag, Personenstand\n- Erbschaft, Vermögensverzeichnis\n- Aufwandspauschale, Aufwendungsersatz, Ermessensvergütung, Betreuervergütung"
     },
     {
+      "norms": [
+        "VBVG§5",
+        "BGB§1836c"
+      ],
       "path": [
         "Siehe auch",
         "Literatur"

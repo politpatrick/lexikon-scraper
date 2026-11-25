@@ -34,22 +34,83 @@
     "verpflichtungsgespräch",
     "vulnerabilität"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1785",
+      "label": "§ 1785 BGB",
+      "nummer": "1785"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1819",
+      "label": "§ 1819 BGB",
+      "nummer": "1819"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§19",
+      "label": "§ 19 BtOG",
+      "nummer": "19"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.33",
+      "label": "Art. 33 GG",
+      "nummer": "33"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.5",
+      "label": "Art. 5 GG",
+      "nummer": "5"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.6",
+      "label": "Art. 6 GG",
+      "nummer": "6"
+    }
+  ],
   "pageid": 1604,
   "revid": 66382,
   "sections": [
     {
+      "norms": [
+        "BGB§1819",
+        "BtOG§19",
+        "BGB§1785"
+      ],
       "path": [
         "Die Verpflichtung zur Übernahme eines Betreueramtes"
       ],
-      "text": "Die rechtliche Betreuung ist (wie früher die Vormundschaft und Pflegschaft) für Angehörige oder Freunde ein grundsätzlich unentgeltliches Ehrenamt (§ 19 Abs. 1 BtOG). Lediglich Aufwendungsersatz wird geleistet, wahlweise auch in pauschalierter Form. Daher sollen in erster Linie Einzelpersonen ehrenamtlich die Betreuungen übernehmen. Ehrenamtliche Betreuer haben verschiedene Ansprüche, die aus dem Ehrenamt erwachsen, gegenüber der betreuten Person bzw. dem Staat, siehe unten.\n\nJede Bürgerin und jeder Bürger ist moralisch verpflichtet, eine Betreuung zu übernehmen, wenn sie zur persönlichen Betreuung der betroffenen Person geeignet ist und die Übernahme zugemutet werden kann ({{Zitat de §|1819|bgb}} Abs. I BGB ). Hierzu werden sonstige, insbesondere familiäre und gesundheitliche Belastungen (siehe: Vulnerabilität) berücksichtigt.\n\nZur Bestellung als Betreuer ist dennoch eine Einverständniserklärung des zu Bestellenden nötig (§ 1819 Abs. 2 BGB). Es kann niemand zur Abgabe dieser Einverständniserklärung gezwungen werden.\n\nDie gleichen Regeln gelten auch bei der Bestellung als Vormund für Minderjährige, § 1785 BGB."
+      "text": "Die rechtliche Betreuung ist (wie früher die Vormundschaft und Pflegschaft) für Angehörige oder Freunde ein grundsätzlich unentgeltliches Ehrenamt (§ 19 Abs. 1 BtOG). Lediglich Aufwendungsersatz wird geleistet, wahlweise auch in pauschalierter Form. Daher sollen in erster Linie Einzelpersonen ehrenamtlich die Betreuungen übernehmen. Ehrenamtliche Betreuer haben verschiedene Ansprüche, die aus dem Ehrenamt erwachsen, gegenüber der betreuten Person bzw. dem Staat, siehe unten.\n\nJede Bürgerin und jeder Bürger ist moralisch verpflichtet, eine Betreuung zu übernehmen, wenn sie zur persönlichen Betreuung der betroffenen Person geeignet ist und die Übernahme zugemutet werden kann (§ 1819 Abs. I BGB ). Hierzu werden sonstige, insbesondere familiäre und gesundheitliche Belastungen (siehe: Vulnerabilität) berücksichtigt.\n\nZur Bestellung als Betreuer ist dennoch eine Einverständniserklärung des zu Bestellenden nötig (§ 1819 Abs. 2 BGB). Es kann niemand zur Abgabe dieser Einverständniserklärung gezwungen werden.\n\nDie gleichen Regeln gelten auch bei der Bestellung als Vormund für Minderjährige, § 1785 BGB."
     },
     {
+      "norms": [
+        "GGArt.5",
+        "GGArt.6",
+        "GGArt.33"
+      ],
       "path": [
         "Grundpflichten in Deutschland"
       ],
       "text": "Im Grundgesetz der Bundesrepublik Deutschland sind nur sehr wenige Grundpflichten für alle Staatsbürgerinnen und Staatsbürger normiert. So ist die Verfassungstreue für Inhaber des (wissenschaftlichen) Lehramtes in Art. 5 Abs. 3 GG genannt und die Pflicht für Eltern zur Pflege und Erziehung der Kinder steht in Art. 6 Abs. 2 GG. Diese ursprünglich natürliche Grundpflicht endet – auch bei Kindern mit Behinderung – dank der Betreuungsrechtsreform in Deutschland mit der Volljährigkeit der Kinder. Gegebenenfalls geht diese Verpflichtung bei wohlhabenden Familien in eine Unterhaltspflicht über. Weitergehende Verpflichtungen für Angehörige in Deutschland sind moralischer, nicht rechtlicher Natur.\n\nEine gelingende Demokratie setzt jedoch voraus (= notwendige Bedingung), dass möglichst viele Menschen aus eigener Verantwortung und freiwillig ihren gelernten und erkannten Pflichten gegenüber der Gemeinschaft nachkommen. Gemäß Art. 33 Abs. 1 GG haben alle Deutschen die gleichen staatsbürgerlichen Rechte und Pflichten."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

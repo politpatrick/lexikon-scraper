@@ -46,22 +46,37 @@
     "wohnungsangelegenheiten",
     "zwangsvollstreckung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§22",
+      "label": "§ 22 BtOG",
+      "nummer": "22"
+    }
+  ],
   "pageid": 39252,
   "revid": 65770,
   "sections": [
     {
+      "norms": [
+        "BtOG§22"
+      ],
       "path": [
         "Einleitung"
       ],
-      "text": "Die in {{Zitat de §|22|btog}} BtOG gesetzlich angeregte Kooperationsvereinbarung zwischen ehrenamtlichen Rechtsbetreuern und ihren Betreuungsvereinen soll folgende Angebote und Forderungen der Hauptamtlichen an ihre freiwilligen Ehrenamtlichen enthalten:\n\n-Einführung und laufende Fortbildungen über die Rechtsgrundlagen und Rechtspraxis der Betreuungsführung in Deutschland\n\n-Unterstützung und Begleitung des/der Ehrenamtlichen in Absprache mit dem zuständigen Betreuungsgericht und der zuständigen Betreuungsbehörde\n\n-Zuweisung eines konkreten persönlichen Ansprechpartners im Betreuungsverein für die Ehrenamtlichen\n\n-Bereitschaft zur Übernahme einer Verhinderungsbetreuung durch den Betreuungsverein bei vorübergehendem Ausfall des/der Ehrenamtlichen\n\n-Einverständniserklärung des/der Ehrenamtlichen zur Speicherung und Verarbeitung der persönlichen Daten durch den Betreuungsverein und Hinweis auf das Widerrufsrecht\n\n-Einverständniserklärung des/der Ehrenamtlichen zu den Auszügen aus dem Bundeszentralregister (Führungszeugnis) und dem Schuldnerverzeichnis des Zentralen Vollstreckungsgerichts durch die Betreuungsbehörde\n\n-Verschwiegenheitsverpflichtung des ehrenamtlichen Rechtsbetreuers gegenüber Dritten bezüglich der persönlichen Daten der Betreuten\n\n-Anzeigeverpflichtung des ehrenamtlichen Rechtsbetreuers gegenüber dem Betreuungsverein bezüglich eines eingeleiteten Strafverfahrens gegen sich oder bezüglich einer staatlichen Aufforderung zur Abgabe der Vermögensauskunft\n\n-Persönliche Wünsche des/der Ehrenamtlichen bezüglich der möglichen Betreuungsübernahmen hinsichtlich individueller Faktoren wie Geschlecht (= männlich, weiblich, divers), Alter, Nationalität, Krankheitsbild, Vermögenslage, Wohnsituation, Wohnort"
+      "text": "Die in § 22 BtOG gesetzlich angeregte Kooperationsvereinbarung zwischen ehrenamtlichen Rechtsbetreuern und ihren Betreuungsvereinen soll folgende Angebote und Forderungen der Hauptamtlichen an ihre freiwilligen Ehrenamtlichen enthalten:\n\n-Einführung und laufende Fortbildungen über die Rechtsgrundlagen und Rechtspraxis der Betreuungsführung in Deutschland\n\n-Unterstützung und Begleitung des/der Ehrenamtlichen in Absprache mit dem zuständigen Betreuungsgericht und der zuständigen Betreuungsbehörde\n\n-Zuweisung eines konkreten persönlichen Ansprechpartners im Betreuungsverein für die Ehrenamtlichen\n\n-Bereitschaft zur Übernahme einer Verhinderungsbetreuung durch den Betreuungsverein bei vorübergehendem Ausfall des/der Ehrenamtlichen\n\n-Einverständniserklärung des/der Ehrenamtlichen zur Speicherung und Verarbeitung der persönlichen Daten durch den Betreuungsverein und Hinweis auf das Widerrufsrecht\n\n-Einverständniserklärung des/der Ehrenamtlichen zu den Auszügen aus dem Bundeszentralregister (Führungszeugnis) und dem Schuldnerverzeichnis des Zentralen Vollstreckungsgerichts durch die Betreuungsbehörde\n\n-Verschwiegenheitsverpflichtung des ehrenamtlichen Rechtsbetreuers gegenüber Dritten bezüglich der persönlichen Daten der Betreuten\n\n-Anzeigeverpflichtung des ehrenamtlichen Rechtsbetreuers gegenüber dem Betreuungsverein bezüglich eines eingeleiteten Strafverfahrens gegen sich oder bezüglich einer staatlichen Aufforderung zur Abgabe der Vermögensauskunft\n\n-Persönliche Wünsche des/der Ehrenamtlichen bezüglich der möglichen Betreuungsübernahmen hinsichtlich individueller Faktoren wie Geschlecht (= männlich, weiblich, divers), Alter, Nationalität, Krankheitsbild, Vermögenslage, Wohnsituation, Wohnort"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],
       "text": "-Mustervereinbarung Ehrenamtler - Betreuungsverein (PDF)"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

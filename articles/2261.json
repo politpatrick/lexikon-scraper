@@ -46,106 +46,281 @@
     "wohn--und-betreuungsvertragsgesetz",
     "wohnungsangelegenheiten"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1850",
+      "label": "§ 1850 BGB",
+      "nummer": "1850"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1858",
+      "label": "§ 1858 BGB",
+      "nummer": "1858"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1901",
+      "label": "§ 1901 BGB",
+      "nummer": "1901"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§311b",
+      "label": "§ 311b BGB",
+      "nummer": "311b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§873",
+      "label": "§ 873 BGB",
+      "nummer": "873"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§892",
+      "label": "§ 892 BGB",
+      "nummer": "892"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§902",
+      "label": "§ 902 BGB",
+      "nummer": "902"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§985",
+      "label": "§ 985 BGB",
+      "nummer": "985"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§987",
+      "label": "§ 987 BGB",
+      "nummer": "987"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FGG",
+      "id": "FGG§67",
+      "label": "§ 67 FGG",
+      "nummer": "67"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§276",
+      "label": "§ 276 FamFG",
+      "nummer": "276"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§40",
+      "label": "§ 40 FamFG",
+      "nummer": "40"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GBO",
+      "id": "GBO§29",
+      "label": "§ 29 GBO",
+      "nummer": "29"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GBO",
+      "id": "GBO§3",
+      "label": "§ 3 GBO",
+      "nummer": "3"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GNotKG",
+      "id": "GNotKG§60",
+      "label": "§ 60 GNotKG",
+      "nummer": "60"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XII",
+      "id": "SGBXII§90",
+      "label": "§ 90 SGB XII",
+      "nummer": "90"
+    }
+  ],
   "pageid": 2261,
   "revid": 66644,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Artikel entspricht der Rechtslage ab 2023."
     },
     {
+      "norms": [],
       "path": [
         "Definition"
       ],
       "text": "Bei Immobilien geht es um (bebaute oder unbebaute) Grundstücke und Rechte an Ihnen (z.B. Wohneigentum, Erbbaurechts, Nießbrauch), soweit sie dinglich, also im Grundbuch/Grundregister eingetragen sind. Für eingetragene Schiffe (Schiffsregister) werden die meisten Regelungen analog angewendet."
     },
     {
+      "norms": [],
       "path": [
         "Verwaltung von Haus- und Grundeigentum durch Betreuer"
       ],
       "text": "Die Verwaltung von Häusern, Eigentumswohnungen und Grundstücken im Eigentum des Betreuten gehört  zum Aufgabenbereich Vermögenssorge. Auch hier erfolgt bisweilen seitens des Betreuungsgerichtes eine separate Festlegung des Aufgabenkreises."
     },
     {
+      "norms": [],
       "path": [
         "Bezahlen von Grundstückslasten"
       ],
       "text": "Soweit die Haus- und Grundverwaltung zu den Betreueraufgaben gehört, zählt sowohl die Bezahlung öffentlicher Abgaben (Grundsteuer, Grunderwerbsteuer, Abwasserentgelte, Straßenreinigungsgebühren usw.) zu den Pflichten als auch die Instandhaltung des Grundeigentums sowie die öffentlich-rechtliche Verkehrssicherungspflicht (z.B. Streupflicht im Winter) dazu."
     },
     {
+      "norms": [
+        "BGB§1850"
+      ],
       "path": [
         "Grundverkäufe"
       ],
       "text": "Auch kann der Betreuer Grundeigentum erwerben und verkaufen sowie beleihen (Hypotheken, Grundschulden usw.). Hierzu benötigt er im Regelfall die Genehmigung des Betreuungsgerichtes (§ 1850 BGB)."
     },
     {
+      "norms": [],
       "path": [
         "Zusätzliche Pauschale"
       ],
       "text": "Berufsbetreuern stand bis 31.12.2025, sofern keine Mittellosigkeit vorlag, eine zusätzliche mtl. Pauschale von 30 € zu (§ 10 Abs. 1 Nr 2 VBVG), soweit nicht vom Betreuten bewohnter Wohnraum vorhanden war.\nDiese Regelung ist zum 1.1.26 wieder aus dem VBVG gestrichen worden."
     },
     {
+      "norms": [
+        "BGB§985",
+        "BGB§987",
+        "BGB§1901",
+        "FGG§67",
+        "FamFG§276",
+        "GBO§29",
+        "GNotKG§60"
+      ],
       "path": [
         "Rechtsprechung"
       ],
       "text": "OLG Frankfurt/Main, Beschluss vom 14.11.1996, 20 W 391/96; DNotZ 1998, 508 = FamRZ 1997, 1424 = Rpfleger 1997, 111: Grundstücksveräußerung durch Betreuer:\n\nVeräußert der Betreuer mit dem Aufgabenkreis der Vermögenssorge kraft  der ihm gesetzlich zustehenden Vertretungsmacht ein Grundstück des Betreuten, so bedarf es auch dann der gerichtlichen  Genehmigung, wenn der Betreute die Veräußerung genehmigt hat.\n\nOLG Schleswig, Beschluss vom 13.06.2001; 2 W 7/01; MDR 2001, 1299 = FGPrax 2001, 184 = NZM 2002, 302 (Ls.)= ZMR 2001, 855\n\nKeine Genehmigung der Vermietung eines Wohnhauses gegen den Willen des Betreuten, wenn er eine Vermietung nicht wünscht und nach seinen Verhältnissen auf Mieteinnahmen nicht angewiesen ist. Dies gilt auch, wenn der Betreute geschäftsunfähig ist und sein Standpunkt objektiv unvernünftig erscheint.\n\nOLG Hamm, Beschluss vom 07.07.2005, 15 W 481/04; FamRZ 2006, 506: Grundstückskauf bei Heimunterbringung?\n\nNur dann, wenn der Empfänger der Sozialleistung konkret mit dem Bau oder Erwerb eines Eigenheims befasst ist, ist\nein Geldbetrag zur baldigen Beschaffung eines Hausgrundstücks bestimmt. Lebt der Betreute jedoch nach langjähriger Heimunterbringung weiterhin in einer betreuten Wohngruppe, ohne konkrete Schritte hinsichtlich des Erwerbs einer Eigentumswohnung unternommen zu haben, kann derartige Annahme über den Verwendungszweck des Geldbetrages nicht getroffen werden.\n\nBGH, Urteil vom 30.04.2008; XII ZR 110/06; NJW 2008, 2333 = MDR 2008, 1162 = IMR 2008, 315:\n\nMitbesitzberechtigung am Haus des nichtehelichen Partners einer Betreuten entfällt mit Umzug in ein Pflegeheim\n\nWird für den Partner einer nichtehelichen Lebensgemeinschaft ein Dritter zum Betreuer mit den Aufgabenkreisen Vermögenssorge und Wohnungsangelegenheiten bestellt und für diese Bereiche ein Einwilligungsvorbehalt angeordnet, so kann der Betreuer, wenn der Betreute in ein Pflegeheim umzieht, von dem anderen Partner gemäß § 985 BGB die Herausgabe der im Alleineigentum des Betreuten stehenden und bis dahin gemeinsam genutzten Wohnung verlangen. Dies gilt dann nicht, wenn die Partner generell oder für diesen Fall eine anderweitige und auch den Betreuer bindende rechtliche Regelung (etwa durch Einräumung eines Wohnrechts) getroffen haben. Vom Zeitpunkt des Umzugs des Betreuten und dem Herausgabeverlangen seines Betreuers an ist der in dem Haus verbliebene Partner gemäß § 987 BGB zur Zahlung einer Nutzungsentschädigung verpflichtet.\n\nOLG München, Beschluss vom 15.06.2009, 33 Wx 079/09:\n\n- Wird die gerichtliche Genehmigung eines vom Betreuer abgeschlossenen Kaufvertrages über ein Grundstück des Betroffenen abgelehnt, steht dem Käufer regelmäßig kein Beschwerderecht zu (vgl. z. B. BayObLG Rpfleger 1988, 482; OLG Rostock NJW-RR 2006, 1229).\n- Der Geschäftswert für das gerichtliche Verfahren über die Genehmigung kann nach freiem Ermessen mit 50 % des Kaufpreises angesetzt werden.\n\nBGH, Urteil vom 22.07.2009, XII ZR 77/06: Grundstücksverkauf auf ausdrücklichen Wunsch des Betreuten:\n\nEin Wunsch des Betreuten läuft nicht bereits dann im Sinne des § 1901 Abs. 3 Satz 1 BGB dessen Wohl zuwider, wenn er dem objektiven Interesse des Betreuten widerspricht. Vielmehr ist ein Wunsch des Betreuten im Grundsatz beachtlich, sofern dessen Erfüllung nicht höherrangige Rechtsgüter des Betreuten gefährden oder seine gesamte Leben- und Versorgungssituation erheblich verschlechtern würde. Allerdings gilt der Vorrang des Willens des Betreuten nur für solche Wünsche, die Ausfluss des Selbstbestimmungsrechts des Betreuten sind und sich nicht nur als bloße Zweckmäßigkeitserwägungen darstellen. Beachtlich sind weiter nur solche Wünsche, die nicht Ausdruck der Erkrankung des Betreuten sind und auf der Grundlage ausreichender Tatsachenkenntnis gefasst wurden.\n\nEs gehört jedenfalls dann nicht zu den Aufgaben des Verfahrenspflegers gemäß § 67 FGG (ab 1.9.2009 § 276 FamFG), die objektiven Interessen des Betreuten zu ermitteln, wenn für den Betroffenen bereits ein Betreuer bestellt ist und dessen Aufgabenkreis den jeweiligen Verfahrensgegenstand umfasst. Der Verfahrenspfleger hat hier in erster Linie die Pflicht, den Verfahrensgarantien, insbesondere dem Anspruch des Betreuten auf rechtliches Gehör, Geltung zu verschaffen. Außerdem hat er den tatsächlichen oder mutmaßlichen Willen des Betreuten zu erkunden und in das Verfahren einzubringen.\n\nOLG Jena, Beschluss vom 22.12.2014, 3 W 450/14:\n\nDie Vorlage der Genehmigung durch den von der genehmigten Willenserklärung begünstigten Empfänger beim Grundbuchamt macht mithin den Nachweis der Übermittlung durch den Betreuer an ihn in der Form des § 29 Abs. 1 GBO nur dann entbehrlich, wenn dem Grundbuchamt aufgrund aktenkundiger Tatsachen – z.B. aus der Betreuungsakte desselben Amtsgerichts – bekannt ist, dass es sich bei der ihm vom Erklärungsempfänger vorgelegten Ausfertigung der Genehmigung um diejenige handelt, die das Betreuungsgericht dem Betreuer übermittelt hat.\n\nKG Berlin Beschl v  6.9.2018 - 1 W 88/18; FGPrax 2018, 248 = MDR 2018, 1370 = NZM 2018, 959:\n\nDer einem Betreuer – allein – übertragene Aufgabenkreis “Veräußerung der Eigentumswohnung” kann diesen berechtigen, einen Erwerber zu bevollmächtigen, schon vor Eigentumsumschreibung das Wohnungseigentum mit einer ausschließlich der Finanzierung des Kaufpreises dienenden Grundschuld zu belasten.\n\nOLG Brandenburg, Beschluss vom 28.03.2023 – 3 W 17/23, FGPrax 2023, 123\n\nGrenzen der Genehmigungsfähigkeit des Immobilienverkaufs durch Nachlasspfleger.\n\nOLG Frankfurt/Main, Beschl v 02.10.2023,\n20 W 158/23\n\nGegenstandswert von betreuungsrechtlichen Beschwerdeverfahren\n- In einem Beschwerdeverfahren betreffend die betreuungsgerichtliche Genehmigung eines notariellen Kaufvertrags ist § 60 GNotKG einschlägig.\n\nBGH, Beschluss vom 28. August 2024 – XII ZR 62/22 –, Rn. 19, juris)'''\n\nDer Betreuer ist dem Betreuten für den aus einer Pflichtverletzung entstehenden Schaden verantwortlich, wenn ihm ein Verschulden zu Last fällt. Veräußert der Betreuer eine Immobilie des Betreuten, ist er schon wegen der typischerweise besonders hohen wirtschaftlichen Bedeutung dieses Geschäfts zu einer sorgfältigen Ermittlung des Werts dieser Immobilie verpflichtet, um diese im objektiven Interesse des Betreuten bestmöglich verwerten zu können (vgl. Senatsurteil BGHZ 182, 116 = NJW 2009, 2814 Rn. 32 f.).\n\nDas wird in der Regel die Beauftragung eines Verkehrswertgutachtens gebieten, wenn nicht der Betreuer ausnahmsweise selbst über die erforderliche Sachkunde verfügt oder im Einzelfall beispielsweise wegen einer besonderen Eilbedürftigkeit des Verkaufs im Einzelfall die Einholung der Markteinschätzung eines Immobilienmaklers über den kurzfristig zu erlösenden Kaufpreis sachgerecht erscheint. Unabhängig davon ist der Betreuer vor dem Verkauf des Grundstücks zu einer kritischen Würdigung der Wertermittlung verpflichtet (vgl. auch BGH Urteil vom 5. Mai 1983 - III ZR 57/82 - FamRZ 1983, 1220 zur Haftung des Amtsvormunds)."
     },
     {
+      "norms": [],
       "path": [
         "Bewertung"
       ],
       "text": "Die Ermittlung des Wertes einer Immobilie ist in Deutschland in der Verordnung über die Grundsätze für die Ermittlung der Verkehrswerte von Grundstücken (Immobilienwertermittlungsverordnung – ImmoWertV) geregelt. Sie ist eine Verordnung auf der Grundlage des § 194 Baugesetzbuch. Folgende Verfahren zur Ermittlung von Immobilienwerten werden darin beschrieben:\n- Vergleichswertverfahren\n- Ertragswertverfahren\n- Sachwertverfahren\n\nDiese Verfahren sind für amtlich zugelassene Sachverständige bindend."
     },
     {
+      "norms": [
+        "SGBXII§90"
+      ],
       "path": [
         "Sozialrechtlicher Schutz"
       ],
       "text": "Nicht als Vermögen im Sozialhilferecht (sowie bei Grundsicherung und bei der Betreuervergütung) gelten selbstbewohnte angemessene Hausgrundstücke (§ 90 Abs. 2 Nr. 8 SGB XII). Hierbei kommt es auf die Grundstücks- und Wohnungsgröße an.\n\nAls angemessen im Rahmen selbstbewohnten Wohnraums gelten Eigentumswohnungen bis 120 m² und Häuser bis 130 m² Wohnfläche für einen Vier-Personen-Haushalt. Leben in einem Haushalt mehr oder weniger Personen, sind im Regelfall pro Person 20 m² abzuziehen bzw. hinzuzurechnen. Für Ein-Personen-Haushalte gelten die Untergrenzen von 80 m² in Eigentumswohnungen und 90 m² in Häusern. Zu berücksichtigen sind ebenfalls Grundstücke, die in städtischen Gebieten 500 m² und im ländlichen Bereich 800 m² in der Regel nicht überschreiten dürfen (BSG, B 7b AS 2/05 R). Im Einzelfall kann auch eine größere Wohnung angemessen sein, etwa wenn Teile der Wohnung gewerblich genutzt werden (BSG, B 14 AS 58/13 R<). Grundsätzlich ist bei der Größe des Haushalts nur die Bedarfsgemeinschaft zu berücksichtigen, andere Bewohner der Wohnung spielen keine Rolle. Ausnahmen können etwa bei der Aufnahme von Pflegekindern in den Haushalt gelten (BSG B 7b AS 12/06 R). Ein zunächst als angemessen geltendes Wohneigentum kann später wieder unangemessen werden, etwa durch Auszug der Kinder (BSG, B 4 AS 4/16 R)."
     },
     {
+      "norms": [
+        "BGB§311b",
+        "BGB§1850",
+        "BGB§1858",
+        "FamFG§40"
+      ],
       "path": [
         "Grundstückskaufvertrag"
       ],
       "text": "Der Grundstückskaufvertrag muss notariell beurkundet werden (§ 311b BGB). Der Betreuer benötigt dazu die betreuungsgerichtliche Genehmigung (§ 1850 BGB). Meist wird diese vom Notar im Auftrag des Betreuers bei Gericht beantragt. In der Regel wird dafür der bereits formulierte Kaufvertrag vorgelegt, es erfolgt eine nachträgliche Genehmigung (§ 1858 BGB). Der Betreuer sollte die Frage aber zuvor mit dem Gericht (Rechtspfleger) besprochen haben, damit es im eigentlichen formalen Genehmigungsverfahren nicht zu Problemen kommt. Das Gericht erwartet regelmäßig ein Wertgutachten für das Grundstück (siehe oben).\n\nDer rechtskräftig gewordene Genehmigungsbeschluss (§ 40 Abs. 2 FamFG) muss auch dem Grundbuchamt (Abteilung des Amtsgerichtes) übersandt werden, damit dieses die Eintragung im Grundbuch vornehmen kann, durch den der Eigentumswechsel erst eintritt."
     },
     {
+      "norms": [
+        "GBO§3",
+        "BGB§873",
+        "BGB§902"
+      ],
       "path": [
         "Grundstücke in Deutschland und ihre Grundbuchblätter"
       ],
       "text": "Die Grundstücke in Deutschland, die im Eigentum des Bundes, der Länder, der Gemeinden und anderer Kommunalverbände, der Kirchen, Klöster und Schulen stehen, die Wasserläufe, die öffentlichen Wege sowie die Grundstücke, die einem dem öffentlichen Verkehr dienenden Bahnunternehmen gewidmet sind, erhalten ein Grundbuchblatt nur auf Antrag des Eigentümers oder eines Berechtigten (§ 3 Abs. 2 GBO). Die existierenden (digitalisierten) Grundbuchblätter von Deutschland sind für die jeweiligen Grundstücke als das Grundbuch im Sinne des BGB anzusehen (siehe § 873 BGB bis § 902 BGB). Verkäufliche und unverkäufliche deutsche Grundstücke sind somit rechtsklar abgegrenzte Teile der Erdoberfläche, die im Bestandsverzeichnis eines amtlich geführten Grundbuchblattes als selbstständig und unter einer besonderen Bezeichnung und Nummer geführt werden."
     },
     {
+      "norms": [
+        "BGB§873",
+        "BGB§892"
+      ],
       "path": [
         "sichere Immobiliengeschäfte"
       ],
       "text": "Die Einsicht in ein deutsches Grundbuch ist jedem gestattet, der ein berechtigtes Interesse, z.B. ein Kaufinteresse, darlegen kann. Seitdem die deutschen Grundbücher elektronisch geführt werden, gibt es dazu sogenannte Grundbucheinsichtsstellen. Zur Übertragung des Eigentums an einem Grundstück sind gemäß § 873 Abs. 1 BGB sowohl Einigung des Berechtigten und des Käufers über den Eintritt der Rechtsänderung (= schuldrechtliches Geschäft) als auch die Eintragung dieser Rechtsänderung in das Grundbuch erforderlich (= dingliches Geschäft). Die Trennung dieser beiden Rechtsvorgänge wird im (europäischen) Sachenrecht Abstraktionsprinzip genannt. Gemäß § 892 BGB besitzt das Grundbuch den sogenannten öffentlichen Glauben, was bedeutet, dass der Inhalt als richtig gilt. Dies soll der Rechtssicherheit bei Grundstücksgeschäften dienen. Aus diesem Grund dürfen die elektronischen Grundbücher zum Schutz vor „Hackern“ technisch nicht direkt mit dem globalen Internet verbunden sein."
     },
     {
+      "norms": [],
       "path": [
         "Steuerliche Fragen"
       ],
       "text": "Für Grundstücke sind Steuern zu entrichten. Dies ist Betreueraufgabe, wenn die Vermögenssorge zum Aufgabenbereich zählt (§ 34 Abgabenordnung). In Frage kommt insbesondere die Grundsteuer (eine Kommunalsteuer) sowie bei Veräußerung die Grunderwerbsteuer.\n\nFür Betreuer ist insbesondere zu beachten, wenn ein Grundstück verkauft wird:\n- Die Grundsteuer des laufenden Kalenderjahres schuldet der bisherige Eigentümer; das sollte beim Kaufpreis \"eingepreist\" werden.\n- Die Grunderwerbsteuer schulden sowohl der Käufer als auch der Verkäufer. Es sollte im Kaufvertrag eindeutig geklärt werden, wer diese bezahlt (üblicherweise der Verkäufer)."
     },
     {
+      "norms": [],
       "path": [
         "Grabnutzungsrecht"
       ],
       "text": "Grabstätten in Deutschland als Grundstücksanteile von Friedhöfen befinden sich in der Regel im Eigentum der Kommunen. Bei Wahlgräbern wird das Nutzungsrecht für die Dauer von 20 bis 30 Jahren verliehen. Nach Ablauf dieser Zeit kann der oder die Nutzungsberechtigte das Grab zurückgeben oder beantragen, das gebührenpflichtige Nutzungsrecht für 1 bis 30 Jahre zu erneuern.\n\nAus dem Nutzungsrecht ergibt sich in der Regel der privatrechtliche Anspruch, den nutzungsberechtigten Menschen und seine Familienangehörigen in diesem Familiengrab zu bestatten. Die Bestattung von anderen Verstorbenen ist nur mit Zustimmung des zuständigen Friedhofsamtes möglich. Das Nutzungsrecht kann weder gegen Entgelt noch unentgeltlich veräußert werden. Der oder die Grabnutzungsberechtigte soll noch zu Lebzeiten einen Nachfolger mit dessen Zustimmung für das Grabnutzungsrecht bestimmen. Hat er oder sie eine derartige Regelung nicht getroffen, dann wird auf Antrag demjenigen das Grabnutzungsrecht übertragen, der für die Bestattung sorgt. Angehörige sind hierbei bevorrechtigt.\n\nDas Grabnutzungsrecht erlischt in der Regel, wenn nach dem Tod des Nutzungsberechtigten innerhalb von sechs Monaten keine Übertragung des Nutzungsrechts auf einen Rechtsnachfolger beantragt wird. Nach Erlöschen des Grabnutzungsrechts kann das zuständige Friedhofsamt Grabmal, Grabzubehör einschließlich sämtlicher Fundamente oder die Verschlussplatte entfernen und entsorgen. Es besteht keine Aufbewahrungspflicht."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Nutzungspflicht\n- Vermögenssorge, Finanzamt, Freier Wille, Mittellosigkeit\n- Vermögensverzeichnis, Freibetrag\n- Vorsorgevollmacht, Insichgeschäft\n- Betreutes Wohnen, Wohnungsangelegenheiten, Wohn- und Betreuungsvertragsgesetz\n- Prozessführung, Prozessfähigkeit, Prozesspfleger, Verhältnismäßigkeitsprinzip\n- Polizeirecht, ordre public\n- Tod des Betreuten"
     },
     {
+      "norms": [
+        "BGB§1850"
+      ],
       "path": [
         "Videos und Podcasts"
       ],
       "text": "-Betroyt-de-Podcast von Roy Kreutzer zur Genehmigungspflicht nach § 1850 BGB"
     },
     {
+      "norms": [
+        "BGB§1850"
+      ],
       "path": [
         "Literatur"
       ],

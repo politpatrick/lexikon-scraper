@@ -33,10 +33,158 @@
     "sachverständigengutachten",
     "verfahrenspfleger"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§126",
+      "label": "§ 126 BGB",
+      "nummer": "126"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§158",
+      "label": "§ 158 BGB",
+      "nummer": "158"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1901",
+      "label": "§ 1901 BGB",
+      "nummer": "1901"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1901a",
+      "label": "§ 1901a BGB",
+      "nummer": "1901a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1901b",
+      "label": "§ 1901b BGB",
+      "nummer": "1901b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1904",
+      "label": "§ 1904 BGB",
+      "nummer": "1904"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2290",
+      "label": "§ 2290 BGB",
+      "nummer": "2290"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2351",
+      "label": "§ 2351 BGB",
+      "nummer": "2351"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§665",
+      "label": "§ 665 BGB",
+      "nummer": "665"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§823",
+      "label": "§ 823 BGB",
+      "nummer": "823"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FGG",
+      "id": "FGG§24",
+      "label": "§ 24 FGG",
+      "nummer": "24"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FGG",
+      "id": "FGG§67",
+      "label": "§ 67 FGG",
+      "nummer": "67"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FGG",
+      "id": "FGG§69d",
+      "label": "§ 69d FGG",
+      "nummer": "69d"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§287",
+      "label": "§ 287 FamFG",
+      "nummer": "287"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§298",
+      "label": "§ 298 FamFG",
+      "nummer": "298"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§59",
+      "label": "§ 59 FamFG",
+      "nummer": "59"
+    }
+  ],
   "pageid": 2124,
   "revid": 64059,
   "sections": [
     {
+      "norms": [
+        "BGB§1901a",
+        "BGB§1901",
+        "BGB§126",
+        "BGB§2290",
+        "BGB§2351",
+        "BGB§823",
+        "BGB§665",
+        "BGB§158",
+        "BGB§1901b",
+        "BGB§1904",
+        "FGG§24",
+        "FamFG§59",
+        "FamFG§287",
+        "FGG§69d",
+        "FamFG§298",
+        "FGG§67"
+      ],
       "path": [
         "Gesetz zur Patientenverfügung mit Einzelbegründungen"
       ],

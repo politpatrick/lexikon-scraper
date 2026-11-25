@@ -32,34 +32,172 @@
     "vorsorgevollmacht",
     "zwangsvollstreckung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§242",
+      "label": "§ 242 BGB",
+      "nummer": "242"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§255",
+      "label": "§ 255 BGB",
+      "nummer": "255"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§273",
+      "label": "§ 273 BGB",
+      "nummer": "273"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§274",
+      "label": "§ 274 BGB",
+      "nummer": "274"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§320",
+      "label": "§ 320 BGB",
+      "nummer": "320"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§322",
+      "label": "§ 322 BGB",
+      "nummer": "322"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§854",
+      "label": "§ 854 BGB",
+      "nummer": "854"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§756",
+      "label": "§ 756 ZPO",
+      "nummer": "756"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§765",
+      "label": "§ 765 ZPO",
+      "nummer": "765"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§765a",
+      "label": "§ 765a ZPO",
+      "nummer": "765a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§882b",
+      "label": "§ 882b ZPO",
+      "nummer": "882b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§882c",
+      "label": "§ 882c ZPO",
+      "nummer": "882c"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§882f",
+      "label": "§ 882f ZPO",
+      "nummer": "882f"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§882i",
+      "label": "§ 882i ZPO",
+      "nummer": "882i"
+    }
+  ],
   "pageid": 39307,
   "revid": 66817,
   "sections": [
     {
+      "norms": [
+        "BGB§273",
+        "BGB§242",
+        "BGB§854",
+        "BGB§274"
+      ],
       "path": [
         "Zurückbehaltungsrecht"
       ],
       "text": "Das Zurückbehaltungsrecht im deutschen Schuldrecht (§ 273 BGB) ist eine Folge des Grundsatzes von Treu und Glauben gemäß § 242 BGB. Demnach darf eine geschuldete Leistung solange verweigert werden, bis die entsprechende Gegenleistung bewirkt wird. Dieses Zurückbehaltungsrecht wird juristisch „Einrede“ genannt. Dabei spielt es keine Rolle, ob sich die gegenseitigen Rechtsansprüche aus Vertrag oder Gesetz ergeben und ob sie schuldrechtlicher oder dinglicher Art (= Sachenrecht ab § 854 BGB) sind. Gemäß § 274 Abs. 1 BGB ist die „Einrede“ nur aufschiebend wirksam. Die Verurteilung vor dem Zivilgericht nach einer entsprechenden Klage lautet oft: Erfüllung Zug um Zug, d.h. beide Parteien werden vom Gericht zu sich gegenseitig bedingenden Wenn-Dann-Handlungen verurteilt. Für verurteilte Geschäftsunfähige handeln ggf. Bevollmächtigte oder Betreuer als gesetzliche Vertreter."
     },
     {
+      "norms": [
+        "BGB§320",
+        "BGB§322"
+      ],
       "path": [
         "Einrede des nicht erfüllten Vertrags"
       ],
       "text": "Die juristische „Einrede“ des nicht erfüllten Vertrags gemäß § 320 BGB führt vor dem Zivilgericht ebenfalls häufig zur Verurteilung Zug um Zug (§ 322 BGB)."
     },
     {
+      "norms": [
+        "BGB§255",
+        "BGB§273"
+      ],
       "path": [
         "Abtretung der Schadensersatzansprüche"
       ],
       "text": "Beim Schadensersatz verbunden mit der Abtretung der Ersatzansprüche gemäß § 255 BGB werden alle Ansprüche, die ein Geschädigter gegen einen Dritten aufgrund des Eigentums an einer Sache hat, an einen anderen abgetreten. Gemäß § 273 Abs. 1 BGB hätte dann der eigentliche Schuldner des Schadensersatzes (= Schädiger) ein Zurückbehaltungsrecht gegenüber dem Geschädigten, weil er ja den Schadensersatz wegen der Abtretung an einen anderen leisten muss."
     },
     {
+      "norms": [
+        "ZPO§756",
+        "ZPO§765",
+        "ZPO§765a",
+        "ZPO§882c",
+        "ZPO§882f",
+        "ZPO§882b",
+        "ZPO§882i"
+      ],
       "path": [
         "Zwangsvollstreckung bei Leistung Zug um Zug"
       ],
       "text": "Hängt die Vollstreckung von einer Zug um Zug zu bewirkenden Leistung des Gläubigers an den Schuldner ab, so darf der Gerichtsvollzieher gemäß § 756 ZPO die Zwangsvollstreckung nicht beginnen, bevor er dem Schuldner die diesem gebührende Leistung in einer den Verzug der Annahme begründenden Weise angeboten hat. Und das zuständige Vollstreckungsgericht darf gemäß § 765 ZPO eine Vollstreckungsmaßregel nur bedingt anordnen. Der mögliche Vollstreckungsschutz für den Schuldner unter voller Würdigung des Schutzbedürfnisses des Gläubigers ist in § 765a ZPO gesetzlich geregelt.\n\nDie Anordnung der Eintragung des (mittellosen) Schuldners in das Schuldnerverzeichnis ist gemäß § 882c Abs. 1 Satz 2 ZPO Teil des Vollstreckungsverfahrens in Deutschland. Die länderspezifischen, d.h. sechzehn Schuldnerverzeichnisse als einsehbare Register (§ 882f ZPO) werden im Titel 6 der deutschen Zivilprozessordnung in § 882b ZPO bis § 882i ZPO sowie in den beiden deutschen Verordnungen über die Führung des Schuldnerverzeichnisses (SchuFV) und über den Bezug von Abdrucken aus dem Schuldnerverzeichnis (SchuVAbdrV) gesetzlich geregelt."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

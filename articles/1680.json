@@ -48,22 +48,129 @@
     "werkstatt-für-behinderte-menschen",
     "zwangsvollstreckung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "AO",
+      "id": "AO§79",
+      "label": "§ 79 AO",
+      "nummer": "79"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§104",
+      "label": "§ 104 BGB",
+      "nummer": "104"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§105",
+      "label": "§ 105 BGB",
+      "nummer": "105"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§164",
+      "label": "§ 164 BGB",
+      "nummer": "164"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1814",
+      "label": "§ 1814 BGB",
+      "nummer": "1814"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1823",
+      "label": "§ 1823 BGB",
+      "nummer": "1823"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1826",
+      "label": "§ 1826 BGB",
+      "nummer": "1826"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1903",
+      "label": "§ 1903 BGB",
+      "nummer": "1903"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§278",
+      "label": "§ 278 BGB",
+      "nummer": "278"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB X",
+      "id": "SGBX§11",
+      "label": "§ 11 SGB X",
+      "nummer": "11"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VwVfG",
+      "id": "VwVfG§12",
+      "label": "§ 12 VwVfG",
+      "nummer": "12"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "ZPO",
+      "id": "ZPO§53",
+      "label": "§ 53 ZPO",
+      "nummer": "53"
+    }
+  ],
   "pageid": 1680,
   "revid": 66916,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst."
     },
     {
+      "norms": [
+        "BGB§1823",
+        "BGB§1814"
+      ],
       "path": [
         "Die Rechtsstellung des Betreuers"
       ],
-      "text": "Nach {{Zitat de §|1823|bgb}} BGB kann der Betreuer den Betreuten innerhalb seines Aufgabenkreises gerichtlich und außergerichtlich vertreten. Ihm kommt daher die Stellung eines gesetzlichen Vertreters zu (was sich mittelbar auch aus der Voraussetzung für die Betreuung in {{Zitat de §|1814|bgb}} Abs. 3 BGB ergibt). Dies entspricht der alten Rechtslage vor 1992 bei Vormundschaften und Pflegschaften für Geschäftsunfähige."
+      "text": "Nach § 1823 BGB kann der Betreuer den Betreuten innerhalb seines Aufgabenkreises gerichtlich und außergerichtlich vertreten. Ihm kommt daher die Stellung eines gesetzlichen Vertreters zu (was sich mittelbar auch aus der Voraussetzung für die Betreuung in § 1814 Abs. 3 BGB ergibt). Dies entspricht der alten Rechtslage vor 1992 bei Vormundschaften und Pflegschaften für Geschäftsunfähige."
     },
     {
+      "norms": [
+        "BGB§164",
+        "BGB§278"
+      ],
       "path": [
         "Die Rechtsstellung des Betreuers",
         "Außenwirkung"
@@ -71,6 +178,9 @@
       "text": "Zunächst bedeutet die rechtliche Vertretungsmacht, dass die Erklärungen des Betreuers innerhalb seines Aufgabenkreises Dritten gegenüber in jedem Fall rechtlich wirksam sind und den Betreuten unmittelbar verpflichten. Z.B. verpflichtet der vom Betreuer geschlossene Heimvertrag den Betreuten, die Heimkosten zu tragen (§§ 164, 278 BGB)."
     },
     {
+      "norms": [
+        "BGB§1826"
+      ],
       "path": [
         "Die Rechtsstellung des Betreuers",
         "Innenverhältnis"
@@ -78,13 +188,21 @@
       "text": "Im Innenverhältnis Betreuer - Betreuter kann sich der Betreuer jedoch schadensersatzpflichtig machen, wenn er Wünsche des Betreuten ohne wichtigen Grund mißachtet (§ 1826 BGB). Der Betreuer soll daher von seiner Vertretungsbefugnis nur sparsam Gebrauch machen und, wenn immer möglich, dem Betreuten Handlungen im Geschäftsverkehr ermöglichen. Außerdem benötigen rechtlich Betreuende in Deutschland eine (berufliche) Haftpflichtversicherung."
     },
     {
+      "norms": [
+        "BGB§104",
+        "ZPO§53",
+        "SGBX§11",
+        "VwVfG§12",
+        "AO§79"
+      ],
       "path": [
         "Die Rechtsstellung des Betreuers",
         "Konkurrierendes Handeln"
       ],
-      "text": "Die gesetzliche Vertretung des Betreuers verdrängt (anders als im früheren  Vormundschaftsrecht) nicht die Handlungsfähigkeit des Betreuten; d.h., der Betreute kann auch innerhalb des Aufgabenkreises des Betreuers selbst wirksam Rechtsgeschäfte tätigen.\n\nDies gilt nur dann nicht, wenn der Betreute geschäftsunfähig im Sinne von {{Zitat de §|104|bgb}} Ziffer 2 BGB (sog. natürliche Geschäftsunfähigkeit) ist, er sich also in einem Geisteszustand befindet, der die freie Willensbestimmung ausschließt. Weiter gilt dies auch nicht, wenn für den Aufgabenkreis ein Einwilligungsvorbehalt angeordnet wurde. Das ist die Ausnahme von der Regel.\n\nIm Bereich der Prozessführung und bei der Vertretung gegenüber Behörden schloss bis Ende 2022 {{Zitat de §|53|zpo}} ZPO bzw. das Verwaltungsverfahrensrecht, das darauf verweist (z.B. {{Zitat de §|11|sgb_10}} Abs. 3 SGB-X, § 12 Abs. 3 VwVfG, § 79 Abs. 3 AO) konkurrierendes Handeln aus. Auch bei geschäftsfähigen Betreuten konnte dort alleine der Betreuer handeln, sobald er das Verfahren an sich gezogen hat. Dies ist seit 1.1.23 nicht mehr der Fall.\n\nBGH, Beschluss vom 14.08.2008, |I ZB 20/08,  MDR 2008, 1357 = FamRZ 2008, 2109= NJW-RR 2009, 1 = WM 2008, 2264:\n\nWenn für die Vermögenssorge des Schuldners ein gesetzlicher Vertreter bestellt, nicht aber ein Einwilligungsvorbehalt angeordnet ist, hat das Vollstreckungsgericht nach pflichtgemäßem Ermessen zu bestimmen, ob der Vertreter oder der Schuldner die eidesstattliche Offenbarungsversicherung abzugeben hat. Im vorliegenden Fall wurde die Betreuerin verpflichtet, die Vermögensauskunft abzugeben."
+      "text": "Die gesetzliche Vertretung des Betreuers verdrängt (anders als im früheren  Vormundschaftsrecht) nicht die Handlungsfähigkeit des Betreuten; d.h., der Betreute kann auch innerhalb des Aufgabenkreises des Betreuers selbst wirksam Rechtsgeschäfte tätigen.\n\nDies gilt nur dann nicht, wenn der Betreute geschäftsunfähig im Sinne von § 104 Ziffer 2 BGB (sog. natürliche Geschäftsunfähigkeit) ist, er sich also in einem Geisteszustand befindet, der die freie Willensbestimmung ausschließt. Weiter gilt dies auch nicht, wenn für den Aufgabenkreis ein Einwilligungsvorbehalt angeordnet wurde. Das ist die Ausnahme von der Regel.\n\nIm Bereich der Prozessführung und bei der Vertretung gegenüber Behörden schloss bis Ende 2022 § 53 ZPO bzw. das Verwaltungsverfahrensrecht, das darauf verweist (z.B. § 11 Abs. 3 SGB-X, § 12 Abs. 3 VwVfG, § 79 Abs. 3 AO) konkurrierendes Handeln aus. Auch bei geschäftsfähigen Betreuten konnte dort alleine der Betreuer handeln, sobald er das Verfahren an sich gezogen hat. Dies ist seit 1.1.23 nicht mehr der Fall.\n\nBGH, Beschluss vom 14.08.2008, |I ZB 20/08,  MDR 2008, 1357 = FamRZ 2008, 2109= NJW-RR 2009, 1 = WM 2008, 2264:\n\nWenn für die Vermögenssorge des Schuldners ein gesetzlicher Vertreter bestellt, nicht aber ein Einwilligungsvorbehalt angeordnet ist, hat das Vollstreckungsgericht nach pflichtgemäßem Ermessen zu bestimmen, ob der Vertreter oder der Schuldner die eidesstattliche Offenbarungsversicherung abzugeben hat. Im vorliegenden Fall wurde die Betreuerin verpflichtet, die Vermögensauskunft abzugeben."
     },
     {
+      "norms": [],
       "path": [
         "Die Rechtsstellung des Betreuers",
         "Vertretung bei Geschäftsunfähigkeit"
@@ -92,6 +210,10 @@
       "text": "Betreuer dürfen bestimmte Tätigkeiten nur dann vornehmen, wenn der Betreute geschäftsunfähig ist.\nWichtige Beispiele hierfür sind:\n\n-§ 4 (2) WBVG Genehmigung eines Heim- oder Betreuungsvertrags\n-§ 1411 (2) BGB\tAbschluss eines Ehevertrags\n-§ 1484 (2) BGB\tAblehnung fortgesetzte Gütergemeinschaft\n-§ 1491 (3) BGB\tVerzicht des Abkömmlings auf Gesamtgutsanteil\n-§ 1492 (3) BGB\tAufhebung der fortgesetzten Gütergemeinschaft\n-§ 1493 (2 BGB\tUnterbleiben der Aufhebung der Gütergemeinschaft nach Wiederverheiratung\n-§ 125 (2) FamFG\tEhescheidungs- oder Eheaufhebungsantrag\n-§ 1596 (1) BGB\tVaterschaftsanerkennung\tim Namen des Betreuten\n-§ 1599 (2) BGB\tZustimmung zur Vaterschaftsanerkennung\n-§ 1600a (2) BGB Vaterschaftsanfechtung\n-§ 2282 (2) BGB\tAnfechtung Erbvertrag\n-§ 2290 (3) BGB\tErbvertragsauflösungsvertrag\n-§ 2347 (2) BGB\tErbverzicht als Erblasser\n-§ 9 (1) BPersAG Antragstellung für Personalausweis\n-§ 6 (1) Paßgesetz Antragstellung für Reisepass\n-Landesrecht: Erklärung des Kirchenaustritts"
     },
     {
+      "norms": [
+        "BGB§1903",
+        "BGB§105"
+      ],
       "path": [
         "Die Rechtsstellung des Betreuers",
         "Literatur"
@@ -99,6 +221,7 @@
       "text": "-Adolph/Förster: Prozessfähigkeit und unerwünschte Prozesse; BtPrax 2005, 126\n-Bienwald: Zur Vertretung des Betreuten vor Gericht; BtPrax 2001, 150\n-Bobenhausen: Konkurrenzen zwischen dem Willen des Betreuten und des Betreuers: gesetzliche Vertretung, Kontosperre, Schenkung, BtPrax 1994, 158\n-Bork: Die Prozessfähigkeit nach neuem Recht; MDR 1991, 97\n-Deinert, Organspende und Betreuung, BtPrax 1998, 60\n-Deinert: Die gerichtliche Vertretung von Betreuten; BtPrax 2001, 66;\n-ders.:  Eintritt des Betreuers in Gerichtsverfahren nötig? BtPrax 2001, 146\n-Elzer: Die Teilnahme von Betreuern an Strafverfahren; BtPrax 2000, 139\n-Harnecke: Zwangsvollstreckung gegen Personen, die unter Betreuung stehen; DGVZ 2000, 161\n-Jäger: Der Betreuer als gesetzlicher Vertreter des GmbH-Geschäftsführers; DStR 1996, 108\n-Jurgeleit: Der geschäftsunfähige Betreute unter Einwilligungsvorbehalt; Rpfleger 1995, 282\n-Kropp: Die Tätigkeit des Betreuers in Strafverfahren; BdB-Verbandszeitung 36/2001, 28\n-Krüger: Anmerkungen zum Abschluss von Heimverträgen durch den Betreuer, BtPrax 1995, 165\n-Lachwitz: Menschen mit geistiger Behinderung im Spannungsfeld zwischen Selbst- u. Fremdbestimmung, BtPrax 1995, 114\n-Lipp: Rechtliche Betreuung und das Recht auf Freiheit; BtPrax 2008, 51\n-Schereieder:  Ist § 1903 BGB eine Spezialvorschrift zu § 105 BGB? BtPrax 1996, 96\n-Stahl/Carle: Die steuerliche Rechtsstellung des Betreuers eines steuerunehrlichen Betreuten und steuerstrafrechtliche Folgen; DStR 2000, 1245\n-Wesche: Der Betreute in der Zwangsvollstreckung; BtPrax 2006, 3"
     },
     {
+      "norms": [],
       "path": [
         "Die Rechtsstellung des Betreuers",
         "Siehe auch"
@@ -106,6 +229,7 @@
       "text": "- Gesetzliche Vertretung, Informationspflicht, Prozessführung, Vertretung gegenüber Behörden, Betreuerhaftung, Einwilligungsvorbehalt, Sterilisation, Wunscherfüllung, Schenkung, Postkontrolle\n- Krankenhaussozialdienst\n- Angehörigenvertretungsrecht, Geheimhaltungspflicht\n- elektronischer Identitätsnachweis, Datenschutz, IT-Sicherheit\n- Freier Wille\n- natürlicher Wille, Vertreterdokumentation\n- Werkstatt für behinderte Menschen, Inklusionsbetrieb, Erwachsenenschutzübereinkommen"
     },
     {
+      "norms": [],
       "path": [
         "Die Rechtsstellung des Betreuers",
         "Formulare"

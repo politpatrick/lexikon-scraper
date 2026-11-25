@@ -61,46 +61,140 @@
     "vulnerabilität",
     "wahlrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.28",
+      "label": "Art. 28 GG",
+      "nummer": "28"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.3",
+      "label": "Art. 3 GG",
+      "nummer": "3"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.72",
+      "label": "Art. 72 GG",
+      "nummer": "72"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.74",
+      "label": "Art. 74 GG",
+      "nummer": "74"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.84",
+      "label": "Art. 84 GG",
+      "nummer": "84"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "GG",
+      "id": "GGArt.91a",
+      "label": "Art. 91a GG",
+      "nummer": "91a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB V",
+      "id": "SGBV§105",
+      "label": "§ 105 SGB V",
+      "nummer": "105"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB V",
+      "id": "SGBV§135",
+      "label": "§ 135 SGB V",
+      "nummer": "135"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB V",
+      "id": "SGBV§95",
+      "label": "§ 95 SGB V",
+      "nummer": "95"
+    }
+  ],
   "pageid": 39294,
   "revid": 66913,
   "sections": [
     {
+      "norms": [
+        "GGArt.28"
+      ],
       "path": [
         "Rechtsgeschichte"
       ],
       "text": "Die preußische Städteordnung von 1808 auf Initiative des Freiherrn von Stein (1757 - 1831) markiert den gesetzlichen Startpunkt für die lange Rechtsentwicklung der modernen kommunalen Selbstverwaltung in Deutschland. Die bisher politisch unmündigen männlichen Bürger sollten damals zumindest in den protestantischen Städten und Gemeinden Preußens zur Mitarbeit im Staat gewonnen werden. Die kämpferischen liberal-demokratischen Auseinandersetzungen zwischen Bürgertum und Monarchie führten nach der deutschen Reichsgründung von 1871 und nach den beiden Weltkriegen schließlich 1949 zum Art. 28 GG, der auch der bundesstaatlichen Demokratisierungspolitik der US-amerikanischen Besatzungsmacht zu verdanken ist. Diese Verfassungspolitik traf vor allem in Süddeutschland auf den hier traditionell starken Föderalismus (Grenznähe zur Schweiz/Eidgenossenschaft)."
     },
     {
+      "norms": [
+        "GGArt.3"
+      ],
       "path": [
         "Bürgergemeinde und/oder Kirchengemeinde?"
       ],
       "text": "Am 01.01.1876 war nach der Reichsgründung von 1871 ein deutsches Reichsgesetz in Kraft getreten, durch das die säkulare Neuordnung des Personenstandswesens mit der Einrichtung von Standesämtern in ganz Deutschland vorangetrieben wurde. Bis zu dieser umwälzenden Rechtsreform hatten die (rein männlichen) Pfarrer vor Ort in den Gemeinden die Funktion der Standesbeamten miterfüllt und so faktisch das Kindschaftsrecht bestimmt. Die gesetzliche Trennung von Bürger- und Kirchengemeinde geschah dann im Königreich Württemberg zehn Jahre später 1887. Seither stellen Bürgergemeinden und Kirchengemeinden der Landeskirchen in den württembergischen Landesteilen jeweils zwei verschiedene Organe von Körperschaften vor Ort dar. Beide Verwaltungsorgane wurden und werden seither von den Einwohnenden der Gemeinden gewählt, zu Beginn allerdings nur von Männern ab 25 Jahren. Das säkulare Verwaltungsorgan der Gemeinde bzw. Kommune heißt seither Gemeinderat oder Stadtrat, das kirchliche Verwaltungsorgan ist der Kirchengemeinderat. Durch die allmähliche Gleichstellung von Männern und Frauen in Deutschland (siehe Art. 3 GG seit 1949) sind heute auch einwohnende Frauen in beide Räte von Frauen und Männern wählbar."
     },
     {
+      "norms": [],
       "path": [
         "eigene Landesverfassungen"
       ],
       "text": "In den westdeutschen Ländern, Kreisen und säkularen Gemeinden sollte das Volk demnach eine Vertretung haben, die aus allgemeinen, unmittelbaren, freien, gleichen und geheimen Wahlen hervorgegangen ist. Bei diesen Kommunalwahlen sind später auch natürliche Personen, die die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Union besitzen, wahlberechtigt und wählbar geworden. Diese gewählten Volksvertretungen regeln unter der Leitung der BürgermeisterInnen alle Angelegenheiten der örtlichen Gemeinschaft im Rahmen der deutschen Gesetze in eigener Verantwortung. Die Gewährung dieser Selbstverwaltung umfasst auch die Grundlagen der finanziellen Eigenverantwortung durch kommunale Haushaltssatzungen, die jedoch ggf. vom zuständigen Regierungspräsidium genehmigt werden müssen."
     },
     {
+      "norms": [],
       "path": [
         "Volksvertretungen in der ehemaligen DDR"
       ],
       "text": "In der ehemaligen DDR waren die sogenannten „Volksvertretungen“ weisungsgebunden und damit Organe der sozialistischen Staatsmacht, die den Staat zentralistisch von Ostberlin aus regierte. Die DDR-Regierung wiederum erhielt ihre Weisungen aus der sowjetischen Regierungszentrale in Moskau. Es gab in der DDR keine freien Wahlen, sondern es herrschte die sogenannte \"Diktatur des Proletariats\"! Mit dem „Gesetz über die Selbstverwaltung der Gemeinden und der Landkreise in der DDR“ vom 17. Mai 1990 wurden die wirksamen Rechtsgrundlagen für eine echte kommunale Selbstverwaltung auch in den fünf neuen Bundesländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen neu geschaffen. Die Regelung des Kommunalrechts ist gemäß der deutschen Verfassung nun ausschließlich Sache der sechzehn deutschen Bundesländer."
     },
     {
+      "norms": [
+        "GGArt.74",
+        "GGArt.72",
+        "GGArt.84",
+        "GGArt.91a"
+      ],
       "path": [
         "landeseigene Verwaltung"
       ],
       "text": "Das deutsche Betreuungsrecht im BGB gehört gemäß Art. 74 Abs. 1 Nr. 1 GG zur konkurrierenden Gesetzgebung. Im Bereich der konkurrierenden Gesetzgebung haben die Länder gemäß Art. 72 Abs 1 GG die Befugnis zur Gesetzgebung, solange und soweit der Bund von seiner Gesetzgebungszuständigkeit nicht durch Gesetz Gebrauch gemacht hat - wie im Fall der großen Betreuungsrechtsreform. Die landeseigene Verwaltung von Bundesgesetzen ist in Art. 84 GG verfassungsrechtlich geregelt. Eine Verwaltungszusammenarbeit zwischen Bund und Ländern könnte gemäß Art. 91a Abs. 2 GG durch ein Bundesgesetz mit Zustimmung des Bundesrats näher geregelt werden, wenn die Mitwirkung des Bundes erforderlich ist bei Aufgaben der Länder - wie z.B. zur Verbesserung der Lebensverhältnisse alleinstehender (einsamer) Betroffener durch rechtliche Betreuungen."
     },
     {
+      "norms": [
+        "SGBV§105",
+        "SGBV§95",
+        "SGBV§135"
+      ],
       "path": [
         "kommunale medizinische Versorgungszentren"
       ],
       "text": "Zur Förderung der vertragsärztlichen Versorgung der Menschen in der Stadt und auf dem Land in ganz Deutschland hat es der deutsche Gesetzgeber vorgesehen bzw. zugelassen, dass die Kommunen mit Zustimmung der Kassenärztlichen Vereinigung des jeweiligen Bundeslandes in begründeten Ausnahmefällen eigene Einrichtungen zur unmittelbaren medizinischen Versorgung der Versicherten selbst betreiben. Ein begründeter Ausnahmefall kann insbesondere dann vorliegen, wenn eine schnelle medizinische Versorgung der Bevölkerung auf andere Weise nicht mehr sichergestellt werden kann. Dies ist in § 105 Abs. 5 SGB V gesetzlich geregelt.\n\nMedizinische Versorgungszentren in Deutschland müssen sich um ihre Zulassung bewerben. Die Teilnahme an der vertragsärztlichen Versorgung wird in § 95 SGB V gesetzlich geregelt. Demnach bedarf die Anstellung eines Arztes oder einer Ärztin in einem zugelassenen medizinischen Versorgungszentrum der Genehmigung des Zulassungsausschusses. Die angestellten Ärzte müssen in das Arztregister eingetragen sein, das die Kassenärztliche Vereinigung für den jeweiligen Zulassungsbezirk führt. Die gesamte Vertragsärzteschaft in Deutschland unterliegt in gleichem Maß den Bewertungen ihrer Untersuchungs- und Behandlungsmethoden gemäß § 135 SGB V. Es geht um eine verfassungsgemäße (menschenrechtliche) Qualitätssicherung der haus- und fachärztlichen Behandlungen in Deutschland zum Wohle der kranken und behinderten Menschen – auch bei Mittellosigkeit."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

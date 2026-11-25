@@ -48,52 +48,72 @@
     "zug-um-zug-leistung",
     "zwangsvollstreckung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "UN-BRK",
+      "id": "UN-BRKArt.12",
+      "label": "Art. 12 UN-BRK",
+      "nummer": "12"
+    }
+  ],
   "pageid": 2125,
   "revid": 66291,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Basisdaten\n Volltitel: UN-Übereinkommen über die Rechte\nvon Menschen mit Behinderungen\n Kurztitel:  Behindertenrechtskonvention\n Abkürzung:   BRK\n Art:  Bundesgesetz /internationales Abkommen\n Geltungsbereich:  Bundesrepublik Deutschland und weitere Unterzeichnerstaaten\n Rechtsmaterie:  Betreuungsrecht, Behindertenrecht\n Fundstellennachweis:\n Datum des Gesetzes:   21.12.2009 (BGBl. II 2008 S. 1419)\n Inkrafttreten:   23.03.2009\n Letzte Änderung:\n Außerkrafttreten:"
     },
     {
+      "norms": [],
       "path": [
         "UN-Übereinkommen über die Rechte von Menschen mit Behinderungen"
       ],
       "text": "Im Dezember 2006 verabschiedete die UN-Generalversammlung das Übereinkommen über die Rechte von Menschen mit Behinderungen (Behindertenrechtskonvention – BRK) Sie ist am 23.03.2009 für die Bundesrepublik Deutschland in Kraft getreten, nachdem bereits am 03.05.2008 die Konvention als solche durch das Erreichen von 20 Unterzeichnerstaaten in Kraft trat. (Vertragsgesetz zum Übereinkommen vom 21.12.2008 BGBl. II 2008 S. 1419).\n\nMit der Behindertenrechtskonvention wird Behinderung nicht länger primär unter medizinischen oder sozialen Blickwinkeln betrachtet, sondern Behinderung ist als Menschenrechtsthema anerkannt worden. Behinderte Menschen gelten somit als TrägerInnen unveräußerlicher Menschenrechte. Damit verbunden ist ein vielfältiger Perspektivenwechsel:\n\n- vom Konzept der Integration zum Konzept der Inklusion;\n- von der Wohlfahrt und Fürsorge zur Selbstbestimmung.\n- Menschen mit Behinderungen werden von Objekten zu Subjekten;\n- von PatientInnen zu BürgerInnen;\n- von Problemfällen (siehe: Begleitforschung) zu TrägerInnen von Rechten (Rechtssubjekten).\n\nMit der Behindertenrechtskonvention wurden keine neuen Rechte geschaffen, sondern die existierenden Menschenrechte sind auf die Lebenssituation von Menschen mit Behinderungen zugeschnitten worden. Dabei wurde das Motto „Nichts über uns ohne uns“ nicht nur während der Verhandlungen auf vorbildliche Weise realisiert, sondern spiegelt sich auch in den Bestimmungen der Konvention. Eine Einbeziehung behinderter Menschen und ihrer Organisationen wird in allen Phasen der Umsetzung und Überwachung des Übereinkommens vorgeschrieben."
     },
     {
+      "norms": [],
       "path": [
         "Staatenprüfverfahren der Monitoring-Stelle UN-Behindertenrechtskonvention"
       ],
       "text": "Für die beiden Zeiträume 2011 bis 2015 und 2018 bis 2023 sind bereits Staatenprüfungsergebnisse veröffentlicht worden, die den Stand zeigen sollen, wie weit die ratifizierenden Staaten der Erde mit der Umsetzung der UN-Behindertenrechtskonvention schon gekommen sind. Die Prüfverfahren sollten nicht vorwiegend als Kritik verstanden werden, denn die verbesserte Rechtsstellung der Menschen mit Behinderungen als Rechtssubjekte statt als Rechtsobjekte ist eine neue globale Rechtsfortbildung, die zahlreiche alte Rechtstraditionen – auch aus dem Religionsrecht - nur sehr langsam Zug um Zug verändern kann.\n\n-Internetseite des deutschen Instituts für Menschenrechte"
     },
     {
+      "norms": [],
       "path": [
         "ein allgemeiner Friedensbund anstatt befristeter zwischenstaatlicher Friedensverträge"
       ],
       "text": "Schon mit dem philosophischen Entwurf von Immanuel Kant „Zum ewigen Frieden“ aus dem Sonderfriedensjahr 1795 erkennt der deutsche Professor aus Königsberg in seinem zweiten Definitivartikel nachweislich, dass es einen Bund von besonderer Art geben müsste, wenn die Menschheit alle ihre Kriege auf immer beendigen wöllte: „Dieser Bund geht auf keinen Erwerb irgend einer Macht des Staats, sondern lediglich auf Erhaltung und Sicherung der Freiheit eines Staats für sich selbst und zugleich anderer verbündeten Staaten, ohne daß diese doch sich deshalb (wie Menschen im Naturzustande) öffentlichen Gesetzen und einem Zwange unter denselben unterwerfen dürfen.“\n\nDieser Bund existiert nun schon seit 1945 und ist als United Nations (UN) international bekannt. Immanuel Kant hatte also den Föderalismus als Friedensbedingung zwischen gleichberechtigten Menschenstaaten schon im Jahr 1795 erkannt!"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Globales Nachhaltigkeitsziel 10\n- Heilbehandlung, Notfalldaten\n- Schwerbehindertenausweis, Meldepflicht\n- Vulnerabilität, Gemeinwohlorientierung\n- Gesetzgebung in Deutschland, Gesetzestexte\n- Gesundheitsdatennutzungsgesetz\n- Diskriminierungsverbot\n- Grundrechte\n- Digitale Barrierefreiheit, Assistenzleistungen\n- Haager Übereinkommen\n- Werkstatt für behinderte Menschen in Deutschland\n- Unterstützte Entscheidungsfindung\n- Anfangsgespräch\n- Betreuungsverein\n- Was ist neu in Deutschland?\n- intellektuelle Beeinträchtigung\n- Drittes Betreuungsrechtsänderungsgesetz\n- ordre public, Polizeirecht"
     },
     {
+      "norms": [],
       "path": [
         "Gesetzespläne zum Wahlrecht"
       ],
       "text": "Die Ausschlussgründe Betreuerbestellung und strafrechtliche Unterbringung sind bundesweit zum 1.7.2019 entfallen. In den einzelnen Bundesländern ist das inzwischen auch überall durchgesetzt (Stand Ende 2020)."
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],
       "text": "-Text des Übereinkommens"
     },
     {
+      "norms": [
+        "UN-BRKArt.12"
+      ],
       "path": [
         "Literatur"
       ],

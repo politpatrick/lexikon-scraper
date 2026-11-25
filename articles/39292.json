@@ -46,22 +46,82 @@
     "widerspruchsrecht",
     "zugangsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§1",
+      "label": "§ 1 GVG",
+      "nummer": "1"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§12",
+      "label": "§ 12 GVG",
+      "nummer": "12"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§13",
+      "label": "§ 13 GVG",
+      "nummer": "13"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§16",
+      "label": "§ 16 GVG",
+      "nummer": "16"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§17",
+      "label": "§ 17 GVG",
+      "nummer": "17"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§17a",
+      "label": "§ 17a GVG",
+      "nummer": "17a"
+    }
+  ],
   "pageid": 39292,
   "revid": 66297,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Ein Mensch, der behauptet, in seinen Grundrechten verletzt worden zu sein, kann in Deutschland den Rechtsweg zur Überprüfung und Ausräumung dieser möglichen Verletzung beschreiten. Dazu führt ihn sein/ihr Weg vor die deutschen staatlichen Gerichte. Wenn dem Gerichtsverfahren ein Widerspruchsverfahren vorgeschaltet ist, beginnt der Rechtsweg schon bei der Verwaltung. Der lange Rechtsweg durch alle möglichen Instanzen endet mit der Entscheidung letzter Instanz, gegen die kein Rechtsmittel mehr gegeben ist.\n\nZum Rechtsweg mit Zugangsrecht für alle rechtsfähigen Personen gehören auch der „Antrag auf Wiedereinsetzung in den vorigen Stand“ und der „Antrag auf Wiederaufnahme des Verfahrens“. Am Ende des in Deutschland rechtsstaatlich garantierten Rechtsweges angekommen, spricht der Jurist von Rechtswegerschöpfung. Die Europäischen Gerichtshöfe bieten dann noch eine weitere Instanz an, z.B. der Europäische Gerichtshof für Menschenrechte, der auf völkerrechtlicher Basis der (Europäischen) Konvention zum Schutze der Menschenrechte und Grundfreiheiten vom 04.11.1950 in Straßburg/Strasbourg in Frankreich gegründet wurde."
     },
     {
+      "norms": [
+        "GVG§1",
+        "GVG§12",
+        "GVG§13",
+        "GVG§16",
+        "GVG§17",
+        "GVG§17a"
+      ],
       "path": [
         "demokratische Gerichtsverfassung für Deutschland"
       ],
       "text": "Die richterliche Gewalt in Deutschland wird gemäß § 1 GVG durch unabhängige, nur dem Gesetz unterworfene Gerichte ausgeübt. Die ordentliche Gerichtsbarkeit wird durch Amtsgerichte, Landgerichte, Oberlandesgerichte und durch den Bundesgerichtshof in Karlsruhe ausgeübt (siehe § 12 GVG). Gemäß § 13 GVG gehören vor die ordentlichen Gerichte die bürgerlichen Rechtsstreitigkeiten, die Familiensachen und die Angelegenheiten der freiwilligen Gerichtsbarkeit. Gemäß § 16 GVG sind staatliche Ausnahmegerichte – wie z.B. während der NS-Diktatur - heute unstatthaft: Niemand darf heute in Deutschland seinem – religionsneutralen - gesetzlichen Richter entzogen werden. Rechtshängigkeit und Rechtsweg werden in § 17 GVG und § 17a GVG gesetzlich geregelt."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

@@ -40,22 +40,64 @@
     "strafprozess",
     "zugriffsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§267",
+      "label": "§ 267 StGB",
+      "nummer": "267"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§269",
+      "label": "§ 269 StGB",
+      "nummer": "269"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§270",
+      "label": "§ 270 StGB",
+      "nummer": "270"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§281",
+      "label": "§ 281 StGB",
+      "nummer": "281"
+    }
+  ],
   "pageid": 39286,
   "revid": 66324,
   "sections": [
     {
+      "norms": [
+        "StGB§267",
+        "StGB§269",
+        "StGB§270",
+        "StGB§281"
+      ],
       "path": [
         "Einleitung"
       ],
       "text": "Was der Personalausweis oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet bzw. im \"Cyberspace\".\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n- Urkundenfälschung § 267 StGB\n- Fälschung beweiserheblicher Daten § 269 StGB\n- Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB\n- Missbrauch von Ausweispapieren § 281 StGB"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Personalausweis, Schwerbehindertenausweis, Personenstand\n- Betreuerausweis, gesetzlicher Vertreter, Vertretungsbefugnis\n- Betreuungsrechtsreform, Was ist neu?\n- e-Rezept, Medikationsplan, elektronische Patientenakte\n- Software, Formulare\n- digitale Barrierefreiheit, e-Rechnung\n- Informationspflicht\n- Interoperabilität\n- Datenschutz\n- IT-Sicherheit, Gemeinwohlorientierung\n- Registrierung\n- ordre public, Polizeirecht, Forensik\n- Rechtsverkehr in Deutschland, Postkontrolle\n- Strafprozess\n- Zugriffsrecht\n- Elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],

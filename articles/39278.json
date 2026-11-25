@@ -30,16 +30,39 @@
     "vulnerabilität",
     "werkstatt-für-behinderte-menschen"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IX",
+      "id": "SGBIX§154",
+      "label": "§ 154 SGB IX",
+      "nummer": "154"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IX",
+      "id": "SGBIX§215",
+      "label": "§ 215 SGB IX",
+      "nummer": "215"
+    }
+  ],
   "pageid": 39278,
   "revid": 66437,
   "sections": [
     {
+      "norms": [
+        "SGBIX§154",
+        "SGBIX§215"
+      ],
       "path": [
         "Einleitung"
       ],
       "text": "Rechtlich und wirtschaftlich selbständige Unternehmen oder unternehmensinterne oder von öffentlichen Arbeitgebern im Sinne des § 154 Absatz 2 SGB IX geführte Betriebe oder Abteilungen zur Beschäftigung schwerbehinderter Menschen auf dem allgemeinen Arbeitsmarkt heißen Inklusionsbetriebe.  Sie beschäftigen mindestens 30 % und höchstens 50 % schwerbehinderte Mitarbeiter und Mitarbeiterinnen, zu denen auch psychisch Kranke gehören, die behindert oder von Behinderung bedroht sind und deren Teilhabe an einer sonstigen Beschäftigung auf dem allgemeinen Arbeitsmarkt auf besondere Schwierigkeiten stoßen würde.\n\nDie Inklusionsbetriebe in Deutschland oder nach deutschem Recht werden im 11. Kapitel des 9. Buches vom deutschen Sozialgesetzbuch (§ 215 SGB IX bis 218 SGB IX) gesetzlich geregelt. Im 12. Kapitel folgen die Werkstätten für behinderte Menschen."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

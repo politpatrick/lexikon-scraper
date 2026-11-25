@@ -38,28 +38,44 @@
     "unterstützungspflicht",
     "verpflichtungsgespräch"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1830",
+      "label": "§ 1830 BGB",
+      "nummer": "1830"
+    }
+  ],
   "pageid": 1781,
   "revid": 66585,
   "sections": [
     {
+      "norms": [],
       "path": [
         "hypothetische Imperative (Begriff nach Immanuel Kant)"
       ],
       "text": "Die rechtliche Betreuung soll den Wünschen des Betreuten dienen.\n\nDer Betreute soll befähigt werden, sein Leben nach den eigenen Wünschen und Fähigkeiten selbst zu gestalten\n\nDer Betreuer soll den Wünschen des Betreuten nachkommen (außer, die Zumutbarkeitsgrenze ist erreicht).\n\nDer Betreuer soll wichtige Angelegenheiten vor ihrer Erledigung mit dem Betreuten besprechen.\n\nDer Betreuer soll dazu beitragen, dass die Krankheit bzw. Behinderung beseitigt, gelindert oder die Folgen gemindert werden."
     },
     {
+      "norms": [
+        "BGB§1830"
+      ],
       "path": [
         "weitere Pflichten"
       ],
       "text": "Der Betreuer vertritt den Betreuten gerichtlich und außergerichtlich (innerhalb seines Aufgabenkreises).\n\nDer Betreuer kann in eine Heilbehandlung nur einwilligen, wenn der Betreute einwilligungsunfähig ist.\n\nDer Betreuer kann in eine Sterilisation nur unter den Voraussetzungen des § 1830 BGB einwilligen.\n\nDer Betreuer darf den Betreuten nur dann freiheitsentziehend unterbringen, wenn:\n\na) die Gefahr einer Selbsttötung oder schweren Gesundheitsgefährdung besteht oder\n\nb) eine Untersuchung oder Heilbehandlung notwendig ist und der Betreute aufgrund seiner Krankheit oder Behinderung diese nicht einzusehen vermag oder\n\nc) eine Fremdgefährdung vom Betreuten ausgeht (siehe Beaufsichtigung).\n\nAuskunftspflicht gegenüber dem Betreuungsgericht"
     },
     {
+      "norms": [],
       "path": [
         "Videos und Podcasts"
       ],
       "text": "-Podcast betroyt.de - Die ersten Schritte bei Betreuungsbeginn"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

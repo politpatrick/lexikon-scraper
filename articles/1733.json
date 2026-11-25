@@ -105,22 +105,2411 @@
     "zuführung-zur-unterbringung",
     "zwangsbehandlung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1",
+      "label": "§ 1 BGB",
+      "nummer": "1"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§104",
+      "label": "§ 104 BGB",
+      "nummer": "104"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§105",
+      "label": "§ 105 BGB",
+      "nummer": "105"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§105a",
+      "label": "§ 105a BGB",
+      "nummer": "105a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§106",
+      "label": "§ 106 BGB",
+      "nummer": "106"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§107",
+      "label": "§ 107 BGB",
+      "nummer": "107"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§108",
+      "label": "§ 108 BGB",
+      "nummer": "108"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§109",
+      "label": "§ 109 BGB",
+      "nummer": "109"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§110",
+      "label": "§ 110 BGB",
+      "nummer": "110"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§111",
+      "label": "§ 111 BGB",
+      "nummer": "111"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§112",
+      "label": "§ 112 BGB",
+      "nummer": "112"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§113",
+      "label": "§ 113 BGB",
+      "nummer": "113"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1304",
+      "label": "§ 1304 BGB",
+      "nummer": "1304"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§131",
+      "label": "§ 131 BGB",
+      "nummer": "131"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1313",
+      "label": "§ 1313 BGB",
+      "nummer": "1313"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1314",
+      "label": "§ 1314 BGB",
+      "nummer": "1314"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1315",
+      "label": "§ 1315 BGB",
+      "nummer": "1315"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1316",
+      "label": "§ 1316 BGB",
+      "nummer": "1316"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1317",
+      "label": "§ 1317 BGB",
+      "nummer": "1317"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1358",
+      "label": "§ 1358 BGB",
+      "nummer": "1358"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1411",
+      "label": "§ 1411 BGB",
+      "nummer": "1411"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1436",
+      "label": "§ 1436 BGB",
+      "nummer": "1436"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1491",
+      "label": "§ 1491 BGB",
+      "nummer": "1491"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1492",
+      "label": "§ 1492 BGB",
+      "nummer": "1492"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1493",
+      "label": "§ 1493 BGB",
+      "nummer": "1493"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1511",
+      "label": "§ 1511 BGB",
+      "nummer": "1511"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1516",
+      "label": "§ 1516 BGB",
+      "nummer": "1516"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1592",
+      "label": "§ 1592 BGB",
+      "nummer": "1592"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1593",
+      "label": "§ 1593 BGB",
+      "nummer": "1593"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1596",
+      "label": "§ 1596 BGB",
+      "nummer": "1596"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1599",
+      "label": "§ 1599 BGB",
+      "nummer": "1599"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1600",
+      "label": "§ 1600 BGB",
+      "nummer": "1600"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1600a",
+      "label": "§ 1600a BGB",
+      "nummer": "1600a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1626c",
+      "label": "§ 1626c BGB",
+      "nummer": "1626c"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1627",
+      "label": "§ 1627 BGB",
+      "nummer": "1627"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1628",
+      "label": "§ 1628 BGB",
+      "nummer": "1628"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1629",
+      "label": "§ 1629 BGB",
+      "nummer": "1629"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1629a",
+      "label": "§ 1629a BGB",
+      "nummer": "1629a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1630",
+      "label": "§ 1630 BGB",
+      "nummer": "1630"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1631",
+      "label": "§ 1631 BGB",
+      "nummer": "1631"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1631a",
+      "label": "§ 1631a BGB",
+      "nummer": "1631a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1631b",
+      "label": "§ 1631b BGB",
+      "nummer": "1631b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1631c",
+      "label": "§ 1631c BGB",
+      "nummer": "1631c"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1632",
+      "label": "§ 1632 BGB",
+      "nummer": "1632"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§164",
+      "label": "§ 164 BGB",
+      "nummer": "164"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§165",
+      "label": "§ 165 BGB",
+      "nummer": "165"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1664",
+      "label": "§ 1664 BGB",
+      "nummer": "1664"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1673",
+      "label": "§ 1673 BGB",
+      "nummer": "1673"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1674",
+      "label": "§ 1674 BGB",
+      "nummer": "1674"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1698a",
+      "label": "§ 1698a BGB",
+      "nummer": "1698a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1698b",
+      "label": "§ 1698b BGB",
+      "nummer": "1698b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1712",
+      "label": "§ 1712 BGB",
+      "nummer": "1712"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1713",
+      "label": "§ 1713 BGB",
+      "nummer": "1713"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1715",
+      "label": "§ 1715 BGB",
+      "nummer": "1715"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1716",
+      "label": "§ 1716 BGB",
+      "nummer": "1716"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1741",
+      "label": "§ 1741 BGB",
+      "nummer": "1741"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1746",
+      "label": "§ 1746 BGB",
+      "nummer": "1746"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1748",
+      "label": "§ 1748 BGB",
+      "nummer": "1748"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1749",
+      "label": "§ 1749 BGB",
+      "nummer": "1749"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1750",
+      "label": "§ 1750 BGB",
+      "nummer": "1750"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1768",
+      "label": "§ 1768 BGB",
+      "nummer": "1768"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§177",
+      "label": "§ 177 BGB",
+      "nummer": "177"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1773",
+      "label": "§ 1773 BGB",
+      "nummer": "1773"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1774",
+      "label": "§ 1774 BGB",
+      "nummer": "1774"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1775",
+      "label": "§ 1775 BGB",
+      "nummer": "1775"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1776",
+      "label": "§ 1776 BGB",
+      "nummer": "1776"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1777",
+      "label": "§ 1777 BGB",
+      "nummer": "1777"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1778",
+      "label": "§ 1778 BGB",
+      "nummer": "1778"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§178",
+      "label": "§ 178 BGB",
+      "nummer": "178"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1780",
+      "label": "§ 1780 BGB",
+      "nummer": "1780"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1781",
+      "label": "§ 1781 BGB",
+      "nummer": "1781"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1782",
+      "label": "§ 1782 BGB",
+      "nummer": "1782"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1784",
+      "label": "§ 1784 BGB",
+      "nummer": "1784"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1785",
+      "label": "§ 1785 BGB",
+      "nummer": "1785"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1786",
+      "label": "§ 1786 BGB",
+      "nummer": "1786"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1787",
+      "label": "§ 1787 BGB",
+      "nummer": "1787"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1788",
+      "label": "§ 1788 BGB",
+      "nummer": "1788"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1789",
+      "label": "§ 1789 BGB",
+      "nummer": "1789"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§179",
+      "label": "§ 179 BGB",
+      "nummer": "179"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1790",
+      "label": "§ 1790 BGB",
+      "nummer": "1790"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1791",
+      "label": "§ 1791 BGB",
+      "nummer": "1791"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1792",
+      "label": "§ 1792 BGB",
+      "nummer": "1792"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1793",
+      "label": "§ 1793 BGB",
+      "nummer": "1793"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1795",
+      "label": "§ 1795 BGB",
+      "nummer": "1795"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1796",
+      "label": "§ 1796 BGB",
+      "nummer": "1796"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1797",
+      "label": "§ 1797 BGB",
+      "nummer": "1797"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1798",
+      "label": "§ 1798 BGB",
+      "nummer": "1798"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1799",
+      "label": "§ 1799 BGB",
+      "nummer": "1799"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§180",
+      "label": "§ 180 BGB",
+      "nummer": "180"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1800",
+      "label": "§ 1800 BGB",
+      "nummer": "1800"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1801",
+      "label": "§ 1801 BGB",
+      "nummer": "1801"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1802",
+      "label": "§ 1802 BGB",
+      "nummer": "1802"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1803",
+      "label": "§ 1803 BGB",
+      "nummer": "1803"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1804",
+      "label": "§ 1804 BGB",
+      "nummer": "1804"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1805",
+      "label": "§ 1805 BGB",
+      "nummer": "1805"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1806",
+      "label": "§ 1806 BGB",
+      "nummer": "1806"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1807",
+      "label": "§ 1807 BGB",
+      "nummer": "1807"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1809",
+      "label": "§ 1809 BGB",
+      "nummer": "1809"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§181",
+      "label": "§ 181 BGB",
+      "nummer": "181"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1810",
+      "label": "§ 1810 BGB",
+      "nummer": "1810"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1811",
+      "label": "§ 1811 BGB",
+      "nummer": "1811"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1812",
+      "label": "§ 1812 BGB",
+      "nummer": "1812"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1813",
+      "label": "§ 1813 BGB",
+      "nummer": "1813"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1814",
+      "label": "§ 1814 BGB",
+      "nummer": "1814"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1815",
+      "label": "§ 1815 BGB",
+      "nummer": "1815"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1816",
+      "label": "§ 1816 BGB",
+      "nummer": "1816"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1817",
+      "label": "§ 1817 BGB",
+      "nummer": "1817"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1818",
+      "label": "§ 1818 BGB",
+      "nummer": "1818"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1819",
+      "label": "§ 1819 BGB",
+      "nummer": "1819"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1820",
+      "label": "§ 1820 BGB",
+      "nummer": "1820"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1821",
+      "label": "§ 1821 BGB",
+      "nummer": "1821"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1822",
+      "label": "§ 1822 BGB",
+      "nummer": "1822"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1823",
+      "label": "§ 1823 BGB",
+      "nummer": "1823"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1824",
+      "label": "§ 1824 BGB",
+      "nummer": "1824"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1825",
+      "label": "§ 1825 BGB",
+      "nummer": "1825"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1826",
+      "label": "§ 1826 BGB",
+      "nummer": "1826"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1827",
+      "label": "§ 1827 BGB",
+      "nummer": "1827"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1828",
+      "label": "§ 1828 BGB",
+      "nummer": "1828"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1829",
+      "label": "§ 1829 BGB",
+      "nummer": "1829"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1830",
+      "label": "§ 1830 BGB",
+      "nummer": "1830"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1831",
+      "label": "§ 1831 BGB",
+      "nummer": "1831"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1832",
+      "label": "§ 1832 BGB",
+      "nummer": "1832"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1833",
+      "label": "§ 1833 BGB",
+      "nummer": "1833"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1834",
+      "label": "§ 1834 BGB",
+      "nummer": "1834"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1835",
+      "label": "§ 1835 BGB",
+      "nummer": "1835"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1836",
+      "label": "§ 1836 BGB",
+      "nummer": "1836"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1837",
+      "label": "§ 1837 BGB",
+      "nummer": "1837"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1838",
+      "label": "§ 1838 BGB",
+      "nummer": "1838"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1839",
+      "label": "§ 1839 BGB",
+      "nummer": "1839"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1840",
+      "label": "§ 1840 BGB",
+      "nummer": "1840"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1841",
+      "label": "§ 1841 BGB",
+      "nummer": "1841"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1842",
+      "label": "§ 1842 BGB",
+      "nummer": "1842"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1843",
+      "label": "§ 1843 BGB",
+      "nummer": "1843"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1844",
+      "label": "§ 1844 BGB",
+      "nummer": "1844"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1845",
+      "label": "§ 1845 BGB",
+      "nummer": "1845"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1846",
+      "label": "§ 1846 BGB",
+      "nummer": "1846"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1847",
+      "label": "§ 1847 BGB",
+      "nummer": "1847"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1848",
+      "label": "§ 1848 BGB",
+      "nummer": "1848"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1849",
+      "label": "§ 1849 BGB",
+      "nummer": "1849"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1850",
+      "label": "§ 1850 BGB",
+      "nummer": "1850"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1851",
+      "label": "§ 1851 BGB",
+      "nummer": "1851"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1852",
+      "label": "§ 1852 BGB",
+      "nummer": "1852"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1853",
+      "label": "§ 1853 BGB",
+      "nummer": "1853"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1854",
+      "label": "§ 1854 BGB",
+      "nummer": "1854"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1855",
+      "label": "§ 1855 BGB",
+      "nummer": "1855"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1856",
+      "label": "§ 1856 BGB",
+      "nummer": "1856"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1857",
+      "label": "§ 1857 BGB",
+      "nummer": "1857"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1858",
+      "label": "§ 1858 BGB",
+      "nummer": "1858"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1859",
+      "label": "§ 1859 BGB",
+      "nummer": "1859"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1860",
+      "label": "§ 1860 BGB",
+      "nummer": "1860"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1861",
+      "label": "§ 1861 BGB",
+      "nummer": "1861"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1862",
+      "label": "§ 1862 BGB",
+      "nummer": "1862"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1863",
+      "label": "§ 1863 BGB",
+      "nummer": "1863"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1864",
+      "label": "§ 1864 BGB",
+      "nummer": "1864"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1865",
+      "label": "§ 1865 BGB",
+      "nummer": "1865"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1866",
+      "label": "§ 1866 BGB",
+      "nummer": "1866"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1867",
+      "label": "§ 1867 BGB",
+      "nummer": "1867"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1868",
+      "label": "§ 1868 BGB",
+      "nummer": "1868"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1869",
+      "label": "§ 1869 BGB",
+      "nummer": "1869"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1870",
+      "label": "§ 1870 BGB",
+      "nummer": "1870"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1871",
+      "label": "§ 1871 BGB",
+      "nummer": "1871"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1872",
+      "label": "§ 1872 BGB",
+      "nummer": "1872"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1873",
+      "label": "§ 1873 BGB",
+      "nummer": "1873"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1874",
+      "label": "§ 1874 BGB",
+      "nummer": "1874"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1875",
+      "label": "§ 1875 BGB",
+      "nummer": "1875"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1876",
+      "label": "§ 1876 BGB",
+      "nummer": "1876"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1877",
+      "label": "§ 1877 BGB",
+      "nummer": "1877"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1878",
+      "label": "§ 1878 BGB",
+      "nummer": "1878"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1879",
+      "label": "§ 1879 BGB",
+      "nummer": "1879"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1880",
+      "label": "§ 1880 BGB",
+      "nummer": "1880"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1881",
+      "label": "§ 1881 BGB",
+      "nummer": "1881"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1943",
+      "label": "§ 1943 BGB",
+      "nummer": "1943"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1944",
+      "label": "§ 1944 BGB",
+      "nummer": "1944"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§195",
+      "label": "§ 195 BGB",
+      "nummer": "195"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1960",
+      "label": "§ 1960 BGB",
+      "nummer": "1960"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1961",
+      "label": "§ 1961 BGB",
+      "nummer": "1961"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1962",
+      "label": "§ 1962 BGB",
+      "nummer": "1962"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§197",
+      "label": "§ 197 BGB",
+      "nummer": "197"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§199",
+      "label": "§ 199 BGB",
+      "nummer": "199"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2",
+      "label": "§ 2 BGB",
+      "nummer": "2"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§207",
+      "label": "§ 207 BGB",
+      "nummer": "207"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§210",
+      "label": "§ 210 BGB",
+      "nummer": "210"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2229",
+      "label": "§ 2229 BGB",
+      "nummer": "2229"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2274",
+      "label": "§ 2274 BGB",
+      "nummer": "2274"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2275",
+      "label": "§ 2275 BGB",
+      "nummer": "2275"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2282",
+      "label": "§ 2282 BGB",
+      "nummer": "2282"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2283",
+      "label": "§ 2283 BGB",
+      "nummer": "2283"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2284",
+      "label": "§ 2284 BGB",
+      "nummer": "2284"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2290",
+      "label": "§ 2290 BGB",
+      "nummer": "2290"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2296",
+      "label": "§ 2296 BGB",
+      "nummer": "2296"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2339",
+      "label": "§ 2339 BGB",
+      "nummer": "2339"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2347",
+      "label": "§ 2347 BGB",
+      "nummer": "2347"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2348",
+      "label": "§ 2348 BGB",
+      "nummer": "2348"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2351",
+      "label": "§ 2351 BGB",
+      "nummer": "2351"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§2352",
+      "label": "§ 2352 BGB",
+      "nummer": "2352"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§669",
+      "label": "§ 669 BGB",
+      "nummer": "669"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§670",
+      "label": "§ 670 BGB",
+      "nummer": "670"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§8",
+      "label": "§ 8 BGB",
+      "nummer": "8"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§823",
+      "label": "§ 823 BGB",
+      "nummer": "823"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§827",
+      "label": "§ 827 BGB",
+      "nummer": "827"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§829",
+      "label": "§ 829 BGB",
+      "nummer": "829"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§832",
+      "label": "§ 832 BGB",
+      "nummer": "832"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§10",
+      "label": "§ 10 FamFG",
+      "nummer": "10"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§11",
+      "label": "§ 11 FamFG",
+      "nummer": "11"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§12",
+      "label": "§ 12 FamFG",
+      "nummer": "12"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§125",
+      "label": "§ 125 FamFG",
+      "nummer": "125"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§15",
+      "label": "§ 15 FamFG",
+      "nummer": "15"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§17",
+      "label": "§ 17 FamFG",
+      "nummer": "17"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§18",
+      "label": "§ 18 FamFG",
+      "nummer": "18"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§19",
+      "label": "§ 19 FamFG",
+      "nummer": "19"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§271",
+      "label": "§ 271 FamFG",
+      "nummer": "271"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§272",
+      "label": "§ 272 FamFG",
+      "nummer": "272"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§273",
+      "label": "§ 273 FamFG",
+      "nummer": "273"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§274",
+      "label": "§ 274 FamFG",
+      "nummer": "274"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§275",
+      "label": "§ 275 FamFG",
+      "nummer": "275"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§276",
+      "label": "§ 276 FamFG",
+      "nummer": "276"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§277",
+      "label": "§ 277 FamFG",
+      "nummer": "277"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§278",
+      "label": "§ 278 FamFG",
+      "nummer": "278"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§279",
+      "label": "§ 279 FamFG",
+      "nummer": "279"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§280",
+      "label": "§ 280 FamFG",
+      "nummer": "280"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§281",
+      "label": "§ 281 FamFG",
+      "nummer": "281"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§282",
+      "label": "§ 282 FamFG",
+      "nummer": "282"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§283",
+      "label": "§ 283 FamFG",
+      "nummer": "283"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§284",
+      "label": "§ 284 FamFG",
+      "nummer": "284"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§285",
+      "label": "§ 285 FamFG",
+      "nummer": "285"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§286",
+      "label": "§ 286 FamFG",
+      "nummer": "286"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§287",
+      "label": "§ 287 FamFG",
+      "nummer": "287"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§288",
+      "label": "§ 288 FamFG",
+      "nummer": "288"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§289",
+      "label": "§ 289 FamFG",
+      "nummer": "289"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§290",
+      "label": "§ 290 FamFG",
+      "nummer": "290"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§291",
+      "label": "§ 291 FamFG",
+      "nummer": "291"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§292",
+      "label": "§ 292 FamFG",
+      "nummer": "292"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§292a",
+      "label": "§ 292a FamFG",
+      "nummer": "292a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§293",
+      "label": "§ 293 FamFG",
+      "nummer": "293"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§294",
+      "label": "§ 294 FamFG",
+      "nummer": "294"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§295",
+      "label": "§ 295 FamFG",
+      "nummer": "295"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§296",
+      "label": "§ 296 FamFG",
+      "nummer": "296"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§297",
+      "label": "§ 297 FamFG",
+      "nummer": "297"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§298",
+      "label": "§ 298 FamFG",
+      "nummer": "298"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§299",
+      "label": "§ 299 FamFG",
+      "nummer": "299"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§300",
+      "label": "§ 300 FamFG",
+      "nummer": "300"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§301",
+      "label": "§ 301 FamFG",
+      "nummer": "301"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§302",
+      "label": "§ 302 FamFG",
+      "nummer": "302"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§303",
+      "label": "§ 303 FamFG",
+      "nummer": "303"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§304",
+      "label": "§ 304 FamFG",
+      "nummer": "304"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§305",
+      "label": "§ 305 FamFG",
+      "nummer": "305"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§306",
+      "label": "§ 306 FamFG",
+      "nummer": "306"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§307",
+      "label": "§ 307 FamFG",
+      "nummer": "307"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§308",
+      "label": "§ 308 FamFG",
+      "nummer": "308"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§309",
+      "label": "§ 309 FamFG",
+      "nummer": "309"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§310",
+      "label": "§ 310 FamFG",
+      "nummer": "310"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§311",
+      "label": "§ 311 FamFG",
+      "nummer": "311"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§312",
+      "label": "§ 312 FamFG",
+      "nummer": "312"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§313",
+      "label": "§ 313 FamFG",
+      "nummer": "313"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§314",
+      "label": "§ 314 FamFG",
+      "nummer": "314"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§315",
+      "label": "§ 315 FamFG",
+      "nummer": "315"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§316",
+      "label": "§ 316 FamFG",
+      "nummer": "316"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§317",
+      "label": "§ 317 FamFG",
+      "nummer": "317"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§318",
+      "label": "§ 318 FamFG",
+      "nummer": "318"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§319",
+      "label": "§ 319 FamFG",
+      "nummer": "319"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§320",
+      "label": "§ 320 FamFG",
+      "nummer": "320"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§321",
+      "label": "§ 321 FamFG",
+      "nummer": "321"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§322",
+      "label": "§ 322 FamFG",
+      "nummer": "322"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§323",
+      "label": "§ 323 FamFG",
+      "nummer": "323"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§324",
+      "label": "§ 324 FamFG",
+      "nummer": "324"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§325",
+      "label": "§ 325 FamFG",
+      "nummer": "325"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§326",
+      "label": "§ 326 FamFG",
+      "nummer": "326"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§327",
+      "label": "§ 327 FamFG",
+      "nummer": "327"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§328",
+      "label": "§ 328 FamFG",
+      "nummer": "328"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§329",
+      "label": "§ 329 FamFG",
+      "nummer": "329"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§330",
+      "label": "§ 330 FamFG",
+      "nummer": "330"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§331",
+      "label": "§ 331 FamFG",
+      "nummer": "331"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§332",
+      "label": "§ 332 FamFG",
+      "nummer": "332"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§333",
+      "label": "§ 333 FamFG",
+      "nummer": "333"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§334",
+      "label": "§ 334 FamFG",
+      "nummer": "334"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§335",
+      "label": "§ 335 FamFG",
+      "nummer": "335"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§336",
+      "label": "§ 336 FamFG",
+      "nummer": "336"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§337",
+      "label": "§ 337 FamFG",
+      "nummer": "337"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§338",
+      "label": "§ 338 FamFG",
+      "nummer": "338"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§339",
+      "label": "§ 339 FamFG",
+      "nummer": "339"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§34",
+      "label": "§ 34 FamFG",
+      "nummer": "34"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§39",
+      "label": "§ 39 FamFG",
+      "nummer": "39"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§40",
+      "label": "§ 40 FamFG",
+      "nummer": "40"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§41",
+      "label": "§ 41 FamFG",
+      "nummer": "41"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§58",
+      "label": "§ 58 FamFG",
+      "nummer": "58"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§59",
+      "label": "§ 59 FamFG",
+      "nummer": "59"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§61",
+      "label": "§ 61 FamFG",
+      "nummer": "61"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§63",
+      "label": "§ 63 FamFG",
+      "nummer": "63"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§64",
+      "label": "§ 64 FamFG",
+      "nummer": "64"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§65",
+      "label": "§ 65 FamFG",
+      "nummer": "65"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§66",
+      "label": "§ 66 FamFG",
+      "nummer": "66"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§7",
+      "label": "§ 7 FamFG",
+      "nummer": "7"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§70",
+      "label": "§ 70 FamFG",
+      "nummer": "70"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§71",
+      "label": "§ 71 FamFG",
+      "nummer": "71"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§9",
+      "label": "§ 9 FamFG",
+      "nummer": "9"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XII",
+      "id": "SGBXII§82",
+      "label": "§ 82 SGB XII",
+      "nummer": "82"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XII",
+      "id": "SGBXII§90",
+      "label": "§ 90 SGB XII",
+      "nummer": "90"
+    }
+  ],
   "pageid": 1733,
   "revid": 66628,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Rechtsgrundlagen für Betreuer"
     },
     {
+      "norms": [],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne"
       ],
       "text": "-Bürgerliches Gesetzbuch (BGB)\n\n- Titel 3 Rechtliche Betreuung"
     },
     {
+      "norms": [
+        "BGB§1814",
+        "BGB§1815",
+        "BGB§1816",
+        "BGB§1817",
+        "BGB§1818",
+        "BGB§1819",
+        "BGB§1820"
+      ],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne",
         "Betreuerbestellung"
@@ -128,6 +2517,14 @@
       "text": "--§ 1814 BGB Voraussetzungen der Betreuerbestellung\n--§ 1815 BGB Umfang der Betreuung\n--§ 1816 BGB Auswahl des Betreuers\n--§ 1817 BGB Bestellung mehrerer Betreuer, Verhinderungsbetreuer\n--§ 1818 BGB Betreuung durch Betreuungsverein oder Betreuungsbehörde\n--§ 1819 BGB Übernahmepflicht\n--§ 1820 BGB Schriftliche Betreuungswünsche"
     },
     {
+      "norms": [
+        "BGB§1821",
+        "BGB§1822",
+        "BGB§1823",
+        "BGB§1824",
+        "BGB§1825",
+        "BGB§1826"
+      ],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne",
         "Führung der Betreuung"
@@ -135,6 +2532,16 @@
       "text": "-- § 1821 BGB Pflichten des Betreuers\n-- § 1822 BGB Auskunft an Angehörige\n--§ 1823 BGB Vertretung des Betreuten\n--§ 1824 BGB Vertretungsverbote\n--§ 1825 BGB Einwilligungsvorbehalt\n--§ 1826 BGB Haftung"
     },
     {
+      "norms": [
+        "BGB§1827",
+        "BGB§1828",
+        "BGB§1829",
+        "BGB§1830",
+        "BGB§1831",
+        "BGB§1832",
+        "BGB§1833",
+        "BGB§1834"
+      ],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne",
         "Personenangelegenheiten"
@@ -142,6 +2549,21 @@
       "text": "--§ 1827 BGB Patientenverfügung\n--§ 1828 BGB Betreuer-Arzt-Gespräch\n--§ 1829 BGB Genehmigung des Betreuungsgerichts bei Heilbehandlung\n--§ 1830 BGB Sterilisation Betreuter\n--§ 1831 BGB Genehmigung des Betreuungsgerichts bei der Unterbringung\n--§ 1832 BGB Zwangsbehandlung\n--§ 1833 BGB Genehmigung des Betreuungsgerichts bei der Aufgabe der Mietwohnung\n--§ 1834 BGB Umgangsbestimmung"
     },
     {
+      "norms": [
+        "BGB§1835",
+        "BGB§1836",
+        "BGB§1837",
+        "BGB§1838",
+        "BGB§1839",
+        "BGB§1840",
+        "BGB§1841",
+        "BGB§1842",
+        "BGB§1843",
+        "BGB§1844",
+        "BGB§1845",
+        "BGB§1846",
+        "BGB§1847"
+      ],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne",
         "Vermögensangelegenheiten"
@@ -149,6 +2571,15 @@
       "text": "--§ 1835 BGB Vermögensverzeichnis\n--§ 1836 BGB Trennungsgebot\n--§ 1837 BGB Vermögensverwaltung bei Schenkung oder Erbschaft\n--§ 1838 BGB Vermögenssorge\n--§ 1839 BGB Verfügungsgeld\n--§ 1840 BGB Giroverkehr\n--§ 1841 BGB Geldanlage\n--§ 1842 BGB Anlagekonto\n--§ 1843 BGB Depotverwahrung\n--§ 1844 BGB Hinterlegung\n--§ 1845 BGB Sperrvermerk\n--§ 1846 BGB Anzeigepflichten beim Vermögen\n--§ 1847 BGB Anzeigepflichten Erwerbsgeschäft"
     },
     {
+      "norms": [
+        "BGB§1848",
+        "BGB§1849",
+        "BGB§1850",
+        "BGB§1851",
+        "BGB§1852",
+        "BGB§1853",
+        "BGB§1854"
+      ],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne",
         "Genehmigungspflichten beim Vermögen"
@@ -156,6 +2587,12 @@
       "text": "--§ 1848 BGB Anderweitige Geldanlage\n--§ 1849 BGB Verfügung über Vermögen\n--§ 1850 BGB Grundstücksgeschäfte\n--§ 1851 BGB Erbangelegenheiten\n--§ 1852 BGB Handels- und Gesellschaftsrechtl. Geschäfte\n--§ 1853 BGB Wiederkehrende Leistungen\n--§ 1854 BGB Sonstige Genehmigungen"
     },
     {
+      "norms": [
+        "BGB§1855",
+        "BGB§1856",
+        "BGB§1857",
+        "BGB§1858"
+      ],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne",
         "Genehmigungsverfahren"
@@ -163,6 +2600,10 @@
       "text": "--§ 1855 BGB Erklärung der Genehmigung\n--§ 1856 BGB Nachträgliche Genehmigung\n--§ 1857 BGB Widerrufsrecht\n--§ 1858 BGB Einseitiges Rechtsgeschäft"
     },
     {
+      "norms": [
+        "BGB§1859",
+        "BGB§1860"
+      ],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne",
         "Befreiungen"
@@ -170,6 +2611,15 @@
       "text": "--§ 1859 BGB Befreiter Betreuer\n--§ 1860 BGB Gerichtliche Befreiung"
     },
     {
+      "norms": [
+        "BGB§1861",
+        "BGB§1862",
+        "BGB§1863",
+        "BGB§1864",
+        "BGB§1865",
+        "BGB§1866",
+        "BGB§1867"
+      ],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne",
         "Beratung und Aufsicht"
@@ -177,6 +2627,15 @@
       "text": "--§ 1861 BGB Beratung durch das Gericht\n--§ 1862 BGB Aufsicht über den Betreuer\n--§ 1863 BGB Berichtspflicht\n--§ 1864 BGB Auskunftspflichten\n--§ 1865 BGB Rechnungslegung\n--§ 1866 BGB Prüfung der Rechnungslegung\n--§ 1867 BGB Einstweilige Maßnahmen"
     },
     {
+      "norms": [
+        "BGB§1868",
+        "BGB§1869",
+        "BGB§1870",
+        "BGB§1871",
+        "BGB§1872",
+        "BGB§1873",
+        "BGB§1874"
+      ],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne",
         "Beendigung, Änderung"
@@ -184,6 +2643,15 @@
       "text": "--§ 1868 BGB Entlassung des Betreuers\n--§ 1869 BGB Bestellung eines neuen Betreuers\n--§ 1870 BGB Tod des Betreuten\n--§ 1871 BGB Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt\n--§ 1872 BGB Schlusspflichten\n--§ 1873 BGB Prüfung der Schlussrechnung\n--§ 1874 BGB Notgeschäftsführung"
     },
     {
+      "norms": [
+        "BGB§1875",
+        "BGB§1876",
+        "BGB§1877",
+        "BGB§1878",
+        "BGB§1879",
+        "BGB§1880",
+        "BGB§1881"
+      ],
       "path": [
         "(materielles) Betreuungsrecht im engeren Sinne",
         "Entschädigung"
@@ -191,6 +2659,35 @@
       "text": "--§ 1875 BGB Vergütung und Aufwendungsersatz\n--§ 1876 BGB Ermessensvergütung\n--§ 1877 BGB Aufwendungsersatz\n--§ 1878 BGB Aufwandspauschale\n--§ 1879 BGB Zahlung der Staatskasse\n--§ 1880 BGB Mittellosigkeit\n--§ 1881 BGB Staatsregress\n--Vormünder- und Betreuervergütungsgesetz (VBVG)"
     },
     {
+      "norms": [
+        "BGB§1",
+        "BGB§2",
+        "BGB§8",
+        "BGB§104",
+        "BGB§105",
+        "BGB§105a",
+        "BGB§106",
+        "BGB§107",
+        "BGB§108",
+        "BGB§109",
+        "BGB§110",
+        "BGB§111",
+        "BGB§112",
+        "BGB§113",
+        "BGB§131",
+        "BGB§164",
+        "BGB§165",
+        "BGB§177",
+        "BGB§178",
+        "BGB§179",
+        "BGB§180",
+        "BGB§181",
+        "BGB§195",
+        "BGB§197",
+        "BGB§199",
+        "BGB§207",
+        "BGB§210"
+      ],
       "path": [
         "Sonstige Bestimmungen des BGB, die für Betreuer von Belang sind",
         "Allgemeiner Teil"
@@ -198,6 +2695,10 @@
       "text": "--§ 1 BGB Beginn der Rechtsfähigkeit\n--§ 2 BGB Eintritt der Volljährigkeit\n--§ 8 BGB Wohnsitz nicht voll Geschäftsfähiger\n--§ 104 BGB Geschäftsunfähigkeit\n--§ 105 BGB Nichtigkeit der Willenserklärung\n--§ 105a BGB Wirksame Alltagsgeschäfte bei Geschäftsunfähigkeit\n--§ 106 BGB Beschränkte Geschäftsfähigkeit Minderjähriger\n--§ 107 BGB Einwilligung des gesetzlichen Vertreters\n--§ 108 BGB Vertragsschluss ohne Einwilligung\n--§ 109 BGB Widerrufsrecht des anderen Teils\n--§ 110 BGB Bewirken der Leistung mit eigenen Mitteln\n--§ 111 BGB Einseitige Rechtsgeschäfte\n--§ 112 BGB Selbständiger Betrieb eines Erwerbsgeschäfts\n--§ 113 BGB Dienst- oder Arbeitsverhältnis\n--§ 131 BGB Wirksamwerden gegenüber nicht voll Geschäftsfähigen\n--§ 164 BGB Wirkung der Erklärung des Vertreters\n--§ 165 BGB Beschränkt geschäftsfähiger Vertreter\n--§ 177 BGB Vertragsschluss durch Vertreter ohne Vertretungsmacht\n--§ 178 BGB Widerrufsrecht des anderen Teils\n--§ 179 BGB Haftung des Vertreters ohne Vertretungsmacht\n--§ 180 BGB Einseitiges Rechtsgeschäft\n--§ 181 BGB Insichgeschäft\n--§ 195 BGB Regelmäßige Verjährungsfrist\n--§ 197 BGB Dreißigjährige Verjährungsfrist\n--§ 199 BGB Beginn der regelmäßigen Verjährungsfrist und Höchstfristen\n--§ 207 BGB Hemmung der Verjährung aus familiären und ähnlichen Gründen\n--§ 210 BGB Ablaufhemmung bei nicht voll Geschäftsfähigen"
     },
     {
+      "norms": [
+        "BGB§669",
+        "BGB§670"
+      ],
       "path": [
         "Sonstige Bestimmungen des BGB, die für Betreuer von Belang sind",
         "Auftragsrecht"
@@ -205,6 +2706,12 @@
       "text": "--§ 669 BGB Vorschusspflicht\n--§ 670 BGB Ersatz von Aufwendungen"
     },
     {
+      "norms": [
+        "BGB§823",
+        "BGB§827",
+        "BGB§829",
+        "BGB§832"
+      ],
       "path": [
         "Sonstige Bestimmungen des BGB, die für Betreuer von Belang sind",
         "Schadensersatz"
@@ -212,6 +2719,22 @@
       "text": "--§ 823 BGB Schadensersatzpflicht\n--§ 827 BGB Ausschluss und Minderung der Verantwortlichkeit\n--§ 829 BGB Ersatzpflicht aus Billigkeitsgründen\n--§ 832 BGB Haftung des Aufsichtspflichtigen"
     },
     {
+      "norms": [
+        "BGB§1304",
+        "BGB§1313",
+        "BGB§1314",
+        "BGB§1315",
+        "BGB§1316",
+        "BGB§1317",
+        "BGB§1358",
+        "BGB§1411",
+        "BGB§1436",
+        "BGB§1491",
+        "BGB§1492",
+        "BGB§1493",
+        "BGB§1511",
+        "BGB§1516"
+      ],
       "path": [
         "Sonstige Bestimmungen des BGB, die für Betreuer von Belang sind",
         "Eherecht"
@@ -219,6 +2742,14 @@
       "text": "--§ 1304 BGB Geschäftsunfähigkeit (Eheschließung)\n--§ 1313 BGB Aufhebung der Ehe durch Urteil\n--§ 1314 BGB Aufhebungsgründe\n--§ 1315 BGB Ausschluss der Eheaufhebung\n--§ 1316 BGB Antragsberechtigung\n--§ 1317 BGB Antragsfrist für Eheaufhebungsantrag\n--§ 1358 BGB Angehörigenvertretungsrecht\n--§ 1411 BGB Eheverträge beschränkt Geschäftsfähiger und Geschäftsunfähiger\n--§ 1436 BGB Verwalter unter Vormundschaft oder Betreuung\n--§ 1491 BGB Verzicht eines Abkömmlings\n--§ 1492 BGB Aufhebung durch den überlebenden Ehegatten\n--§ 1493 BGB Wiederverheiratung oder Begründung einer Lebenspartnerschaft des überlebenden Ehegatten\n--§ 1511 BGB Ausschließung eines Abkömmlings\n--§ 1516 BGB Zustimmung des anderen Ehegatten"
     },
     {
+      "norms": [
+        "BGB§1592",
+        "BGB§1593",
+        "BGB§1596",
+        "BGB§1599",
+        "BGB§1600",
+        "BGB§1600a"
+      ],
       "path": [
         "Sonstige Bestimmungen des BGB, die für Betreuer von Belang sind",
         "Abstammungsrecht"
@@ -226,6 +2757,34 @@
       "text": "--§ 1592 BGB Vaterschaft\n--§ 1593 BGB Vaterschaft bei Auflösung der Ehe durch Tod\n--§ 1596 BGB Anerkennung und Zustimmung bei fehlender oder beschränkter Geschäftsfähigkeit\n--§ 1599 BGB Nichtbestehen der Vaterschaft\n--§ 1600 BGB Anfechtungsberechtigte bei der Vaterschaft\n--§ 1600a BGB Persönliche Anfechtung; Anfechtung bei fehlender oder beschränkter Geschäftsfähigkeit"
     },
     {
+      "norms": [
+        "BGB§1626c",
+        "BGB§1627",
+        "BGB§1628",
+        "BGB§1629",
+        "BGB§1629a",
+        "BGB§1630",
+        "BGB§1631",
+        "BGB§1631a",
+        "BGB§1631b",
+        "BGB§1631c",
+        "BGB§1632",
+        "BGB§1664",
+        "BGB§1673",
+        "BGB§1674",
+        "BGB§1698a",
+        "BGB§1698b",
+        "BGB§1712",
+        "BGB§1713",
+        "BGB§1715",
+        "BGB§1716",
+        "BGB§1741",
+        "BGB§1746",
+        "BGB§1748",
+        "BGB§1749",
+        "BGB§1750",
+        "BGB§1768"
+      ],
       "path": [
         "Sonstige Bestimmungen des BGB, die für Betreuer von Belang sind",
         "Elterliche Sorge"
@@ -233,6 +2792,21 @@
       "text": "--§ 1626c BGB Sorgeerklärung - persönliche Abgabe; beschränkt geschäftsfähiger Elternteil\n--§ 1627 BGB Ausübung der elterlichen Sorge\n--§ 1628 BGB Gerichtliche Entscheidung bei Meinungsverschiedenheiten der Eltern\n--§ 1629 BGB Vertretung des Kindes\n--§ 1629a BGB Beschränkung der Minderjährigenhaftung\n--§ 1630 BGB Elterliche Sorge bei Pflegerbestellung oder Familienpflege\n--§ 1631 BGB Inhalt und Grenzen der Personensorge\n--§ 1631a BGB Ausbildung und Beruf\n--§ 1631b BGB Mit Freiheitsentziehung verbundene Unterbringung von Minderjährigen\n--§ 1631c BGB Verbot der Sterilisation Minderjähriger\n--§ 1632 BGB Herausgabe des Kindes; Bestimmung des Umgangs; Verbleibensanordnung bei Familienpflege\n--§ 1664 BGB Beschränkte Haftung der Eltern\n--§ 1673 BGB Ruhen der elterlichen Sorge bei rechtlichem Hindernis\n--§ 1674 BGB Ruhen der elterlichen Sorge bei tatsächlichem Hindernis\n--§ 1698a BGB Fortführung der Geschäfte in Unkenntnis der Beendigung der elterlichen Sorge\n--§ 1698b BGB Fortführung dringender Geschäfte nach Tod des Kindes\n--§ 1712 BGB Beistandschaft des Jugendamts für Minderjährige; Aufgaben\n--§ 1713 BGB Antragsberechtigte bei Beistandschaft\n--§ 1715 BGB Beendigung der Beistandschaft\n--§ 1716 BGB Wirkungen der Beistandschaft\n--§ 1741 BGB Zulässigkeit der Annahme (Adoption)\n--§ 1746 BGB Einwilligung des Kindes in die Adoption\n--§ 1748 BGB Ersetzung der Einwilligung eines Elternteils in Adoption\n--§ 1749 BGB Einwilligung des Ehegatten in die Adoption\n--§ 1750 BGB Einwilligungserklärung zur Adoption\n--§ 1768 BGB Antrag auf Adoption"
     },
     {
+      "norms": [
+        "BGB§1773",
+        "BGB§1774",
+        "BGB§1775",
+        "BGB§1776",
+        "BGB§1777",
+        "BGB§1778",
+        "BGB§1780",
+        "BGB§1781",
+        "BGB§1782",
+        "BGB§1784",
+        "BGB§1785",
+        "BGB§1786",
+        "BGB§1787"
+      ],
       "path": [
         "Sonstige Bestimmungen des BGB, die für Betreuer von Belang sind",
         "Vormundschaft",
@@ -241,6 +2815,32 @@
       "text": "--§ 1773 BGB Voraussetzungen der Vormundschaft\n--§ 1774 BGB Vormund\n--§ 1775 BGB Mehrere Vormünder\n--§ 1776 BGB Zusätzlicher Pfleger\n--§ 1777 BGB Übertragung von Sorgeangelegenheiten\n--§ 1778 BGB Auswahl des Vormunds\n--§ 1780 BGB Berücksichtigung der beruflichen Belastung\n--§ 1781 BGB Bestellung eines vorläufigen Vormunds\n--§ 1782 BGB Ausschluss durch die Eltern\n--§ 1784 BGB Ausschlussgründe\n--§ 1785 BGB Übernahmepflicht zur Vormundschaft\n--§ 1786 BGB Amtsvormundschaft\n--§ 1787 BGB Amtsvormundschaft bei vertraulicher Geburt"
     },
     {
+      "norms": [
+        "BGB§1788",
+        "BGB§1789",
+        "BGB§1790",
+        "BGB§1791",
+        "BGB§1792",
+        "BGB§1793",
+        "BGB§1795",
+        "BGB§1796",
+        "BGB§1797",
+        "BGB§1798",
+        "BGB§1799",
+        "BGB§1800",
+        "BGB§1801",
+        "BGB§1802",
+        "BGB§1803",
+        "BGB§1804",
+        "BGB§1805",
+        "BGB§1806",
+        "BGB§1807",
+        "BGB§1809",
+        "BGB§1810",
+        "BGB§1811",
+        "BGB§1812",
+        "BGB§1813"
+      ],
       "path": [
         "Sonstige Bestimmungen des BGB, die für Betreuer von Belang sind",
         "Vormundschaft",
@@ -249,6 +2849,26 @@
       "text": "--§ 1788 BGB Rechte des Mündels\n--§ 1789 BGB Sorge des Vormunds\n--§ 1790 BGB Amtsführung des Vormunds\n--§ 1791 BGB Aufnahme des Mündels in den Haushalt des Vormunds\n--§ 1792 BGB Gemeinschaftliche Führung der Vormundschaft\n--§ 1793 BGB Entscheidung bei Meinungsverschiedenheiten\n--§ 1795 BGB Gegenstand der Personensorge\n--§ 1796 BGB Verhältnis zwischen Vormund und Pflegeperson\n--§ 1797 BGB Entscheidungsbefugnis der Pflegeperson\n--§ 1798 BGB Vermögenssorge\n--§ 1799 BGB genehmigungsbedürftige Rechtsgeschäfte\n--§ 1800 BGB Erteilung der Genehmigung\n--§ 1801 BGB Befreite Vormundschaft\n--§ 1802 BGB Aufsicht durch das Familiengericht\n--§ 1803 BGB Anhörung\n--§ 1804 BGB Entlassung des Vormunds\n--§ 1805 BGB Bestellung eines neuen Vormunds\n--§ 1806 BGB Ende der Vormundschaft\n--§ 1807 BGB Schlussrechnung\n--§ 1809 BGB Ergänzungspflegschaft\n--§ 1810 BGB Pflegschaft für ein ungeborenes Kind\n--§ 1811 BGB Zuwendungspflegschaft\n--§ 1812 BGB Ende der Pflegschaft\n--§ 1813 BGB Anwendung des Vormundschaftsrechts"
     },
     {
+      "norms": [
+        "BGB§1943",
+        "BGB§1944",
+        "BGB§1960",
+        "BGB§1961",
+        "BGB§1962",
+        "BGB§2229",
+        "BGB§2274",
+        "BGB§2275",
+        "BGB§2282",
+        "BGB§2283",
+        "BGB§2284",
+        "BGB§2290",
+        "BGB§2296",
+        "BGB§2339",
+        "BGB§2347",
+        "BGB§2348",
+        "BGB§2351",
+        "BGB§2352"
+      ],
       "path": [
         "Sonstige Bestimmungen des BGB, die für Betreuer von Belang sind",
         "5. Buch. Erbrecht"
@@ -256,12 +2876,34 @@
       "text": "--§ 1943 BGB Annahme und Ausschlagung der Erbschaft\n--§ 1944 BGB Ausschlagungsfrist\n--§ 1960 BGB Sicherung des Nachlasses; Nachlasspfleger\n--§ 1961 BGB Nachlasspflegschaft auf Antrag\n--§ 1962 BGB Zuständigkeit des Nachlassgerichts\n--§ 2229 BGB Testierfähigkeit Minderjähriger, Testierunfähigkeit\n--§ 2274 BGB Persönlicher Abschluss (des Erbvertrags)\n--§ 2275 BGB Voraussetzungen\n--§ 2282 BGB Vertretung, Form der Anfechtung\n--§ 2283 BGB Anfechtungsfrist\n--§ 2284 BGB Bestätigung\n--§ 2290 BGB Aufhebung durch Vertrag\n--§ 2296 BGB Vertretung, Form des Rücktritts\n--§ 2339 BGB Gründe für Erbunwürdigkeit\n--§ 2347 BGB Persönliche Anforderungen, Vertretung\n--§ 2348 BGB Form (des Erbverzichtsvertrags)\n--§ 2351 BGB Aufhebung des Erbverzichts\n--§ 2352 BGB Verzicht auf Zuwendungen"
     },
     {
+      "norms": [],
       "path": [
         "Betreuungs- und Unterbringungsverfahren (ab 01.09.2009)"
       ],
       "text": "Wichtige Bestimmungen für Betreuer"
     },
     {
+      "norms": [
+        "FamFG§7",
+        "FamFG§274",
+        "FamFG§324",
+        "FamFG§9",
+        "FamFG§275",
+        "FamFG§316",
+        "FamFG§10",
+        "FamFG§11",
+        "FamFG§12",
+        "FamFG§15",
+        "FamFG§287",
+        "FamFG§288",
+        "FamFG§17",
+        "FamFG§18",
+        "FamFG§19",
+        "FamFG§34",
+        "FamFG§278",
+        "FamFG§41",
+        "FamFG§40"
+      ],
       "path": [
         "Betreuungs- und Unterbringungsverfahren (ab 01.09.2009)",
         "Allgemeine Bestimmungen"
@@ -269,6 +2911,21 @@
       "text": "-§§ 7, 274, 324 FamFG Verfahrensbeteiligte\n-§§ 9, 275, 316 FamFG Verfahrensfähigkeit\n-§§ 10, 11, 12 FamFG Bevollmächtigte\n-§§ 15, 287, 288 FamFG Bekanntgabe\n-§§ 17, 18, 19 FamFG Wiedereinsetzung in den vorigen Stand\n-§§ 34, 278 FamFG Persönliche Anhörung\n-§§ 15, 41 FamFG Bekanntgabe\n-§§ 40, 287, 324 FamFG Wirksamwerden von Beschlüssen"
     },
     {
+      "norms": [
+        "FamFG§39",
+        "FamFG§58",
+        "FamFG§59",
+        "FamFG§303",
+        "FamFG§335",
+        "FamFG§61",
+        "FamFG§63",
+        "FamFG§64",
+        "FamFG§65",
+        "FamFG§66",
+        "FamFG§70",
+        "FamFG§71",
+        "FamFG§10"
+      ],
       "path": [
         "Betreuungs- und Unterbringungsverfahren (ab 01.09.2009)",
         "Rechtsmittel"
@@ -276,6 +2933,51 @@
       "text": "-§ 39 FamFG Rechtsmittelbelehrung\n-§§ 58 FamFG Beschwerde\n-§§ 59, 303, 335 FamFG Beschwerdeberechtigte\n-§ 61 FamFG Beschwerdewert\n-§ 63 FamFG Beschwerdefrist\n-§ 64 FamFG Einlegen der Beschwerde\n-§ 65 FamFG Beschwerdebegründung\n-§ 66 FamFG Anschlussbeschwerde\n-§ 70 FamFG Rechtsbeschwerde (an den Bundesgerichtshof)\n-§ 71 FamFG Einlegen der Rechtsbeschwerde\n-§ 10 FamFG Anwaltszwang beim Bundesgerichtshof"
     },
     {
+      "norms": [
+        "FamFG§271",
+        "FamFG§272",
+        "FamFG§273",
+        "FamFG§274",
+        "FamFG§275",
+        "FamFG§276",
+        "FamFG§277",
+        "FamFG§278",
+        "FamFG§279",
+        "FamFG§280",
+        "FamFG§281",
+        "FamFG§282",
+        "FamFG§283",
+        "FamFG§284",
+        "FamFG§285",
+        "FamFG§286",
+        "FamFG§287",
+        "FamFG§288",
+        "FamFG§289",
+        "FamFG§290",
+        "FamFG§291",
+        "FamFG§292",
+        "FamFG§292a",
+        "FamFG§293",
+        "FamFG§294",
+        "FamFG§295",
+        "FamFG§296",
+        "FamFG§297",
+        "FamFG§298",
+        "FamFG§299",
+        "FamFG§125",
+        "FamFG§300",
+        "FamFG§301",
+        "FamFG§302",
+        "FamFG§303",
+        "FamFG§304",
+        "FamFG§305",
+        "FamFG§306",
+        "FamFG§307",
+        "FamFG§308",
+        "FamFG§309",
+        "FamFG§310",
+        "FamFG§311"
+      ],
       "path": [
         "Betreuungs- und Unterbringungsverfahren (ab 01.09.2009)",
         "Betreuungsverfahren"
@@ -283,6 +2985,37 @@
       "text": "-§ 271 FamFG Betreuungssachen\n-§ 272 FamFG Örtliche Zuständigkeit des Betreuungsgerichtes\n-§ 273 FamFG Abgabe des Gerichtsverfahrens\n-§ 274 FamFG Verfahrensbeteiligte beim Betreuungsverfahren\n-§ 275 FamFG Verfahrensfähigkeit im Betreuungsverfahren\n-§ 276 FamFG Verfahrenspfleger\n-§ 277 FamFG Vergütung des Verfahrenspflegers\n-§ 278 FamFG Anhörung des Betroffenen\n-§ 279 FamFG Anhörung sonst. Beteiligter, zB der Betreuungsbehörde\n-§ 280 FamFG Sachverständigengutachten\n-§ 281 FamFG ärztliches Zeugnis statt SV-Gutachten\n-§ 282 FamFG MDK-Gutachten statt SV-Gutachten\n-§ 283 FamFG Vorführung zum Sachverständigen\n-§ 284 FamFG Unterbringung zur Begutachtung\n-§ 285 FamFG Ablieferung der Betreuungsverfügung oder Vorsorgevollmacht\n-§ 286 FamFG Gerichtsbeschluss\n-§ 287 FamFG Wirksamwerden des Beschlusses\n-§ 288 FamFG Bekanntgabe des Beschlusses\n-§ 289 FamFG Verpflichtungsgespräch\n-§ 290 FamFG Betreuerausweis\n-§ 291 FamFG Überprüfen der Betreuerauswahl\n-§ 292 FamFG Aufwendungsersatz und Betreuervergütung\n-§ 292a FamFG Verfahren beim Staatsregress\n-§ 293 FamFG Erweiterung des Aufgabenkreises und des Einwilligungsvorbehaltes\n-§ 294 FamFG Einschränkung und Aufhebung der Betreuung\n-§ 295 FamFG Verlängerung der Betreuung und des Einwilligungsvorbehaltes\n-§ 296 FamFG Entlassung des Betreuers\n-§ 297 FamFG Genehmigung der Sterilisation\n-§ 298 FamFG Genehmigung der Heilbehandlung und Sterbehilfe\n-§ 299 FamFG Genehmigungen im Bereich Vermögenssorge und Wohnungskündigung\n-§ 125 FamFG Genehmigung der Ehescheidung\n-§ 300 FamFG Einstweilige Anordnung\n-§ 301 FamFG Einstweilige Anordnung bei gesteigerter Dringlichkeit\n-§ 302 FamFG Dauer der einstweiligen Anordnung\n-§ 303 FamFG Rechtsmittel\n-§ 304 FamFG Rechtsmittel der Staatskasse (Bezirksrevisor)\n-§ 305 FamFG Beschwerde eines Untergebrachten\n-§ 306 FamFG Auswirkungen der Aufhebung des Einwilligungsvorbehaltes\n-§ 307 FamFG Gerichtskosten in Betreuungssachen\n-§ 308 FamFG Mitteilungen an andere Stellen\n-§ 309 FamFG Mitteilungen an Wahlamt und Einwohnermeldeamt\n-§ 310 FamFG Mitteilungen an Leiter von Unterbringungseinrichtungen\n-§ 311 FamFG Mitteilungen zur Strafverfolgung"
     },
     {
+      "norms": [
+        "FamFG§312",
+        "FamFG§313",
+        "FamFG§314",
+        "FamFG§315",
+        "FamFG§316",
+        "FamFG§317",
+        "FamFG§318",
+        "FamFG§319",
+        "FamFG§320",
+        "FamFG§321",
+        "FamFG§322",
+        "FamFG§323",
+        "FamFG§324",
+        "FamFG§325",
+        "FamFG§326",
+        "FamFG§327",
+        "FamFG§328",
+        "FamFG§329",
+        "FamFG§330",
+        "FamFG§331",
+        "FamFG§332",
+        "FamFG§333",
+        "FamFG§334",
+        "BGB§1846",
+        "FamFG§335",
+        "FamFG§336",
+        "FamFG§337",
+        "FamFG§338",
+        "FamFG§339"
+      ],
       "path": [
         "Betreuungs- und Unterbringungsverfahren (ab 01.09.2009)",
         "Unterbringungsverfahren"
@@ -290,24 +3023,31 @@
       "text": "-§ 312 FamFG Unterbringungssachen\n-§ 313 FamFG Örtliche Zuständigkeit des Betreuungsgerichtes\n-§ 314 FamFG Abgabe des Gerichtsverfahrens\n-§ 315 FamFG Verfahrensbeteiligte beim Unterbringungsverfahren\n-§ 316 FamFG Verfahrensfähigkeit im Unterbringungsverfahren\n-§ 317 FamFG Verfahrenspfleger\n-§ 318 FamFG Vergütung des Verfahrenspflegers\n-§ 319 FamFG Anhörung des Betroffenen\n-§ 320 FamFG Anhörung sonst. Beteiligter, zB der Betreuungsbehörde\n-§ 321 FamFG Sachverständigengutachten\n-§ 322 FamFG Vorführung zum Sachverständigen\n-§ 323 FamFG Unterbringungsbeschluss\n-§ 324 FamFG Wirksamwerden des Beschlusses\n-§ 325 FamFG Bekanntgabe des Beschlusses\n-§ 326 FamFG Zuführung zur Unterbringung\n-§ 327 FamFG Vollzugsregelungen bei PsychKG-Unterbringungen\n-§ 328 FamFG Aussetzung des Vollzugs bei PsychKG-Unterbringungen\n-§ 329 FamFG Dauer und Verlängerung der Unterbringung\n-§ 330 FamFG Aufhebung der Unterbringung\n-§ 331 FamFG Einstweilige Anordnung\n-§ 332 FamFG Einstweilige Anordnung bei gesteigerter Dringlichkeit\n-§ 333 FamFG Dauer der einstweiligen Anordnung\n-§ 334 FamFG einstweilige Maßregeln nach § 1846 BGB\n-§ 335 FamFG Beschwerde\n-§ 336 FamFG Beschwerde eines Untergebrachten\n-§ 337 FamFG Gerichtskosten in Unterbringungssachen\n-§ 338 FamFG Mitteilungen an andere Stellen\n-§ 339 FamFG Mitteilung an eine Vertrauensperson"
     },
     {
+      "norms": [],
       "path": [
         "Weitere Rechtsnormen"
       ],
       "text": "-Betreuungsorganisationsgesetz (BtOG)\n-Vormünder- und Betreuervergütungsgesetz (VBVG)\n-Betreuerregistrierungsverordnung (BtRegV)\n-Vorsorgeregisterverordnung\n-Landesbestimmungen zum Betreuungsrecht"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Gesetzgebung, Wahlrecht\n- Rechtsprechung\n- Personenstand"
     },
     {
+      "norms": [],
       "path": [
         "Internationales Recht"
       ],
       "text": "-Haager Übereinkommen zum internationalen Schutz von Erwachsenen\n-UN-Konvention zum Schutz behinderter Menschen\n-Globales Nachhaltigkeitsziel 10"
     },
     {
+      "norms": [
+        "SGBXII§82",
+        "SGBXII§90"
+      ],
       "path": [
         "Weitere Gesetze für Betreuer (außerhalb dieses Lexikons)"
       ],

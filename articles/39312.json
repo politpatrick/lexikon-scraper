@@ -29,16 +29,39 @@
     "vertrauensperson",
     "werkstatt-für-behinderte-menschen"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IX",
+      "id": "SGBIX§117",
+      "label": "§ 117 SGB IX",
+      "nummer": "117"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IX",
+      "id": "SGBIX§22",
+      "label": "§ 22 SGB IX",
+      "nummer": "22"
+    }
+  ],
   "pageid": 39312,
   "revid": 65881,
   "sections": [
     {
+      "norms": [
+        "SGBIX§117",
+        "SGBIX§22"
+      ],
       "path": [
         "Einleitung"
       ],
       "text": "Das sogenannte Gesamtplanverfahren ist in § 117 SGB IX sozialgesetzlich geregelt. Bei der sogenannten Gesamtplanung zur bestmöglichen Inklusion von Menschen mit Behinderung in die sie umgebende Gesellschaft in ihrer Wohnortgemeinde sollen die Leistungsberechtigten in allen Verfahrensschritten, beginnend mit der Beratung, beteiligt werden. Die Wünsche des Leistungsberechtigten zu Ziel und Art der Eingliederungsleistungen werden dokumentiert. Stets wird dabei transparent, trägerübergreifend, interdisziplinär, konsensorientiert, individuell, lebensweltbezogen, sozialraum- und zielorientiert zusammengearbeitet.\n\nBeteiligt werden am Verfahren auf Verlangen die Vertrauensperson des Leistungsberechtigten, die zuständige Pflegekasse, ggf. das zuständige Sozialamt bei Hilfe zur Pflege und bei Hilfe zum Lebensunterhalt sowie bei rechtlichem Betreuungsbedarf die zuständige Betreuungsbehörde, diese aber nur mit Zustimmung des Leistungsberechtigten. Wurde schon ein Betreuer bestellt, dann sollte dieser auch an der Gesamtplankonferenz teilnehmen, wenn sein Betreuter zustimmt (vergleiche § 22 Abs. 4 SGB IX)."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

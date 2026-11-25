@@ -27,34 +27,87 @@
     "tod-des-betreuten",
     "vermögenssorge"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1863",
+      "label": "§ 1863 BGB",
+      "nummer": "1863"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1872",
+      "label": "§ 1872 BGB",
+      "nummer": "1872"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1873",
+      "label": "§ 1873 BGB",
+      "nummer": "1873"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§290",
+      "label": "§ 290 FamFG",
+      "nummer": "290"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "PStG",
+      "id": "PStG§65",
+      "label": "§ 65 PStG",
+      "nummer": "65"
+    }
+  ],
   "pageid": 2073,
   "revid": 66692,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst."
     },
     {
+      "norms": [
+        "BGB§1863",
+        "BGB§1872",
+        "BGB§1873",
+        "PStG§65",
+        "FamFG§290"
+      ],
       "path": [
         "Die letzte Berichterstattung"
       ],
       "text": "Ein Schlussbericht muss nach der Beendigung einer Betreuung durch den Betreuer erstellt und an das Betreuungsgericht gesendet werden (§ 1863 Abs. 4 BGB). Wurde der Betreuer für den Aufgabenbereich Vermögenssorge bestellt, kann die Einreichung der Schlussrechnungslegung und/oder Selbstverwaltungserklärung zusammen mit dem Schlussbericht erfolgen.\n\nDer Schlussbericht knüpft i.d.R. an den letzten Jahresbericht an. Erfolgt die Beendigung der Betreuung innerhalb des ersten Betreuungsjahres knüpft er alternativ an den Anfangsbericht an. Der Betreuer hat die folgenden inhaltlichen Anforderungen nach § 1863 Abs. 4 BGB bei der Erstellung des Schlusssberichtes zu beachten:\n-die seit dem letzten Jahresbericht eingetretenen Änderungen der persönlichen Verhältnisse,\n-Angaben zur Herausgabe des der Verwaltung des Betreuers unterliegenden Vermögens des Betreuten und aller im Rahmen der Betreuung erlangten Unterlagen (§ 1872 BGB),\n-ob der Berechtigte auf sein Recht, die Schlussrechnung gerichtlich prüfen zu lassen (§ 1873 BGB), hingewiesen wurde und wann (wegen der 6-Wochenfrist).\n\nIst die Betreuung wegen Todes beendet, sollte der Betreuer den genauen Todestag und den Sterbeort (wichtig wegen Zuständigkeit des Standesamtes) nennen. Eine Sterbeurkunde zu übersenden, ist keine Betreuerpflicht. Das Gericht kann diese direkt vom Standesamt anfordern (§ 65 PStG).\n\nDer Betreuer hat auch den Betreuerausweis zurückzusenden (§ 290 FamFG)."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Ende der Betreuung, Tod des Betreuten, Betreuerwechsel\n- Hamburger Mustergliederung\n- Schlussrechnungslegung, Schlusstätigkeiten\n- Notgeschäftsführung"
     },
     {
+      "norms": [],
       "path": [
         "Literatur"
       ],
       "text": "-Felix; Vermögensverwaltung und Berichtswesen im neuen Betreuungsrecht; Rpfleger 2024, ?\n-Thielke: Anfangsbericht - Anfangsgespräch - Jahresbericht - Schlussbericht; BtPrax 2022, 39\n-Thielke: Gut gemeint, aber Ziel verfehlt? Die neuen Vorschriften zur Schlussabwicklung; Teil 1 BtPrax 2023, 193; Teil 2 BtPrax 2024, 3"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],

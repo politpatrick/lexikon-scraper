@@ -29,22 +29,37 @@
     "verfügungsgeld",
     "vermögenssorge"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1865",
+      "label": "§ 1865 BGB",
+      "nummer": "1865"
+    }
+  ],
   "pageid": 39233,
   "revid": 66148,
   "sections": [
     {
+      "norms": [
+        "BGB§1865"
+      ],
       "path": [
         "Einleitung"
       ],
       "text": "Dieser Artikel ist an die Rechtslage ab 1.1.2023 angepasst.\n\nIm Rahmen der jährlichen Rechnungslegung legt der Betreuer ggü. dem Betreuungsgericht über das vom Betreuten verwaltete Vermögen Rechnung ab (§ 1865 BGB). Im Umkehrschluss kann ein Betreuer - logischerweise - keine Rechnung über das Vermögen des Betreuten ablegen, das der Betreute selbst verwaltet hat.\n\nDer Betreuer hat dem Betreuungsgericht mitzuteilen (z.B. im Jahresbericht), wenn der Betreute einen Teil seines Vermögens selbst verwaltet. Diese Angabe muss mit einer Selbstverwaltungserklärung des Betreuten bestätigt werden.\n\nDie Erklärung sollte genaue Angaben enthalten, welche Teile des Vermögens selbst verwaltet wurden  und auf welchen Berichtszeitraum sich die Erklärung bezieht.\n\nSollte eine Erklärung nicht eingereicht werden können, muss der Betreuer die Richtigkeit der Angaben an Eides statt versichern."
     },
     {
+      "norms": [],
       "path": [
         "Formulare"
       ],
       "text": "-Vordruck Selbstverwaltung (PDF)"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

@@ -67,22 +67,121 @@
     "wohn--und-betreuungsvertragsgesetz",
     "zugriffsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§131",
+      "label": "§ 131 BGB",
+      "nummer": "131"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§312d",
+      "label": "§ 312d BGB",
+      "nummer": "312d"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§630e",
+      "label": "§ 630e BGB",
+      "nummer": "630e"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§651d",
+      "label": "§ 651d BGB",
+      "nummer": "651d"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§676b",
+      "label": "§ 676b BGB",
+      "nummer": "676b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§5",
+      "label": "§ 5 BtOG",
+      "nummer": "5"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB I",
+      "id": "SGBI§15",
+      "label": "§ 15 SGB I",
+      "nummer": "15"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB V",
+      "id": "SGBV§27b",
+      "label": "§ 27b SGB V",
+      "nummer": "27b"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB V",
+      "id": "SGBV§314",
+      "label": "§ 314 SGB V",
+      "nummer": "314"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB V",
+      "id": "SGBV§343",
+      "label": "§ 343 SGB V",
+      "nummer": "343"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "WBVG",
+      "id": "WBVG§3",
+      "label": "§ 3 WBVG",
+      "nummer": "3"
+    }
+  ],
   "pageid": 39266,
   "revid": 65861,
   "sections": [
     {
+      "norms": [
+        "SGBI§15"
+      ],
       "path": [
         "Allgemeines"
       ],
       "text": "Informationspflichten sieht der demokratische Gesetzgeber vor allem zum Verbraucherschutz und im Sozialrecht vor.\n\nAlle Sozialleistungsträger haben nach § 15 SGB I Auskunft zu geben über die Ansprüche, die den Bürger/innen zustehen. Diese Ansprüche kann der Betreuer stellvertretend wahrnehmen."
     },
     {
+      "norms": [
+        "BGB§630e"
+      ],
       "path": [
         "Ärztliche Informationspflicht"
       ],
       "text": "Eine im Betreuungsrecht wichtige Informationspflicht wird durch § 630e BGB dem behandelnden Arzt oder der Ärztin als Aufklärungspflicht gesetzlich vorgeschrieben. Die ärztliche Aufklärung vor Abschluss des Behandlungsvertrags muss bei Betreuten auch gegenüber dem Betreuer erfolgen, da er ja den Behandlungsvertrag unterschreiben und damit auch in die Behandlung einwilligen muss. Dies gilt jedoch nur, wenn der Betreute nach Überzeugung des Arztes einwilligungsunfähig ist."
     },
     {
+      "norms": [
+        "SGBV§27b"
+      ],
       "path": [
         "Ärztliche Informationspflicht",
         "Einholung einer Zweitmeinung?"
@@ -90,48 +189,72 @@
       "text": "Krankenversicherte in Deutschland, bei denen von ihrem Haus- oder Facharzt die Indikation zu einem planbaren Eingriff in ihre körperliche Unversehrtheit (= Grundrechtseingriff) gestellt wird, haben gemäß § 27b SGB V einen Anspruch darauf, eine unabhängige ärztliche Zweitmeinung einzuholen, falls sie mit ihrer Einwilligung noch unsicher sind. Bei einwilligungsunfähigen Patienten gilt dies sicher auch für den Betreuer oder den Vorsorgebevollmächtigten mit dem Aufgabenkreis Gesundheitssorge. Zur Erbringung dieser Zweitmeinung (vergleiche: Arztzeugnis) sind gemäß § 27b Abs. 3 SGB V zugelassene Ärzte, zugelassene medizinische Versorgungszentren, ermächtigte Ärzte und Einrichtungen, zugelassene Krankenhäuser sowie spezielle Zweitmeinungsärzte berechtigt."
     },
     {
+      "norms": [
+        "BGB§312d",
+        "BGB§651d",
+        "BGB§676b",
+        "BGB§131"
+      ],
       "path": [
         "handelsrechtliche Informationspflichten"
       ],
       "text": "Auch zum rechtswirksamen Abschluss eines sogenannten Fernabsatzvertrages müssen gemäß § 312d BGB bestimmte Informationspflichten erfüllt worden sein, was bei Betreuten inhaltlich oft strittig sein dürfte. Dasselbe gilt gemäß § 651d BGB auch für Pauschalreiseverträge.\n\nInformationspflichten gemäß § 676b Abs. 2 Satz 2 BGB können die Banken in Deutschland Geschäftsunfähigen gegenüber nur dadurch erfüllen, dass sie die entsprechende Information im Sinne von § 131 Abs. 1 BGB an den gesetzlichen Vertreter richten. Die damit einhergehende fehlende Rechtssicherheit bei Rechtsgeschäften mit unerkannt Geschäftsunfähigen entspricht der grundlegenden Wertentscheidung des Gesetzgebers zugunsten der Interessen der aufgrund persönlicher Eigenschaften typischerweise schwächeren Teilnehmerinnen und Teilnehmer am rechtsgeschäftlichen Verkehr (= vulnerable Gruppe)."
     },
     {
+      "norms": [
+        "BGB§676b",
+        "BGB§131"
+      ],
       "path": [
         "Informationspflichten von Banken"
       ],
       "text": "Rechtsprechung:\n\nOLG Schleswig, Urteil vom 28.04.2016, 5 U 36/15:\n\n- Informationspflichten gemäß § 676b Abs. 2 Satz 2 BGB kann die Bank Geschäftsunfähigen gegenüber nur dadurch erfüllen, dass sie die entsprechende Information im Sinne von § 131 Abs. 1 BGB an den gesetzlichen Vertreter richtet. Die damit einhergehende fehlende Rechtssicherheit bei Rechtsgeschäften mit unerkannt Geschäftsunfähigen entspricht der grundlegenden Wertentscheidung des Gesetzgebers zugunsten der Interessen der aufgrund persönlicher Eigenschaften typischerweise schwächeren Teilnehmerinnen und Teilnehmer am rechtsgeschäftlichen Verkehr.\n-. Dem Einwand der Entreicherung einer Geschäftsunfähigen steht nicht entgegen, dass ein Erstattungsanspruch gegen die kontoführende Bank wegen einer verschuldeten Versäumung der Frist des § 676b Abs. 2 Satz 1 BGB ausgeschlossen ist."
     },
     {
+      "norms": [
+        "BtOG§5"
+      ],
       "path": [
         "Informationspflicht der Betreuungsbehörde"
       ],
       "text": "Gemäß § 5 BtOG haben die örtlichen Betreuungsbehörden in Deutschland eine gesetzliche Informationspflicht im Rahmen der Querschnittsaufgaben."
     },
     {
+      "norms": [
+        "WBVG§3"
+      ],
       "path": [
         "Informationspflicht der Wohn- und Pflegeheime"
       ],
       "text": "Vor Abschluss eines Wohn- und Betreuungsvertrags muss das Heim den künftigen Bewohner schriftlich über den Vertragsinhalt und über die Möglichkeit späterer Leistungs- und Entgeltveränderungen informieren (§ 3 WBVG)."
     },
     {
+      "norms": [
+        "SGBV§314"
+      ],
       "path": [
         "Informationspflichten der \"gematik\""
       ],
       "text": "Die deutsche Gesellschaft für Telematik (gematik) ist verpflichtet, auf ihrer Internetseite und in analogen Formaten Informationen für die Versicherten in präziser, transparenter, verständlicher, leicht zugänglicher und barrierefreier Form zur Verfügung zu stellen. Dies ist in § 314 SGB V gesetzlich geregelt."
     },
     {
+      "norms": [
+        "SGBV§343"
+      ],
       "path": [
         "Informationspflichten der Krankenkassen"
       ],
       "text": "Die Informationspflichten der Krankenkassen zur elektronischen Patientenakte sind in § 343 SGB V gesetzlich geregelt."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Beratung\n- digitale Barrierefreiheit, Postkontrolle\n- Zugriffsrecht, Widerspruchsrecht\n- Grundrechte, Diskriminierungsverbot\n- Software\n- Datenschutz, IT-Sicherheit\n- Gesundheitsdatennutzungsgesetz, Interoperabilität\n- Amtspflichtverletzung\n- Rundfunkbeitrag\n- Einwilligungsfähigkeit, Geschäftsfähigkeit\n- Checkliste für Arztgespräche\n- Medikationsplan\n- Vulnerabilität, Pflegeversicherung\n- Wohn- und Betreuungsvertragsgesetz, gesundheitliche Versorgungsplanung\n- Vermögensverzeichnis, Schuldnerverzeichnis\n- Girokonto\n- Betreuungszahlen\n- Heilbehandlung, Organspende\n- Geheimhaltungspflicht\n- Dokumentationspflicht\n- Genehmigung der Heilbehandlung\n- Betreuungsarbeitsgemeinschaft\n- Beaufsichtigung, Auskunftspflicht\n- Verbraucherstreitbeilegung\n- Was ist neu?"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],

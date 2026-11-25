@@ -46,16 +46,138 @@
     "wahlrecht",
     "zugangsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1822",
+      "label": "§ 1822 BGB",
+      "nummer": "1822"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1828",
+      "label": "§ 1828 BGB",
+      "nummer": "1828"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§10",
+      "label": "§ 10 FamFG",
+      "nummer": "10"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§303",
+      "label": "§ 303 FamFG",
+      "nummer": "303"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§315",
+      "label": "§ 315 FamFG",
+      "nummer": "315"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§335",
+      "label": "§ 335 FamFG",
+      "nummer": "335"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§339",
+      "label": "§ 339 FamFG",
+      "nummer": "339"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§432",
+      "label": "§ 432 FamFG",
+      "nummer": "432"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "GVG",
+      "id": "GVG§170",
+      "label": "§ 170 GVG",
+      "nummer": "170"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IX",
+      "id": "SGBIX§117",
+      "label": "§ 117 SGB IX",
+      "nummer": "117"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB IX",
+      "id": "SGBIX§179",
+      "label": "§ 179 SGB IX",
+      "nummer": "179"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB X",
+      "id": "SGBX§13",
+      "label": "§ 13 SGB X",
+      "nummer": "13"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StPO",
+      "id": "StPO§114c",
+      "label": "§ 114c StPO",
+      "nummer": "114c"
+    }
+  ],
   "pageid": 39254,
   "revid": 66394,
   "sections": [
     {
+      "norms": [
+        "FamFG§10",
+        "BGB§1822",
+        "BGB§1828",
+        "FamFG§303",
+        "FamFG§315",
+        "FamFG§335",
+        "FamFG§339",
+        "GVG§170",
+        "SGBX§13",
+        "SGBIX§117",
+        "SGBIX§179",
+        "FamFG§432",
+        "StPO§114c"
+      ],
       "path": [
         "Einleitung"
       ],
       "text": "Die Vertrauensperson (Person des Vertrauens) wird im Betreuungsrecht an zahlreichen Stellen erwähnt. Es ist eine natürliche Person, die der Betreute benennen kann. Sie ist nicht der Verfahrensbevollmächtigte (nach § 10 FamFG) und muss auch kein Anwalt oder Familienangehöriger sein.\n\nRegelungen finden sich in folgenden Paragraphen:\n\n-§ 1822 BGB Auskunftspflicht über persönliche Lebensumstände des Betreuten\n-§ 1828 Abs. 2 BGB (Ermittlung des mutmaßlichen Patientenwillens bei Heilbehandlungen)\n-§ 274 Abs. 4 Nr 1 FamFG (Benennung als Verfahrensbeteiligter im Betreuungsverfahren)\n-§ 303 Abs. 2 FamFG (Beschwerderecht)\n-§ 315 Abs. 4 FamFG (Benennung als Verfahrensbeteiligter im Unterbringungsverfahren)\n-§ 335 Abs. 1 FamFG (Beschwerderecht bei Unterbringung)\n-§ 339 FamFG (Benachrichtigung bei Unterbringung und deren Verlängerung)\n-§ 170 Abs. 1 GVG (Teilnahme an Anhörungen)\n\nIn weiteren Gesetzen gibt es die Vertrauensperson ebenfalls. Beispiele:\n-§ 13 Abs. 4 SGB X (Begleitung als Beistand bei Vorsprachen bei Behörden)\n-§ 117 Abs. 2 SGB IX: Gesamtplanverfahren bei der Eingliederungshilfe\n-§ 179 SGB IX: Persönliche Rechte und Pflichten der Vertrauenspersonen der schwerbehinderten Menschen\n-§ 432 FamFG: Freiheitsentziehungsverfahren\n-§ 114c StPO: Benachrichtung bei Inhaftierung.\n\nBei der Ausübung des Wahlrechtes kann ein behinderter Wähler sich ebenfalls einer Person seines Vertrauens bedienen (§ 14 Abs. 5 BWahlO sowie Parallelregelungen der Bundesländer)."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

@@ -30,32 +30,48 @@
     "vorsorgeregister",
     "vorsorgevollmacht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1814",
+      "label": "§ 1814 BGB",
+      "nummer": "1814"
+    }
+  ],
   "pageid": 1848,
   "revid": 66765,
   "sections": [
     {
+      "norms": [
+        "BGB§1814"
+      ],
       "path": [
         "Einleitung"
       ],
       "text": "Basisdaten\n Volltitel:   Verordnung über das Zentrale Vorsorgeregister\n Kurztitel:  Vorsorgeregisterverordnung\n Abkürzung:  VRegV\n Art:  Rechtsverordnung des Bundes\n Geltungsbereich:  Bundesrepublik Deutschland\n Rechtsmaterie:  Vollmachtsrecht\n Fundstellennachweis:\n Datum des Gesetzes:     21.02.2005 (BGBl. I. S.318)\n Inkrafttreten:   01.03.2005\n Letzte Änderung:  4.5.2021 (BGBl. I S. 882)\n Außerkrafttreten:\n\nDie Vorsorgeregisterverordnung ist die Ausführungsvorschrift zu § 78a Bundesnotarordnung, wonach ein zentrales Vorsorgeregister für Vorsorgevollmachten bei der Bundesnotarkammer eingerichtet wurde. Zweck ist die bessere Auffindbarkeit von Vorsorgevollmachten im Falle der Betreuungsbedürftigkeit des Vollmachtgebers, um die Subsidiarität gem. § 1814 Abs. 3 BGB sicherstellen zu können.\n\nDie Verordnung erlaubt seit 01.03.2005 auch die Registrierung von Vorsorgevollmachten, die nicht von einem Notar beurkundet wurden und enthält Regelungen über den Umfang der Datensammlung, die Entgelte (die im Detail durch die Vorsorgeregistergebührensatzung der Bundesnotarkammer spezifiziert wurden), die Auskunft an das Betreuungsgericht im Falle eines Betreuungsverfahrens, Benachrichtigung an Bevollmächtigte, Sicherung der Daten und Aufbewahrung der Dokumente.\n\nNotare (und andere Urkundspersonen) sollen bei der Beurkundung einer Vorsorgevollmacht auf die Registrierungsmöglichkeit hinweisen  (§ 20a Beurkundungsgesetz)."
     },
     {
+      "norms": [],
       "path": [
         "Registrierung von Vorsorgevollmachten und Betreuungsverfügungen"
       ],
       "text": "- Text der Vorsorgeregisterverordnung\n- Zentrales Vorsorgeregister der Bundesnotarkammer"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Vorsorgeregister, Vorsorgevollmacht, Betreuungsverfügung, Patientenverfügung, Angehörigenvertretungsrecht, elektronischer Identitätsnachweis\n- Registrierung\n- elektronische Patientenakte, Notfalldaten"
     },
     {
+      "norms": [],
       "path": [
         "Literatur"
       ],
-      "text": "-Bund: Automatisiertes Register über Vorsorgevollmachten - und seine Kosten; BtPrax 2005, 223\n\nInfos zum Haftungsausschluss\n\n{{Quelle Wikipedia|Vorsorgeregisterverordnung|24. Juni  2006|3=http://de.wikipedia.org/w/index.php?title=Vorsorgeregisterverordnung&oldid=18235183}}"
+      "text": "-Bund: Automatisiertes Register über Vorsorgevollmachten - und seine Kosten; BtPrax 2005, 223\n\nInfos zum Haftungsausschluss\n\nQuelle: Wikipedia, Artikel „Vorsorgeregisterverordnung“, Stand 24. Juni 2006 (http://de.wikipedia.org/w/index.php?title=Vorsorgeregisterverordnung&oldid=18235183)"
     }
   ],
   "slug": "vorsorgeregisterverordnung",

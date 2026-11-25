@@ -29,70 +29,93 @@
     "sachkundenachweis",
     "software"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1814",
+      "label": "§ 1814 BGB",
+      "nummer": "1814"
+    }
+  ],
   "pageid": 1792,
   "revid": 66584,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Der Bundesverband freier Berufsbetreuer e.V. - BVfB ist die berufsständische Vertretung für alle selbstständigen Berufsbetreuer in Deutschland.\n     Vorstellungsvideo"
     },
     {
+      "norms": [],
       "path": [
         "Gründung"
       ],
       "text": "Der am 18. März 1995 in Münster gegründete Verein mit dem Namen „Verband freiberuflicher Betreuer“ wurde beim Amtsgericht Münster am 11. Juli 1995 unter der Registernummer VR 3659 in das Vereinsregister eingetragen. Der BVfB e.V. hat seit 1998 seinen Sitz in Berlin. 2004 wurde der Verband in „Bundesverband freier Berufsbetreuer“ umbenannt."
     },
     {
+      "norms": [],
       "path": [
         "Ziele"
       ],
       "text": "Der BVfB ist ein demokratisch verfasster, professioneller Berufsverband, der sich für die existenziellen Interessen der freien rechtlichen Betreuerinnen und Betreuer sowie für hohe Qualität der beruflichen Betreuung einsetzt."
     },
     {
+      "norms": [],
       "path": [
         "Hauptaufgaben"
       ],
       "text": "- Die beruflichen Interessen der einzelnen Mitglieder durch Beratung und Information zu fördern\n- Die Interessen seiner Mitglieder gegenüber dem Gesetzgeber, Behörden und Institutionen zu vertreten"
     },
     {
+      "norms": [
+        "BGB§1814"
+      ],
       "path": [
         "Mitgliedschaft"
       ],
       "text": "Mitglied können natürliche Personen werden, die in Deutschland entgeltlich rechtliche Betreuungen für psychisch kranke und geistig behinderte Menschen nach § 1814 ff. BGB ausüben. Der Verband kann Mitglieder die sich in besonderer Weise um den Verband verdient gemacht haben zu Ehrenmitgliedern ernennen."
     },
     {
+      "norms": [],
       "path": [
         "Dienstleistungen"
       ],
       "text": "Der BVfB bietet Mitgliedern kostenlose professionelle Beratung, Fortbildung und Dienstleistung für eine gelungene Existenzgründung und nachfolgende erfolgreiche Erfüllung der beruflichen Aufgaben. Alle Servicebereiche sind einzeln durch kostenlose 0800-er Service Calls erreichbar."
     },
     {
+      "norms": [],
       "path": [
         "Printmedien"
       ],
       "text": "- BtInfo Die 1995 erstmals herausgegebene  BtInfo-Betreuungsrechtliche Informationen erschien bis 2004\n- BtMan Von 2005 bis 2009 war der BVfB Mitherausgeber der Fachzeitschrift  Betreuungsmanagement-BtMan (C.F-Müller-Verlag, Heidelberg).\n\nMit der letzten Ausgabe der BtMan wurde die Herausgabe von gedruckten Verbandszeitungen eingestellt."
     },
     {
+      "norms": [],
       "path": [
         "Gelbbuch des BVfB"
       ],
       "text": "Das Gelbbuch ist eine Veröffentlichung des BVfB e.V., das die betreuungspolitische Lage in der Bundesrepublik Deutschland und die Lage der freien Berufsbetreuer bewertet, Schlussfolgerungen für die Entwicklung des Betreuungswesens zieht und daraus Forderungen und Anregungen an die Entscheidungsträger des Betreuungswesens ableitet. Es wird nach Diskussion in den Verbandsgremien und mit externen Experten regelmäßig herausgegeben.\nDas Gelbbuch des BVfB e.V. knüpft an die Praxis der \"Farbbücher\", insbesondere der Weißbücher an. Darunter versteht man Dokumentensammlungen die von interessierten Gruppen veröffentlicht werden um Orientierung über politische Fragen zu geben und das eigene Handeln zu begründen. Das 2010 erstmals herausgegebene Jahrbuch erhält seinen Namen durch die Verbandsfarbe des BVfB e.V."
     },
     {
+      "norms": [],
       "path": [
         "Online-Portale"
       ],
       "text": "- BtDirekt - Praxiswissen für Betreuer"
     },
     {
+      "norms": [],
       "path": [
         "Fachtagungen"
       ],
       "text": "Der BVfB veranstaltet seit 2009 jährlich den „Tag des freien Berufsbetreuers“ in Kooperation mit dem Institut für Recht und Ökonomie im Betreuungswesen - IRÖB.  Die zweitägige Veranstaltung wird im Bildungszentrum Erkner in Brandenburg durchgeführt.\nVorstellungsvideo:   [Vorstellungsvideo]"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],

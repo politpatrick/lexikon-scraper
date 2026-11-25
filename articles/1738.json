@@ -65,16 +65,164 @@
     "vulnerabilität",
     "zwangsbehandlung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "AMG",
+      "id": "AMG§40",
+      "label": "§ 40 AMG",
+      "nummer": "40"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "AMG",
+      "id": "AMG§41",
+      "label": "§ 41 AMG",
+      "nummer": "41"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1821",
+      "label": "§ 1821 BGB",
+      "nummer": "1821"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1827",
+      "label": "§ 1827 BGB",
+      "nummer": "1827"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1828",
+      "label": "§ 1828 BGB",
+      "nummer": "1828"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1829",
+      "label": "§ 1829 BGB",
+      "nummer": "1829"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1831",
+      "label": "§ 1831 BGB",
+      "nummer": "1831"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1832",
+      "label": "§ 1832 BGB",
+      "nummer": "1832"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1901",
+      "label": "§ 1901 BGB",
+      "nummer": "1901"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1904",
+      "label": "§ 1904 BGB",
+      "nummer": "1904"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1906",
+      "label": "§ 1906 BGB",
+      "nummer": "1906"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§630d",
+      "label": "§ 630d BGB",
+      "nummer": "630d"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§630e",
+      "label": "§ 630e BGB",
+      "nummer": "630e"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§823",
+      "label": "§ 823 BGB",
+      "nummer": "823"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§203",
+      "label": "§ 203 StGB",
+      "nummer": "203"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§218",
+      "label": "§ 218 StGB",
+      "nummer": "218"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§223",
+      "label": "§ 223 StGB",
+      "nummer": "223"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§228",
+      "label": "§ 228 StGB",
+      "nummer": "228"
+    }
+  ],
   "pageid": 1738,
   "revid": 66852,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Allgemeines"
       ],
       "text": "Jede Heilbehandlung stellt auch eine rechtliche Beziehung dar. Diese Rechtsbeziehungen sind Gegenstand dieses Beitrags. Für medizinische Fragestellungen siehe in der Wikipedia unter dem Stichwort Therapie."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Allgemeine zivilrechtliche Fragen"
@@ -82,6 +230,7 @@
       "text": "Es handelt sich bei der Arztbehandlung im Verhältnis Arzt–Patient meist um einen Behandlungsvertrag (§ 630a ff BGB). Der im Krankenhaus beschäftigte Arzt wird aufgrund seines Arbeitsvertrages mit dem Krankenhausträger (z. B. der Stadt; dem Zweckverband) tätig; der Patient schließt in der Regel mit dem Krankenhausträger einen gemischten Vertrag, der vorwiegend Dienstvertrag ist, ärztliche Behandlung eingeschlossen (sog. totaler Krankenhausvertrag).\n\nDer Arzt schuldet hierbei keinen bestimmten Heilerfolg (z. B. Krankheitsheilung im engeren Sinne, Schmerzfreiheit, Wiederherstellung bestimmter Körperfunktionen), sondern nur eine Therapie nach den anerkannten Regeln der ärztlichen Heilkunst. Anderenfalls hat der Patient gegen den Arzt bzw. das Krankenhaus einen Schadensersatzanspruch wegen ärztlichen Kunstfehlers (BGH JZ 1987, 877; BGH NJW 1994, 156)."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Krankenbehandlungskosten"
@@ -89,22 +238,32 @@
       "text": "Bezüglich der Kosten der Arztbehandlung wird das Arzt-Patientenverhältnis meist durch das Versicherungssystem der gesetzlichen Krankenkasse (Gesetzliche Krankenversicherung - GKV) überlagert, wenn zum einen der Patient dort Mitglied ist (ca. 90 % der Bevölkerung in Deutschland), zum anderen der Arzt als Mitglied der kassenärztliche Vereinigung angehört. Die Behandlungskosten werden dann direkt mit der Krankenkasse abgerechnet, die daher die Krankenversicherungsleistungen im Regelfall als Sachleistung erbringt.\n\nDurchbrochen wird dieses Prinzip dann, wenn Eigenanteile zu zahlen sind oder wie bei Zahnersatz ein Erstattungsprinzip eingeführt wurde, nach welchem der Patient zunächst nur eine Rechtsbeziehung zum Arzt/Zahnarzt hat und die von ihm verauslagten Kosten von der Krankenkasse erstattet bekommt. Dies ist ansonsten ein typisches Strukturmerkmal der privaten Krankenversicherung, wird aber auch dort bisweilen durch Kostenzusagen direkt an Ärzte und Krankenhäuser durchbrochen.\n\nBei einer privatärztlichen Behandlung werden im Rahmen allgemeiner Geschäftsbedingungen (Allgemeine Geschäftsbedingungen - AGB) meist die Gebührenordnung für Ärzte (GoÄ) bzw. für Gebührenordnung für Zahnärzte (GoZ) zugrunde gelegt. Nach diesen Grundsätzen erstatten private Krankenversicherungen und staatliche Beihilfestellen (für Beamte, Richter) die Krankenbehandlungskosten."
     },
     {
+      "norms": [
+        "StGB§223"
+      ],
       "path": [
         "Allgemeines",
         "Strafrechtliche Fragen",
         "Jede Heilmaßnahme und Untersuchung ist eine Körperverletzung"
       ],
-      "text": "Eine Untersuchung oder Heilbehandlung bedarf stets der Einwilligung; ansonsten handelt es sich um eine strafbare Körperverletzung nach {{Zitat de §|223|stgb}} StGB (BGH NStZ 2008, 150 = StV 2008, 464). Dies gilt auch dann, wenn der Arzt nur das Beste für seinen Patienten will und nach den anerkannten Regeln der ärztlichen Heilkunst handelt."
+      "text": "Eine Untersuchung oder Heilbehandlung bedarf stets der Einwilligung; ansonsten handelt es sich um eine strafbare Körperverletzung nach § 223 StGB (BGH NStZ 2008, 150 = StV 2008, 464). Dies gilt auch dann, wenn der Arzt nur das Beste für seinen Patienten will und nach den anerkannten Regeln der ärztlichen Heilkunst handelt."
     },
     {
+      "norms": [
+        "StGB§228",
+        "BGB§630d",
+        "BGB§1827",
+        "BGB§1828"
+      ],
       "path": [
         "Allgemeines",
         "Strafrechtliche Fragen",
         "Straffreiheit entsteht durch Patienteneinwilligung"
       ],
-      "text": "Eine Einwilligung in eine Arztbehandlung hat auch bei einer bestehenden rechtlichen Betreuung grundsätzlich die betreute Person (der Patient selbst) zu erteilen. Vor jeder Behandlung muss der Patient seine Einwilligung geben (Ausnahme: Notfallbehandlung nach mutmaßlicher Einwilligung). Dies führt nach {{Zitat de §|228|stgb}} StGB zur Straffreiheit des behandelnden Arztes (BGH NStZ 1996, 34; BVerfGE 52, 131 /170). Ebenso die hypothetische Einwilligung, vgl. BGH 1 StR 300/03; NStZ-RR 2004, 16 = JR 2004, 227 = JR 2004, 251 = StV 2004, 376).\n\nBei einwilligungsfähigen Patienten hat der Arzt den aktuell geäußerten Willen des angemessen aufgeklärten Patienten zu beachten, selbst wenn sich dieser Wille nicht mit den aus ärztlicher Sicht gebotenen Diagnose- und Therapiemaßnahmen deckt (Bundesärztekammer, Grundsätze für die ärztliche Sterbebegleitung, Stand 1.2.2011). Rechtsgrundlage ab 26.2.2013: § 630d BGB.\n\nDie Einwilligungserklärung sollte grundsätzlich ausdrücklich erfolgen. Die wirksame Einwilligung des Patienten ist zwingende Voraussetzung der ärztlichen Behandlung. Eine Einwilligung kann nur wirksam sein, wenn der Patient vorher aufgeklärt wurde oder eindeutig darauf verzichtet hat. Siehe in der Wikipedia unter Informierte Einwilligung\n\nDie Bindungswirkung einer Patientenverfügung ist nach deutschem Recht erst seit dem 1.9.2009 im Rahmen des sog. 3. BtÄndG geregelt worden (seit 2023 in den §§ 1827, 1828 BGB), ebenso nach § 630d BGB."
+      "text": "Eine Einwilligung in eine Arztbehandlung hat auch bei einer bestehenden rechtlichen Betreuung grundsätzlich die betreute Person (der Patient selbst) zu erteilen. Vor jeder Behandlung muss der Patient seine Einwilligung geben (Ausnahme: Notfallbehandlung nach mutmaßlicher Einwilligung). Dies führt nach § 228 StGB zur Straffreiheit des behandelnden Arztes (BGH NStZ 1996, 34; BVerfGE 52, 131 /170). Ebenso die hypothetische Einwilligung, vgl. BGH 1 StR 300/03; NStZ-RR 2004, 16 = JR 2004, 227 = JR 2004, 251 = StV 2004, 376).\n\nBei einwilligungsfähigen Patienten hat der Arzt den aktuell geäußerten Willen des angemessen aufgeklärten Patienten zu beachten, selbst wenn sich dieser Wille nicht mit den aus ärztlicher Sicht gebotenen Diagnose- und Therapiemaßnahmen deckt (Bundesärztekammer, Grundsätze für die ärztliche Sterbebegleitung, Stand 1.2.2011). Rechtsgrundlage ab 26.2.2013: § 630d BGB.\n\nDie Einwilligungserklärung sollte grundsätzlich ausdrücklich erfolgen. Die wirksame Einwilligung des Patienten ist zwingende Voraussetzung der ärztlichen Behandlung. Eine Einwilligung kann nur wirksam sein, wenn der Patient vorher aufgeklärt wurde oder eindeutig darauf verzichtet hat. Siehe in der Wikipedia unter Informierte Einwilligung\n\nDie Bindungswirkung einer Patientenverfügung ist nach deutschem Recht erst seit dem 1.9.2009 im Rahmen des sog. 3. BtÄndG geregelt worden (seit 2023 in den §§ 1827, 1828 BGB), ebenso nach § 630d BGB."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Strafrechtliche Fragen",
@@ -113,6 +272,7 @@
       "text": "Wirksam einwilligen kann nur, wer einwilligungsfähig ist (OLG Hamm FGPrax 1997, 64). Einwilligungsfähig sind auch Betreute und Minderjährige, wenn sie die nötige Einsichtsfähigkeit besitzen (letztere meist ab 14 Jahren). Nur wer einwilligungsfähig ist, kann auch wirksam eine Behandlung ablehnen.\n\nIm übrigen kann bei bestimmten komplizierten Eingriffen Einwilligungsunfähigkeit bestehen, bei anderen einfachen Maßnahmen jedoch nicht. Z. B. wird jemand, der geistig behindert ist und sich eine Schnittwunde zugezogen hat, sicher erkennen können, dass diese behandelt werden muss. Dagegen wird er Sinn und Zweck einer Bestrahlungstherapie nur schwer erfassen. Bei Personen mit psychischen Erkrankungen kann es auch sein, dass sie die Aufklärung verstehen, aber aufgrund krankheitsbedingter innerer Zwänge keine freie Entscheidung für die Behandlung treffen können.\n\nDiese Fähigkeit im Einzelfall soll zunächst der Arzt beurteilen, denn er ist ja auch derjenige, um dessen mögliche Strafbarkeit es geht. Allerdings muss bei einem Patienten unter Betreuung auch der Betreuer, da er die Interessen des Betreuten zu vertreten hat, für sich entscheiden, ob der Betreute fähig ist, in eine Behandlung einzuwilligen oder nicht. Könnte der Betreute in diesem Sinne in die Behandlung einwilligen, verweigert sie diese Einwilligung aber, so kann der Betreuer nicht ersatzweise einwilligen; auch dann nicht, wenn die Gesundheitssorge zu seinem Aufgabenkreis  zählt."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Strafrechtliche Fragen",
@@ -121,6 +281,9 @@
       "text": "Nur wenn es um Leben oder Tod geht und sofort gehandelt werden muss, gibt es andere Kriterien in der Rechtsprechung. Liegen hier weder vom Patienten noch von einem gesetzlichen Vertreter oder einem Bevollmächtigten Erklärungen vor oder können diese nicht rechtzeitig eingeholt werden, so hat der Arzt so zu handeln, wie es dem mutmaßlichen Willen des Patienten in der konkreten Situation entspricht. Lässt sich der mutmaßliche Wille des Patienten nicht anhand der genannten Kriterien ermitteln, so handelt der Arzt im Interesse des Patienten, wenn er die ärztlich indizierten Maßnahmen trifft."
     },
     {
+      "norms": [
+        "BGB§630e"
+      ],
       "path": [
         "Allgemeines",
         "Strafrechtliche Fragen",
@@ -129,6 +292,7 @@
       "text": "Patienten haben ein Recht, in einem persönlichen Gespräch von ihrem Arzt vor der Behandlung verständlich, sachkundig und angemessen aufgeklärt und beraten zu werden (BGH JZ 1991, 983), seit 26.2.2013 auch gesetzlich geregelt in § 630e BGB.. Siehe dazu auch die Checkliste für Arztgespräche sowie in der Wikipedia unter Ärztliche Aufklärung.\n\nEs müssen benannt werden:\n\nDie Aufklärung  umfasst je nach Erkrankung:\n-die geeignete Vorbeugung,\n-die Diagnose,\n-Nutzen und Risiken diagnostischer Maßnahmen,\n-Nutzen und Risiken der Behandlung sowie der zur Anwendung kommenden Arzneimittel und Medizinprodukte\n-Chancen der Behandlung im Vergleich zum Krankheitsverlauf ohne Behandlung,\n-die Behandlung der Erkrankung und alternative Behandlungsmethoden, soweit sie mit unterschiedlichen Risiken verbunden sind,\n-Nutzen und Risiken der Behandlung sowie\n-eine eventuell erforderliche Nachbehandlung.\n\nAufklärung und Beratung müssen auch für Patienten. die sich mit dem Arzt sprachlich nicht verständigen können, verstehbar sein. Der Arzt muss sich davon überzeugen, dass der Patient die Information versteht und verstanden hat. Der Arzt ist allerdings nicht für die Hinzuziehung eines Dolmetschers verantwortlich und kann eine Behandlung ablehnen, soweit es sich nicht um einen Notfall handelt."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Strafrechtliche Fragen",
@@ -138,6 +302,7 @@
       "text": "Der Arzt muss den Patienten in einem persönlichen Gespräch aufklären, denn er muss überprüfen können, ob der Patienten über das notwendige Verständnis\nvom Eingriff verfügt. Dem Patienten muss also stets „Gelegenheit zu einem vertrauensvollen Gespräch mit dem Arzt gegeben werden“ (OLG Brandenburg vom 04.11.2010, 12 U 148/08).\n\nIn einfach gelagerten Fällen kann der Arzt den Patienten grundsätzlich auch in einem telefonischen Gespräch über die Risiken eines bevorstehenden\nEingriffs aufklären, wenn der Patient damit einverstanden ist (BGH vom 15.06.2010, VI ZR 204/09, NJW 2010, 2430 = VersR 2010, 1183)."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Strafrechtliche Fragen",
@@ -146,6 +311,7 @@
       "text": "Der Patient muss rechtzeitig vor der Behandlung aufgeklärt werden. Der richtige Zeitpunkt hängt von der Art der Behandlung und ihrer Dringlichkeit ab. Wird ein Eingriff geplant, dann muss die Aufklärung spätestens zum Zeitpunkt der Entscheidung über die Vornahme des Eingriffs erfolgen (BGH NJW 1993, 2372 = VersR 1993, 703). Auch bei kleineren Eingriffen, die stationär vorgenommen werden, muss eine Aufklärung rechtzeitig am Tag davor stattfinden. Bei ambulanten Eingriffen kann dagegen eine Aufklärung erst am Tage des Eingriffs noch rechtzeitig sein."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Strafrechtliche Fragen",
@@ -154,6 +320,7 @@
       "text": "Der Umfang der Aufklärung richtet sich insbesondere nach der Schwere und der Dringlichkeit des Eingriffs. Je dringlicher der Eingriff ist, desto weniger Zeit bleibt für die Information; trotzdem muss, von Ausnahmefällen abgesehen, eine Aufklärung erfolgen (BGHSt 12, 382; BGH NJW 1992, 743).\n\nIm allgemeinen genügt eine Aufklärung \"im großen und ganzen\". Der Patient muss also nicht über medizinische Details informiert werden, sondern es reicht aus, wenn die für die Lebensführung des Patienten wichtigen Informationen gegeben werden (BGH NJW 1994, 301). Dies sind insbesondere der Nutzen der Behandlung, ihre Risiken, die Auswirkungen und Verhaltensanweisungen für die weitere Lebensführung. Über in der Bevölkerung allgemein bekannte Risiken einer Behandlung, z. B. Risiko von Wundinfektionen) oder Embolien muss nicht aufgeklärt werden (BGH NJW 1980, 633; NJW 1986, 780 bez. Embolie; BGH 1991, 1541 bez. Infektion).\n\nAuch über Nutzen und Risiken der Anwendung von Arzneimittel und Medizinprodukten muss der Arzt aufklären. Patienten haben über die allgemeine Informationspflicht des Arztes hinaus das Recht zu fragen. Der Arzt ist verpflichtet, auf diese Fragen wahrheitsgemäß, vollständig und verständlich zu antworten."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Strafrechtliche Fragen",
@@ -162,6 +329,7 @@
       "text": "Patienten haben das Recht, auf die ärztliche Aufklärung zu verzichten. Dies sollten Patienten eindeutig äußern. Der Arzt hat nicht das Recht, von der Aufklärung nach eigenem Ermessen abzusehen, wenn Leben oder Gesundheit des betroffenen Patienten durch die Aufklärung erheblich und konkret gefährdet würde."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Strafrechtliche Fragen",
@@ -170,13 +338,18 @@
       "text": "Die mittlerweile veraltete Eindruckstheorie als bundesdeutsches Richterrecht aus den fünfziger Jahren definierte den Begriff Heilkunde gemäß Empfängerhorizont: Jedes Tun, das beim behandelten Menschen den Eindruck erweckte, es ziele darauf ab, sie oder ihn von Krankheit, Leiden oder Körperschäden zu heilen und ihm Erleichterung zu schaffen, stellte aus juristischer Sicht Heilkunde in Deutschland dar und war somit erlaubnispflichtig.\n\nJedoch wären von diesem alten Heilkundebegriff auch christliche und andere religiöse Kulte sowie Seelsorgepraktiken umfasst gewesen. Auch deshalb und wegen der gebotenen verfassungsmäßigen Auslegung (Religionsfreiheit) stellte die jüngere Rechtsprechung in Deutschland darauf ab, dass die betrachtete Heilpraxis zumindest gesundheitliche Schäden verursachen können müsste. Wenn die Auswirkungen einer Heilpraxis deshalb gefährlich sein könnten, weil ein Leiden, dessen Diagnose ärztliches Wissen erfordert, nicht erkannt und/oder nicht behandelt wurde, macht sich der Therapeut möglicherweise strafbar. Für rechtliche Betreuer mit dem Aufgabenkreis Gesundheitssorge erhält diese richterliche Auslegung seit 2023 eine größere Bedeutung, denn seither ist der Patientenwille des Betreuten mehr zu beachten.\n\nJuristisch abgestellt wird zur Urteilsfindung der Gerichte immer auf den Einzelfall mit seiner besonderen therapeutischen Rechts- und Geschäftsbeziehung. Wenn vom Therapeuten oder von der Therapeutin nur eine allgemeine Anpreisung ihrer Praxis erfolgte, die keinen Rat in Bezug auf eine individuell-konkrete Krankheit beinhaltete, dann gilt die empfohlene Maßnahme nicht als eine Form der Ausübung von Heilkunde und ist somit nicht gemäß § 1 Abs. 1 Heilpraktikergesetz (HeilprG) erlaubnispflichtig. Eine Strafbarkeit gemäß § 5 HeilprG scheidet aus. Gegebenenfalls könnte ein Patientenbetrug vorliegen. Dies zu erkennen, würde nun möglicherweise in das Aufgabengebiet des Betreuers fallen. Heilpraktiker*innen und Lebensberater*innen dürfen kein Heilungsversprechen abgeben und müssen alle Hilfesuchenden – und gegebenenfalls ihre rechtlichen Betreuer - umfassend über die üblichen schulmedizinischen Heilmethoden aufklären."
     },
     {
+      "norms": [
+        "StGB§203",
+        "BGB§1829"
+      ],
       "path": [
         "Allgemeines",
         "Einwilligungsunfähigkeit des Patienten"
       ],
-      "text": "Liegt beim Patienten unter rechtlicher Betreuung die nötige Einsichts- und Steuerungsfähigkeit vor, kann er nur höchstpersönlich die Einwilligung erklären oder diese Verweigerung, nicht jedoch der Betreuer. Fehlt es aber an dieser Fähigkeit, muss sich der Betreuer vom Arzt entsprechend aufklären lassen, er sollte keinesfalls darauf verzichten. Gegenüber dem Betreuer hat der Arzt in solchen Fällen auch keine Schweigepflichten ({{Zitat de §|203|stgb}} StGB). Das gleiche gilt, soweit der Patient eine Vorsorgevollmacht erteilt hat, die ausdrücklich die Entscheidung über medizinische Fragen beinhaltet ({{Zitat de §|1829|bgb}} Abs. 2 BGB).\n\nDas Vorliegen einer wirksamen und damit den rechtlichen Vertreter (Betreuer/Bevollmächtigter) und den Arzt bindenden Patientenverfügung ist auch bei Unterbringung in der Psychiatrie in ausreichender Weise aufzuklären (OLG Celle Beschluss 17 W 37/05 i.V.m. BGH Beschluss XII ZB 236/05; BGHZ 166, 141 = NJW 2006, 1277 = MDR 2006, 995 = FamRZ 2006, 615 = FGPrax 2006, 115 = DNotZ 2006, 626).\n\nBei Uneinigkeit über die Auslegung des Patientenwillens durch Betreuer oder Bevollmächtigtem einerseits und Arzt andererseits muss das Betreuungsgericht entscheiden (§ 1829 Abs. 4 BGB).\n\nRechtsprechung:\n\nBGH, Beschluss vom 23.01.2013, XII ZB 395:\n\nKann der Betroffene aufgrund einer psychischen Erkrankung seine Angelegenheiten hinsichtlich der Aufgabenbereiche Gesundheitssorge und Heilbehandlung nicht selbst besorgen, so ist ihm hierfür grundsätzlich auch dann ein Betreuer zu bestellen, wenn er die notwendige Behandlung ablehnt."
+      "text": "Liegt beim Patienten unter rechtlicher Betreuung die nötige Einsichts- und Steuerungsfähigkeit vor, kann er nur höchstpersönlich die Einwilligung erklären oder diese Verweigerung, nicht jedoch der Betreuer. Fehlt es aber an dieser Fähigkeit, muss sich der Betreuer vom Arzt entsprechend aufklären lassen, er sollte keinesfalls darauf verzichten. Gegenüber dem Betreuer hat der Arzt in solchen Fällen auch keine Schweigepflichten (§ 203 StGB). Das gleiche gilt, soweit der Patient eine Vorsorgevollmacht erteilt hat, die ausdrücklich die Entscheidung über medizinische Fragen beinhaltet (§ 1829 Abs. 2 BGB).\n\nDas Vorliegen einer wirksamen und damit den rechtlichen Vertreter (Betreuer/Bevollmächtigter) und den Arzt bindenden Patientenverfügung ist auch bei Unterbringung in der Psychiatrie in ausreichender Weise aufzuklären (OLG Celle Beschluss 17 W 37/05 i.V.m. BGH Beschluss XII ZB 236/05; BGHZ 166, 141 = NJW 2006, 1277 = MDR 2006, 995 = FamRZ 2006, 615 = FGPrax 2006, 115 = DNotZ 2006, 626).\n\nBei Uneinigkeit über die Auslegung des Patientenwillens durch Betreuer oder Bevollmächtigtem einerseits und Arzt andererseits muss das Betreuungsgericht entscheiden (§ 1829 Abs. 4 BGB).\n\nRechtsprechung:\n\nBGH, Beschluss vom 23.01.2013, XII ZB 395:\n\nKann der Betroffene aufgrund einer psychischen Erkrankung seine Angelegenheiten hinsichtlich der Aufgabenbereiche Gesundheitssorge und Heilbehandlung nicht selbst besorgen, so ist ihm hierfür grundsätzlich auch dann ein Betreuer zu bestellen, wenn er die notwendige Behandlung ablehnt."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Zwangsbehandlung zulässig?"
@@ -184,6 +357,7 @@
       "text": "Siehe hierzu den Artikel Zwangsbehandlung."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Zwangsbehandlung zulässig?",
@@ -192,22 +366,32 @@
       "text": "Besonders gefährliche Behandlungen muss der Betreuer vom Betreuungsgericht genehmigen lassen.  Im Abschlussbericht der Bund-Länder Arbeitsgruppe \"Betreuungsrecht\" zur 74 Konferenz der Justizminister und Ministerinnen im Juni 2003 werden auch Psychopharmaka benannt, die als besonders gefährlich eingestuft werden.\n\nSiehe hierzu unter: Genehmigung der Heilbehandlung"
     },
     {
+      "norms": [
+        "BGB§1829"
+      ],
       "path": [
         "Allgemeines",
         "Zwangsbehandlung zulässig?",
         "Ausnahme bei Eilbedürftigkeit der Behandlung"
       ],
-      "text": "Liegt besondere Eilbedürftigkeit vor, darf der Betreuer (bzw. Bevollmächtigte) ausnahmsweise auch in gefährliche Behandlungen ohne gerichtliche Genehmigung einwilligen. Die Genehmigung wird dann auch nicht nachträglich erforderlich ({{Zitat de §|1829|bgb}} Abs. 1 Satz 2 BGB)."
+      "text": "Liegt besondere Eilbedürftigkeit vor, darf der Betreuer (bzw. Bevollmächtigte) ausnahmsweise auch in gefährliche Behandlungen ohne gerichtliche Genehmigung einwilligen. Die Genehmigung wird dann auch nicht nachträglich erforderlich (§ 1829 Abs. 1 Satz 2 BGB)."
     },
     {
+      "norms": [
+        "AMG§40",
+        "AMG§41"
+      ],
       "path": [
         "Allgemeines",
         "Spezielle Fragen",
         "Arzneimittelerprobung"
       ],
-      "text": "Die wissenschaftliche Erprobung von Arzneimitteln am Betreuten ist in {{Zitat de §|40|amg_1976}} und {{Zitat de §|41|amg_1976}} des Arzneimittelgesetzes geregelt. Der Betreuer kann für den Betreuten nur unter strengen Voraussetzungen in die klinische Prüfung eines Arzneimittels einwilligen ({{Zitat de §|41|amg_1976}} Abs. 3 Nr.2 ArzneimittelG). Einzelheiten vgl. Holzhauer NJW 1992, 2325."
+      "text": "Die wissenschaftliche Erprobung von Arzneimitteln am Betreuten ist in § 40 und § 41 des Arzneimittelgesetzes geregelt. Der Betreuer kann für den Betreuten nur unter strengen Voraussetzungen in die klinische Prüfung eines Arzneimittels einwilligen (§ 41 Abs. 3 Nr.2 ArzneimittelG). Einzelheiten vgl. Holzhauer NJW 1992, 2325."
     },
     {
+      "norms": [
+        "BGB§823"
+      ],
       "path": [
         "Allgemeines",
         "Spezielle Fragen",
@@ -216,6 +400,11 @@
       "text": "Das deutsche Produkthaftungsgesetz regelt seit dem 1. Januar 1990 die Haftung des jeweiligen Herstellers für Körper-, Gesundheits- und Sachschäden, die einem Verbraucher oder einer Verbraucherin als Anwendende eines Produktes anlässlich der Benutzung desselben entstehen. Damals wurde die entsprechende EG-Richtlinie in deutsches Recht umgewandelt, um die Produkthaftung im wachsenden Europa zu harmonisieren und die Verbraucher besser vor Schäden durch fehlerhafte Produkte zu schützen. Die traditionelle Haftung wegen unerlaubter Handlung gemäß den §§ 823 ff. BGB gilt zusätzlich weiter. Nach dem Produkthaftungsgesetz sind Hersteller, Importeure und Lieferanten in die Haftungskette miteinbezogen. Oberstes Ziel ist der Verbraucherschutz. Von der Haftung ausgeschlossen sind jedoch die Hersteller pflanzlicher und tierischer Naturprodukte, die im Rahmen der traditionellen Landwirtschaft (nicht gentechnisch) erzeugt wurden.\n\nDie Haftpflicht des Verarbeiters oder Händlers knüpft an die Fehlerhaftigkeit seines Produkts an und tritt dann ein, wenn das Produkt unter Sicherheitsgesichtspunkten nicht für den zugedachten und zugeschriebenen Verwendungszweck gemäß allgemeiner Verkehrsauffassung geeignet ist. Maßgeblich ist dabei der Stand der Technik zu dem Zeitpunkt, an dem das Produkt auf den Markt gebracht wurde. Mindestanforderungen dazu sind den Deutschen Industrienormen (DIN), den VDE-Vorschriften oder anderen geltenden Normen zu entnehmen. Ein Verschulden des Herstellers oder Händlers ist rechtlich unerheblich (verschuldensunabhängige Haftung) und daher vor Gericht nicht mehr vom jeweiligen Opfer nachzuweisen. Der Schaden muss kausal durch das Produkt verursacht worden sein.\n\nMögliche Produkthaftungsausschließungsgründe sind das Inverkehrbringen des Produkts ohne Wissen und Wollen des Herstellers wie nach einem Diebstahl, bei unsachgemäßer Weiterverarbeitung oder Behandlung des Produkts, bei Inverkehrbringen des Produkts außerhalb einer beruflichen Tätigkeit und bei späteren Entwicklungsfehlern, die trotz Sorgfalt vorher nicht erkannt werden konnten."
     },
     {
+      "norms": [
+        "StGB§218",
+        "BGB§1901",
+        "BGB§1829"
+      ],
       "path": [
         "Allgemeines",
         "Spezielle Fragen",
@@ -224,6 +413,9 @@
       "text": "Wenn die allgemeinen Voraussetzungen für einen straflosen Abbruch der Schwangerschaft gegeben sind, kommt es zunächst auf die Einwilligung der Frau an. Ist sie nicht einwilligungsfähig, ist streitig, ob der Betreuer an ihrer Stelle einwilligen kann (vgl. Dreher/Tröndle, StGB-Kommentar Rz. 14 vor § 218 StGB); das wird zu bejahen sein, wenn die Abtreibung dem Wunsch der Betreuten nicht widerspricht (§ 1901 BGB), siehe auch OLG Frankfurt/Main, Beschluss vom 01.09.2008, 20 W 354/08; NJW 2008, 3790 = FamRZ 2009, 368.\n\nEine Genehmigung des Gerichts nach § 1829 BGB ist mangels Gefährlichkeit im Regelfall entbehrlich."
     },
     {
+      "norms": [
+        "BGB§1821"
+      ],
       "path": [
         "Allgemeines",
         "Spezielle Fragen",
@@ -232,6 +424,11 @@
       "text": "Die Zulässigkeit von Organspenden aus dem Körper des Betreuten ist gesetzlich nicht geregelt; sie richtet sich nach den Wünschen und Interessen des Betreuten, § 1821 BGB. Bei Einwilligungsunfähigkeit ist die Einwilligung des Betreuers erforderlich (der Aufgabenkreis ,,Heilbehandlung\" genügt nicht, erforderlich ist der ausdrückliche Aufgabenkreis z.B. ,,Organspende der linken Niere an die Tochter . . .,,). Da das Fehlen eines Organs immer einen schweren und länger dauernden gesundheitlichen Schaden darstellt, ist stets die Genehmigung des Betreuungsgerichts erforderlich.\nEine Betreuung mit dem Aufgabenkreis ,,Ausstellen eines Organspendeausweises\" gibt es nicht (AG Mölln FamRZ 1995, 188)."
     },
     {
+      "norms": [
+        "BGB§1831",
+        "BGB§1829",
+        "BGB§1832"
+      ],
       "path": [
         "Allgemeines",
         "Spezielle Fragen",
@@ -240,6 +437,7 @@
       "text": "Ist anlässlich der ärztlichen Behandlung eine Freiheitsentziehung im Sinne von § 1831 Abs. 4 BGB erforderlich (z.B. weil der Patient nach der Operation gefesselt werden muss oder mit Schlafmitteln am Weggehen gehindert werden muss), ist zusätzlich eine Genehmigung des Betreuungsgerichts nach § 1831 Abs. 2 BGB notwendig. Es gibt also Fälle, in denen sowohl die Genehmigung nach § 1829 BGB wie nach § 1831 und 1832 BGB erforderlich sind, als auch Fälle, in denen nur die eine oder andere (oder keine) Genehmigung der ärztlichen Behandlung benötigt werden.\n\nRechtsprechung:\n\nOLG Karlsruhe, Beschluss vom 05.07.2007,  19 Wx 44/06, FamRZ 2007, 2107 (Ls.): Eine auf Heilbehandlungsnotwendigkeit gestützte Unterbringung muss so genau wie möglich bestimmt sein.\n\nIn der Genehmigung einer Unterbringung ist die vom Betreuten zu duldende Behandlung so präzise wie möglich anzugeben. Dem genügt in der Regel, wenn dem Beschluss die zu behandelnde Krankheit und die Art der Behandlung zu entnehmen ist. Eine Genehmigung der Unterbringung ist aber nicht deshalb rechtswidrig, weil der Beschluss keine Angaben über die einzusetzende Arzneimittel oder Wirkstoffe und deren Höchstdosierung sowie Verabreichungshäufigkeit enthält.\n\nBGH, Beschluss vom 28.12.2009, XII ZB 225/09 , FGPrax 2010, 94 = NJW-RR 2010, 289 = MDR 2010, 388 = FamRZ 2010, 285:\n\nEine Unterbringung kann nicht gemäß § 1906 Abs. 1 Nr. 2 2. Alt. BGB (\"... weil … eine Heilbehandlung … notwendig ist, …“) genehmigt werden, wenn die angestrebte Heilbehandlung - aus welchen Gründen auch immer - nicht oder nicht mehr durchgeführt wird. Deshalb darf eine bereits erteilte Genehmigung nicht länger aufrechterhalten werden, wenn der Betreute bereits untergebracht ist, sich aber sodann herausstellt, dass die in der Unterbringungseinrichtung tätigen Ärzte - in Abweichung von dem der Genehmigung zugrunde liegenden ärztlichen Gutachten - eine Heilbehandlung für medizinisch nicht geboten erachten und eine solche Behandlung deshalb nicht durchführen."
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Spezielle Fragen",
@@ -248,6 +446,7 @@
       "text": "Im entschiedenen Fall hatte eine Angehörige der Zeugen Jehovas vor einer Operation die Durchführung von Blutübertragungen aus religiösen Gründen abgelehnt. Nach der Operation geriet sie in einen lebensbedrohenden Zustand und wurde bewusstlos. Ohne Bluttransfusion wurden die Heilungschancen von den Ärzten auf Null eingeschätzt. Der Ehemann erwirkte seine Bestellung zum vorläufigen Betreuer im Gesundheitsbereich und genehmigte die erforderlichen insgesamt 13 Bluttransfusionen.  Ein von der betroffenen Ehefrau schon vor dem Vorfall mit der Ausführung ihres Willens beauftragter Bevollmächtigter legt gegen die Betreuungsanordnung Beschwerde ein, mit der sich letztlich das Bundesverfassungsgericht zu befassen hatte. Dieses hat entschieden, dass die Betreuerbestellung aus verfassungsrechtlicher Sicht nicht zu beanstanden ist. Dabei wird u.a. argumentiert, dass bei der bewusstlosen und damit zu einer Äußerung und zu eigenverantwortlicher Entscheidung unfähigen Betroffenen, die vom Vormundschaftsgericht geäußerten Zweifel, ob die Betroffene in Kenntnis ihres aktuellen Zustandes weiterhin auf lebenserhaltende Maßnahmen verzichtet hätte, durchaus legitim seien: BVerfG, Beschluss vom 02.08.2001, 1 BvR 618/93; FamRZ 2002, 312 = NJW 2002, 206"
     },
     {
+      "norms": [],
       "path": [
         "Allgemeines",
         "Behandlungsunterlagen"
@@ -255,24 +454,28 @@
       "text": "OLG Karlsruhe, Urteil vom 14.08.2019, 7 U 238/18\n\nKein Recht von Angehörigen, aufgrund einer Vorsorgevollmacht Einsicht in Behandlungsunterlagen eines Verstorbenen zu nehmen, gegen dessen ausdrücklich erklärten oder mutmaßlichen Willen."
     },
     {
+      "norms": [],
       "path": [
         "Rechtsgeschichte der Selbstmedikation in Deutschland"
       ],
       "text": "Der deutsche Arzt Dr. med. Christian Friedrich Samuel Hahnemann (1755 – 1843) setzte mit seinem revolutionär wirkenden Lebenswerk die alternative Heilmittelkunde ab dem Jahr 1796 nachhaltig durch. Damals veröffentlichte Hahnemann seine durch Selbstversuche gefundene Ähnlichkeitsregel „Similia similibus curentur“. Hahnemann hatte als Sohn eines Meißener Porzellanmalers in Leipzig und Erlangen Medizin, Pharmazie und Chemie studiert. Sein erfolgreiches Studium finanzierte er durch Übersetzungen von englischen und französischen Fachbüchern in die deutsche Sprache. Während dieser Arbeiten wurde er durch das Buch „Materia medica“ von William Cullen inspiriert. William Cullen war ein berühmter schottischer Arzt, der unter anderem die Chinarinde als wirksames pflanzliches Arzneimittel entdeckte. „Chinin“ ist heute ein bekanntes Fiebermittel und „Chinidin“ ein Herzmittel. Die Hauptaufgabe der Homöopathie war und blieb es seit damals, nebenwirkungsarme natürliche Arzneimittel auf wissenschaftlicher Basis (wieder) zu entdecken.\n\nDer Begriff Homöopathie zeigt im Gegensatz zur Allopathie an, dass die Heilwirkung homöopathischer Arzneimittel darauf beruht, dass die durch sie angeregte körpereigene Abwehrkraft die Krankheitssymptome überwinden kann. In der Allopathie werden die Krankheitsursachen durch ein Gegenmittel direkt bekämpft.  Der homöopathische Arzt oder Heilpraktiker gibt dem Kranken dagegen kleinste Dosen (= Potenzen) eines natürlichen Stoffes, von dem man aus gesicherter medizinischer Praxiserfahrung (vergleiche: Dokumentationspflicht) weiß, dass er in großen Mengen am Patienten ein ähnliches Krankheitssymptom hervorrufen kann. Es tritt beim Patienten im homöopathischen Heilungsprozess eine Art von Desensibilisierung bzw. eine Immunisierung gegen seine so behandelbare Krankheit ein.\n\nDie erste homöopathische Akademie der Erde wurde in den Vereinigten Staaten von Amerika gegründet. Schon im Jahr 1834, also noch zu Lebzeiten des deutschen Medizinpioniers, entstand die „Nordamerikanische Akademie der homöopathischen Heilkunst“ bei der Stadt Philadelphia („Hahnemann Medical College“). Die globalen wissenschaftlichen Mediziner-Fronten blieben jedoch bis zum Ersten Weltkrieg weitgehend dogmatisch verhärtet. Rechtshistorisch interessant ist die gesetzliche Einführung des Deutschen homöopathischen Arzneibuchs zum 01.01.1934 während der NS-Diktatur. Dadurch konnte sich die Deutsche Homöopathische Union (DHU) zu einem der führenden homöopathischen Arzneimittelhersteller entwickeln."
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- Gesundheitssorge, Vulnerabilität, Elektronische Patientenakte, Notfalldaten, Gesundheitsdatennutzungsgesetz, Dokumentationspflicht, Medikationsplan, E-Rezept, digitale Barrierefreiheit, Selbstbestimmung, Mitwirkungspflicht, Genehmigung der Heilbehandlung, Einstweilige Anordnung, Checkliste für Arztgespräche, Informationspflicht, Organspende, Zwangsbehandlung, Medizinische Begriffe, Forensik\n- e-Rechnung\n- gesundheitliche Versorgungsplanung, Erörterungsgespräch\n- Selbstverwaltung der deutschen Gemeinden, Gemeinwohlorientierung"
     },
     {
+      "norms": [],
       "path": [
         "Podcast betroyt.de"
       ],
       "text": "-Betroyt-de-Podcast von Rechtsanwalt Roy Kreutzer zum Thema Einwilligung in Behandlungen\n-Podcast betroyt.de zur Konsultation eines zweiten Arztes"
     },
     {
+      "norms": [],
       "path": [
         "Literatur",
         "Bücher"
@@ -280,6 +483,10 @@
       "text": "-Laufs (Hrsg.): Handbuch des Arztrechts, Heidelberg, 3. Aufl. 2002, ISBN 3406486460\n- May: Autonomie und Fremdbestimmung bei medizinischen Entscheidungen für Nichteinwilligungsfähige , ISBN 3825849155\n- Popp: Zwangsbehandlung von psychisch Kranken im Betreuungsrecht, ISBN 3631505973\n- Schmidt: Betreuungspraxis und psychiatrische Grundlagen, ISBN 3898174913\n- Trichterborn: Zulässigkeit und Bedingungen einer ambulanten Zwangsbehandlung von Betreuten, ISBN 3832221050\n-Ulsenheimer: Arztstrafrecht in der Praxis, Heidelberg, 3. Aufl. 2003, ISBN 3811408410\n- Winkler-Wilfurth: Betreuung und Heilbehandlung , ISBN 3826550544"
     },
     {
+      "norms": [
+        "BGB§1904",
+        "BGB§1906"
+      ],
       "path": [
         "Literatur",
         "Zeitschriftenbeiträge"
@@ -287,16 +494,18 @@
       "text": "-Alt-Epping/Nauck: Der Wunsch des Patienten – ein eigenständiger normativer Faktor in der klinischen Therapieentscheidung? Ethik Med (2012) 24:19–28\n-Amelung: Probleme der Einwilligungsfähigkeit; RuP 1995, 20\n-Baumann: Fehlende Rechtsgrundlage bei ärztl. Zwangsbehandlung Untergebrachter; NJW 1980, 1873\n-Baumann/Hartmann: Die zivilrechtliche Absicherung der Patientenautonomie am Ende des Lebens aus der Sicht der notariellen Praxis; DNotZ 2000, 594\n-Baur: Sterbehilfe ohne Entscheidung des Vormundschaftsgerichts; chefarzt aktuell 2005, 75\n-Bienwald: Einwilligungspflichtige Maßnahmen im Heim; BtPrax 2005, 218\n-Bockenheimer-Lucius: Einstellung einer künstlichen Ernährung und kritische Anfragen an die Rechtsprechung; EthikMed 2005/04, 265\n-Bühler/Kren/Stolz: Sterbehilfe – Sterbebegleitung – Patientenverfügung; BtPrax 2002, 232\n-Bühler/Stolz: Ärztliche Behandlung und unterstütze Entscheidungsfindung - Betreuung entbehrlich? BtPrax 2017, 167\n-Carstensen: Der einwilligungsunfähige Patient und seine Betreuung, AuK 2001/11, 342\n-Coeppicus: Behandlungsabbruch, mutmaßlicher Wille und Betreuungsrecht; NJW 1998, 3381\n-Czerner: Legitimierung von Behandlungsabbrüchen durch § 1904?; Kritische Vierteljahresschrift für Gesetzgebung und Rechtswissenschaft 2004, 182\n-Dietl/Böhm: Die Indikation aus ärztlicher und juristischer Sicht; BtPrax 2012, 135\n-Dodegge: Die Elektrokrampftherapie, FamRZ 1996, 74\n-Dose: Medikamentöse Versorgung als Heilbehandlung; FamRZ 1993, 24\n-Eisenbart: Stellvertretung in Gesundheitsangelegenheiten; MedR 1997, 305\n-Freye: Wenn der Patient nicht selbst entscheiden kann, DÄBl. 1999/4, 178\n-Fröschle: Maximen des Betreuerhandelns und die Beendigung lebenserhaltender Eingriffe; JZ 2000, 72\n-Gründel: Einwilligung des Betreuers in den Abbruch lebenserhaltender Maßnahmen; NJW 1999, 3391\n-Hartmann: Patientenverfügung und psychiatrische Verfügung – Verbindlichkeit für den Arzt? NStZ 2000, 113\n-Hennies: Risikoreiche ärztliche Maßnahmen – betreuungsrechtliche Eingriffe; MedR 1999, 341\n-ders.:Abbruch lebenserhaltender Behandlungen und die Kontrollfunktion des Vormundschaftsgerichts - Voraussetzungen und Grenzen. Anmerkungen zum Beschluss des BGH vom 17.3.2003 - XII ZB 2/03; ArztR 2003, 316ff.\n-Hoffmann: Information einwilligungsunfähiger Erwachsener vor ärztlichen Maßnahmen; RuP 2005, 52 ff.\n-Hoffmann: Pflicht von Arzt und Betreuer - Aufklärung/Information einwilligungsunfähiger Patienten vor ärztlichen Maßnahmen; BtPrax 2007, 143\n-Holzhauer: Zur Prüfung von Medikamenten an Betreuten; NJW 1992, 2325\n-Hubert-Fehler: Entscheidung des Betreuers für oder gegen PEG; BtPrax 1996, 210\n-Kern: Die Bedeutung des BtG für das Arztrecht, MedR 1991, 66\n-ders: Arzt und Betreuungsrecht; MedR 1993, 245\n-ders.: Fremdbestimmung bei der Einwilligung in ärztliche Eingriffe; NJW 1994, 753\n-Klie: Das Behandlungsrecht als Fallstrick für das Betreuungsrecht; BtPrax 1996, 38\n-Konrad: Bedeutung der Genehmigungspflicht gem. § 1904 BGB in der stat. psychiatrischen Versorgungspraxis; RuP 1996, 76\n-Lang: Forschung an nicht einwilligungsfähigen Minderjährigen; GesR 2004, 166\n-Lühnen/Richter: Informierte Entscheidungen für und mit Menschen mit Demenz; BtPrax 2016, 127\n-Meier: Patientenrechtegesetz - den den sozialrechtlichen Änderungen; BtPrax 2013, 132\n-Meyer: Zur zwangsweisen Heilbehandlung im Rahmen der Unterbringung; BtPrax 2002, 252\n-dies.: Zum Inhalt von und zum Umgang mit Patientenvollmachten in Gesundheitsangelegenheiten; BtPrax 2001, 181\n-Mitsch: Die mutmaßliche Einwilligung; ZJS 2012, 38\n-Müller: Das neue BtG - Auswirkungen auf die ärztliche Behandlung; DAVorm 1992, 151\n-Müller-Bohlen/Paape: PEG – über die Notwendigkeit einer künstlichen Ernährung; BtPrax 2000, 183\n-Nedopil: Erwiderung auf den Beitrag von Schreiber; FamRZ 1993, 24\n-Olzen/Lilius-Karakaya: Patientenrechtegesetz und rechtliche Betreuung; BtPrax 2013, 127\n-Otto: Einwilligung, mutmaßliche, gemutmaßte und hypothetische Einwilligung; Jura 2004, 679\n-Pardey: Alltagsprobleme im Betreuungsrecht, insbes. zu § 1904 und 1906 IV BGB; BtPrax 1995, 81\n-Parzeller pp: Aufklärung und Einwilligung des Patienten, Ärzteblatt 2009 (PDF)\n-Ridder: Zur Anwendbarkeit des Genehmigungsverfahrens ... bei Elektrokrampfbehandlungen psychisch Kranker; FamRZ 1994, 1204\n-Riedel/Stolz: Behandlungswünsche und mutmaßlicher Wille von Menschen mit geistiger Behinderung; BtPrax 2013, 9\n-Roth: Die Einwilligung des Betreuers in den Abbruch einer lebenserhaltenden Maßnahme; BtPrax 2003, 215\n-Saliger: Sterbehilfe und Betreuungsrecht; MedR 2004, 237ff.\n-Sandlos: Die Organisation der ambulanten psychiatrischen Behandlung Betreuter – Aufgabe und Herausforderung für Betreuer; BtPrax 2001, 91\n-Schmidt/Madea: Grenzen ärztlicher Behandlungspflicht am Ende des Lebens; MedR 1998, 406\n-Schneide: Zur analogen Anwendung des § 1904 BGB auf die Fälle der passiven Sterbehilfe; RPfleger 2000, 8\n-Schöch: Beendigung lebenserhaltender Maßnahmen; NStZ 1995, 153\n-Schiller: Die Arzthaftung für Behandlungsfehler im Rahmen psychiatrischer Behandlungen; GesR 2011, 8\n-Schreibauer: Strafrechtliche Risiken des Betreuers bei der Sterbehilfe und Suizidbeteiligung; BtPrax 1997, 217\n-Schreiber: Die medikamentöse Versorgung als Heilbehandlung gem. § 1904 BGB; FamRZ 1991, 1014 und Diskussion hierzu in FamRZ 1993, 26\n-Schweitzer: Heilbehandlung und Selbstbestimmung; FamRZ 1996, 1317\n-Spickhoff: Die Patientenautonomie am Lebensende; NJW 2000, 2297\n-Stalinski: Die einvernehmliche Zwangsbehandlung; BtPrax 2000, 59\n-Stolz: BtG - Umsetzungsdefizite im Bereich Heilbehandlung und freiheitsentziehende Maßnahmen, FamRZ 1993, 642\n-ders.: Medikamentöse Versorgung von Heimbewohnern nach dem Betreuungsgesetz; BtPrax 1994, 49\n-ders.: Menschen mit Demenz im Krankenhaus; BtPrax 2010, 24\n-Strätling/Fieber/Sedemund-Adib/Schmucker: Mittelbare Folgen der BGH-Sterbehilfeentscheidung zum „Lübecker Fall“ für das deutsche Medizin- und Betreuungsrecht; MedR 2004, 433\n-Thar: Einwilligung in Heilbehandlung – durch den Betreuten – durch den Betreuer; BtPrax 1994, 91\n-Thar: Die Einwilligung in die Behandlung mit Clozapin (Leponex) bei stationärer Zwangsbehandlung; BtPrax 2004/2, M6\n-Uhlenbruck: Vorab-Einwilligung und Stellvertretung bei der Einwilligung in einen Heileingriff; MedR 1992, 134\n-Vennemann/Linnhoff: Die Problematik des § 1904 BGB – anhand eines Falls; BtPrax 1993, 89\n-Walther: Ambulante Zwangsbehandlung und fürsorglicher Zwang; BtPrax 2001, 96\n-Wetterling u.a.: Betreuung von Süchtigen; BtPrax 1995, 86\n-Weidhaas: Der Kassenarzt zwischen Betrug und Untreue; ZMGR 2003, 52\n-Wiebach/Kreyßig/Peters/Winterstein: Was ist „gefährlich“? - Ärztliche und juristische Aspekte bei der Anwendung des § 1904 BGB, BtPrax 1997, 48\n-Wojnar / Bruder: Ärztliche Tätigkeit und das BtG, BtPrax 1993, 50\n-Wojnar: Einsatz von Psychopharmaka in der Betreuung demenzkranker Menschen, BtPrax 1999, 11\n-Wolter-Henseler: Gefährliche medizinische Maßnahmen? BtPrax 1995, 168\n-ders.: Betreuungsrecht und Arzneimittel - wann ist eine medikamentöse Behandlung genehmigungspflichtig? BtPrax 1994, 183\n-Wurzel: Nicht genehmigte Zwangsmedikation – rechtfertigt das Zweifel an der Eignung des Betreuers; BtPrax 2001, 241\n-Zinkler/Scheeweiß: Zur vormundschaftsger. Genehmigungspflicht der Elektrokrampftherapie; RuP 2000, 12"
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],
       "text": "-BGH-Beschluss vom 17. März 2003 zur Beendigung lebenserhaltender Maßnahmen\n-BGH-Beschluss vom 8. Juni 2005 zur Einstellung der künstlichen Ernährung\n-Der SPIEGEL 4/2013: Hirnschwund durch Psychopillen ?"
     },
     {
+      "norms": [],
       "path": [
         "Vordrucke"
       ],
-      "text": "-Antrag Genehmigung Heilbehandlung (Anwalt Online)\n\nInfos zum Haftungsausschluss\n\n{{Quelle Wikipedia|Heilbehandlung|19. August 2006|3=http://de.wikipedia.org/w/index.php?title=Heilbehandlung&oldid=20368523}}"
+      "text": "-Antrag Genehmigung Heilbehandlung (Anwalt Online)\n\nInfos zum Haftungsausschluss\n\nQuelle: Wikipedia, Artikel „Heilbehandlung“, Stand 19. August 2006 (http://de.wikipedia.org/w/index.php?title=Heilbehandlung&oldid=20368523)"
     }
   ],
   "slug": "heilbehandlung",

@@ -76,22 +76,800 @@
     "zuführung-zur-unterbringung",
     "zugangsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1846",
+      "label": "§ 1846 BGB",
+      "nummer": "1846"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§10",
+      "label": "§ 10 FamFG",
+      "nummer": "10"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§11",
+      "label": "§ 11 FamFG",
+      "nummer": "11"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§12",
+      "label": "§ 12 FamFG",
+      "nummer": "12"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§125",
+      "label": "§ 125 FamFG",
+      "nummer": "125"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§15",
+      "label": "§ 15 FamFG",
+      "nummer": "15"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§168",
+      "label": "§ 168 FamFG",
+      "nummer": "168"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§17",
+      "label": "§ 17 FamFG",
+      "nummer": "17"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§18",
+      "label": "§ 18 FamFG",
+      "nummer": "18"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§19",
+      "label": "§ 19 FamFG",
+      "nummer": "19"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§271",
+      "label": "§ 271 FamFG",
+      "nummer": "271"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§272",
+      "label": "§ 272 FamFG",
+      "nummer": "272"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§273",
+      "label": "§ 273 FamFG",
+      "nummer": "273"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§274",
+      "label": "§ 274 FamFG",
+      "nummer": "274"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§275",
+      "label": "§ 275 FamFG",
+      "nummer": "275"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§276",
+      "label": "§ 276 FamFG",
+      "nummer": "276"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§277",
+      "label": "§ 277 FamFG",
+      "nummer": "277"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§278",
+      "label": "§ 278 FamFG",
+      "nummer": "278"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§279",
+      "label": "§ 279 FamFG",
+      "nummer": "279"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§280",
+      "label": "§ 280 FamFG",
+      "nummer": "280"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§281",
+      "label": "§ 281 FamFG",
+      "nummer": "281"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§282",
+      "label": "§ 282 FamFG",
+      "nummer": "282"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§283",
+      "label": "§ 283 FamFG",
+      "nummer": "283"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§284",
+      "label": "§ 284 FamFG",
+      "nummer": "284"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§285",
+      "label": "§ 285 FamFG",
+      "nummer": "285"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§286",
+      "label": "§ 286 FamFG",
+      "nummer": "286"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§287",
+      "label": "§ 287 FamFG",
+      "nummer": "287"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§288",
+      "label": "§ 288 FamFG",
+      "nummer": "288"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§289",
+      "label": "§ 289 FamFG",
+      "nummer": "289"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§290",
+      "label": "§ 290 FamFG",
+      "nummer": "290"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§291",
+      "label": "§ 291 FamFG",
+      "nummer": "291"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§292",
+      "label": "§ 292 FamFG",
+      "nummer": "292"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§293",
+      "label": "§ 293 FamFG",
+      "nummer": "293"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§294",
+      "label": "§ 294 FamFG",
+      "nummer": "294"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§295",
+      "label": "§ 295 FamFG",
+      "nummer": "295"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§296",
+      "label": "§ 296 FamFG",
+      "nummer": "296"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§297",
+      "label": "§ 297 FamFG",
+      "nummer": "297"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§298",
+      "label": "§ 298 FamFG",
+      "nummer": "298"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§299",
+      "label": "§ 299 FamFG",
+      "nummer": "299"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§300",
+      "label": "§ 300 FamFG",
+      "nummer": "300"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§301",
+      "label": "§ 301 FamFG",
+      "nummer": "301"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§302",
+      "label": "§ 302 FamFG",
+      "nummer": "302"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§303",
+      "label": "§ 303 FamFG",
+      "nummer": "303"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§304",
+      "label": "§ 304 FamFG",
+      "nummer": "304"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§305",
+      "label": "§ 305 FamFG",
+      "nummer": "305"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§306",
+      "label": "§ 306 FamFG",
+      "nummer": "306"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§307",
+      "label": "§ 307 FamFG",
+      "nummer": "307"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§308",
+      "label": "§ 308 FamFG",
+      "nummer": "308"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§309",
+      "label": "§ 309 FamFG",
+      "nummer": "309"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§310",
+      "label": "§ 310 FamFG",
+      "nummer": "310"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§311",
+      "label": "§ 311 FamFG",
+      "nummer": "311"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§312",
+      "label": "§ 312 FamFG",
+      "nummer": "312"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§313",
+      "label": "§ 313 FamFG",
+      "nummer": "313"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§314",
+      "label": "§ 314 FamFG",
+      "nummer": "314"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§315",
+      "label": "§ 315 FamFG",
+      "nummer": "315"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§316",
+      "label": "§ 316 FamFG",
+      "nummer": "316"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§317",
+      "label": "§ 317 FamFG",
+      "nummer": "317"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§318",
+      "label": "§ 318 FamFG",
+      "nummer": "318"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§319",
+      "label": "§ 319 FamFG",
+      "nummer": "319"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§320",
+      "label": "§ 320 FamFG",
+      "nummer": "320"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§321",
+      "label": "§ 321 FamFG",
+      "nummer": "321"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§322",
+      "label": "§ 322 FamFG",
+      "nummer": "322"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§323",
+      "label": "§ 323 FamFG",
+      "nummer": "323"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§324",
+      "label": "§ 324 FamFG",
+      "nummer": "324"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§325",
+      "label": "§ 325 FamFG",
+      "nummer": "325"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§326",
+      "label": "§ 326 FamFG",
+      "nummer": "326"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§327",
+      "label": "§ 327 FamFG",
+      "nummer": "327"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§328",
+      "label": "§ 328 FamFG",
+      "nummer": "328"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§329",
+      "label": "§ 329 FamFG",
+      "nummer": "329"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§330",
+      "label": "§ 330 FamFG",
+      "nummer": "330"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§331",
+      "label": "§ 331 FamFG",
+      "nummer": "331"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§332",
+      "label": "§ 332 FamFG",
+      "nummer": "332"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§333",
+      "label": "§ 333 FamFG",
+      "nummer": "333"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§334",
+      "label": "§ 334 FamFG",
+      "nummer": "334"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§335",
+      "label": "§ 335 FamFG",
+      "nummer": "335"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§336",
+      "label": "§ 336 FamFG",
+      "nummer": "336"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§337",
+      "label": "§ 337 FamFG",
+      "nummer": "337"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§338",
+      "label": "§ 338 FamFG",
+      "nummer": "338"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§339",
+      "label": "§ 339 FamFG",
+      "nummer": "339"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§34",
+      "label": "§ 34 FamFG",
+      "nummer": "34"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§39",
+      "label": "§ 39 FamFG",
+      "nummer": "39"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§40",
+      "label": "§ 40 FamFG",
+      "nummer": "40"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§41",
+      "label": "§ 41 FamFG",
+      "nummer": "41"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§58",
+      "label": "§ 58 FamFG",
+      "nummer": "58"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§59",
+      "label": "§ 59 FamFG",
+      "nummer": "59"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§61",
+      "label": "§ 61 FamFG",
+      "nummer": "61"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§63",
+      "label": "§ 63 FamFG",
+      "nummer": "63"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§64",
+      "label": "§ 64 FamFG",
+      "nummer": "64"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§65",
+      "label": "§ 65 FamFG",
+      "nummer": "65"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§66",
+      "label": "§ 66 FamFG",
+      "nummer": "66"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§7",
+      "label": "§ 7 FamFG",
+      "nummer": "7"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§70",
+      "label": "§ 70 FamFG",
+      "nummer": "70"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§71",
+      "label": "§ 71 FamFG",
+      "nummer": "71"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§9",
+      "label": "§ 9 FamFG",
+      "nummer": "9"
+    }
+  ],
   "pageid": 2128,
   "revid": 66132,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Basisdaten\n Volltitel: Gesetz über das Verfahren in Familiensachen\n und in den Angelegenheiten der\nfreiwilligen Gerichtsbarkeit\n Kurztitel:  Familienverfahrensgesetz\n Abkürzung:   FamFG\n Art:  Bundesgesetz\n Geltungsbereich:  Bundesrepublik Deutschland\n Rechtsmaterie:  Verfahrensrecht\n Fundstellennachweis:  315-24\n Datum des Gesetzes:  17.12.2008 (BGBl. I S. 2586)\n Inkrafttreten:   01.09.2009\n Letzte Änderung: G. vom 26.6.2022 (BGBl. I. S. 959)\n Außerkrafttreten:"
     },
     {
+      "norms": [],
       "path": [
         "Das neue FamFG"
       ],
       "text": "Das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG) ist ein Bundesgesetz betreffend die Neuregelung des gerichtlichen Verfahrens in Familiensachen. Es wurde verkündet als Artikel 1 des Gesetzes zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FGG-Reformgesetz – FGG-RG) und trat am 1. September 2009 in Kraft.\n\nDas FamFG ändert insbesondere das Gesetz über die Angelegenheiten der freiwilligen Gerichtsbarkeit (FGG) und ersetzt Teile der Zivilprozessordnung (ZPO), soweit diese familienrechtliche Verfahren (wie Vaterschaftsfeststellung, Unterhalt oder Adoptionen) regeln.\n\nUnter anderem wurde das bisherige Vormundschaftsgericht aufgelöst. Seine Zuständigkeiten wurden auf das Familiengericht und das neu geschaffene Betreuungsgericht verteilt. Letzteres ist für Betreuungsverfahren, Unterbringungsverfahren und sonstige Freiheitsentziehungsmaßnahmen sowie für Pflegschaften für Volljährige zuständig.\n\nZudem wurde das Rechtsmittelsystem neu strukturiert. Den Beteiligten wird durch die Rechtsbeschwerde erstmals in Angelegenheiten der freiwilligen Gerichtsbarkeit der unmittelbare Zugang zum Bundesgerichtshof in Karlsruhe (Baden-Württemberg) eröffnet. Die Beschwerde gegen gerichtliche Entscheidungen wird künftig generell befristet."
     },
     {
+      "norms": [
+        "FamFG§7",
+        "FamFG§274",
+        "FamFG§315",
+        "FamFG§9",
+        "FamFG§275",
+        "FamFG§316",
+        "FamFG§10",
+        "FamFG§11",
+        "FamFG§12",
+        "FamFG§15",
+        "FamFG§288",
+        "FamFG§17",
+        "FamFG§18",
+        "FamFG§19",
+        "FamFG§34",
+        "FamFG§278",
+        "FamFG§41",
+        "FamFG§40",
+        "FamFG§287",
+        "FamFG§324"
+      ],
       "path": [
         "Wichtige Bestimmungen für Betreuer",
         "Allgemeine Bestimmungen"
@@ -99,6 +877,21 @@
       "text": "-§§ 7, 274, 315 FamFG Verfahrensbeteiligte\n-§§ 9, 275, 316 FamFG Verfahrensfähigkeit\n-§§ 10, 11, 12 FamFG Bevollmächtigte\n-§§ 15, 288 FamFG Bekanntgabe\n-§§ 17, 18, 19 FamFG Wiedereinsetzung in den vorigen Stand\n-§§ 34, 278 FamFG Persönliche Anhörung\n-§§ 15, 41 FamFG Bekanntgabe\n-§§ 40, 287, 324 FamFG Wirksamwerden von Beschlüssen"
     },
     {
+      "norms": [
+        "FamFG§39",
+        "FamFG§58",
+        "FamFG§59",
+        "FamFG§303",
+        "FamFG§335",
+        "FamFG§61",
+        "FamFG§63",
+        "FamFG§64",
+        "FamFG§65",
+        "FamFG§66",
+        "FamFG§70",
+        "FamFG§71",
+        "FamFG§10"
+      ],
       "path": [
         "Wichtige Bestimmungen für Betreuer",
         "Rechtsmittel"
@@ -106,6 +899,51 @@
       "text": "-§ 39 FamFG Rechtsmittelbelehrung\n-§§ 58 FamFG Beschwerde\n-§§ 59, 303, 335 FamFG Beschwerdeberechtigte\n-§ 61 FamFG Beschwerdewert\n-§ 63 FamFG Beschwerdefrist\n-§ 64 FamFG Einlegen der Beschwerde\n-§ 65 FamFG Beschwerdebegründung\n-§ 66 FamFG Anschlussbeschwerde\n-§ 70 FamFG Rechtsbeschwerde (an den Bundesgerichtshof)\n-§ 71 FamFG Einlegen der Rechtsbeschwerde\n-§ 10 FamFG Anwaltszwang beim Bundesgerichtshof"
     },
     {
+      "norms": [
+        "FamFG§271",
+        "FamFG§272",
+        "FamFG§273",
+        "FamFG§274",
+        "FamFG§275",
+        "FamFG§276",
+        "FamFG§277",
+        "FamFG§278",
+        "FamFG§279",
+        "FamFG§280",
+        "FamFG§281",
+        "FamFG§282",
+        "FamFG§283",
+        "FamFG§284",
+        "FamFG§285",
+        "FamFG§286",
+        "FamFG§287",
+        "FamFG§288",
+        "FamFG§289",
+        "FamFG§290",
+        "FamFG§291",
+        "FamFG§168",
+        "FamFG§292",
+        "FamFG§293",
+        "FamFG§294",
+        "FamFG§295",
+        "FamFG§296",
+        "FamFG§297",
+        "FamFG§298",
+        "FamFG§299",
+        "FamFG§125",
+        "FamFG§300",
+        "FamFG§301",
+        "FamFG§302",
+        "FamFG§303",
+        "FamFG§304",
+        "FamFG§305",
+        "FamFG§306",
+        "FamFG§307",
+        "FamFG§308",
+        "FamFG§309",
+        "FamFG§310",
+        "FamFG§311"
+      ],
       "path": [
         "Wichtige Bestimmungen für Betreuer",
         "Betreuungsverfahren"
@@ -113,6 +951,37 @@
       "text": "-§ 271 FamFG Betreuungssachen\n-§ 272 FamFG Örtliche Zuständigkeit des Betreuungsgerichtes\n-§ 273 FamFG Abgabe des Gerichtsverfahrens\n-§ 274 FamFG Verfahrensbeteiligte beim Betreuungsverfahren\n-§ 275 FamFG Verfahrensfähigkeit im Betreuungsverfahren\n-§ 276 FamFG Verfahrenspfleger\n-§ 277 FamFG Vergütung des Verfahrenspflegers\n-§ 278 FamFG Anhörung des Betroffenen\n-§ 279 FamFG Anhörung sonst. Beteiligter, zB der Betreuungsbehörde\n-§ 280 FamFG Sachverständigengutachten\n-§ 281 FamFG ärztliches Zeugnis statt SV-Gutachten\n-§ 282 FamFG MDK-Gutachten statt SV-Gutachten\n-§ 283 FamFG Vorführung zum Sachverständigen\n-§ 284 FamFG Unterbringung zur Begutachtung\n-§ 285 FamFG Ablieferung der Betreuungsverfügung oder Vorsorgevollmacht\n-§ 286 FamFG Gerichtsbeschluss\n-§ 287 FamFG Wirksamwerden des Beschlusses\n-§ 288 FamFG Bekanntgabe des Beschlusses\n-§ 289 FamFG Verpflichtungsgespräch\n-§ 290 FamFG Betreuerausweis\n-§ 291 FamFG Überprüfen der Betreuerauswahl\n-§§ 168, 292 FamFG Aufwendungsersatz und Betreuervergütung\n-§ 293 FamFG Erweiterung des Aufgabenkreises und des Einwilligungsvorbehaltes\n-§ 294 FamFG Einschränkung und Aufhebung der Betreuung\n-§ 295 FamFG Verlängerung der Betreuung und des Einwilligungsvorbehaltes\n-§ 296 FamFG Entlassung des Betreuers\n-§ 297 FamFG Genehmigung der Sterilisation\n-§ 298 FamFG Genehmigung der Heilbehandlung und Sterbehilfe\n-§ 299 FamFG Genehmigungen im Bereich Vermögenssorge und Wohnungskündigung\n-§ 125 FamFG Genehmigung der Ehescheidung\n-§ 300 FamFG Einstweilige Anordnung\n-§ 301 FamFG Einstweilige Anordnung bei gesteigerter Dringlichkeit\n-§ 302 FamFG Dauer der einstweiligen Anordnung\n-§ 303 FamFG Rechtsmittel\n-§ 304 FamFG Rechtsmittel der Staatskasse (Bezirksrevisor)\n-§ 305 FamFG Beschwerde eines Untergebrachten\n-§ 306 FamFG Auswirkungen der Aufhebung des Einwilligungsvorbehaltes\n-§ 307 FamFG Gerichtskosten in Betreuungssachen\n-§ 308 FamFG Mitteilungen an andere Stellen\n-§ 309 FamFG Mitteilungen an Wahlamt und Einwohnermeldeamt\n-§ 310 FamFG Mitteilungen an Leiter von Unterbringungseinrichtungen\n-§ 311 FamFG Mitteilungen zur Strafverfolgung"
     },
     {
+      "norms": [
+        "FamFG§312",
+        "FamFG§313",
+        "FamFG§314",
+        "FamFG§315",
+        "FamFG§316",
+        "FamFG§317",
+        "FamFG§318",
+        "FamFG§319",
+        "FamFG§320",
+        "FamFG§321",
+        "FamFG§322",
+        "FamFG§323",
+        "FamFG§324",
+        "FamFG§325",
+        "FamFG§326",
+        "FamFG§327",
+        "FamFG§328",
+        "FamFG§329",
+        "FamFG§330",
+        "FamFG§331",
+        "FamFG§332",
+        "FamFG§333",
+        "FamFG§334",
+        "BGB§1846",
+        "FamFG§335",
+        "FamFG§336",
+        "FamFG§337",
+        "FamFG§338",
+        "FamFG§339"
+      ],
       "path": [
         "Wichtige Bestimmungen für Betreuer",
         "Unterbringungsverfahren"
@@ -120,18 +989,21 @@
       "text": "-§ 312 FamFG Unterbringungssachen\n-§ 313 FamFG Örtliche Zuständigkeit des Betreuungsgerichtes\n-§ 314 FamFG Abgabe des Gerichtsverfahrens\n-§ 315 FamFG Verfahrensbeteiligte beim Unterbringungsverfahren\n-§ 316 FamFG Verfahrensfähigkeit im Unterbringungsverfahren\n-§ 317 FamFG Verfahrenspfleger\n-§ 318 FamFG Vergütung des Verfahrenspflegers\n-§ 319 FamFG Anhörung des Betroffenen\n-§ 320 FamFG Anhörung sonst. Beteiligter, zB der Betreuungsbehörde\n-§ 321 FamFG Sachverständigengutachten\n-§ 322 FamFG Vorführung zum Sachverständigen\n-§ 323 FamFG Unterbringungsbeschluss\n-§ 324 FamFG Wirksamwerden des Beschlusses\n-§ 325 FamFG Bekanntgabe des Beschlusses\n-§ 326 FamFG Zuführung zur Unterbringung\n-§ 327 FamFG Vollzugsregelungen bei PsychKG-Unterbringungen\n-§ 328 FamFG Aussetzung des Vollzugs bei PsychKG-Unterbringungen\n-§ 329 FamFG Dauer und Verlängerung der Unterbringung\n-§ 330 FamFG Aufhebung der Unterbringung\n-§ 331 FamFG Einstweilige Anordnung\n-§ 332 FamFG Einstweilige Anordnung bei gesteigerter Dringlichkeit\n-§ 333 FamFG Dauer der einstweiligen Anordnung\n-§ 334 FamFG einstweilige Maßregeln nach § 1846 BGB\n-§ 335 FamFG Beschwerde\n-§ 336 FamFG Beschwerde eines Untergebrachten\n-§ 337 FamFG Gerichtskosten in Unterbringungssachen\n-§ 338 FamFG Mitteilungen an andere Stellen\n-§ 339 FamFG Mitteilung an eine Vertrauensperson"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "-Gesetzgebung in Deutschland, Drittes Betreuungsrechtsänderungsgesetz\n-Gesetzestexte\n-Gesetzesbegründung des FamFG (Bt-Drs. 16/6308), PDF\n-Kindschaftsrecht, Freier Wille\n-Vaterschaftsanerkennung, Personenstand\n-Pflicht zur Betreuungsübernahme\n-Rechtsverkehr in Deutschland\n-elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht\n-Rechtsweg in Deutschland, Zugangsrecht\n-ordre public, Polizeirecht\n-Eidesstattliche Versicherung\n-Amtsermittlungspflicht, Amtspflichtverletzung\n-Rechtsprechung zur Anhörung"
     },
     {
+      "norms": [],
       "path": [
         "Gesetzessammlungen in Buchform"
       ],
       "text": "- HK BUR: Gesetzessammlung Betreuungsrecht (Neuauflage 2009), ISBN 381143845X\n-Spanl: Das neue Familienverfahrensrecht; 9,95 Euro, ISBN 380297509X"
     },
     {
+      "norms": [],
       "path": [
         "Literatur (Zeitschriftenbeiträge)"
       ],

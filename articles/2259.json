@@ -28,22 +28,73 @@
     "vorsorgevollmacht",
     "vulnerabilität"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1358",
+      "label": "§ 1358 BGB",
+      "nummer": "1358"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1809",
+      "label": "§ 1809 BGB",
+      "nummer": "1809"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1827",
+      "label": "§ 1827 BGB",
+      "nummer": "1827"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1829",
+      "label": "§ 1829 BGB",
+      "nummer": "1829"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§630d",
+      "label": "§ 630d BGB",
+      "nummer": "630d"
+    }
+  ],
   "pageid": 2259,
   "revid": 65256,
   "sections": [
     {
+      "norms": [
+        "BGB§630d",
+        "BGB§1827",
+        "BGB§1829",
+        "BGB§1809",
+        "BGB§1358"
+      ],
       "path": [
         "Einleitung"
       ],
       "text": "Als Patientenvertreter wird eine Person bezeichnet, die berechtigt ist, als Dritter in Behandlungsverträge gem. § 630d BGB einzuwilligen, weil der Patient selbst einwilligungsunfähig ist. Dabei kann eine Patientenverfügung (§ 1827 BGB) vorliegen oder nicht.\n\nAls Patientenvertreter kommen in Frage:\n\n-Bei Volljährigen:\n--rechtliche Betreuer, deren Aufgabenkreis die Gesundheitssorge beinhaltet;\n--(Vorsorge-)Bevollmächtigte, bei denen selbiges der Fall ist. Bei Generalvollmachten ohne weitere Spezifikation ist zu unterscheiden: geht es um eine Einwilligung in eine Maßnahme, die § 1829 BGB betrifft, reicht die Generalvollmacht nicht aus, bei sonst. med. Eingriffen schon.\n\n-Bei Minderjährigen:\n--die sorgenberechtigten Eltern oder der alleinsorgeberechtigte Elternteil (Personensorge)\n--der Vormund\n--der Ergänzungspfleger (§ 1809 BGB), dessen Wirkungskreis die Gesundheitssorge oder die Einwilligung in med. Behandlungen beinhaltet\n\nEhegatten sind (ohne Vollmacht) für sechs Monate übergangsweise notentscheidungsbefugt (§ 1358 BGB)."
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],
       "text": "-Empfehlungen der Bundesärztekammer"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],

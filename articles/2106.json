@@ -76,40 +76,234 @@
     "vorsorgevollmacht",
     "widerspruchsrecht"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1357",
+      "label": "§ 1357 BGB",
+      "nummer": "1357"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1358",
+      "label": "§ 1358 BGB",
+      "nummer": "1358"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1567",
+      "label": "§ 1567 BGB",
+      "nummer": "1567"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1629",
+      "label": "§ 1629 BGB",
+      "nummer": "1629"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1814",
+      "label": "§ 1814 BGB",
+      "nummer": "1814"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1815",
+      "label": "§ 1815 BGB",
+      "nummer": "1815"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1816",
+      "label": "§ 1816 BGB",
+      "nummer": "1816"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1821",
+      "label": "§ 1821 BGB",
+      "nummer": "1821"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1823",
+      "label": "§ 1823 BGB",
+      "nummer": "1823"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1827",
+      "label": "§ 1827 BGB",
+      "nummer": "1827"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1828",
+      "label": "§ 1828 BGB",
+      "nummer": "1828"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1829",
+      "label": "§ 1829 BGB",
+      "nummer": "1829"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1831",
+      "label": "§ 1831 BGB",
+      "nummer": "1831"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1867",
+      "label": "§ 1867 BGB",
+      "nummer": "1867"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§187",
+      "label": "§ 187 BGB",
+      "nummer": "187"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "Art.",
+      "gesetz": "EGBGB",
+      "id": "EGBGBArt.15",
+      "label": "Art. 15 EGBGB",
+      "nummer": "15"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§272",
+      "label": "§ 272 FamFG",
+      "nummer": "272"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§287",
+      "label": "§ 287 FamFG",
+      "nummer": "287"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§313",
+      "label": "§ 313 FamFG",
+      "nummer": "313"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "FamFG",
+      "id": "FamFG§333",
+      "label": "§ 333 FamFG",
+      "nummer": "333"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "StGB",
+      "id": "StGB§203",
+      "label": "§ 203 StGB",
+      "nummer": "203"
+    }
+  ],
   "pageid": 2106,
   "revid": 66829,
   "sections": [
     {
+      "norms": [],
       "path": [
         "Einleitung"
       ],
       "text": "Artikel entspricht der Rechtslage ab 1.1.2023."
     },
     {
+      "norms": [
+        "BGB§1629",
+        "BGB§1357"
+      ],
       "path": [
         "Allgemeines"
       ],
       "text": "Entgegen weit verbreiteter Rechtsauffassung in der Bevölkerung existierte bis Ende 2022 in Deutschland kein allgemeines Angehörigenvertretungsrecht.\nEine gesetzliche Angehörigenvertretung gab es bis dahin nur im Bereich der Eltern ggü. ihren minderjährigen Kindern im Rahmen der elterlichen Sorge (Art. 6 Grundgesetz i.V.m. § 1629 BGB). Innerhalb einer Ehe bestand ein Vertretungsrecht gegenüber dem anderen nur im Rahmen der sog. Schlüsselgewalt (§ 1357 BGB). Hier geht es um Alltagsgeschäfte zur Deckung des Lebensbedarfs der Familie."
     },
     {
+      "norms": [
+        "BGB§1814"
+      ],
       "path": [
         "Individuelle Regelungen"
       ],
       "text": "Individuelle Regelungen waren aber im Rahmen von Vollmachten (Post- und Bankvollmachten, Vorsorgevollmachten usw.) auch bisher möglich. Hierdurch konnte im Bedarfsfall eine Betreuung überflüssig gemacht werden, da Vollmachten ggü. der Betreuung nach § 1814 Abs. 3 BGB grundsätzlich vorrangig sind. Es empfiehlt sich auch, behandelnde Ärzte im Rahmen einer Patientenverfügung von ihrer Schweigepflicht zu entbinden.\n\nSiehe zu Details unter Betreuungsvoraussetzung."
     },
     {
+      "norms": [],
       "path": [
         "Neues Recht ab 1.1.2023"
       ],
       "text": "Die Justizministerkonferenz vom Juni 2015 beschloss, der Bundesregierung nahe zu legen, im künftigen Recht auch eine gesetzlich eintretende Beistandschaft des Ehegatten (und eingetragenen Lebenspartners) für Gesundheitsangelegenheiten und ergänzende Fragen (z.B. zur Organspende) im Gesetz zu verankern. Im Rahmen der Betreuungsrechtsreform, die am 1.1.2023 in Kraft trat, wurde auch die Ehegattenvertretung im Eherecht aufgenommen."
     },
     {
+      "norms": [
+        "BGB§1358",
+        "BGB§1831",
+        "BGB§1821",
+        "BGB§1827",
+        "BGB§1828",
+        "BGB§1829"
+      ],
       "path": [
         "Die ab 1.1.2023 geltende Regelungen"
       ],
       "text": "Die Bestimmung im Wortlaut:\n\n„§ 1358 BGB 2023 - Gegenseitige Vertretung von Ehegatten in Angelegenheiten der Gesundheitssorge\n\n(1) Kann ein Ehegatte aufgrund von Bewusstlosigkeit oder Krankheit seine Angelegenheiten der Gesundheitssorge rechtlich nicht besorgen (vertretener Ehegatte), ist der andere Ehegatte (vertretender Ehegatte) berechtigt, für den vertretenen Ehegatten\n- in Untersuchungen des Gesundheitszustandes, Heilbehandlungen oder ärztliche Eingriffe einzuwilligen oder sie zu untersagen sowie ärztliche Aufklärungen entgegenzunehmen,\n- Behandlungsverträge, Krankenhausverträge oder Verträge über eilige Maßnahmen der Rehabilitation und der Pflege abzuschließen und durchzusetzen,\n- über Maßnahmen nach § 1831 Absatz 4 BGB 2023 zu entscheiden, sofern die Dauer der Maßnahme im Einzelfall sechs Wochen nicht überschreitet, und\n- Ansprüche, die dem vertretenen Ehegatten aus Anlass der Erkrankung gegenüber Dritten zustehen, geltend zu machen und an die Leistungserbringer aus den Verträgen nach Nummer 2 abzutreten oder Zahlung an diese zu verlangen.\n\n(2) Unter den Voraussetzungen des Absatzes 1 und hinsichtlich der in Absatz 1 Nummer 1 bis 4 genannten Angelegenheiten sind behandelnde Ärzte gegenüber dem vertretenden Ehegatten von ihrer Schweigepflicht entbunden. Dieser darf die diese Angelegenheiten betreffenden Krankenunterlagen einsehen und ihre Weitergabe an Dritte bewilligen.\n\n(3) Die Berechtigungen nach den Absätzen 1 und 2 bestehen nicht, wenn\n- die Ehegatten getrennt leben,\n- dem vertretenden Ehegatten oder dem behandelnden Arzt bekannt ist, dass der vertretene Ehegatte\n a) eine Vertretung durch ihn in den in Absatz 1 Nummer 1 bis 4 genannten Angelegenheiten ablehnt oder\n\n b) jemanden zur Wahrnehmung seiner Angelegenheiten bevollmächtigt hat, soweit diese Vollmacht die in Absatz 1 Nummer 1 bis 4 bezeichneten Angelegenheiten umfasst,\n- -für den vertretenen Ehegatten ein Betreuer bestellt ist, soweit dessen Aufgabenkreis die in Absatz 1 Nummer 1 bis 4 bezeichneten Angelegenheiten umfasst, oder\n- -die Voraussetzungen des Absatzes 1 nicht mehr vorliegen oder mehr als sechs Monate seitdem durch den Arzt nach Absatz 4 Satz 1 Nummer 1 festgestellten Zeitpunkt vergangen sind.\n\n(4) Der Arzt, gegenüber dem das Vertretungsrecht ausgeübt wird, hat\n- das Vorliegen der Voraussetzungen des Absatzes 1 und den Zeitpunkt, zu dem diese spätestens eingetreten sind, schriftlich zu bestätigen,\n- dem vertretenden Ehegatten die Bestätigung nach Nummer 1 mit einer schriftlichen Erklärung über das Vorliegen der Voraussetzungen des Absatzes 1 und das Nichtvorliegen der Ausschlussgründe des Absatzes 3 vorzulegen und\n- sich von dem vertretenden Ehegatten schriftlich versichern zu lassen, dass\na) das Vertretungsrecht wegen der Bewusstlosigkeit oder Krankheit, aufgrund derer der Ehegatte seine Angelegenheiten der Gesundheitssorge rechtlich nicht besorgen kann, bisher nicht ausgeübt wurde und\nb) kein Ausschlussgrund des Absatzes 3 vorliegt.\nDas Dokument mit der Bestätigung nach Satz 1 Nummer 1 und der Versicherung nach Satz 1 Nummer 3 ist dem vertretenden Ehegatten für die weitere Ausübung des Vertretungsrechts auszuhändigen.\n\n(5) Das Vertretungsrecht darf ab der Bestellung eines Betreuers, dessen Aufgabenkreis die in Absatz 1 Nummer 1 bis 4 bezeichneten Angelegenheiten umfasst, nicht mehr ausgeübt werden.\n\n(6) § 1821 Absatz 2 bis 4 BGB, § 1827 Absatz 1 bis 3 BGB, § 1828 Absatz 1 und 2 BGB, § 1829 Absatz 1 bis 4 BGB sowie § 1831 Absatz 4 BGB in Verbindung mit Absatz 2 gelten entsprechend.“"
     },
     {
+      "norms": [
+        "BGB§1358",
+        "BGB§1823",
+        "BGB§1827",
+        "BGB§1829",
+        "StGB§203"
+      ],
       "path": [
         "Erläuterungen",
         "Allgemeines"
@@ -117,6 +311,12 @@
       "text": "Auch in § 1358 BGB 2023 geht es um stellvertretende Entscheidungen, genauso wie dies bei der rechtlichen Betreuung (§ 1823 BGB 2023) und bei der Vorsorgevollmacht der Fall ist. Es handelt sich bei Fragen der Einwilligung in medizinische Behandlung und deren Verweigerung um einen Fall, bei dem der Patient/die Patientin einwilligungsunfähig ist, deren Feststellung ohnehin bei den bisherigen Fallgestaltungen Aufgabe der Ärztin/des Arztes war.\n\nDie Regelung hat das Ziel, bei plötzlichen medizinischen Notfällen von Personen, die keine Vorsorgevollmacht für diesen Fall errichtet haben und einwilligungsunfähig wurden, die gerichtliche Bestellung eines vorläufigen rechtlichen Betreuers entbehrlich zu machen. Sie macht sich Zunutze, dass in weiten Teilen der Bevölkerung ohnehin der Glaube vorherrscht, dass der Ehegatte in solchen Situationen bereits jetzt ein Entscheidungsrecht besäße (tatsächlich kann der Ehegatte bislang lediglich als Zeuge zur Beurteilung eines mutmaßlichen Patientenwillens beitragen).\n\nBeim Ehegattenvertretungsrecht handelt es sich um eine Notentscheidungsbefugnis, die dann zum Tragen kommt, wenn der einwilligungsunfähige Patient weder eine eindeutige, vom Arzt unmittelbar zu beachtende Patientenverfügung vorgelegt hat und auch kein Bevollmächtigter oder rechtlicher Betreuer in der Lage ist, eine stellvertretende Entscheidung zu treffen. Bei der Frage um welche Entscheidungen es geht, enthält § 1358 Abs. 1 BGB 2023 vier verschiedene Fallgestaltungen:\n\n-Zum ersten geht es um die Einwilligung in Untersuchungen des Gesundheitszustandes, in Heilbehandlung und ärztliche Eingriffe sowie deren Untersagung. Diese drei strafrechtlich relevanten Einwilligungen finden sich bereits in § 630 d BGB sowie in den betreuungsrechtlichen Bestimmungen der §§ 1827 und 1829 BGB 2023. Es handelt sich dabei um die Verbindlichkeit von Patientenverfügungen und sonstigen Patientenwünschen sowie um die Genehmigung gefährlicher Behandlungen sowie deren Beendigung oder Nichteinleitung.\n\n-Zum zweiten geht es in § 1358 Abs. 1 BGB 2023 um den Abschluss von Verträgen im Zusammenhang mit den anfangs genannten Behandlungen: Arztverträge, Krankenhausverträge sowie Verträge über eilige Maßnahmen der Rehabilitation und der Pflege, zum Beispiel Kurzzeit-Pflegeverträge.\n\n-Zum dritten geht es um Maßnahmen, die allgemein als unterbringungsähnliche Maßnahmen bezeichnet werden also Fixierungen, Bettgitter und ähnliche Freiheitsentziehungen durch Pflegepersonal.\n\n-Zum vierten geht es um Ansprüche, die die vertretene Person gegenüber Dritten hat. Insbesondere ist dabei an Sozialleistungsansprüche aus Anlass der Erkrankung zu denken (Leistungen der Krankenversicherung, der Pflegeversicherung, der Beihilfe für Beamte).\n\nUm die Vertretung in den vorgenannten Angelegenheiten wahrnehmen zu können, ist der behandelnde Arzt dem Ehegatten des Patienten gegenüber von seiner Schweigepflicht nach § 203 StGB befreit. Auch dies entspricht der bisherigen Rechtslage gegenüber rechtlichen Betreuern beziehungsweise Bevollmächtigten im Falle der Einwilligungsunfähigkeit des jeweils Vertretenen."
     },
     {
+      "norms": [
+        "BGB§1567",
+        "BGB§1831",
+        "BGB§1815",
+        "FamFG§333"
+      ],
       "path": [
         "Erläuterungen",
         "Begrenzungen"
@@ -124,6 +324,12 @@
       "text": "Es gibt zahlreiche Begrenzungen und Einschränkungen des Ehegattenvertretungsrechts. In Abs. 2 der Bestimmung werden die Ausschlüsse genannt. Es handelt sich dabei erstens um das Getrenntleben im Sinne des Eherechtes (§ 1567 BGB). Dieses liegt dann vor, wenn wenigstens einer der Eheleute die eheliche Gemeinschaft ablehnt und nicht wieder herstellen will. Ein Scheidungsverfahren muss dazu nicht beim Gericht anhängig sein.\n\nDes Weiteren besteht das Ehegattenvertretungsrecht dann nicht, wenn dem behandelnden Arzt bekannt ist, dass der Patient die Wahrnehmung der Vertretung durch seinen Ehegatten ablehnt oder eine andere Person mit einer Vollmacht diesbezüglich versehen ist. Ebenfalls besteht keine Ehegattenvertretung, wenn ein rechtlicher Betreuer für den Patienten bestellt ist, dessen Aufgabenkreis die in Abs. 1 genannten Angelegenheiten umfasst (dies wird klassischerweise die Gesundheitssorge sein).\n\nFür die Maßnahmen nach § 1831 Abs. 4 BGB 2023 (unterbringungsähnliche Maßnahmen) benötigt ein rechtlicher Betreuer seit 1.1.2023 nicht den allgemeinen Aufgabenbereich der Aufenthaltsbestimmung, sondern eine spezifische Formulierung diesbezüglich ist erforderlich (§ 1815 Abs. 2 BGB). Die Entscheidung ist (wie die Genehmigung in § 333 FamFG für Betreuer und Bevollmächtigte) auf maximal 6 Wochen begrenzt.\n\nIn der Regel wird es um Maßnahmen gehen, die durch ein Durchgangssyndrom erforderlich werden. Es sind weitere Anordnungen von Fixierungen zulässig, jedoch nicht nahtlos.\n\nEs stellt sich die Frage, wie der Arzt/die Ärztin das Vorhandensein eines der genannten Ausschlüsse feststellen soll. Zum einen kommt die Befragung des potentiell vertretungsberechtigten Ehegatten infrage. Zum weiteren wäre zu prüfen, ob der Patient bereits zu einem früheren Zeitpunkt Patient des Krankenhauses war und dort entsprechende Äußerungen aktenkundig getätigt hat.\n\nEin Hinweis darauf kann eine Fotokopie einer Patientenverfügung oder einer Vorsorgevollmacht sein, die sich in der Patientenakte befindet. Da solche Erklärungen zwischenzeitlich widerrufen worden sein können, ist der Ehegatte konkret darauf anzusprechen, falls sich so etwas vorfindet. Falls der Patient zunächst bei der Aufnahme noch äußerungsfähig war und geäußert hat, vom Ehegatten nicht vertreten werden zu wollen, ist dies von demjenigen, der dies zu Ohren gekommen ist zu notieren und zur Patientenakte zu nehmen.\n\nEs gibt außerdem die Möglichkeit, einen Widerspruch gegen die Vertretung des Ehegatten im zentralen Vorsorgeregister der Bundesnotarkammer eintragen zu lassen.\n\nIn diesem Verzeichnis sind derzeit circa 6 Millionen Vorsorgevollmachten, viele davon verbunden mit einer Patientenverfügung, registriert. Ein Hinweis kann es sein, wenn in der Brieftasche des Patienten eine Registrierungskarte des Vorsorgeregisters gefunden wird. Auch hierauf ist der Ehegatte ausdrücklich anzusprechen.\n\nSollten solche Hinweise aus der bisherigen Patientenakte oder dem Vorsorgeregister nicht vorliegen, bleibt dem behandelten Arzt lediglich die Befragung des Ehegatten als Informationsquelle zur Verfügung. Der Ehegatte hat dem Arzt gegenüber zu erklären, ob ihm Vertretungsausschlüsse im Sinne des vorgenannten bekannt sind. Einen Formularvordruck finden Sie im Anhang."
     },
     {
+      "norms": [
+        "BGB§1358",
+        "BGB§187",
+        "BGB§1816",
+        "FamFG§287"
+      ],
       "path": [
         "Erläuterungen",
         "Arztbescheinigung"
@@ -131,6 +337,11 @@
       "text": "Das eigentliche Recht zur Wahrnehmung der Ehegattenvertretung erfolgt dann durch eine Bescheinigung des Arztes nach § 1358 Abs. 4 BGB 2023. Diese Bescheinigung hat der Ehegatte auch anderen Ärzten, Krankenhausverwaltungen, Heimen, Behörden und bei Genehmigungsanträgen dem Betreuungsgericht vorzulegen. Sie tritt also an die Stelle eines Betreuerausweises bzw. der Vollmachturkunde.\n\nIn dieser Bescheinigung hat der Arzt auch den Zeitpunkt festzustellen, ab dem der Ehegatte die Vertretungstätigkeit ausübt. Diese Datumsfeststellung ist von Bedeutung, da das Ehegattenvertretungsrecht spätestens sechs Monate nach seiner erstmaligen Ausübung erlischt, sofern der Patient die Entscheidungsfähigkeit nicht zuvor wieder erlangt.\n\nDer Zeitpunkt des Erlöschens ist tagesgenau zu bestimmen, der Tag des Beginns zählt nach § 187 Abs. 1 BGB nicht mit. Wird die Feststellung am 15. Januar 2023 getroffen, erlischt die Vertretungsmacht spätestens mit Ablauf des 15. Juli 2023.\n\nFür die gleiche Erkrankung kann nicht erneut das Ehegattenvertretungsrecht ausgeübt werden; ist der Patient weiter einwilligungsunfähig, muss ein rechtlicher Betreuer bestellt werden (dies kann auch der genannte Ehegatte sein, § 1816 Abs. 3 BGB 2023).\n\nIst für den Arzt also erkennbar, dass der Patient voraussichtlich über einen Zeitraum von sechs Monaten hinaus nicht einwilligungsfähig bleiben wird, ist dem Ehegatten anzuraten, unverzüglich das Betreuungsgericht bezüglich einer etwaigen Betreuerbestellung zu verständigen. Sollten beim Arzt Zweifel verbleiben, ob der Ehegatte dazu in der Lage sein wird, sollte der Arzt selbst das Betreuungsgericht verständigen.\n\nDas Ehegattenvertretungsrecht darf außerdem dann nicht mehr ausgeübt werden, wenn seitens des Betreuungsgerichtes ein Betreuer mit dem Aufgabenkreis der in § 1358 Abs. 1 BGB 2023 genannten Aufgaben rechtswirksam bestellt wird (§ 287 Abs. 1,2 FamFG). Verlässliche Kenntnis von der Bestellung eines Betreuers dürfte der Arzt in der Regel erst haben, wenn der Betreuer selbst Kontakt zum Arzt aufnimmt."
     },
     {
+      "norms": [
+        "BGB§1821",
+        "BGB§1827",
+        "BGB§1828"
+      ],
       "path": [
         "Erläuterungen",
         "Beachtung des Betreuungsrechtes, Genehmigungen"
@@ -138,6 +349,10 @@
       "text": "Obwohl sich das Ehegattenvertretungsrecht als Teil des Eherechtes darstellt, gelten einige Bestimmungen des Betreuungsrechtes auch für den Ehegatten. Zum einen ist dies der neue § 1821 BGB, der den Wunsch des Betreuten für den Betreuer als verbindlich feststellt. Zum weiteren ist dies § 1827 BGB, in dem die Verbindlichkeit von Patientenverfügungen und Patientenwünschen in Bezug auf die medizinische Behandlung enthalten ist. § 1828 BGB enthält das Gespräch zwischen dem Arzt und der entscheidungsberechtigten Person über die Diagnose, die beabsichtigte Behandlung und die Einschätzung der Patientenwünsche."
     },
     {
+      "norms": [
+        "BGB§1829",
+        "BGB§1831"
+      ],
       "path": [
         "Erläuterungen",
         "Genehmigungstatbestände"
@@ -145,6 +360,10 @@
       "text": "§ 1829 BGB enthält die betreuungsgerichtliche Genehmigungspflicht bei gefährlichen Behandlungen sowie der Nichteinleitung und der Beendigung lebenserhaltender Maßnahmen. Der entscheidungsbefugte Ehegatte ist auf die Grundsätze der Bundesärztekammer zur ärztlichen Sterbebegleitung, insbes. der Begrenzung der Behandlung bei infauster Prognose hinzuweisen.\n\nSofern kein Behandlungsangebot bez. intensivmedizinischer Behandlungen aufgrund der vorgenannten Grundsätze mehr angeboten wird, ist die Akzeptanz des Ehegatten nicht von einer gerichtlichen Genehmigung abhängig. Das Gericht wird insbes. tätig, wenn es eine Diskrepanz zwischen der Einschätzung des Arztes und des Ehegatten die Patientenwünsche betreffend, gibt.\n\n§ 1831 Abs. 4 BGB enthält die Genehmigungspflicht bei unterbringungsähnlichen Maßnahmen (Bettgitter, Fixierung und so weiter)."
     },
     {
+      "norms": [
+        "FamFG§272",
+        "FamFG§313"
+      ],
       "path": [
         "Erläuterungen",
         "Zuständiges Betreuungsgericht"
@@ -152,6 +371,9 @@
       "text": "Für die genannten Genehmigungen ist das Betreuungsgericht (Abteilung des Amtsgerichtes) örtlich zuständig, in dessen Bezirk der Patient seinen gewöhnlichen Aufenthalt (Lebensmittelpunkt) hat, §§ 272 Abs. 1 Nr. 2, 313 Abs. 1 Nr 2 FamFG). Dies ist nicht der Ort des Krankenhauses, sondern üblicherweise der Hauptwohnsitz des Patienten.\n\nHandelt es sich um eine sehr eilig zu treffende Entscheidung, kommt allerdings auch das Gericht am Ort des Fürsorgebedürfnisses (Ort des Krankenhauses) als zuständiges Gericht infrage, §§ 272 Abs. 1 Nr. 3, 313 Abs. 1 Nr. 3 FamFG).\n\nOb eine Behandlung so eilig ist, dass das normalerweise zuständige Gericht nicht damit befasst werden muss, sollte der Arzt dem an dieser Stelle sicher ahnungslosen Ehegatten erläutern (bevor dieser in den Zuständigkeitsdschungel der Gerichte gerät).\n\nIm Rahmen der Genehmigungsverfahren hat das Betreuungsgericht in der Regel einen Verfahrenspfleger zu bestellen, einen Sachverständigen zu beauftragen und den Versuch der Anhörung des Patienten zu unternehmen. Der antragstellenden Ehegatten sollte ein Hinweis gegeben werden, falls ein Arzt aus dem Krankenhaus bereit wäre, als Sachverständiger bestellt zu werden. Dies kann die richterliche Suche danach und demzufolge auch die Gerichtsentscheidung selbst beschleunigen."
     },
     {
+      "norms": [
+        "BGB§1358"
+      ],
       "path": [
         "Erläuterungen",
         "Besonders eilbedürftige Maßnahmen"
@@ -159,48 +381,62 @@
       "text": "Maßnahme nach § 1358 Abs. 1 Nr. 1 und 3 BGB  können allerdings nach ärztlicher Einschätzung so eilig sein, dass noch nicht einmal ein Eilantrag beim Betreuungsgericht gestellt werden kann. In solchen Fällen ist es ausnahmsweise möglich, dass der Ehegatte (wie auch sonst ein Betreuer oder Bevollmächtigter) die Entscheidung ohne vorherige gerichtliche Genehmigung trifft. Dies dürfte auf Angelegenheiten zutreffen, bei denen der medizinische Eingriff noch am gleichen Tag erfolgen muss."
     },
     {
+      "norms": [
+        "BGB§1358",
+        "BGB§1867"
+      ],
       "path": [
         "Rechtsprechung"
       ],
       "text": "AG Frankfurt/Main, Beschluss v 15.01.2023 - 43 XVII 178/23 GEB,FamRZ 2023, Heft 6\n\nDas Ehegattenvertretungsrecht ist vorrangig gegenüber einer durch einstweilige Anordnung einzurichtenden Betreuung.\n\nAG Offenburg, Beschluss v 05.04.2023 - 4 XVII 181/23\n\nAbsehen von einer Verfahrenspflegerbestellung bei Fixierung auf der Intensivstation wegen Eigengefährdung.\n\nAG Schmallenberg, Beschluss vom 25.08.2023, 2 XVII 94/23 M, NJW-RR 2023, 1498\n\n-Bei freiheitsentziehenden Maßnahmen ist auch im Delir und dem aufgehobenen freien Willen des Patienten im Regelfall eine richterliche Genehmigung der Fixierungsmaßnahmen erforderlich.\n-Ist der nach § 1358 BGB vertretungsbefugte Ehegatte nicht erreichbar, kann das Betreuungsgericht in einem solchen Fall die freiheitsentziehende Maßnahme gem. § 1867 BGB einstweilig anordnen."
     },
     {
+      "norms": [
+        "BGB§1358",
+        "EGBGBArt.15"
+      ],
       "path": [
         "gegenseitige Vertretung von Ehegatten im Internationalen Privatrecht Deutschlands"
       ],
       "text": "In Angelegenheiten der Gesundheitssorge, die von Verheirateten in Deutschland gegebenenfalls füreinander wahrgenommen werden müssen, ist § 1358 BGB auch dann anzuwenden, wenn nach anderen familienrechtlichen Vorschriften eigentlich ausländisches Recht anwendbar wäre. Dies ist in Art. 15 EGBGB gesetzlich so geregelt."
     },
     {
+      "norms": [],
       "path": [
         "Weblinks"
       ],
       "text": "-Ärzteinfos des zentralen Vorsorgeregisters\n-Alle Parlamentspapiere zum Gesetzesentwurf\n-Gesetzentwurf des Bundesrates vom Herbst 2016\n-Stellungnahmen der Sachverständigen ggü. dem Bundestag\n-Vergleich der Regelungen zum Angehörigenvertretungsrecht in Europa (PDF)\n-BGT-Materialien zum Thema"
     },
     {
+      "norms": [],
       "path": [
         "Videos und Podcasts"
       ],
       "text": "-YouTube-Video zur Ehegattenvertretung (Uni Göttingen)\n-Weiteres Youtube-Video (Dt. Gesellschaft für Intensivmedizin)\n-Weiteres Youtube-Video (Rinck Notare und Anwälte)\n-Weiteres Youtube-Video - zum Widerspruch gegen die Ehegattenvertretung (Rinck Notare)\n-Zum Ehegattenvertretungsrecht (Rechtsanwalt Förster)"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
       "text": "- gesetzlicher Vertreter, gesetzliche Vertretung, Ehegatte als Betreuer, Ehefähigkeit, Personenstand, Unterstützungspflicht, Eherecht und Betreuung, Bankvollmacht, Trennungsgebot, Erörterungsgespräch, MDK-Gutachten, Anregung der Betreuerbestellung, Vorsorgevollmacht, Vorsorgeregister\n- Widerspruchsrecht, Vollmachtswiderruf, Patientenverfügung\n- Einwilligungsfähigkeit, Organspende, Sterbehilfe\n- Einverständniserklärung, elektronische Patientenakte"
     },
     {
+      "norms": [],
       "path": [
         "Vordrucke"
       ],
       "text": "-Formular der Bundesnotarkammer (PDF)"
     },
     {
+      "norms": [],
       "path": [
         "Literatur"
       ],
       "text": "- Broschüren\n- Buchverzeichnis"
     },
     {
+      "norms": [],
       "path": [
         "Literatur",
         "Bücher"
@@ -208,6 +444,9 @@
       "text": "-Pick: Die Ehegattenvertretung - Regelungen & Voraussetzungen inkl. Muster-Formular, Ditschler-Verlag 2023\n-Zeitler/Danker: Gesetzliches für Angehörige?: Mögliche Konsequenzen für Betroffene, Angehörige und Professionelle; 2008, ISBN 3639059379"
     },
     {
+      "norms": [
+        "BGB§1358"
+      ],
       "path": [
         "Literatur",
         "Zeitschriftenbeiträge"

@@ -116,70 +116,198 @@
     "zwangsbehandlung",
     "zwangsvollstreckung"
   ],
+  "norms": [
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BGB",
+      "id": "BGB§1821",
+      "label": "§ 1821 BGB",
+      "nummer": "1821"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§19",
+      "label": "§ 19 BtOG",
+      "nummer": "19"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§2",
+      "label": "§ 2 BtOG",
+      "nummer": "2"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§23",
+      "label": "§ 23 BtOG",
+      "nummer": "23"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtOG",
+      "id": "BtOG§32",
+      "label": "§ 32 BtOG",
+      "nummer": "32"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtRegV",
+      "id": "BtRegV§3",
+      "label": "§ 3 BtRegV",
+      "nummer": "3"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtRegV",
+      "id": "BtRegV§5",
+      "label": "§ 5 BtRegV",
+      "nummer": "5"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "BtRegV",
+      "id": "BtRegV§8",
+      "label": "§ 8 BtRegV",
+      "nummer": "8"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB V",
+      "id": "SGBV§37",
+      "label": "§ 37 SGB V",
+      "nummer": "37"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XI",
+      "id": "SGBXI§13",
+      "label": "§ 13 SGB XI",
+      "nummer": "13"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "SGB XI",
+      "id": "SGBXI§7",
+      "label": "§ 7 SGB XI",
+      "nummer": "7"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "gesetz": "VBVG",
+      "id": "VBVG§8",
+      "label": "§ 8 VBVG",
+      "nummer": "8"
+    }
+  ],
   "pageid": 2349,
   "revid": 66684,
   "sections": [
     {
+      "norms": [
+        "BtOG§19"
+      ],
       "path": [
         "Berufszulassung ab 1.1.2023"
       ],
-      "text": "Die Zulassung von neuen Berufsbetreuern (und Vereinsbetreuern, siehe {{Zitat de §|19|btog}} Abs. 2 BtOG) ab 1.1.23 erfordert neben dem Nachweis der persönlichen Eignung auch einen Nachweis der Sachkunde für den neuen Betreuerberuf. Auch Bestandsbetreuer, die am 1.1.2023 noch keine 3jährige Berufsbetreuertätigkeit nachweisen können, müssen im Verfahren zur Registrierung ihre Sachkunde nachweisen."
+      "text": "Die Zulassung von neuen Berufsbetreuern (und Vereinsbetreuern, siehe § 19 Abs. 2 BtOG) ab 1.1.23 erfordert neben dem Nachweis der persönlichen Eignung auch einen Nachweis der Sachkunde für den neuen Betreuerberuf. Auch Bestandsbetreuer, die am 1.1.2023 noch keine 3jährige Berufsbetreuertätigkeit nachweisen können, müssen im Verfahren zur Registrierung ihre Sachkunde nachweisen."
     },
     {
+      "norms": [],
       "path": [
         "Berufsverbände in Deutschland"
       ],
       "text": "- Bundesverband der Berufsbetreuer (auch für konfessionell gebundene Betreuer)\n- Bundesverband freier Berufsbetreuer"
     },
     {
+      "norms": [
+        "BtOG§23"
+      ],
       "path": [
         "Sachkunde"
       ],
-      "text": "Der Inhalt der nachzuweisenden Sachkunde wird in zusammengefasster Form in {{Zitat de §|23|btog}} Abs. 3 des Betreuungsorganisationsgesetzes beschrieben:\n-Kenntnisse des Betreuungs- und Unterbringungsrechts, des dazugehörigen Verfahrensrechts sowie auf den Gebieten der Personen- und Vermögenssorge,\n- Kenntnisse des sozialrechtlichen Unterstützungssystems und\n- Kenntnisse der Kommunikation mit Personen mit Erkrankungen und Behinderungen und von Methoden zur Unterstützung bei der Entscheidungsfindung."
+      "text": "Der Inhalt der nachzuweisenden Sachkunde wird in zusammengefasster Form in § 23 Abs. 3 des Betreuungsorganisationsgesetzes beschrieben:\n-Kenntnisse des Betreuungs- und Unterbringungsrechts, des dazugehörigen Verfahrensrechts sowie auf den Gebieten der Personen- und Vermögenssorge,\n- Kenntnisse des sozialrechtlichen Unterstützungssystems und\n- Kenntnisse der Kommunikation mit Personen mit Erkrankungen und Behinderungen und von Methoden zur Unterstützung bei der Entscheidungsfindung."
     },
     {
+      "norms": [
+        "BtOG§23",
+        "VBVG§8"
+      ],
       "path": [
         "Sachkundelehrgang"
       ],
       "text": "Die Details, mit welchen Zeugnissen die Sachkunde nachgewiesen werden kann und ein eigenständiger Sachkundelehrgang (um fehlende Kenntnisse zu ergänzen), werden in der neuen Betreuerregistrierungsverordnung beschrieben.\n\nDie Sachkunde hat nichts mit der Vergütungseinstufung zu tun. Siehe dazu folgende neue Entscheidung:\n\nBayObLG, Beschluss vom 06.06.2024, 101 VA 36/24\n\n-Die von einem Berufsbetreuer absolvierten Sachkundelehrgänge und sonstigen Fortbildungsmaßnahmen vermitteln keinen Wissensstand, der nach Art und Umfang dem eines Hochschulstudiums entspricht, und münden in keinen staatlich anerkannten Abschluss.\n-Das Vorliegen betreuungsrelevanter Fachkenntnisse ist allein für die Registrierung zum beruflichen Betreuer bedeutsam, § 24 Abs. 1 Satz 2 Nr. 5 i. V. m. § 23 Abs. 1 Nr. 2, Abs. 3 BtOG, Insofern ist es für die Vergütungseinstufung nach § 8 VBVG unerheblich, dass bei einem Berufsbetreuer die notwendige Sachkunde von der zuständigen Stammbehörde anerkannt worden ist.\n-Das Vergütungssystem des § 8 VBVG hat sich für registrierte Betreuer insoweit geändert, als die Höhe der Vergütung nicht mehr von der Art des Erwerbs der für die Betreuung nutzbaren Kenntnisse, sondern nur noch davon abhängt, ob überhaupt ein Studium oder eine Berufsausbildung abgeschlossen worden ist oder gar kein formaler Abschluss vorliegt."
     },
     {
+      "norms": [
+        "BtRegV§3",
+        "BGB§1821",
+        "SGBXI§7",
+        "SGBXI§13",
+        "SGBV§37"
+      ],
       "path": [
         "Curriculum"
       ],
-      "text": "Nachstehend ist das Curriculum zum Sachkundenachweis (Anlage zu {{Zitat de §|3|btregv}} der BtRegV) abgedruckt. Die 3 rechten Spalten sind redaktionell ergänzt (ECTS auf der Basis von 30 ZEITstunden). Die Verlinkungen sind ebenfalls redaktionell.\n\n Module zu § 3  Unterrichtsinhalte  Zeitstunden  Unterrichts-einheiten à 45 min  Umrech-nung in SWS   Umrech-nung in ECTS\n Vorbemerkung: Die Inhalte der Module werden grundsätzlich in Lehrveranstaltungen vermittelt, die in Präsenz oder online durchgeführt werden und praktische Übungen umfassen. Prüfungszeiten sind in vorgeschriebenen Zeitstunden enthalten. Antragsteller, die über einen Hochschulabschluss verfügen, können bis zu 50 % der Zeitstunden des jeweiligen Moduls mit Ausnahme der Module 10 und 11 in Selbstlernphasen absolvieren. Alle übrigen Antragsteller können bis zu 15 % der Zeitstunden des jeweiligen Moduls mit Ausnahme der Module 10 und 11 in Selbstlernphasen absolvieren.\n Modul 1  Betreuerbestellung und Zusammenarbeit mit dem Betreuungsgericht  15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 1  1. und 3. Teil\n Betreuerbestellung: Voraussetzungen, Verfahren, Sachverhaltsermittlung\n Anordnung eines Einwilligungsvorbehalts: Voraussetzungen, Grenzen, Verfahren\n   Aufgabenbereiche\n  Aufsicht durch das Betreuungsgericht\n  Berichts-, Auskunfts- und Mitteilungspflichten\n   Genehmigungsvorbehalte einschließlich Verfahren\n Modul 2  Betreuungsführung  30 40  2,67  1,0\n Zu § 3 Absatz 1 Nummer 1 2.Teil\n UN-BRK, insbesondere Artikel 12: Unterstützung bei der Ausübung der Rechts- und Handlungsfähigkeit, Bedeutung der Grundrechte\n  Ermittlung der Wohn- und Lebenslage des Betreuten\n   Erarbeitung der Betreuungsziele\n   Vorrang der Unterstützung und Willensvorrang nach § 1821 BGB 2023\n   Wille, Wünsche, Präferenzen\n   Erforderlichkeitsgrundsatz im Innenverhältnis\n   Schutzpflichten\n Modul 3  Recht der Unterbringung und der ärztlichen Zwangsmaßnahmen  15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 1, 4. Teil\n Freiheitsentziehende Unterbringung und sonstige freiheitsentziehende Maßnahmen nach Betreuungsrecht und nach öffentlichem Recht\n  Voraussetzungen und Verfahren\n   Einwilligung in ärztliche Zwangsmaßnahmen: Voraussetzungen und Verfahren\n   Aufgaben des Betreuers während des Vollzugs von Unterbringungsmaßnahmen und ärztlichen Zwangsmaßnahmen\n Modul 4  Personensorge 1  15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 2\n Grundkenntnisse über typische betreuungsrelevante Erkrankungen und Behinderungen, deren Auswirkungen, Gefahren und Behandlungsmöglichkeiten\n  Möglichkeiten der Vermeidung einer freiheitsentziehenden Unterbringung, sonstiger  freiheitsentziehender Maßnahmen und ärztlicher Zwangsmaßnahmen\nModul 5  Personensorge 2  15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 2\n Behandlungsvertragsrecht, Einwilligungsfähigkeit und Patientenrechte\n   Behandlungswünsche, Patientenverfügung, Sterbewunsch\n   Einwilligung des Betreuers bei gefährlichen ärztlichen Maßnahmen: Voraussetzungen und Verfahren\n  Aufgabe von Wohnraum\n   Umgangs- und Aufenthaltsbestimmung\n Modul 6  Vermögenssorge 1    15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 3\n Grundkenntnisse über\n   - Geschäftsfähigkeit\n   - Recht der Stelllvertretung\n  - allgemeines Schuldrecht einschließlich Haftungsfragen\n   - Kaufvertragsrecht\n   - Schuldenregulierung, Mahn- und Vollstreckungsbescheid, Zwangsvollstreckung, Insolvenzverfahren\n Modul 7  Vermögenssorge 2  15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 3\n Vermögensverwaltung und Verfügungen über das Betreutenvermögen\n   Vermögensverzeichnis, Rechnungslegung und Genehmigungsvorbehalte\n   Betreuungsrelevante Aspekte des Miet- und Heimrechts\n   Betreuungsrelevante Aspekte des Erb- und Familienrechts\n Modul 8  Sozialrecht 1: Kenntnisse des Sozialrechts  30 40  2,67  1,0\n Zu § 3 Absatz 2 Nummer 1\n Das Sozialrecht (SGB und SGG) im Überblick, insbesondere,\n   - Leistungen zur Sicherung des Lebensunterhalts einschließlich der Kosten der Unterkunft, vor allem nach dem SGB II und SGB XII\n   - Sozialleistungsansprüche nach dem SGB V, SGB VI und SGB IX\n   - Ermittlung, Geltendmachung und Durchsetzung von sozialrechtlichen Ansprüchen sowie sozialrechtliche Mitwirkungspflichten\n Modul 9  Sozialrecht 2: Sozial- und Hilfestrukturen in der Praxis  45 60  4  1,5\n Zu § 3 Absatz 2 Nummer 2\n Teilhabeleistungen vor allem nach  SGB IX\n   Teilhabe- und Gesamtplanverfahren\n\n  Rehabilitations- und Teilhabeleistungen der verschiedenen Rehabilitationsträger\n  Leistungsformen der Eingliederungshilfe (z.B. Teilhabe am Arbeitsleben, medizinische Rehabilitation, Teilhabe an Bildung und Leistungen zur sozialen Teilhabe)\n Besondere Wohnformen und ambulant betreute Wohngemeinschaften\n Pflegeleistungen in Kombination mit anderen SGB-Leistungen;  Leistungen der Pflegeversicherung einschließlich Aufklärung, Auskunft und Pflegeberatung nach den §§ 7 ff. SGB XI sowie das Verhältnis zu anderen Sozialleistungen nach § 13 SGB XI\n  Leistungen der Hilfe zur Pflege nach SGB XII\n   Leistungen der gesetzlichen Krankenversicherung im Pflegefall (z. B. häusliche Krankenpflege und weitere Leistungen nach den §§ 37 ff. SGB V, medizinische Rehabilitation)\n   Leistungen der Eingliederungshilfe im Pflegefall\n   Methoden zur fallbezogenen Erschließung und Nutzung von Sozial- und Hilfestrukturen sowie von Netzwerken\n Modul 10  Grundlagen der Kommunikation und Praxistransfer  30 40  2,67  1,0\n Zu § 3 Absatz 3\n Theoretische Konzepte und Methoden der Kommunikation\n   Grundhaltungen und Techniken der Kommunikation\n   Diversitätssensible Kommunikation\n   Ressourcenorientierte Kommunikation\n   Konfliktmanagement in der Kommunikation\n   Selbst- und Machtreflexion\n Modul 11  Betreuungsspezifische Kommunikation/ Methoden der unterstützten Entscheidungsfindung  45 60  4  1,5\n Zu § 3 Absatz 3\n Auswirkungen spezifischer krankheits- bzw. beeinträchtigungsbedingter Einschränkungen auf die Fähigkeit der Kommunikation und der Entscheidungsfindung\n   Bedeutung sozialer und umweltbedingter Einflussfaktoren auf Autonomie und Entscheidungsfindung von betreuten Menschen\n   Methoden zur kommunikativen Verhinderung von Ausschlussmechanismen\n   Barrierefreie Kommunikation, leichte Sprache\n   Drei- oder Mehrparteien-Interaktion mit betreuten Menschen\n   Erkennen und Ermitteln von Wunsch, Wille und Präferenzen von betreuten Menschen in der Kommunikation einschließlich biographischer Aspekte und Werthaltungen\n   Methoden der Unterstützung bei der Entscheidungsfindung betreuter Menschen und praktische Erprobung"
+      "text": "Nachstehend ist das Curriculum zum Sachkundenachweis (Anlage zu § 3 der BtRegV) abgedruckt. Die 3 rechten Spalten sind redaktionell ergänzt (ECTS auf der Basis von 30 ZEITstunden). Die Verlinkungen sind ebenfalls redaktionell.\n\n Module zu § 3  Unterrichtsinhalte  Zeitstunden  Unterrichts-einheiten à 45 min  Umrech-nung in SWS   Umrech-nung in ECTS\n Vorbemerkung: Die Inhalte der Module werden grundsätzlich in Lehrveranstaltungen vermittelt, die in Präsenz oder online durchgeführt werden und praktische Übungen umfassen. Prüfungszeiten sind in vorgeschriebenen Zeitstunden enthalten. Antragsteller, die über einen Hochschulabschluss verfügen, können bis zu 50 % der Zeitstunden des jeweiligen Moduls mit Ausnahme der Module 10 und 11 in Selbstlernphasen absolvieren. Alle übrigen Antragsteller können bis zu 15 % der Zeitstunden des jeweiligen Moduls mit Ausnahme der Module 10 und 11 in Selbstlernphasen absolvieren.\n Modul 1  Betreuerbestellung und Zusammenarbeit mit dem Betreuungsgericht  15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 1  1. und 3. Teil\n Betreuerbestellung: Voraussetzungen, Verfahren, Sachverhaltsermittlung\n Anordnung eines Einwilligungsvorbehalts: Voraussetzungen, Grenzen, Verfahren\n   Aufgabenbereiche\n  Aufsicht durch das Betreuungsgericht\n  Berichts-, Auskunfts- und Mitteilungspflichten\n   Genehmigungsvorbehalte einschließlich Verfahren\n Modul 2  Betreuungsführung  30 40  2,67  1,0\n Zu § 3 Absatz 1 Nummer 1 2.Teil\n UN-BRK, insbesondere Artikel 12: Unterstützung bei der Ausübung der Rechts- und Handlungsfähigkeit, Bedeutung der Grundrechte\n  Ermittlung der Wohn- und Lebenslage des Betreuten\n   Erarbeitung der Betreuungsziele\n   Vorrang der Unterstützung und Willensvorrang nach § 1821 BGB 2023\n   Wille, Wünsche, Präferenzen\n   Erforderlichkeitsgrundsatz im Innenverhältnis\n   Schutzpflichten\n Modul 3  Recht der Unterbringung und der ärztlichen Zwangsmaßnahmen  15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 1, 4. Teil\n Freiheitsentziehende Unterbringung und sonstige freiheitsentziehende Maßnahmen nach Betreuungsrecht und nach öffentlichem Recht\n  Voraussetzungen und Verfahren\n   Einwilligung in ärztliche Zwangsmaßnahmen: Voraussetzungen und Verfahren\n   Aufgaben des Betreuers während des Vollzugs von Unterbringungsmaßnahmen und ärztlichen Zwangsmaßnahmen\n Modul 4  Personensorge 1  15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 2\n Grundkenntnisse über typische betreuungsrelevante Erkrankungen und Behinderungen, deren Auswirkungen, Gefahren und Behandlungsmöglichkeiten\n  Möglichkeiten der Vermeidung einer freiheitsentziehenden Unterbringung, sonstiger  freiheitsentziehender Maßnahmen und ärztlicher Zwangsmaßnahmen\nModul 5  Personensorge 2  15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 2\n Behandlungsvertragsrecht, Einwilligungsfähigkeit und Patientenrechte\n   Behandlungswünsche, Patientenverfügung, Sterbewunsch\n   Einwilligung des Betreuers bei gefährlichen ärztlichen Maßnahmen: Voraussetzungen und Verfahren\n  Aufgabe von Wohnraum\n   Umgangs- und Aufenthaltsbestimmung\n Modul 6  Vermögenssorge 1    15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 3\n Grundkenntnisse über\n   - Geschäftsfähigkeit\n   - Recht der Stelllvertretung\n  - allgemeines Schuldrecht einschließlich Haftungsfragen\n   - Kaufvertragsrecht\n   - Schuldenregulierung, Mahn- und Vollstreckungsbescheid, Zwangsvollstreckung, Insolvenzverfahren\n Modul 7  Vermögenssorge 2  15 20  1,33  0,5\n Zu § 3 Absatz 1 Nummer 3\n Vermögensverwaltung und Verfügungen über das Betreutenvermögen\n   Vermögensverzeichnis, Rechnungslegung und Genehmigungsvorbehalte\n   Betreuungsrelevante Aspekte des Miet- und Heimrechts\n   Betreuungsrelevante Aspekte des Erb- und Familienrechts\n Modul 8  Sozialrecht 1: Kenntnisse des Sozialrechts  30 40  2,67  1,0\n Zu § 3 Absatz 2 Nummer 1\n Das Sozialrecht (SGB und SGG) im Überblick, insbesondere,\n   - Leistungen zur Sicherung des Lebensunterhalts einschließlich der Kosten der Unterkunft, vor allem nach dem SGB II und SGB XII\n   - Sozialleistungsansprüche nach dem SGB V, SGB VI und SGB IX\n   - Ermittlung, Geltendmachung und Durchsetzung von sozialrechtlichen Ansprüchen sowie sozialrechtliche Mitwirkungspflichten\n Modul 9  Sozialrecht 2: Sozial- und Hilfestrukturen in der Praxis  45 60  4  1,5\n Zu § 3 Absatz 2 Nummer 2\n Teilhabeleistungen vor allem nach  SGB IX\n   Teilhabe- und Gesamtplanverfahren\n\n  Rehabilitations- und Teilhabeleistungen der verschiedenen Rehabilitationsträger\n  Leistungsformen der Eingliederungshilfe (z.B. Teilhabe am Arbeitsleben, medizinische Rehabilitation, Teilhabe an Bildung und Leistungen zur sozialen Teilhabe)\n Besondere Wohnformen und ambulant betreute Wohngemeinschaften\n Pflegeleistungen in Kombination mit anderen SGB-Leistungen;  Leistungen der Pflegeversicherung einschließlich Aufklärung, Auskunft und Pflegeberatung nach den §§ 7 ff. SGB XI sowie das Verhältnis zu anderen Sozialleistungen nach § 13 SGB XI\n  Leistungen der Hilfe zur Pflege nach SGB XII\n   Leistungen der gesetzlichen Krankenversicherung im Pflegefall (z. B. häusliche Krankenpflege und weitere Leistungen nach den §§ 37 ff. SGB V, medizinische Rehabilitation)\n   Leistungen der Eingliederungshilfe im Pflegefall\n   Methoden zur fallbezogenen Erschließung und Nutzung von Sozial- und Hilfestrukturen sowie von Netzwerken\n Modul 10  Grundlagen der Kommunikation und Praxistransfer  30 40  2,67  1,0\n Zu § 3 Absatz 3\n Theoretische Konzepte und Methoden der Kommunikation\n   Grundhaltungen und Techniken der Kommunikation\n   Diversitätssensible Kommunikation\n   Ressourcenorientierte Kommunikation\n   Konfliktmanagement in der Kommunikation\n   Selbst- und Machtreflexion\n Modul 11  Betreuungsspezifische Kommunikation/ Methoden der unterstützten Entscheidungsfindung  45 60  4  1,5\n Zu § 3 Absatz 3\n Auswirkungen spezifischer krankheits- bzw. beeinträchtigungsbedingter Einschränkungen auf die Fähigkeit der Kommunikation und der Entscheidungsfindung\n   Bedeutung sozialer und umweltbedingter Einflussfaktoren auf Autonomie und Entscheidungsfindung von betreuten Menschen\n   Methoden zur kommunikativen Verhinderung von Ausschlussmechanismen\n   Barrierefreie Kommunikation, leichte Sprache\n   Drei- oder Mehrparteien-Interaktion mit betreuten Menschen\n   Erkennen und Ermitteln von Wunsch, Wille und Präferenzen von betreuten Menschen in der Kommunikation einschließlich biographischer Aspekte und Werthaltungen\n   Methoden der Unterstützung bei der Entscheidungsfindung betreuter Menschen und praktische Erprobung"
     },
     {
+      "norms": [
+        "BtOG§2",
+        "BtOG§32"
+      ],
       "path": [
         "Registrierfristen"
       ],
       "text": "Die Anträge für Bestandsbetreuer waren in der Zeit vom 1.1.2023 bis 30.6.2023 bei der Stammbehörde (Betreuungsbehörde am Sitz oder Wohnsitz des Betreuers, § 2 Abs. 4 BtOG) zu stellen (§ 32 Abs. 1 BtOG)."
     },
     {
+      "norms": [
+        "BtRegV§5",
+        "BtRegV§8"
+      ],
       "path": [
         "Anbieter von Sachkundelehrgängen für Betreuer"
       ],
       "text": "erweiterbare Liste von Anbietern:\n\n-ADA-Akademie Ammerland, Oldenburg\n-Agape-Institut Eberswalde\n-BBFW Berlin\n- Betreuer/innen-Weiterbildung (Sitz: Münster)\n-Beck-Akademie (München)\n-DATEY Eyrich GmbH, Ramstein\n-Help-Akademie München\n-Hochschule Hannover\n-Hochschule Heidelberg\n-Hochschule Merseburg\n-IPB Hamburg\n-IKOME Leipzig\n-Jade-Hochschule (Wilhelmshaven)\n-Sächsische Verwaltungs- und Wirtschaftsakademie\n-Weinsberger Forum\n\nSpezielle Betreuerstudiengänge vermitteln ebenfalls die gesamte Sachkunde,\n\n-zB der Curator de Jure (TH Deggendorf),\n-der Bachelor Betreuung/Vormundschaft (zB Winges Hochschule Wismar,\n-Beck Studienzertifikat Neubrandenburg\n-Master Vormundschaft/Betreuung (HWR Berlin).\n\nAktuelle Listen der zuständigen Landesbehörden nach BtRegV und der anerkannten Angebote nach § 5 oder 8 BtRegV finden Sie auf der Homepage der Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe und der Eingliederungshilfe (BAGüS).\n\nListe der nach Landesrecht zuständigen Anerkennungsbehörden nach BtRegV:\n-Übersicht Anerkennungsbehörden nach BtRegV\n\nListe der nach Landesrecht anerkannten Angebote nach § 5 oder 8 BtRegV:\n-Übersicht anerkannte Angebote nach BtRegV (PDF)"
     },
     {
+      "norms": [],
       "path": [
         "Videos und Podcasts"
       ],
       "text": "-Podcast betroyt.de zum Thema Eignungsgespräch\n-Podcast betroyt.de zum Registrierverfahren\n-Podcast betroyt.de zum Theme Sachkunde\n-Youtube-Video (Betreuerschmiede) zum Sachkundenachweis - leider etwas veraltet\n-Youtube-Video (Betreuerschmiede) zur Registrierung in 30 Minuten"
     },
     {
+      "norms": [],
       "path": [
         "Literatur"
       ],
       "text": "-Marx: Verordnung über die Registrierung von beruflichen Betreuern – Betreuerregistrierungsverordnung (BtRegV) – Teil 1 und 2; Btr aktuell 2022, 77 und 97\n-Plitzko: Die Entscheidung der Stammbehörde über den anderweitigen Nachweis der Sachkunde beruflicher Betreuer; BtPrax 2024, 43\n-Buchverzeichnis\n-Betreuungsrechtliche Praxis"
     },
     {
+      "norms": [],
       "path": [
         "Formulare und Sonstiges"
       ],
       "text": "-Hinweise für Seminarveranstalter aus Hessen\n-Antragsformular zur Zertifizierung von Sachkundelehrgängen (PDF)\n-Link-Liste"
     },
     {
+      "norms": [],
       "path": [
         "Siehe auch"
       ],
