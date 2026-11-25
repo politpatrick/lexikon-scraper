@@ -2,21 +2,9 @@
   "id": "btbg",
   "titel": "BtBG",
   "inhalt": "redirect [Betreuungsbehördengesetz](betreuungsbehördengesetz)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Betreuungsbehördengesetz\n\nKategorie:Rechtsnormen",
-      "tags": [
-        "redirect",
-        "betreuungsbehördengesetz",
-        "kategorie",
-        "rechtsnormen"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Betreuungsbehördengesetz](betreuungsbehördengesetz)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)...",
   "verwandteArtikel": [
-    "kategorie:rechtsnormen",
-    "betreuungsbehördengesetz"
+    "betreuungsbehördengesetz",
+    "kategorie:rechtsnormen"
   ]
 }

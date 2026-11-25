@@ -2,16 +2,6 @@
   "id": "einführungsgespräch",
   "titel": "Einführungsgespräch",
   "inhalt": "redirect [Verpflichtungsgespräch](verpflichtungsgespräch)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Verpflichtungsgespräch",
-      "tags": [
-        "redirect",
-        "verpflichtungsgespräch"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Verpflichtungsgespräch](verpflichtungsgespräch)...",
   "verwandteArtikel": [
     "verpflichtungsgespräch"

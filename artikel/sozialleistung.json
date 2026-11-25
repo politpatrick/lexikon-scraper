@@ -2,15 +2,6 @@
   "id": "sozialleistung",
   "titel": "Sozialleistung",
   "inhalt": "redirect[Sozialhilfe](sozialhilfe)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirectSozialhilfe",
-      "tags": [
-        "redirectsozialhilfe"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect[Sozialhilfe](sozialhilfe)...",
   "verwandteArtikel": [
     "sozialhilfe"

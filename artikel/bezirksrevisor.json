@@ -2,66 +2,31 @@
   "id": "bezirksrevisor",
   "titel": "Bezirksrevisor",
   "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), vertritt die Interessen der Justizkasse des jeweiligen [Bundesländer](bundesländer). Er kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerden im Interesse der [Regress der Staatskasse](regress-der-staatskasse) einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nBei einer Rechtsbeschwerde zum Bundesgerichtshof in Karlsruhe muss auch die Staatskasse durch eine Person mit Befähigung zum Richteramt, also durch einen Volljuristen, vertreten werden, § 10 Abs. 4 FamFG.\n\nSiehe auch\n [Regress der Staatskasse](regress-der-staatskasse), [Auskunftspflicht](auskunftspflicht)\n [elektronisches Gerichts- und Verwaltungspostfach](elektronisches-gerichts--und-verwaltungspostfach), [e-Rechnung](e-rechnung), [Nutzungspflicht](nutzungspflicht)\n [Betreuungsverfahren](betreuungsverfahren), [Beaufsichtigung](beaufsichtigung), [Forensik](forensik)\n [Familienverfahrensgesetz](familienverfahrensgesetz), [Gemeinwohlorientierung](gemeinwohlorientierung)\n [Gerichtskosten](gerichtskosten), [Eidesstattliche Versicherung](eidesstattliche-versicherung)\n [Rechtsmittel](rechtsmittel), [Zwangsvollstreckung](zwangsvollstreckung)\n [Rechtsverkehr in Deutschland](rechtsverkehr-in-deutschland)\n [Selbstverwaltung der deutschen Gemeinden](selbstverwaltung-der-deutschen-gemeinden), [Föderalismus](föderalismus), [Polizeirecht](polizeirecht), [ordre public](ordre-public)\n\nWeblinks\n Link zur Wikipedia-Seite „Der Revisor“, Uraufführung 1836 in Sankt Petersburg, Autor Nicolai Gogol (1809 – 1852)\n\n[Kategorie:Rechtsprechung](kategorie:rechtsprechung)\n[Kategorie:Betreuungsverfahren](kategorie:betreuungsverfahren)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein Rechtspfleger, vertritt die Interessen der Justizkasse des jeweiligen Bundeslandes. Er kann gegen Gerichtsentscheidungen das Rechtsmittel Beschwerden im Interesse der Staatskasse einlegen, § 304 FamFG. Diese müssen zwingend in elektronischer Form erfolgen, § 14b FamFG.\n\nBei einer Rechtsbeschwerde zum Bundesgerichtshof in Karlsruhe muss auch die Staatskasse durch eine Person mit Befähigung zum Richteramt, also durch einen Volljuristen, vertreten werden, § 10 Abs. 4 FamFG.",
-      "tags": [
-        "famfg",
-        "staatskasse",
-        "sogenannte",
-        "bezirksrevisor",
-        "berufsausbildung"
-      ]
-    },
-    {
-      "titel": "Siehe auch",
-      "inhalt": "Regress der Staatskasse, Auskunftspflicht\n elektronisches Gerichts- und Verwaltungspostfach, e-Rechnung, Nutzungspflicht\n Betreuungsverfahren, Beaufsichtigung, Forensik\n Familienverfahrensgesetz, Gemeinwohlorientierung\n Gerichtskosten, Eidesstattliche Versicherung\n Rechtsmittel, Zwangsvollstreckung\n Rechtsverkehr in Deutschland\n Selbstverwaltung der deutschen Gemeinden, Föderalismus, Polizeirecht, ordre public",
-      "tags": [
-        "regress",
-        "staatskasse",
-        "auskunftspflicht",
-        "elektronisches",
-        "gerichts"
-      ]
-    },
-    {
-      "titel": "Weblinks",
-      "inhalt": "Link zur Wikipedia-Seite „Der Revisor“, Uraufführung 1836 in Sankt Petersburg, Autor Nicolai Gogol (1809 – 1852)\n\nKategorie:Rechtsprechung\nKategorie:Betreuungsverfahren",
-      "tags": [
-        "kategorie",
-        "link",
-        "wikipedia",
-        "seite",
-        "revisor"
-      ]
-    }
-  ],
   "zusammenfassung": "Der sogenannte Bezirksrevisor, von der Berufsausbildung her meist ein [Rechtspfleger](rechtspfleger), vertritt die Interessen der Justizkasse des jeweiligen [Bundesländer](bundesländer). Er kann gegen [Gerichtsbeschluss](gerichtsbeschluss) das [Rechtsmittel](rechtsmittel) Beschwerden im Interesse de...",
   "verwandteArtikel": [
-    "nutzungspflicht",
+    "gerichtsbeschluss",
+    "rechtsverkehr-in-deutschland",
+    "polizeirecht",
+    "forensik",
+    "kategorie:rechtsprechung",
+    "beaufsichtigung",
     "rechtspfleger",
     "kategorie:betreuungsverfahren",
-    "selbstverwaltung-der-deutschen-gemeinden",
-    "forensik",
+    "bundesländer",
+    "gemeinwohlorientierung",
     "eidesstattliche-versicherung",
-    "ordre-public",
-    "e-rechnung",
-    "rechtsverkehr-in-deutschland",
     "regress-der-staatskasse",
     "gerichtskosten",
-    "kategorie:rechtsprechung",
-    "gemeinwohlorientierung",
-    "betreuungsverfahren",
-    "elektronisches-gerichts--und-verwaltungspostfach",
-    "bundesländer",
-    "polizeirecht",
-    "beaufsichtigung",
-    "auskunftspflicht",
-    "gerichtsbeschluss",
-    "familienverfahrensgesetz",
     "rechtsmittel",
-    "zwangsvollstreckung",
-    "föderalismus"
+    "nutzungspflicht",
+    "familienverfahrensgesetz",
+    "elektronisches-gerichts--und-verwaltungspostfach",
+    "e-rechnung",
+    "auskunftspflicht",
+    "föderalismus",
+    "ordre-public",
+    "betreuungsverfahren",
+    "selbstverwaltung-der-deutschen-gemeinden",
+    "zwangsvollstreckung"
   ]
 }

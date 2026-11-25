@@ -2,16 +2,6 @@
   "id": "entschädigung",
   "titel": "Entschädigung",
   "inhalt": "redirect [Aufwandspauschale](aufwandspauschale)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Aufwandspauschale",
-      "tags": [
-        "redirect",
-        "aufwandspauschale"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Aufwandspauschale](aufwandspauschale)...",
   "verwandteArtikel": [
     "aufwandspauschale"

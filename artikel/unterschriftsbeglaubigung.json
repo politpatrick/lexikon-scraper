@@ -2,17 +2,6 @@
   "id": "unterschriftsbeglaubigung",
   "titel": "Unterschriftsbeglaubigung",
   "inhalt": "redirect [Beglaubigung durch Betreuungsbehörde](beglaubigung-durch-betreuungsbehörde)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Beglaubigung durch Betreuungsbehörde",
-      "tags": [
-        "redirect",
-        "beglaubigung",
-        "betreuungsbehörde"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Beglaubigung durch Betreuungsbehörde](beglaubigung-durch-betreuungsbehörde)...",
   "verwandteArtikel": [
     "beglaubigung-durch-betreuungsbehörde"

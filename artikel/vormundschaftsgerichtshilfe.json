@@ -2,16 +2,6 @@
   "id": "vormundschaftsgerichtshilfe",
   "titel": "Vormundschaftsgerichtshilfe",
   "inhalt": "REDIRECT [Betreuungsgerichtshilfe](betreuungsgerichtshilfe)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "REDIRECT Betreuungsgerichtshilfe",
-      "tags": [
-        "redirect",
-        "betreuungsgerichtshilfe"
-      ]
-    }
-  ],
   "zusammenfassung": "REDIRECT [Betreuungsgerichtshilfe](betreuungsgerichtshilfe)...",
   "verwandteArtikel": [
     "betreuungsgerichtshilfe"

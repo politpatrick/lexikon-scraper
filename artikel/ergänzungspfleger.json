@@ -2,16 +2,6 @@
   "id": "ergänzungspfleger",
   "titel": "Ergänzungspfleger",
   "inhalt": "redirect [Verhinderungsbetreuer](verhinderungsbetreuer)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Verhinderungsbetreuer",
-      "tags": [
-        "redirect",
-        "verhinderungsbetreuer"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Verhinderungsbetreuer](verhinderungsbetreuer)...",
   "verwandteArtikel": [
     "verhinderungsbetreuer"

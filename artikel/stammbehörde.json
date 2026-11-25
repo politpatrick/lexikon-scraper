@@ -2,16 +2,6 @@
   "id": "stammbehörde",
   "titel": "Stammbehörde",
   "inhalt": "redirect [Betreuungsbehörde](betreuungsbehörde)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Betreuungsbehörde",
-      "tags": [
-        "redirect",
-        "betreuungsbehörde"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Betreuungsbehörde](betreuungsbehörde)...",
   "verwandteArtikel": [
     "betreuungsbehörde"

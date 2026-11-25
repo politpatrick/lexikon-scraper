@@ -2,16 +2,6 @@
   "id": "vormundschaftsgerichtstag",
   "titel": "Vormundschaftsgerichtstag",
   "inhalt": "REDIRECT [Betreuungsgerichtstag](betreuungsgerichtstag)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "REDIRECT Betreuungsgerichtstag",
-      "tags": [
-        "redirect",
-        "betreuungsgerichtstag"
-      ]
-    }
-  ],
   "zusammenfassung": "REDIRECT [Betreuungsgerichtstag](betreuungsgerichtstag)...",
   "verwandteArtikel": [
     "betreuungsgerichtstag"

@@ -2,16 +2,6 @@
   "id": "anwalt",
   "titel": "Anwalt",
   "inhalt": "redirect [Rechtsanwalt](rechtsanwalt)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Rechtsanwalt",
-      "tags": [
-        "redirect",
-        "rechtsanwalt"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Rechtsanwalt](rechtsanwalt)...",
   "verwandteArtikel": [
     "rechtsanwalt"

@@ -2,16 +2,6 @@
   "id": "betrg",
   "titel": "BetrG",
   "inhalt": "redirect [Betreuungsgericht](betreuungsgericht)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Betreuungsgericht",
-      "tags": [
-        "redirect",
-        "betreuungsgericht"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Betreuungsgericht](betreuungsgericht)...",
   "verwandteArtikel": [
     "betreuungsgericht"

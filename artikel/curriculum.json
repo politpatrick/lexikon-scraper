@@ -2,16 +2,6 @@
   "id": "curriculum",
   "titel": "Curriculum",
   "inhalt": "redirect [Sachkundenachweis](sachkundenachweis)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Sachkundenachweis",
-      "tags": [
-        "redirect",
-        "sachkundenachweis"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Sachkundenachweis](sachkundenachweis)...",
   "verwandteArtikel": [
     "sachkundenachweis"

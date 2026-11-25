@@ -2,16 +2,6 @@
   "id": "berufsgenossenschaft",
   "titel": "Berufsgenossenschaft",
   "inhalt": "redirect [Unfallversicherung](unfallversicherung)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Unfallversicherung",
-      "tags": [
-        "redirect",
-        "unfallversicherung"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Unfallversicherung](unfallversicherung)...",
   "verwandteArtikel": [
     "unfallversicherung"

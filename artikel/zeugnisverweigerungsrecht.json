@@ -2,16 +2,6 @@
   "id": "zeugnisverweigerungsrecht",
   "titel": "Zeugnisverweigerungsrecht",
   "inhalt": "redirect [Schweigepflicht](schweigepflicht)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Schweigepflicht",
-      "tags": [
-        "redirect",
-        "schweigepflicht"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Schweigepflicht](schweigepflicht)...",
   "verwandteArtikel": [
     "schweigepflicht"

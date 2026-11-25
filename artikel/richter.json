@@ -2,16 +2,6 @@
   "id": "richter",
   "titel": "Richter",
   "inhalt": "redirect [Betreuungsrichter](betreuungsrichter)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Betreuungsrichter",
-      "tags": [
-        "redirect",
-        "betreuungsrichter"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Betreuungsrichter](betreuungsrichter)...",
   "verwandteArtikel": [
     "betreuungsrichter"
