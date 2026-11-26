@@ -4,7 +4,7 @@
 
 - Artikel: 317
 - Knoten: 2507 (art: 317, cat: 30, ext: 578, norm: 1582)
-- Kanten: 16968 (cites_norm: 5123, in_category: 557, links_to: 9874, references_external: 1414)
+- Kanten: 16970 (cites_norm: 5123, in_category: 557, links_to: 9876, references_external: 1414)
 - Wikipedia-Links: 1444
 - Bilder: 5
 - Tote interne Links: 15 (verschiedene Ziele: 12)

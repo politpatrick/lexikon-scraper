@@ -34,6 +34,7 @@
     "einwilligungsfähigkeit",
     "elektronische-patientenakte",
     "geheimhaltungspflicht",
+    "gemeinwohlorientierung",
     "genehmigung-der-heilbehandlung",
     "geschäftsfähigkeit",
     "gesetzgebung",
@@ -158,7 +159,7 @@
     }
   ],
   "pageid": 39266,
-  "revid": 65861,
+  "revid": 66927,
   "sections": [
     {
       "norms": [
@@ -258,11 +259,11 @@
       "path": [
         "Weblinks"
       ],
-      "text": "- Internetseite der \"Gematik\"\n- Internetseite des Gemeinsamen Bundesausschusses\n\nDer Gemeinsame Bundesausschuss ist selbstverwaltet organisiert von zugelassenen Ärztinnen und Ärzten, Zahnärztinnen und Zahnärzten, Psychotherapeutinnen und Psychotherapeuten, Krankenhäusern und Krankenkassen in Deutschland. Erst seit dem Jahr 2004 wirken auch Patientenvertreterinnen und Patientenvertreter aktiv im Ausschuss mit. Es geht vor allem darum, welche Gesundheitskosten von den Krankenkassen übernommen werden können oder sollten."
+      "text": "- Internetseite der \"Gematik\"\n- Internetseite des Gemeinsamen Bundesausschusses\n\nDer Gemeinsame Bundesausschuss ist selbstverwaltet organisiert von zugelassenen Ärztinnen und Ärzten, Zahnärztinnen und Zahnärzten, Psychotherapeutinnen und Psychotherapeuten, Krankenhäusern und Krankenkassen in Deutschland. Erst seit dem Jahr 2004 wirken auch Patientenvertreterinnen und Patientenvertreter aktiv im Ausschuss mit. Es geht vor allem darum, welche Gesundheitskosten von den Krankenkassen - gemeinwohlorientiert - übernommen werden können oder sollten."
     }
   ],
   "slug": "informationspflicht",
-  "timestamp": "2026-06-23T12:27:55Z",
+  "timestamp": "2026-11-26T11:15:00Z",
   "title": "Informationspflicht",
   "wikipedia_links": []
 }

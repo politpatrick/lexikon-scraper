@@ -103152,6 +103152,13 @@
       "relation": "links_to",
       "source": "art:informationspflicht",
       "source_file": "articles/39266.json",
+      "target": "art:gemeinwohlorientierung"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:informationspflicht",
+      "source_file": "articles/39266.json",
       "target": "art:genehmigung-der-heilbehandlung"
     },
     {
@@ -118441,6 +118448,13 @@
       "source": "art:gemeinwohlorientierung",
       "source_file": "articles/39326.json",
       "target": "art:grundrechte"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "relation": "links_to",
+      "source": "art:gemeinwohlorientierung",
+      "source_file": "articles/39326.json",
+      "target": "art:informationspflicht"
     },
     {
       "confidence": "EXTRACTED",
