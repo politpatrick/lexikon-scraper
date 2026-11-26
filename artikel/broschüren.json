@@ -2,18 +2,61 @@
   "id": "broschüren",
   "titel": "Broschüren",
   "inhalt": "Broschüren zum Betreuungsrecht zum Download (PDF)\n\nUntenstehend kommen Sie zu dem Download-Link des Justizministeriums, unter dem Infobroschüren zur [Vorsorgevollmacht](vorsorgevollmacht) und Betreuung verfügbar sind. Es handelt sich hierbei um vor allem für [Betreuer (Ehrenamt)](betreuer-(ehrenamt)) nützliche Grundinformationen.\n\nDownloadportal für Reader-Software für PDF-Dateien\n\nDownload\nInfobroschüre Betreuungsrecht \n\nWeitere Themenbroschüren\nHandreichung und Formular christliche Patientenverfügung - Neufassung 2018 (PDF)\nInfobroschüren zum Thema Demenz (Dt. Alzheimergesellschaft)\n\nSiehe auch\n [Buchverzeichnis](buchverzeichnis)\n [Ausbildung](ausbildung), [Software](software), [elektronischer Identitätsnachweis](elektronischer-identitätsnachweis)\n [Formulare](formulare)\n [Link-Liste](link-liste)\n [Bundesländer](bundesländer)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)\n[Kategorie:Literatur](kategorie:literatur)",
+  "struktur": [
+    {
+      "titel": "Broschüren zum Betreuungsrecht zum Download (PDF)",
+      "inhalt": "Untenstehend kommen Sie zu dem Download-Link des Justizministeriums, unter dem Infobroschüren zur Vorsorgevollmacht und Betreuung verfügbar sind. Es handelt sich hierbei um vor allem für ehrenamtliche Betreuer nützliche Grundinformationen.\n\nDownloadportal für Reader-Software für PDF-Dateien",
+      "tags": [
+        "untenstehend",
+        "kommen",
+        "download",
+        "link",
+        "justizministeriums"
+      ]
+    },
+    {
+      "titel": "Download",
+      "inhalt": "Infobroschüre Betreuungsrecht",
+      "tags": [
+        "infobroschüre",
+        "betreuungsrecht"
+      ]
+    },
+    {
+      "titel": "Weitere Themenbroschüren",
+      "inhalt": "Handreichung und Formular christliche Patientenverfügung - Neufassung 2018 (PDF)\nInfobroschüren zum Thema Demenz (Dt. Alzheimergesellschaft)",
+      "tags": [
+        "handreichung",
+        "formular",
+        "christliche",
+        "patientenverfügung",
+        "neufassung"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Buchverzeichnis\n Ausbildung, Software, elektronischer Identitätsnachweis\n Formulare\n Link-Liste\n Bundesländer\n\nKategorie:Arbeitshilfen\nKategorie:Literatur",
+      "tags": [
+        "kategorie",
+        "buchverzeichnis",
+        "ausbildung",
+        "software",
+        "elektronischer"
+      ]
+    }
+  ],
   "zusammenfassung": "Broschüren zum Betreuungsrecht zum Download (PDF)\n\nUntenstehend kommen Sie zu dem Download-Link des Justizministeriums, unter dem Infobroschüren zur [Vorsorgevollmacht](vorsorgevollmacht) und Betreuung verfügbar sind. Es handelt sich hierbei um vor allem für [Betreuer (Ehrenamt)](betreuer-(ehrenamt)...",
   "verwandteArtikel": [
-    "software",
-    "kategorie:literatur",
-    "vorsorgevollmacht",
-    "betreuer-(ehrenamt)",
-    "elektronischer-identitätsnachweis",
     "ausbildung",
+    "kategorie:literatur",
     "kategorie:arbeitshilfen",
+    "software",
     "bundesländer",
-    "link-liste",
+    "vorsorgevollmacht",
+    "buchverzeichnis",
     "formulare",
-    "buchverzeichnis"
+    "betreuer-(ehrenamt)",
+    "link-liste",
+    "elektronischer-identitätsnachweis"
   ]
 }

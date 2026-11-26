@@ -2,21 +2,45 @@
   "id": "vollmachtswiderruf",
   "titel": "Vollmachtswiderruf",
   "inhalt": "Allgemeines\nGemäß § 1820 Abs. 5 BGB kann ein [Kontrollbetreuer](kontrollbetreuer) im konkreten Einzelfall zum Widerruf einer [Vorsorgevollmacht](vorsorgevollmacht) berechtigt sein.\n\nSiehe auch\n [Vorsorgevollmacht](vorsorgevollmacht), [Vorsorgevollmacht - vertiefte Infos](vorsorgevollmacht---vertiefte-infos)\n [Widerspruchsrecht](widerspruchsrecht)\n [Bankvollmacht](bankvollmacht), [Girokonto](girokonto)\n [Vermögenssorge](vermögenssorge), [Schuldnerverzeichnis](schuldnerverzeichnis)\n [Genehmigungspflichten](genehmigungspflichten), [Genehmigungen von a bis z](genehmigungen-von-a-bis-z)\n [Kontrollbetreuer](kontrollbetreuer), [Grundrechte](grundrechte), [Diskriminierungsverbot](diskriminierungsverbot)\n [Angehörigenvertretungsrecht](angehörigenvertretungsrecht)\n\n[Kategorie:Rechtsnormen](kategorie:rechtsnormen)",
+  "struktur": [
+    {
+      "titel": "Allgemeines",
+      "inhalt": "Gemäß § 1820 Abs. 5 BGB kann ein Kontrollbetreuer im konkreten Einzelfall zum Widerruf einer Vorsorgevollmacht berechtigt sein.",
+      "tags": [
+        "gemäß",
+        "kann",
+        "kontrollbetreuer",
+        "konkreten",
+        "einzelfall"
+      ]
+    },
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Vorsorgevollmacht, Vorsorgevollmacht - vertiefte Infos\n Widerspruchsrecht\n Bankvollmacht, Girokonto\n Vermögenssorge, Schuldnerverzeichnis\n Genehmigungspflichten, Genehmigungen von a bis z\n Kontrollbetreuer, Grundrechte, Diskriminierungsverbot\n Angehörigenvertretungsrecht\n\nKategorie:Rechtsnormen",
+      "tags": [
+        "vorsorgevollmacht",
+        "vertiefte",
+        "infos",
+        "widerspruchsrecht",
+        "bankvollmacht"
+      ]
+    }
+  ],
   "zusammenfassung": "Allgemeines\nGemäß § 1820 Abs. 5 BGB kann ein [Kontrollbetreuer](kontrollbetreuer) im konkreten Einzelfall zum Widerruf einer [Vorsorgevollmacht](vorsorgevollmacht) berechtigt sein.\n\nSiehe auch\n [Vorsorgevollmacht](vorsorgevollmacht), [Vorsorgevollmacht - vertiefte Infos](vorsorgevollmacht---vertieft...",
   "verwandteArtikel": [
-    "vorsorgevollmacht",
+    "schuldnerverzeichnis",
     "widerspruchsrecht",
+    "girokonto",
     "diskriminierungsverbot",
-    "vorsorgevollmacht---vertiefte-infos",
+    "kontrollbetreuer",
+    "kategorie:rechtsnormen",
+    "vermögenssorge",
+    "grundrechte",
+    "vorsorgevollmacht",
     "genehmigungspflichten",
     "genehmigungen-von-a-bis-z",
-    "schuldnerverzeichnis",
-    "girokonto",
-    "kontrollbetreuer",
     "angehörigenvertretungsrecht",
-    "bankvollmacht",
-    "kategorie:rechtsnormen",
-    "grundrechte",
-    "vermögenssorge"
+    "vorsorgevollmacht---vertiefte-infos",
+    "bankvollmacht"
   ]
 }

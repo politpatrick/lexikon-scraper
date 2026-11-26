@@ -2,12 +2,25 @@
   "id": "gesetzessammlungen-betreuer.pdf",
   "titel": "Gesetzessammlungen Betreuer.pdf",
   "inhalt": "Siehe auch\n[Gesetzestexte](gesetzestexte)\n[Buchverzeichnis](buchverzeichnis)\n[Formulare](formulare)\n[Sachkundenachweis](sachkundenachweis)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)",
+  "struktur": [
+    {
+      "titel": "Siehe auch",
+      "inhalt": "Gesetzestexte\nBuchverzeichnis\nFormulare\nSachkundenachweis\n\nKategorie:Arbeitshilfen",
+      "tags": [
+        "gesetzestexte",
+        "buchverzeichnis",
+        "formulare",
+        "sachkundenachweis",
+        "kategorie"
+      ]
+    }
+  ],
   "zusammenfassung": "Siehe auch\n[Gesetzestexte](gesetzestexte)\n[Buchverzeichnis](buchverzeichnis)\n[Formulare](formulare)\n[Sachkundenachweis](sachkundenachweis)\n\n[Kategorie:Arbeitshilfen](kategorie:arbeitshilfen)...",
   "verwandteArtikel": [
     "gesetzestexte",
     "kategorie:arbeitshilfen",
     "sachkundenachweis",
-    "formulare",
-    "buchverzeichnis"
+    "buchverzeichnis",
+    "formulare"
   ]
 }
