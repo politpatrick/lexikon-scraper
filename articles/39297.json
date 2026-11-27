@@ -5,6 +5,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -99,6 +100,7 @@
   "revid": 66855,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "StGB§93",
         "StGB§94",
@@ -110,6 +112,7 @@
       "text": "Die Geheimhaltung von bestimmten Daten und Fakten spielte schon immer in den Staaten der Erde eine wichtige Rolle. Deshalb sind im jeweiligen Strafrecht entsprechende Strafvorschriften gegen die sogenannten Verräter normiert worden. In § 93 StGB wird der Rechtsbegriff des Staatsgeheimnisses juristisch definiert. Danach folgen die landesverräterischen Straftaten, die die äußere Sicherheit von Deutschland nachweislich gefährden (§ 94 StGB Landesverrat bis § 100a StGB Landesverräterische Fälschung).\n\nNachdem Deutschland endlich nach dem Zweiten Weltkrieg mehrheitlich erkannt hatte, dass im Zentrum seines Rechts nicht der (nationale) Staat, sondern alle überlebenden und zugezogenen deutschen StaatsbürgerInnen sowie ihre Gäste stehen sollten, sind auch für das Innere des demokratischen Rechtsstaats wichtige Geheimhaltungspflichten gesetzlich normiert worden."
     },
     {
+      "decisions": [],
       "norms": [
         "SGBIX§213"
       ],
@@ -119,6 +122,7 @@
       "text": "Die Beschäftigten der Integrationsämter, der Bundesagentur für Arbeit, der Rehabilitationsträger sowie der von diesen Stellen beauftragten Integrationsfachdienste und die Mitglieder der Ausschüsse und des Beirates für die Teilhabe von Menschen mit Behinderungen und ihre Stellvertreterinnen oder Stellvertreter sowie zur Durchführung ihrer Aufgaben hinzugezogene Sachverständige sind alle gemäß § 213 SGB IX zur Geheimhaltung verpflichtet."
     },
     {
+      "decisions": [],
       "norms": [
         "SGBI§35",
         "SGBI§36a"
@@ -130,6 +134,7 @@
       "text": "Als gemeinsame Vorschrift für alle Sozialleistungsbereiche des deutschen Sozialgesetzbuches gilt das Sozialgeheimnis des § 35 SGB I. Demnach dürfen erfasste Sozialdaten nur den dafür befugten Personen zugänglich gemacht werden. Die Beschäftigten der Leistungsträger und ihrer Verbände und Arbeitsgemeinschaften, der Datenstelle der Rentenversicherung, der Integrationsfachdienste, der Künstlersozialkasse, der Deutschen Post AG (wegen der Auszahlung von Sozialleistungen), der Behörden der Zollverwaltung, der Versicherungsämter und Gemeindebehörden u.a. müssen auch nach Beendigung ihrer beruflichen Tätigkeiten das Sozialgeheimnis wahren. Die Vorschrift verweist in ihrem Absatz 2 auch auf die europäische Datenschutz-Grundverordnung.\n\nDie elektronische Kommunikation im deutschen Sozialrecht wird in § 36a SGB I gesetzlich geregelt. Die bisher durch Rechtsvorschrift angeordnete Schriftform soll Zug-um-Zug durch eine geeignete, d.h. rechtssichere elektronische Form ersetzt werden. Dazu sollten aber die bisherigen Antragsformulare aus Papier nicht einfach zu Online-Formularen umgewandelt werden. Vielmehr wäre eine grundlegend andere Organisationsstruktur für den schnellen und sicheren elektronischen Datenverkehr in der deutschen Sozialverwaltung notwendig."
     },
     {
+      "decisions": [],
       "norms": [
         "StGB§353b"
       ],
@@ -139,6 +144,7 @@
       "text": "Wer unbefugt einen Gegenstand oder eine Nachricht, zu deren Geheimhaltung er verpflichtet (worden) ist, an einen anderen gelangen lässt oder öffentlich bekanntmacht und dadurch wichtige öffentliche Interessen gefährdet, wird in Deutschland gemäß § 353b StGB bestraft."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Geheimhaltungspflichten im Gesundheitsdatennutzungsgesetz (GDNG)"
@@ -146,6 +152,7 @@
       "text": "Die ursprünglich mit Personenbezug erfassten Gesundheitsdaten der Kranken- und Pflegekassen in Deutschland dürfen für die wissenschaftliche Forschung in anonymisierter Form verfügbar gemacht werden, damit die vielen spezifischen Daten zu Krankheiten und Behinderungen der Versicherten zukünftig der Allgemeinheit dienen können (= Gemeinwohlorientierung). Für diese Daten gelten in Deutschland wegen des grundrechtlichen Patientenschutzes gesetzliche Geheimhaltungspflichten gemäß § 7 GDNG."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

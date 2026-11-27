@@ -7,6 +7,485 @@
     "Betreuungspersonen"
   ],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Beschluss",
+      "az": "1 BvR 321/96",
+      "datum": "2000-01-18",
+      "fundstelle": null,
+      "gericht": "BVerfG",
+      "id": "1 BvR 321/96",
+      "label": "BVerfG, Beschluss vom 18.01.2000 – 1 BvR 321/96"
+    },
+    {
+      "art": "Beschluss",
+      "az": "3Z BR 209/02",
+      "datum": "2002-12-11",
+      "fundstelle": null,
+      "gericht": "BayObLG",
+      "id": "3Z BR 209/02",
+      "label": "BayObLG, Beschluss vom 11.12.2002 – 3Z BR 209/02"
+    },
+    {
+      "art": "Beschluss",
+      "az": "3Z BR 49/97",
+      "datum": "1997-05-28",
+      "fundstelle": null,
+      "gericht": "BayObLG",
+      "id": "3Z BR 49/97",
+      "label": "BayObLG, Beschluss vom 28.05.1997 – 3Z BR 49/97"
+    },
+    {
+      "art": "Beschluss",
+      "az": "3Z BR 82/96",
+      "datum": "1996-03-29",
+      "fundstelle": null,
+      "gericht": "BayObLG",
+      "id": "3Z BR 82/96",
+      "label": "BayObLG, Beschluss vom 29.03.1996 – 3Z BR 82/96"
+    },
+    {
+      "art": "Urteil",
+      "az": "III ZR 181/09",
+      "datum": "2009-11-05",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "III ZR 181/09",
+      "label": "BGH, Urteil vom 05.11.2009 – III ZR 181/09"
+    },
+    {
+      "art": "Urteil",
+      "az": "III ZR 6/09",
+      "datum": "2009-11-05",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "III ZR 6/09",
+      "label": "BGH, Urteil vom 05.11.2009 – III ZR 6/09"
+    },
+    {
+      "art": "Beschluss",
+      "az": "1 W 161/08",
+      "datum": "2009-10-13",
+      "fundstelle": null,
+      "gericht": "KG",
+      "id": "KG 1 W 161/08",
+      "label": "KG, Beschluss vom 13.10.2009 – 1 W 161/08"
+    },
+    {
+      "art": "Beschluss",
+      "az": "1 W 381/14",
+      "datum": "2015-07-14",
+      "fundstelle": null,
+      "gericht": "KG",
+      "id": "KG 1 W 381/14",
+      "label": "KG, Beschluss vom 14.07.2015 – 1 W 381/14"
+    },
+    {
+      "art": "Beschluss",
+      "az": "87 T 409/25",
+      "datum": "2026-01-16",
+      "fundstelle": null,
+      "gericht": "LG Berlin",
+      "id": "LG Berlin 87 T 409/25",
+      "label": "LG Berlin, Beschluss vom 16.01.2026 – 87 T 409/25"
+    },
+    {
+      "art": "Beschluss",
+      "az": "5 T 368/08",
+      "datum": "2008-06-25",
+      "fundstelle": null,
+      "gericht": "LG Darmstadt",
+      "id": "LG Darmstadt 5 T 368/08",
+      "label": "LG Darmstadt, Beschluss vom 25.06.2008 – 5 T 368/08"
+    },
+    {
+      "art": "Urteil",
+      "az": "11 O 259/12",
+      "datum": "2012-11-15",
+      "fundstelle": null,
+      "gericht": "LG Düsseldorf",
+      "id": "LG Düsseldorf 11 O 259/12",
+      "label": "LG Düsseldorf, Urteil vom 15.11.2012 – 11 O 259/12"
+    },
+    {
+      "art": "Beschluss",
+      "az": "330 T 14/19",
+      "datum": "2019-03-08",
+      "fundstelle": null,
+      "gericht": "LG Hamburg",
+      "id": "LG Hamburg 330 T 14/19",
+      "label": "LG Hamburg, Beschluss vom 08.03.2019 – 330 T 14/19"
+    },
+    {
+      "art": "Beschluss",
+      "az": "3 T 390/07",
+      "datum": "2008-03-03",
+      "fundstelle": null,
+      "gericht": "LG Meiningen",
+      "id": "LG Meiningen 3 T 390/07",
+      "label": "LG Meiningen, Beschluss vom 03.03.2008 – 3 T 390/07"
+    },
+    {
+      "art": "Urteil",
+      "az": "31 S 17737/19",
+      "datum": "2020-07-30",
+      "fundstelle": null,
+      "gericht": "LG München I",
+      "id": "LG München I 31 S 17737/19",
+      "label": "LG München I, Urteil vom 30.07.2020 – 31 S 17737/19"
+    },
+    {
+      "art": "Beschluss",
+      "az": "6 T 4230/22",
+      "datum": "2023-01-23",
+      "fundstelle": null,
+      "gericht": "LG München II",
+      "id": "LG München II 6 T 4230/22",
+      "label": "LG München II, Beschluss vom 23.01.2023 – 6 T 4230/22"
+    },
+    {
+      "art": "Beschluss",
+      "az": "6 T 4598/22",
+      "datum": "2023-01-20",
+      "fundstelle": null,
+      "gericht": "LG München II",
+      "id": "LG München II 6 T 4598/22",
+      "label": "LG München II, Beschluss vom 20.01.2023 – 6 T 4598/22"
+    },
+    {
+      "art": "Beschluss",
+      "az": "5 T 1001/04",
+      "datum": "2004-11-09",
+      "fundstelle": null,
+      "gericht": "LG Münster",
+      "id": "LG Münster 5 T 1001/04",
+      "label": "LG Münster, Beschluss vom 09.11.2004 – 5 T 1001/04"
+    },
+    {
+      "art": "Beschluss",
+      "az": "5 T 998/00",
+      "datum": "2000-11-23",
+      "fundstelle": null,
+      "gericht": "LG Münster",
+      "id": "LG Münster 5 T 998/00",
+      "label": "LG Münster, Beschluss vom 23.11.2000 – 5 T 998/00"
+    },
+    {
+      "art": "Beschluss",
+      "az": "25 T 211/06",
+      "datum": "2006-12-18",
+      "fundstelle": null,
+      "gericht": "LG Stendal",
+      "id": "LG Stendal 25 T 211/06",
+      "label": "LG Stendal, Beschluss vom 18.12.2006 – 25 T 211/06"
+    },
+    {
+      "art": "Beschluss",
+      "az": "10 WF 146/07",
+      "datum": "2007-07-31",
+      "fundstelle": null,
+      "gericht": "OLG Brandenburg",
+      "id": "OLG Brandenburg 10 WF 146/07",
+      "label": "OLG Brandenburg, Beschluss vom 31.07.2007 – 10 WF 146/07"
+    },
+    {
+      "art": "Beschluss",
+      "az": "3 W 13/14",
+      "datum": "2014-04-22",
+      "fundstelle": null,
+      "gericht": "OLG Brandenburg",
+      "id": "OLG Brandenburg 3 W 13/14",
+      "label": "OLG Brandenburg, Beschluss vom 22.04.2014 – 3 W 13/14"
+    },
+    {
+      "art": "Beschluss",
+      "az": "17 W 132/08",
+      "datum": "2009-04-20",
+      "fundstelle": null,
+      "gericht": "OLG Celle",
+      "id": "OLG Celle 17 W 132/08",
+      "label": "OLG Celle, Beschluss vom 20.04.2009 – 17 W 132/08"
+    },
+    {
+      "art": "Beschluss",
+      "az": "I-3 Wx 137/05",
+      "datum": "2005-10-11",
+      "fundstelle": null,
+      "gericht": "OLG Düsseldorf",
+      "id": "OLG Düsseldorf I-3 Wx 137/05",
+      "label": "OLG Düsseldorf, Beschluss vom 11.10.2005 – I-3 Wx 137/05"
+    },
+    {
+      "art": "Beschluss",
+      "az": "20 W 231/05",
+      "datum": "2005-11-17",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 20 W 231/05",
+      "label": "OLG Frankfurt am Main, Beschluss vom 17.11.2005 – 20 W 231/05"
+    },
+    {
+      "art": "Beschluss",
+      "az": "20 W 232/04",
+      "datum": "2004-07-19",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 20 W 232/04",
+      "label": "OLG Frankfurt am Main, Beschluss vom 19.07.2004 – 20 W 232/04"
+    },
+    {
+      "art": "Beschluss",
+      "az": "20 W 332/03",
+      "datum": "2004-06-22",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 20 W 332/03",
+      "label": "OLG Frankfurt am Main, Beschluss vom 22.06.2004 – 20 W 332/03"
+    },
+    {
+      "art": "Beschluss",
+      "az": "20 W 391/96",
+      "datum": "1996-11-14",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 20 W 391/96",
+      "label": "OLG Frankfurt am Main, Beschluss vom 14.11.1996 – 20 W 391/96"
+    },
+    {
+      "art": "Beschluss",
+      "az": "20 W 90/10",
+      "datum": "2010-04-13",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 20 W 90/10",
+      "label": "OLG Frankfurt am Main, Beschluss vom 13.04.2010 – 20 W 90/10"
+    },
+    {
+      "art": "Beschluss",
+      "az": "21 W 56/18",
+      "datum": "2018-09-14",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 21 W 56/18",
+      "label": "OLG Frankfurt am Main, Beschluss vom 14.09.2018 – 21 W 56/18"
+    },
+    {
+      "art": "Beschluss",
+      "az": "15 W 331/03",
+      "datum": "2003-10-02",
+      "fundstelle": null,
+      "gericht": "OLG Hamm",
+      "id": "OLG Hamm 15 W 331/03",
+      "label": "OLG Hamm, Beschluss vom 02.10.2003 – 15 W 331/03"
+    },
+    {
+      "art": "Beschluss",
+      "az": "15 Wx 85/09",
+      "datum": "2009-07-16",
+      "fundstelle": null,
+      "gericht": "OLG Hamm",
+      "id": "OLG Hamm 15 Wx 85/09",
+      "label": "OLG Hamm, Beschluss vom 16.07.2009 – 15 Wx 85/09"
+    },
+    {
+      "art": "Beschluss",
+      "az": "I-15 Wx 519/10",
+      "datum": "2011-06-09",
+      "fundstelle": null,
+      "gericht": "OLG Hamm",
+      "id": "OLG Hamm I-15 Wx 519/10",
+      "label": "OLG Hamm, Beschluss vom 09.06.2011 – I-15 Wx 519/10"
+    },
+    {
+      "art": "Beschluss",
+      "az": "9 W 627/05",
+      "datum": "2005-11-30",
+      "fundstelle": null,
+      "gericht": "OLG Jena",
+      "id": "OLG Jena 9 W 627/05",
+      "label": "OLG Jena, Beschluss vom 30.11.2005 – 9 W 627/05"
+    },
+    {
+      "art": "Beschluss",
+      "az": "9 W 657/05",
+      "datum": "2005-11-30",
+      "fundstelle": null,
+      "gericht": "OLG Jena",
+      "id": "OLG Jena 9 W 657/05",
+      "label": "OLG Jena, Beschluss vom 30.11.2005 – 9 W 657/05"
+    },
+    {
+      "art": "Beschluss",
+      "az": "19 Wx 44/07",
+      "datum": "2008-02-07",
+      "fundstelle": null,
+      "gericht": "OLG Karlsruhe",
+      "id": "OLG Karlsruhe 19 Wx 44/07",
+      "label": "OLG Karlsruhe, Beschluss vom 07.02.2008 – 19 Wx 44/07"
+    },
+    {
+      "art": "Beschluss",
+      "az": "14 Wx 10/97",
+      "datum": "1997-11-10",
+      "fundstelle": null,
+      "gericht": "OLG Köln",
+      "id": "OLG Köln 14 Wx 10/97",
+      "label": "OLG Köln, Beschluss vom 10.11.1997 – 14 Wx 10/97"
+    },
+    {
+      "art": "Beschluss",
+      "az": "19 U 128/99",
+      "datum": "2000-03-31",
+      "fundstelle": null,
+      "gericht": "OLG Köln",
+      "id": "OLG Köln 19 U 128/99",
+      "label": "OLG Köln, Beschluss vom 31.03.2000 – 19 U 128/99"
+    },
+    {
+      "art": "Beschluss",
+      "az": "33 Wx 079/09",
+      "datum": "2009-06-15",
+      "fundstelle": null,
+      "gericht": "OLG München",
+      "id": "OLG München 33 Wx 079/09",
+      "label": "OLG München, Beschluss vom 15.06.2009 – 33 Wx 079/09"
+    },
+    {
+      "art": "Beschluss",
+      "az": "33 Wx 79/09",
+      "datum": "2009-06-15",
+      "fundstelle": null,
+      "gericht": "OLG München",
+      "id": "OLG München 33 Wx 79/09",
+      "label": "OLG München, Beschluss vom 15.06.2009 – 33 Wx 79/09"
+    },
+    {
+      "art": "Beschluss",
+      "az": "34 Wx 252/21",
+      "datum": "2021-09-27",
+      "fundstelle": null,
+      "gericht": "OLG München",
+      "id": "OLG München 34 Wx 252/21",
+      "label": "OLG München, Beschluss vom 27.09.2021 – 34 Wx 252/21"
+    },
+    {
+      "art": "Beschluss",
+      "az": "14 UF 75/03",
+      "datum": "2003-09-30",
+      "fundstelle": null,
+      "gericht": "OLG Naumburg",
+      "id": "OLG Naumburg 14 UF 75/03",
+      "label": "OLG Naumburg, Beschluss vom 30.09.2003 – 14 UF 75/03"
+    },
+    {
+      "art": "Beschluss",
+      "az": "15 W 2126/20",
+      "datum": "2020-07-30",
+      "fundstelle": null,
+      "gericht": "OLG Nürnberg",
+      "id": "OLG Nürnberg 15 W 2126/20",
+      "label": "OLG Nürnberg, Beschluss vom 30.07.2020 – 15 W 2126/20"
+    },
+    {
+      "art": "Urteil",
+      "az": "8 U 1092/15",
+      "datum": "2016-03-24",
+      "fundstelle": null,
+      "gericht": "OLG Nürnberg",
+      "id": "OLG Nürnberg 8 U 1092/15",
+      "label": "OLG Nürnberg, Urteil vom 24.03.2016 – 8 U 1092/15"
+    },
+    {
+      "art": "Beschluss",
+      "az": "3 W 137/05",
+      "datum": "2006-05-17",
+      "fundstelle": null,
+      "gericht": "OLG Rostock",
+      "id": "OLG Rostock 3 W 137/05",
+      "label": "OLG Rostock, Beschluss vom 17.05.2006 – 3 W 137/05"
+    },
+    {
+      "art": "Beschluss",
+      "az": "8 W 494/99",
+      "datum": "2001-06-25",
+      "fundstelle": null,
+      "gericht": "OLG Stuttgart",
+      "id": "OLG Stuttgart 8 W 494/99",
+      "label": "OLG Stuttgart, Beschluss vom 25.06.2001 – 8 W 494/99"
+    },
+    {
+      "art": "Beschluss",
+      "az": "3 W 130/04",
+      "datum": "2004-12-22",
+      "fundstelle": null,
+      "gericht": "OLG Zweibrücken",
+      "id": "OLG Zweibrücken 3 W 130/04",
+      "label": "OLG Zweibrücken, Beschluss vom 22.12.2004 – 3 W 130/04"
+    },
+    {
+      "art": "Beschluss",
+      "az": "V ZB 127/19",
+      "datum": "2021-03-11",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "V ZB 127/19",
+      "label": "BGH, Beschluss vom 11.03.2021 – V ZB 127/19"
+    },
+    {
+      "art": "Beschluss",
+      "az": "XI ZR 129/96",
+      "datum": "1997-10-07",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XI ZR 129/96",
+      "label": "BGH, Beschluss vom 07.10.1997 – XI ZR 129/96"
+    },
+    {
+      "art": "Beschluss",
+      "az": "XII ZB 121/01",
+      "datum": "2003-03-19",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZB 121/01",
+      "label": "BGH, Beschluss vom 19.03.2003 – XII ZB 121/01"
+    },
+    {
+      "art": "Beschluss",
+      "az": "XII ZB 283/15",
+      "datum": "2015-12-02",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZB 283/15",
+      "label": "BGH, Beschluss vom 02.12.2015 – XII ZB 283/15"
+    },
+    {
+      "art": null,
+      "az": "XII ZB 592/12",
+      "datum": null,
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZB 592/12",
+      "label": "BGH – XII ZB 592/12"
+    },
+    {
+      "art": "Beschluss",
+      "az": "XII ZB 632/10",
+      "datum": "2011-05-04",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZB 632/10",
+      "label": "BGH, Beschluss vom 04.05.2011 – XII ZB 632/10"
+    },
+    {
+      "art": "Urteil",
+      "az": "XII ZR 13/01",
+      "datum": "2003-09-18",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZR 13/01",
+      "label": "BGH, Urteil vom 18.09.2003 – XII ZR 13/01"
+    }
+  ],
   "external_links": [
     "http://lrbw.juris.de/cgi-bin/laender_rechtsprechung/document.py?Gericht=bw&Art=en&sid=1417afcfa2e912767d411f96ebf55d01&nr=9894&pos=0&anz=121",
     "http://web1.justiz.hessen.de/migration/rechtsp.nsf/79E4FF8D527A3628C125716C0030AE6F/$file/20w23105.pdf",
@@ -749,6 +1228,7 @@
   "revid": 66621,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "BGB§1831"
       ],
@@ -758,6 +1238,7 @@
       "text": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.\n\nZahlreiche, als besonders wichtig oder einschneidend angesehene Maßnahmen des Betreuers bedürfen der betreuungsgerichtlichen Genehmigung. Handelt der Betreuer ohne eine solche, sind seine Handlungen (bei Verträgen) schwebend unwirksam, bei einseitigen Maßnahmen (Einwilligungen, Kündigungen) sogar nichtig, soweit das Gesetz keine ausdrückliche Ausnahme enthält (wie in § 1831 Abs. 2 BGB).\n\nBetreuungsgerichtliche Genehmigungen des Betreuers im Überblick\n\nHier klicken für eine Übersicht der Genehmigungen von a bis z"
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1411",
         "BGB§1484",
@@ -796,6 +1277,7 @@
       "text": "Die Genehmigungsvorbehalte finden sich in folgenden Vorschriften (insbes. des BGB):\n\n-Im Eherecht: § 1411 BGB (Ehevertrag), § 1484 Abs. 2 BGB (Ablehnung der Fortsetzung der Gütergemeinschaft), § 1491 Abs. 3 BGB (Verzicht auf Gesamtgutsanteil), § 1492 Abs. 3 BGB (Aufhebung der Gütergemeinschaft), § 125 Abs. 2 FamFG (Eheaufhebungs- oder Ehescheidungsklage)\n-Im Kindschaftsrecht: § 1596 BGB, 1597 BGB, 1599 BGB (Vaterschaftsanerkennung und Zustimmung zur Vaterschaftsanerkennung)\n-Im Namensrecht: Änderung des Familiennamens (§ 2 NamensändG)\n-Eine Betreuererklärung zur Änderung des Geschlechtseintrags und der Vornamen von volljährigen Betreuten im elektronisch geführten Personenstandsregister ist gemäß § 3 Abs. 3 SBGG in Deutschland genehmigungspflichtig.\n-In der Gesundheitssorge: § 1829 BGB (gefährliche Heilbehandlung), § 1830 BGB (Sterilisation), § 6 Kastrationsgesetz (Kastration)\n-Bei der Aufenthaltsbestimmung: § 1831 Abs. 1 BGB (Freiheitsentziehung), § 1831 Abs. 4 BGB(unterbringungsähnliche Maßnahmen)\n-Bei Wohnungsangelegenheiten: § 1833 BGB (Wohnungskündigung, Mietvertragsauflösung), Abschluss von Miet- und Pachtverträgen)\n-Bei Pachtverträgen: § 1853 BGB (Landgut und Gewerbebetrieb)\n-Im Bereich der Geldanlage: § 1837 Abs. 2 BGB (Abweichen von den Anordnungen des Schenkers oder Erblassers), § 1837 BGB (Sperrvermerk bei Geldanlage in mündelsicherer Form nach § 1845 BGB), § 1848 BGB (andersartige Anlage), § 1849 BGB (Verfügung über angelegtes Geld), § 1814 BGB (Hinterlegung von Wertpapieren), §§ 1843 BGB,\n-Bei Grundstückangelegenheiten und eingetragenen Schiffen: § 1850 BGB (Grundstücks- und Schiffsgeschäfte)\n-Bei Verfügungen über das gesamte Vermögen: § 1854 Nr. 1 BGB\n-Bei Erbschaftsangelegenheiten: § 1851 Nr. 1, 2 BGB (Verfügung und Ausschlagung von Erbansprüchen, Vermächtnissen, Pflichtteilen, Erbteilungsverträge) sowie §§ 2275, 2282, 2290, 2347 BGB\n-Bei Erwerbsgeschäften: § 1852 BGB (Erwerb und Veräußerung), § 1852 (Beginn und Beendigung)\n-Bei Schuldverpflichtungen: § 1854 Nr. 2 BGB (Kreditaufnahme, außer bei Dispokredit), § 1854 Nr. 3 (Schuldverschreibung), § 1854 Nr. 4 BGB (Übernahme von Verbindlichkeiten, Bürgschaftserteilung)\n-Bei Vollmachtserteilung: § 1852 Nr. X BGB (Prokura)\n-Beim Widerruf einer Vorsorgevollmacht (§ 1820 Abs. 5 BGB)\n-Bei Vergleichen und Schiedsverträgen: § 1854 Nr. 12 BGB (Ausnahme: Wert unter 3.000 Euro oder auf gerichtlichen Vorschlag)\n-Bei Rechtsgeschäften, die Sicherheiten aufheben: § 1854 Nr.7 BGB\n-Bei Schenkungen: § 1854Nr. 8 BGB (Ausnahme Gelegenheitsgeschenk)\n-Bei Verschollenheit § 16 Abs. 3 Verschollenheitsgesetz\n-Bei Zwangsversteigerungen § 181 Abs. 2 ZVG (betrifft Grundstücke, Schiffe, Luftfahrzeuge)\n-Bei landwirtschaftlichen Gütern: § 1 Abs. 6 Höfeordnung\n-bei der Zuwendung (Schenkung/Testament) zugunsten des Berufsbetreuers, § 30 Abs. 3 BtOG\n\nGenehmigungspflichtige Geschäfte, die ohne vorherige Einwilligung des Gerichtes abgeschlossen werden, sind schwebend unwirksam. Ihre Wirksamkeit hängt von der nachträglichen Genehmigung des Gerichtes ab (§ 1856 BGB). Einseitige Willenserklärungen müssen vorab genehmigt werden (§ 1858 BGB). Für Erklärungen gegenüber Behörden und anderen Gerichten gibt es Sonderregelungen, von besonderer Bedeutung bei der Erbausschlagung (§ 1858 Abs. 3 BGB)."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1848"
       ],
@@ -805,6 +1287,7 @@
       "text": "-Erteilung einer Vollmacht (aber Vorsicht bei der Auswahl des Bevollmächtigten)\n-Umwandlung einer Buchgrundschuld in eine Briefgrundschuld\n-Berichtigungsbewilligung (z.B. für falsche Grundbucheintragung)\n-Auflösung einer GmbH\n-Schenkung eines unbelasteten Grundstücks an den Betreuten\n-Anfechtung der Vaterschaft (Änderung durch Kindschaftsreform seit 01.07.1998)\n-Abschluss von Bestattungs- und Grabpflegeverträgen (hier ist ggf die Abhebung vom anderen Konto genehmigiungspflichtig; es kommt auch eine Genehmigung nach § 1848 BGB in Frage)\n-Vornahme erlaubter Gelegenheitsschenkungen im Namen des Betreuten"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Streitig ist derzeit"
@@ -812,6 +1295,7 @@
       "text": "ob z.B.:\n-Änderung eines Gesellschaftsvertrags\n-Beteiligung als stiller Gesellschafter an Handelsgewerbe\n\ngenehmigungspflichtige Rechtsgeschäfte sind. Im Zweifel daher Genehmigung beantragen!\n\nEine vg. Genehmigung zwingt den Betreuer nicht, er bleibt weiter selbst für die Rechtmäßigkeit seiner Handlungen verantwortlich, er erhält lediglich eine Erlaubnis zu einem bestimmten Tun. Die Genehmigung entbindet auch nicht von der Haftung für Schäden."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1855",
         "BGB§1856",
@@ -831,6 +1315,7 @@
       "text": "Gerichtliche Genehmigungen sollen grundsätzlich VOR einer genehmigungspflichtigen Rechtshandlungen eingeholt werden (§ 1855 BGB).\nNachträglich genehmigte Verträge werden mit der Mitteilung der Genehmigung an den Vertragspartner wirksam (§ 1856 Abs. 1 BGB). Vorab genehmigte ein- und mehrseitige Rechtsgeschäfte werden ohne eine solche Mitteilung mit ihrer Vornahme wirksam (Sonnenfeld/Zorn Rpfleger 2004, 533).\n\nEine Vorgenehmigung ist nach § 1858 BGB immer dann zwingend erforderlich, wenn der Betreuer ein einseitiges Rechtsgeschäft vornimmt; bei Verträgen kann die Genehmigung vorher eingeholt werden (dann ist der Vertrag sofort wirksam) oder nachträglich, § 1856 Abs. 1 BGB (dann wird der schwebend unwirksame Vertrag rückwirkend wirksam). Es verbleibt bei der nachträglichen Genehmigung das Risiko für den Betreuer, dass das Gericht die Genehmigung verweigert.\n\nKündigt der Betreuer den Wohnraummietvertrag nach § 1833 Abs. 1 BGB, ist die Genehmigung vorher einzuholen; bei einem Auflösungsvertrag ist sie auch im Nachhinein möglich.\n\nAuch bei einer freiheitsentziehenden Unterbringung (§ 1831 Abs. 2 BGB) ist die Genehmigung nachträglich möglich, sie sollte aber tunlichst innerhalb von 2 Tagen, also der Frist des Art. 104 GG erfolgen.\n\nBei einer dringenden genehmigungspflichtigen Heilbehandlung ist hingegen nach § 1829 Abs. 1 BGB der Betreuer dann ausnahmsweise zu einer Erklärung ohne gerichtliche Genehmigung berechtigt, diese ist nicht nachzuholen. Inhaltlich würde so etwas auch keinen Sinn ergeben, da die bereits vollzogene Heilbehandlung ja nicht rückgängig gemacht werden kann.\n\nBei Sterilisationen ist ausnahmslos die vorherige gerichtliche Genehmigung zulässig (§ 1830 BGB). Hier ist im Anschluss noch eine Wartezeit von 2 Wochen (vor Durchführung der Sterilisation) vorgesehen (§ 297 FamFG). Das gleiche gilt seit 1.9.2009 für die Genehmigung eines Behandlungsabbruchs (§ 298 FamFG, jeweils in Verbindung mit § 40 Abs. 2 FamFG)."
     },
     {
+      "decisions": [],
       "norms": [
         "FamFG§40"
       ],
@@ -840,6 +1325,7 @@
       "text": "Für manche Rechtsgeschäfte müssen Betreuer zwingend eine betreuungsgerichtliche Genehmigung einholen. Man spricht von einer Außengenehmigung, wenn die Wirksamkeit des Rechtsgeschäfts nach außen von dieser Genehmigung abhängt. Das zweiseitige Rechtsgeschäft, z.B. ein Vertrag, bleibt also bis zur Erteilung dieser notwendigen Genehmigung durch das Betreuungsgericht schwebend unwirksam. Auch der Betreute selbst, ein Ergänzungsbetreuer oder ein Erbe könnte solche schwebend unwirksamen Verträge nachträglich „außengenehmigen“. Würde diese notwendige Außengenehmigung von allen verweigert werden, wäre das betreffende Rechtsgeschäft rückwirkend nichtig und müsste rückabgewickelt werden. Den möglichen Schaden hätte der Vertragspartner des Betreuten zu tragen oder er müsste gegen den Betreuer auf Schadensersatz klagen.\n\nEine Innengenehmigung betrifft stets nur das Verhältnis zwischen Betreuer und Betreuungsgericht, z.B. für eine Geldanlage, die ohne die notwendige Vorabgenehmigung vom Betreuer getätigt wurde. Diese Innengenehmigung würde dann nachträglich mit der Bekanntgabe an den Betreuer wirksam werden (siehe § 40 Abs. 1 FamFG). Würde das Betreuungsgericht die Innengenehmigung dagegen verweigern, könnte bei nachweisbaren finanziellen Schäden ggf. der Betreuer in Haftung genommen werden. Betreuer sollten daher stets haftpflichtversichert sein."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1821",
         "BGB§1828"
@@ -850,6 +1336,9 @@
       "text": "Für die Erteilung der gerichtlichen Genehmigung bei Rechtsgeschäften des Betreuers für den Betreuten gelten die §§ 1821 ff. BGB entsprechend. Das Gericht hat damit auch vor Erteilung der Genehmigung die Wirksamkeit und Gesetzmäßigkeit des Rechtsgeschäfts und in diesem Zusammenhang insbesondere die Frage zu prüfen, ob gegen ein Vertretungsverbot verstoßen wurde. Ist dies der Fall, darf die Genehmigung nicht erteilt werden (vgl. KG JW 1935, 1439; BayObLG NJW-RR 2000, 1030 = MittBayNot 2000, 118 = MittRhNotK 1999, 387; OLG Düsseldorf MittRhNotK 1993, 89).\n\nWird das Rechtsgeschäft gleichwohl genehmigt, führt dies nicht zu einer Heilung der Unwirksamkeit des Rechtsgeschäfts, auch dann nicht, wenn es um eine Überschreitung des Aufgabenkreises des Betreuers geht (BayObLG Rpfleger 1986, 471; vgl. auch Bettin, in: Bamberger/Roth, § 1828 BGB Rn. 6). Dies steht im Einklang damit, dass nach allg. Auffassung die Genehmigung des Gerichts keine materiellen Mängel des genehmigten Rechtsgeschäfts (also z. B. Nichtigkeit infolge Gesetzes- oder Sittenwidrigkeit, Dissenses oder Anfechtung, usw.) heilen kann (MünchKomm-Wagenitz, § 1828 BGB Rn. 22 m. w. N.; Bettin, a. a. O.)."
     },
     {
+      "decisions": [
+        "OLG München 33 Wx 79/09"
+      ],
       "norms": [
         "FamFG§299",
         "BGB§1832",
@@ -879,6 +1368,60 @@
       "text": "Für die meisten Genehmigungen ist der Rechtspfleger des Betreuungsgerichtes zuständig. Das Gericht soll den Betroffenen vor einer Entscheidung persönlich anhören.  Vor einer Entscheidung nach § 1833 Abs. 1 und 3 des Bürgerlichen Gesetzbuchs hat das Gericht den Betroffenen persönlich anzuhören (§ 299 FamFG).\n\nGenehmigungen aus der Personensorge (§§ 1829 (Heilbehandlung, 1830 Sterilisation, 1831 Unterbringung BGB) und Zwangsbehandlung (§ 1832 BGB) sind vom Richter zu entscheiden. Ebenso die Scheidungsklage, § 125 FamFG. Verfahrensvorschriften: §§ 287, 288, 312 ff. FamFG.\n\nRechtsmittel gegen Genehmigungsbeschlüsse müssen binnen einer Frist von 2 Wochen nach Bekanntgabe eingelegt werden (§ 63 Abs. 2 FamFG). Das Rechtsmittel heißt auch weiterhin Beschwerde. Erinnerung wird es genannt, wenn der Beschluss von einem Rechtspfleger erlassen wurde und der Beschwerdewert in einer vermögensrechtlichen Angelegenheit 600 Euro nicht übersteigt (§ 61 Abs. 1 FamFG, § 11 Rechtspflegergesetz).\n\nGemäß § 40 Abs. 2 FamFG wird der Beschluss, der die Genehmigung eines Rechtsgeschäftes zum Gegenstand hat, erst mit dem Eintritt der formellen Rechtskraft wirksam. Diese Wirkung ist im Beschluss selbst zu erwähnen.\n\nGem. § 1855 BGB ist die Genehmigung dem Betreuer bekannt zu geben, damit sie wirksam werden kann. Zur Rechtskraft ist es jedoch erforderlich, dass die sonstigen Beteiligten gem. § 274 Abs. 1 und 2 FamFG ebenfalls den Beschluss erhalten, da sie gem. §§ 59 Abs. 1, 303 Abs. 2 FamFG beschwerdeberechtigt sind. Im Genehmigungsverfahren sind dies neben dem Betreuer der Betreute (§ 41 III FamFG) und der Verfahrenspfleger, sofern Letzterer bestellt ist, was dann der Fall sein sollte, wenn die Voraussetzungen des § 276 Abs. 1 Nr. 1 FamFG vorliegen, also eine Anhörung des Betreuten nicht stattfinden kann oder soll. Betreuungsbehörde und Angehörige (§ 274 Abs. 3 und 4 FamFG) zählen im Genehmigungsverfahren nicht zu den Beteiligten, da es sich nicht um Statusfragen der Betreuung handelt; der Vertreter der Staatskasse (§§ 274 Abs. 5, 304 FamFG) dürfte in Genehmigungsverfahren ebenfalls regelmäßig nicht tangiert sein. Der Vertragspartner ist ebenfalls nach allg. Auff. nicht beschwerdeberechtigt (zB OLG München, Beschluss vom 15.06.2009, 33 Wx 79/09; BayObLG Rpfleger 1988, 482; OLG Rostock NJW-RR 2006, 1229 = NJW 2006, 3503 = FamRZ 2006, 1630 (Ls.) = FGPrax 2006, 215).\n\nDie Rechtsmittelfrist beträgt gem. § 63 Abs. 2 FamFG 2 Wochen ab schriftlicher Bekanntgabe an den jeweiligen Beteiligten (§ 41 Abs. 1 S. 1 FamFG) Die Bekanntgabe kann gem. § 15 Abs. 2 FamFG auch durch Aufgabe eines einfachen Briefes an die Post erfolgen, wobei sie 3 Tage nach der Aufgabe zur Post als bewirkt gilt. Hier kann der Beteiligte glaubhaft machen, das Schriftstück erst später erhalten zu haben. Hat allerdings im Vorfeld, zB bei der Anhörung nach § 299 FamFG einer der Beteiligten deutlich gemacht, dass er mit der Genehmigung nicht einverstanden ist, ist an ihn eine formale Zustellung notwendig (§ 41 Abs. 1 S. 2 FamFG). Ist eine schriftliche Bekanntgabe an einen Beteiligten nicht möglich, beginnt die Rechtsmittelfrist erst 5 Monate nach Erlass des Beschlusses.\n\nDer Vertragspartner wird regelmäßig ein Rechtskraftzeugnis verlangen (§ 46 FamFG). Ist der Genehmigungsbeschluss rechtskräftig geworden und dem Dritten gegenüber mitgeteilt worden, findet gem. § 48 Abs. 3 FamFG weder eine Wiedereinsetzung in den vorigen Stand (§ 17 FamFG), noch eine Anhörungsrüge (§ 44 FamFG), eine Abänderung oder Wiederaufnahme (§ 48 FamFG) statt."
     },
     {
+      "decisions": [
+        "3Z BR 82/96",
+        "OLG Frankfurt am Main 20 W 391/96",
+        "3Z BR 49/97",
+        "XI ZR 129/96",
+        "OLG Köln 14 Wx 10/97",
+        "OLG Köln 19 U 128/99",
+        "LG Münster 5 T 998/00",
+        "OLG Stuttgart 8 W 494/99",
+        "3Z BR 209/02",
+        "XII ZR 13/01",
+        "XII ZB 121/01",
+        "1 BvR 321/96",
+        "OLG Naumburg 14 UF 75/03",
+        "OLG Hamm 15 W 331/03",
+        "OLG Frankfurt am Main 20 W 332/03",
+        "OLG Frankfurt am Main 20 W 232/04",
+        "OLG Zweibrücken 3 W 130/04",
+        "LG Münster 5 T 1001/04",
+        "OLG Düsseldorf I-3 Wx 137/05",
+        "OLG Frankfurt am Main 20 W 231/05",
+        "OLG Jena 9 W 627/05",
+        "OLG Jena 9 W 657/05",
+        "OLG Rostock 3 W 137/05",
+        "LG Stendal 25 T 211/06",
+        "OLG Brandenburg 10 WF 146/07",
+        "OLG Karlsruhe 19 Wx 44/07",
+        "LG Darmstadt 5 T 368/08",
+        "LG Meiningen 3 T 390/07",
+        "OLG Celle 17 W 132/08",
+        "OLG München 33 Wx 079/09",
+        "OLG Hamm 15 Wx 85/09",
+        "KG 1 W 161/08",
+        "III ZR 181/09",
+        "III ZR 6/09",
+        "OLG Frankfurt am Main 20 W 90/10",
+        "OLG Hamm I-15 Wx 519/10",
+        "LG Düsseldorf 11 O 259/12",
+        "OLG Brandenburg 3 W 13/14",
+        "KG 1 W 381/14",
+        "XII ZB 283/15",
+        "OLG Nürnberg 8 U 1092/15",
+        "OLG Frankfurt am Main 21 W 56/18",
+        "LG Hamburg 330 T 14/19",
+        "LG München I 31 S 17737/19",
+        "OLG Nürnberg 15 W 2126/20",
+        "V ZB 127/19",
+        "OLG München 34 Wx 252/21",
+        "LG München II 6 T 4598/22",
+        "LG München II 6 T 4230/22",
+        "LG Berlin 87 T 409/25",
+        "XII ZB 632/10",
+        "XII ZB 592/12"
+      ],
       "norms": [
         "FamFG§40",
         "BGB§1821",
@@ -926,6 +1469,7 @@
       "text": "BayObLG, Beschluss vom 29.03.1996, 3Z BR 82/96:\n\n- Der Alleinerbe des Beschwerdeführers ist berechtigt, weitere Beschwerde einzulegen, wenn im Verfahren die Verletzung eines übertragbaren Vermögensrechts geltend gemacht worden war.\n- Ist die betreuungsgerichtliche Genehmigung eines Vertrags über den Verkauf eines Grundstücks des Betreuten wirksam geworden, ist eine Beschwerde gegen die Genehmigung grundsätzlich unzulässig (Hinweis: Änderung der Rechtslage ab 1.9.2009 gem. § 40 Abs. 2 FamFG).\n\nOLG Frankfurt/Main, Beschluss vom 14.11.1996, 20 W 391/96; DNotZ 1998, 508 = FamRZ 1997, 1424 = Rpfleger 1997, 111: Grundstücksveräußerung durch Betreuer:\n\nVeräußert der Betreuer mit dem Aufgabenkreis der Vermögenssorge kraft der ihm gesetzlich zustehenden Vertretungsmacht ein Grundstück des Betreuten, so bedarf es auch dann der betreuungsgerichtlichen Genehmigung, wenn der Betreute die Veräußerung genehmigt hat.\n\nBayObLG, Beschluss vom 28.05.1997, 3Z BR 49/97; BtPrax 1997, 199:\n\nUnabänderbarkeit einer betreuungsgerichtlichen Genehmigung nach Wirksamwerden einem Dritten gegenüber.\n\n- Hat das Landgericht die Beschwerde des Betreuten gegen die betreuungsgerichliche Genehmigung eines vom Betreuer abgeschlossenen Rechtsgeschäfts als unzulässig verworfen, weil die Genehmigung einem Dritten gegenüber wirksam geworden ist, erledigt sich die Hauptsache nicht dadurch, daß nach Einlegung der weiteren Beschwerde die Betreuung aufgehoben wird.\n- Eine Bevollmächtigung des beurkundenden Notars durch die Vertragsteile, Genehmigungen für diese entgegenzunehmen, gegenseitig mitzuteilen und diese Mitteilung jeweils in Empfang zu nehmen, ist rechtlich zulässig.\n\nBGH, Beschluss vom 07.10.1997, XI ZR 129/96; Rpfleger 1998, 110 = ZIP 1997, 2081 =MDR 1998, 340:\n\nKeine gerichtliche Genehmigung für Finanzierungsgrundschuld: § 1821 Abs. 1 Nr. 1 BGB schützt nur bereits vorhandenes Grundvermögen und findet auf Belastungen im Zusammenhang mit dem Grundstückserwerb keine Anwendung. Das gilt auch für Grundschuldbestellungen, durch die Mittel für andere Zwecke als die Kaufpreisfinanzierung beschafft werden sollten.\n\nOLG Köln, Beschluss vom 10.11.1997, 14 Wx 10/97; FamRZ 1998, 1326 = FGPrax 1998, 23 = Rpfleger 1998, 159:\n\n- Ein Vertrag, durch den einem Minderjährigen ein Grundstück (hier: Wohneigentum) geschenkt wird, bedarf der betreuungsgerichtlichen Genehmigung nach § 1821 I Nr. 4 BGB, wenn sich der Schenker nicht nur die Rechte nach §§ 528, 530 BGB vorbehält, sondern für weitere Fälle ein Rückübertragungsanspruch Dritter begründet wird und sich der Minderjährige verpflichtet, an der Rückübertragung mitzuwirken.\n- Eine gerichtliche Genehmigungspflicht ist schon dann zu bejahen, wenn auch nur Zweifel bestehen können, ob der Minderjährige lediglich mit dem geschenkten Gegenstand haftet.\n\nOLG Köln, Beschluss vom 31.03.2000, 19 U 128/99; FamRZ 2000, 1525 = NJW-RR 2001, 652 - Keine Umgehung durch Vollmacht\n\nAuch der geschäftsfähige Betreute kann seinen Betreuer nicht rechtsgeschäftlich bevollmächtigen, Geschäfte im Sinne der §§ 1821, 1822 BGB ohne Genehmigung des Betreuungsgerichts vorzunehmen.\n\nBFH-Urteil vom 08.02.2000, II R 51/98; BFHE 191, 411 = BB 2000, 968 = BStBl. 2000 II S. 318\n\n- Wurde die für einen im Jahr 1996 abgeschlossenen Kaufvertrag erforderliche gerichtliche Genehmigung erst im Jahr 1997 erteilt, so unterliegt der Kaufvertrag dem erhöhten Grunderwerbsteuersatz von 3,5 v.H., weil bis zur wirksamen Erteilung der Genehmigung der Erwerbsvorgang i.S. von § 23 GrEStG 1983 noch nicht verwirklicht worden ist (Bestätigung des BFH-Urteils vom 18. Mai 1999 II R 16/98, BFHE 188, 453, BStBl II 1999, 606).\n- Ein Erwerbsvorgang, der der gerichtlichen Genehmigung bedarf, ist auch dann nicht vor deren Erteilung verwirklicht, wenn die Vertragsbeteiligten den beurkundenden Notar beauftragen und ermächtigen, die Genehmigung für den Vormund (gesetzlichen Vertreter eines Minderjährigen) entgegenzunehmen und den anderen Vertragsbeteiligten mitzuteilen sowie zugleich diese Mitteilung für die anderen Vertragsbeteiligten zu empfangen (sog. Doppelermächtigung).\n\nLG Münster, Beschluss vom 23.11.2000, 5 T 998/00; BtPrax 2001, 81 = FamRZ 2001, 1404 = NJW-RR 2001, 1301 = Rpfleger 2001, 180:\n\nDer Betreuer bedarf zur Kündigung eines Heimvertrages des Betreuten nicht der betreuungsgerichtlichen Genehmigung. § 1907 BGB ist auf einen Wechsel des Altenheimplatzes nicht anwendbar.\n\nOLG Stuttgart, Beschluss vom 25.06.2001; 8 W 494/99, BtPrax 2001, 255 = NJW 2001, 3484 = DNotI-Report 2002, 6 = ZEV 2002, 367 ff. m. Anm. J. Mayer):\n\nZur Ausschlagung einer nicht überschuldeten Erbschaft: Die Ausschlagung eines Erbteils, der einem Betreuten angefallen ist, durch den Betreuer kann vom Betreuungsgericht in der Regel nicht genehmigt werden (§§ 1908i, 1822 Nr. 2, 1942 ff BGB). Dies gilt insbesondere, wenn dadurch ein Zugriff des Sozialhilfeträgers verhindert wird\n\n BayObLG, Beschluss vom 11.12.2002, 3Z BR 209/02: Genehmigung eines Grundstückskaufs\n\nDie Entscheidung über die Erteilung oder Verweigerung der gerichtlichen Genehmigung eines Grundstückskaufvertrages ist eine Ermessensentscheidung. Maßgebend ist auf das Interesse des Betroffenen abzustellen. Die Genehmigung kann auch schon vor Abschluss des zu genehmigenden Vertrages erteilt werden, wenn der Vertragsinhalt im Wesentlichen feststeht.\n\nBGH, Beschluss vom 18.09.2003 - XII ZR 13/01; BGHReport 2004, 20 = BtPrax 2004, 30 = FamRZ 2003, 1924 = FPR 2004, 141 = FuR 2004,171 = NJW 2004, 220 = Rpfleger 2004, 97:\n\nZur Schadensersatzpflicht des Betreuers bei pflichtwidrigem Abschluss eines vom Betreuungsgericht genehmigten Vertrags.\n\nBGH, Beschluss vom 19.03.2003, XII ZB 121/01, MDR 2003, 934 = FamRZ 2003, 868 = FamRZ 2003, 868 (Ls.) = FGPrax 2003, 169 = NJW-RR 2003, 955:\n\n- Zur Beurteilung der Frage, ob sich die weitere Beschwerde gegen eine gemäß § 1829 Abs. 1 Satz 2 BGB wirksam gewordene und damit dem Änderungsverbot der §§ 55, 62 FGG unterliegende Genehmigungsentscheidung richtet, ist nicht auf die erstinstanzliche Entscheidung des Vormundschaftsgerichts, sondern auf die Beschwerdeentscheidung des Landgerichts abzustellen.\n- Hat das Landgericht der Beschwerde gegen die Erteilung einer vormundschaftsgerichtlichen Genehmigung stattgegeben, also die Genehmigung verweigert, so wird diese Entscheidung dem Vertragsgegner gegenüber erst unter den Voraussetzungen des § 1829 Abs. 1 Satz 2 oder Abs. 2 BGB wirksam und damit unabänderbar i.S.v. § 55 FGG.\n- Die Unvereinbarkeit der §§ 62 und 55 FGG mit Art. 19 Abs. 4 GG (BVerfG, Beschluss vom 18. Januar 2000 - 1 BvR 321/96 - NJW 2000, 1709) kann für die Zulässigkeit der weiteren Beschwerde nur von Bedeutung sein, soweit sie sich gegen eine unabänderbare vormundschaftsgerichtliche Genehmigungsentscheidung richtet. (Hinweis: geänderte Rechtslage ab 1.9.2009 aufgrund § 40 Abs. 2 FamFG)\n\nOLG Naumburg, Beschluss vom 30.09.2003, 14 UF 75/03:\n\nDie Verweigerung der Genehmigung einer Erbausschlagung nach § 1643 Abs. 2 BGB ist eine Entscheidung im Sinne von § 621e ZPO; gegen sie ist nur binnen Monatsfrist ein Rechtsmittel gegeben (seit 1.9.2009 14 Tage gem. § 63 Abs. 2 FamFG).\n\nOLG Hamm, Beschluss vom 02.10.2003,  15 W 331/03; FamRZ 2004, 1386 = NJW-RR 2004, 223:\n\nAnfechtbarkeit einer vormundschaftsgerichtlichen Genehmigung: gegen eine durch den Rechtspfleger ohne vorausgehendes Vorbescheidsverfahren erteilte und gem. § 1829 Abs. l S. 2 BGB wirksam gewordene betreuungsgerichtliche Genehmigung ist die erste Beschwerde des Betroffenen zulässig (Aufgabe der Auffassung des Senats in FGPrax 2000, 230).\n\nOLG Frankfurt a.M., Beschluss vom 22.06.2004, 20 W 332/03, BtPrax 2004, 200  = FamRZ 2005, 60 = OLGR 2004, 320 = Rpfleger 2004, 694 = FGPrax 2004, 284 = NJOZ 2005, 976:\n\nEin Vertrag, mit dem ein Betreuter ein Grundstück auf einen Angehörigen überträgt, um diesen Vermögensgegenstand bei einer absehbaren späteren Inanspruchnahme staatlicher Unterstützung dem Zugriff des Sozialhilfeträgers zu entziehen, ist sittenwidrig und darf vom Betreuungsgericht nicht genehmigt werden.\n\nOLG Frankfurt/Main, Beschluss vom 19.07.2004, 20 W 232/04:\n\nDie Erteilung der gerichtlichen Genehmigung zur Veräußerung eines Hausgrundstückes durch den Betreuer gegen den erklärten Willen des Betreuten ist rechtlich nicht zu beanstanden, wenn das Gebäude bereits so erhebliche Schäden aufweist, dass es nicht mehr bewohnbar ist, ein weiterer Verfall sowie Schadensersatz- und Instandsetzungsforderungen der unmittelbaren Nachbarn drohen und weder der Betreute noch ein Miteigentümer in der Lage sind, die hohen Kosten der Sanierung zu tragen.\n\nOLG Zweibrücken, Beschluss vom 22.12.2004, 3 W 130/04; MDR 2005, 579 = DNotZ 2005, 634 = FamRZ 2005, 832:\n\nGerichtliche Genehmigung der Grundschuldbestellung bei bereits genehmigtem Grundstückskaufvertrag mit Belastungsvollmacht: Die Belastung eines Grundstückes eines Betreuten mit einer Grundschuld zur Kaufpreisfinanzierung durch den Käufer bedarf auch dann der vormundschaftsgerichtlichen Genehmigung, wenn die im Kaufvertrag enthaltene Belastungsvollmacht bereits genehmigt worden ist.\n\nLG Münster, Beschluss vom 09.11.2004; 5 T 1001/04, FamRZ 2005,1860 (mit Anm. Bienwald S. 1861) = RdLH 2005,185-186 (mit Anm. Hellmann S. 186):\n\nEin Dienstvertrag des Betreuten (vertreten durch einen Ergänzungsbetreuer) und seinem Betreuer auf unbestimmte Zeit bedarf nicht der Genehmigung des Vormundschaftsgerichts nach § 1907 Abs. 3 BGB.\n\nOLG Düsseldorf, Beschluss vom 11.10.2005, I-3 Wx 137/05:\n\n- Wegen des Interessenkonflikts zwischen dem Vertreter und dem Vertretenen wird zu Recht angenommen, dass § 181 BGB heranzuziehen ist, wenn der Vertreter eines Gesellschafters in der Gesellschafterversammlung der GmbH mit den Stimmen der von ihm vertretenen Person sich selbst zum Geschäftsführer bestellt. Nichts anderes kann im Rahmen des § 1795 Abs. 1 BGB gelten. Hier schließt der erweiterte Schutz des Mündels in Ergänzung des § 181 BGB aus, dass der Vormund als dessen Vertreter eine mit ihm (dem Vormund) in gerader Linie verwandte Person zum Geschäftsführer einer Gesellschaft bestellt.\n- Eine gerichtliche Genehmigung nach § 1822 Nr. 11 BGB ist für die Bestellung eines Geschäftsführers für einer GmbH hingegen nicht erforderlich. Die §§ 1821, 1822 BGB sind so auszulegen, dass im Interesse der Sicherheit des Rechtsverkehrs eine eindeutige Abgrenzung zwischen genehmigungspflichtigen und genehmigungsfreien Geschäften ermöglicht wird - sog. rein formale Auslegung. Eine analoge Anwendung der Regelung zur Prokuraerteilung auf eine Geschäftsführerbestellung ist damit ausgeschlossen. (\n\nOLG Frankfurt/Main, Beschluss vom 17.11.2005, 20 W 231/05; FamRZ 2006, 1875:\n\nEine Genehmigung der vom Betreuer ausgesprochenen Wohnraumraumkündigung kommt in Anbetracht des hochrangigen Schutzes der Wohnung erst dann in Betracht, wenn eine Rückkehr in die eigene Wohnung ausgeschlossen erscheint. In Zweifelsfällen bedarf es immer der Einholung eines Sachverständigengutachtens, das sich insbesondere mit der Rückkehrprognose befasst. Regelmäßig ist der Betroffene auch im Rahmen des Beschwerdeverfahrens erneut persönlich anzuhören.\n\nThüringer OLG, Beschluss vom 30.11.2005; 9 W 627/05, 9 W 657/05; FGPrax 2006, 43:\n\nBetreuungsgerichtliche Genehmigung einer Zwangsmedikation: Die zum Zweck einer - gegen den Willen des Betroffenen vorzunehmenden - Zwangsmedikation angeordnete Unterbringung des Betroffenen kann nach Maßgabe des § 1906 Abs. 1 BGB gerichtlich genehmigt werden, wenn sie dem Verhältnismäßigkeitsgrundsatz entspricht (Aufgabe der Rechtsprechung des ThürOLG vom 05.02.2002 = R&P 2003, 29).\n\nOLG Rostock, Beschluss vom 17.05.2006, 3 W 137/05, NJW 2006, 3503 = FamRZ 2006, 1630 (Ls.) = FGPrax 2006, 215 = NJW-RR 2006, 1229 = NJ 2006, 469 (LS) = OLGR 2006, 864:\n\nKein Beschwerderecht des Erwerbers gegen Versagung der betreuungsgerichtlichen Genehmigung zu Grundstückskaufvertrag.\n\nLG Stendal, Beschluss vom 18.12.2006, 25 T 211/06:\n\nIm Falle einer gerichtlichen Genehmigung der Wohnungskündigung ist die betreute Person gem. § 299 FamFG zwingend vorab anzuhören.  Angesichts der überragenden Bedeutung der Wohnung als Lebensmittelpunkt ist regelmäßig, insbesondere aber im Falle des Absehens von einer Anhörung gemäß § 276 FamFG ein Verfahrenspfleger zu bestellen und regelmäßig gemäß § 26 FamFG ein fachärztliches Sachverständigengutachten zur Feststellung des Ausschlusses einer Rückkehr in die Wohnung einzuholen.\n\nLandgericht Wuppertal, Beschluss vom 18.01.2007, 6 T 38/07, FamRZ 2007, 1269:\n\nAuch die Vermietung von Wohnraum des Betreuten ist vom Gericht zu genehmigen, dies gilt auch für unbefristete Mietverträge.\n\nOLG Brandenburg, Beschluss vom 31.07.2007, 10 WF 146/07; MDR 2007, 1320 = NJW-RR 2008, 308\n\nEin Vorbescheid, durch den angekündigt wird, eine beantragte Genehmigung nicht zu erteilen, ist unzulässig. Die gegen einen solchen Vorbescheid gerichtete Beschwerde ist, auch wenn die Rechte der Beteiligten nicht unmittelbar berührt sind, zulässig.\n\nOLG Karlsruhe, Beschluss vom 07.02.2008, 19 Wx 44/07; FamRZ 2008, 1211 = FGPrax 2008, 133 = NJW-RR 2008, 813:\n\nDie Fixierung einer Betroffenen zur zwangsweisen Verabreichung einer Depotspritze zur Verhütung einer Schwangerschaft ist nicht genehmigungsfähig.\n\nLG Darmstadt, Beschluss vom 25.06.2008, 5 T 368/08\n\nEin gefährlicher Heileingriff kann nach § 1904 BGB nur dann als verhältnismäßig und genehmigungsfähig angesehen werden, wenn die Vorteile einer hoch riskanten Heilungsmaßnahme bzw. Operation zumindest überwiegen. Dies wird z.B. in den Fällen zu bejahen sein, bei denen ansonsten mit hoher Wahrscheinlichkeit kurzfristig ein Versterben oder eine erhebliche Verschlechterung des Gesundheitszustandes zu erwarten ist und mit überwiegender Wahrscheinlichkeit zumindest keine Verschlechterung der verbleibenden Lebensqualität zu besorgen ist.\n\nLG Meiningen, Beschluss vom 03.03.2008, 3 T 390/07; FamRZ 2008, 1375:\n\nDie Auflösung eines Girokontos ist eine genehmigungspflichtige Verfügung (§ 1812 BGB). Wird ein Negativattest verweigert, weil das Gericht die Maßnahme als genehmigungspflichtig ansieht, ist die ablehnende Entscheidung beschwerdefähig.\n\nOLG Celle, Beschluss vom 20.04.2009, 17 W 132/08:\n\nBeschwerdeentscheidung gegen die Genehmigung einer Erbausschlagung im Rahmen eines Behindertentestamentes. Der Aspekt der Zugriffsmöglichkeit des Sozialhilfeträgers auf den aus der Ausschlagung folgenden Pflichtteilsanspruchs war nicht genügend geprüft worden.\n\nOLG München, Beschluss vom 15.06.2009, 33 Wx 079/09, MDR 2009, 1001:\n\n- Wird die gerichtliche Genehmigung eines vom Betreuer abgeschlossenen Kaufvertrages über ein Grundstück des Betroffenen abgelehnt, steht dem Käufer regelmäßig kein Beschwerderecht zu (vgl. z. B. BayObLG Rpfleger 1988, 482; OLG Rostock NJW-RR 2006, 1229).\n- Der Geschäftswert für das gerichtliche Verfahren über die Genehmigung kann nach freiem Ermessen mit 50 % des Kaufpreises angesetzt werden.\n\nOLG Hamm, Beschluss vom 16.07.2009, 15 Wx 85/09, BtPrax 2009, 302 =  NJW 2010, 689 (Ls.) = NJW-RR 2010, 83 = FGPrax 2009, 265:\n\nDie Erklärung der Ausschlagung einer Erbschaft bedarf der Genehmigung des Betreuungsgerichts; für die Entscheidung maßgeblich sind nach dem Sinn und Zweck der § 1821 BGB, § 1822 BGB die - nicht allein objektiv zu bestimmenden - Interessen des Betreuten, wobei nicht allein seine finanziellen Interessen zu berücksichtigen sind, sondern alle Belange bei der Entscheidung Berücksichtigung finden müssen. Zum Wohl des Betreuten gehört es auch, ihm im Rahmen der ihm zur Verfügung stehenden Möglichkeiten ein Leben nach seinen Wünschen und Vorstellungen zu ermöglichen (vgl. OLG Köln ZEV 2008, 196). Bei der nach § 1822 BGB zu treffenden Entscheidung ist zwar ausschließlich auf die Interessen des Mündels bzw. Betreuten abzustellen. Auch hat das Gericht nicht die Wirksamkeit der zu genehmigenden Erklärung als solche zu prüfen. Zu prüfen hat das Gericht hingegen, ob die Erklärung infolge eines Gesetzes- oder Sittenverstoßes (§§ 134, 138 BGB) nichtig ist (OLG Frankfurt NJOZ 2005, 976f m.w.N.).\nDie Ausschlagung einer werthaltigen Erbschaft, die dazu führt, dass ein ansonsten für eine nicht unerhebliche Zeit ausgeschlossener Sozialleistungsanspruch (§§ 2, 90 I SGB XII) fortbesteht, verstößt gegen die guten Sitten, wenn nicht ausnahmsweise legitime Interessen des Erben geeignet sind, die Ausschlagung nachvollziehbar zu motivieren. Derjenige, der sich in der Situation befindet, dass er auf Sozialleistungen angewiesen ist, nimmt für sich die durch das Sozialstaatsprinzip verbürgte Solidarität der staatlichen Gemeinschaft in Anspruch. Nimmt er in dieser Situation einen ihm angetragenen Vermögenserwerb nicht wahr, so verweigert er umgekehrt der Gemeinschaft eben diese Solidarität, indem er rechtlich eine Bedürftigkeit vorschützt, die wirtschaftlich nicht besteht bzw. nicht bestehen müsste. Denn auch der Nachranggrundsatz des § 2 SGB XII ist Ausdruck einer umfassend verstandenen Solidarität, die praktisch nur funktionieren kann, wenn der Leistungsfähige nicht auf Sozialleistungen zurückgreift. Ein derart widersprüchliches Verhalten ist mit den guten Sitten ersichtlich nicht zu vereinbaren, es sei denn es kann im Einzelfall auf Gründe gestützt werden, die die Rechtsordnung auch bei voller Würdigung der Allgemeininteressen akzeptieren muss.\n\nKG Berlin, Beschluss vom 13.10.2009, 1 W 161/08 , BtPrax 2009, 297 = NJW-RR 2010, 150:\n\nDer Betreuer bedarf zum Abschluss eines Überziehungskredits (\"Dispositionskredits\") der Genehmigung des Betreuungsgerichts (§ 1822 Nr. 8 BGB). Beruht der Antrag des Betreuers auf Genehmigung auf einem entsprechenden Wunsch des Betroffenen, kann die Genehmigung nur versagt werden, wenn der Wunsch dem Wohl des Betroffenen zuwiderläuft. Hiervon kann bei einem angestrebten Kreditrahmen bis zu 500,00 EUR und regelmäßigen, diesen Betrag deutlichen übersteigenden Einnahmen des Betroffenen nicht ohne nähere Prüfung der vertraglichen Grundlagen nicht ausgegangen werden.\n\nBGH, Urteil vom 05.11.2009, III ZR 181/09:\n\nEin Vertrag über die Erbringung von Gartenarbeiten bedarf nicht der Genehmigung des Betreuungsgerichts.\nEin Vertrag über die Rekultivierung eines Gartens und die damit verbundene Begründung von Vergütungsansprüchen gegen eine unter Betreuung stehende Garteneigentümerin bedarf keiner zusätzlichen Genehmigung des Betreuungsgerichts. Nicht jedes Rechtsgeschäft, zu dessen Erfüllung über Vermögenswerte der zu betreuenden Person verfügt werden muss, ist der gerichtlichen Genehmigungspflicht unterstellt. Der Abschluss eines schuldrechtlichen Vertrags, durch den für die Beteiligten obligatorische Rechte und Pflichten begründet werden, fällt nicht unter die zusätzliche Genehmigungspflicht.\n\nBGH, Urteil vom 05.11.2009, III ZR 6/09; NJW 2010, 1456 = WM 2010, 478 = DNotZ 2010, 198\n\nBetreuungsgerichtliche Genehmigung nicht erforderlich für Vertrag, durch den Betreuer den Betreuten zur Dienstleistungsvergütung verpflichtet. Der Abschluss eines Vertrags, durch den ein Betreuer den Betreuten zur Vergütung von Dienstleistungen verpflichtet, bedarf keiner betreuungsgerichtlichen Genehmigung. Gegenstand ist hierbei nicht eine Verfügung im Sinne der Regelung über Forderungen und Wertpapiere oder eine Verpflichtung zu einer solchen Verfügung. Nicht jedes Rechtsgeschäft, zu dessen Erfüllung über Vermögenswerte der zu betreuenden Person verfügt werden muss, ist der Genehmigungspflicht unterstellt. Bezweckt ist kein allumfassender, sondern nur ein auf bestimmte rechtsgeschäftliche Vorgänge beschränkter Schutz.\n\nOLG Frankfurt, Beschluss vom 13.04.2010, 20 W 90/10:\n\nDas Grundbuchamt hat die Vertretungsmacht eines Betreuers zur Abgabe einer Löschungsbewilligung selbständig zu überprüfen. Dies gilt auch dann, wenn eine betreuungsgerichtliche Genehmigung dazu vorliegt.\n\n OLG Hamm, Beschluss vom 09.06.2011, I-15 Wx 519/10; Rpfleger 12/2011:\n\n- Der Umstand, dass ein vom Betreuer für den Betroffenen geschlossenes Rechtsgeschäft der betreuungsgerichtlichen Genehmigung bedarf und in diesem Zusammenhang ein Verfahrenspfleger bestellt wird, der an der Überprüfung der angemessenen Wahrung der Interessen des Betroffenen mitwirkt, begründet keine Ungewissheit im Sinne der Nr. 1000 RVG VV.\n- Ein Streit im Sinne der Nr. 1000 RVG VV besteht nicht bereits dann, wenn die Beteiligten lediglich aus wirtschaftlichen Gründen eine Modifizierung des zwischen ihnen bestehenden Vertragsverhältnisses vereinbaren.\n\nLG Düsseldorf, Urteil vom 15.11.2012, 11 O 259/12, FamRZ 2013, 1836:\n\nIm vorliegenden Verfahren hat das LG die Änderung eines Bezugsrechts einer Versicherung durch die Betreuerin unter Hinweis auf den Genehmigungsvorbehalt des § 1908 i BGB i.V.m. § 1831 BGB als nichtig angesehen. Die Betreuerin sei aus Rechtsgründen gehindert gewesen, dass zu Gunsten einer Dritten bestehende Bezugsrecht zu widerrufen und ein auf ihre Person lautendes Recht zu begründen. In der gewünschten Bezugsrechtsänderung habe ein unentgeltliches Rechtsgeschäft im Sinne einer Schenkung zu Grunde gelegen. Derartige Rechtsgeschäfte seien dem Betreuer gemäß § 1908 Absatz 2 i.V.m. § 1804 BGB untersagt und unheilbar nichtig. Dies betreffe sowohl das Schenkungsversprechen als auch unentgeltliche Verfügungen, so dass nicht nur das Kausalgeschäft, sondern auch die Bezugsrechtsänderung unwirksam gewesen sei.\n\nOLG Brandenburg, Beschl. vom 22.4.2014, 3 W 13/14, FamRZ 2015, 696:\n\nIst die betreuungsgerichtliche Genehmigung der Ausschlag einer Erbschaft durch den Betreuer erforderlich, so bleibt die Zeit, die seit Einleitung des Genehmigungsverfahrens bzw. der Erklärung der Erbausschlagung bis zum Zugang der rechtskräftigen betreuungsgerichtlichen Genehmigung verstrichen ist, bei der Berechnung der 6-wöchigen Ausschlagungsfrist außer Betracht. Für die Entscheidung über die Wirksamkeit einer zur Zeit ihrer Erklärung gegenüber dem Nachlassgericht noch nicht betreuungsrechtlich genehmigten Erbausschlagungserklärung ist nicht entscheidend darauf abzustellen, dass die Genehmigung innerhalb der Ausschlagungsfrist erteilt oder gegenüber dem Betreuer erklärt wird. Vielmehr ist zu verlangen, dass die betreuungsrechtliche Genehmigung und deren Bekanntmachung gegenüber dem Betreuer dem Nachlassgericht noch vor Ablauf der Ausschlagungsfrist nachgewiesen wird.\n\nKG Berlin, Beschluss vom 14.07.2015, 1 W 381/14:\n\nDie Mitteilung nach § 1829 Abs. 1 S. 2 BGB kann erst erfolgen, wenn die gerichtliche Genehmigung mit ihrer Rechtskraft (§ 40 Abs. 2 FamFG) wirksam geworden ist.\n\nBGH, Beschluss vom 2. Dezember 2015 - XII ZB 283/15:\n\n- Macht der Vertragspartner des Betroffenen geltend, ihm gegenüber sei eine zuvor erteilte und nunmehr aufgehobene Genehmigung gemäß § 1829 Abs. 1 Satz 2 BGB wirksam und deshalb nach § 48 Abs. 3 FamFG unabänderlich geworden, steht ihm gegen den die gerichtliche Genehmigung des Vertrags letztlich versagenden Beschluss ausnahmsweise die Beschwerdeberechtigung nach § 59 FamFG zu.\n-) Für den Betroffenen beginnt die Beschwerdefrist im Verfahren über die Erteilung einer gerichtlichen Genehmigung mit der nach § 41 Abs. 3 FamFG erforderlichen Bekanntgabe des Beschlusses an ihn selbst zu laufen (Fortführung des Senatsbeschlusses vom 4. Mai 2011 XII ZB 632/10 FamRZ 2011, 1049; Abgrenzung zu Senatsbeschluss vom 12. Februar 2014 XII ZB 592/12 FamRZ 2014, 640).\n- Auch bei der Bekanntgabe durch Aufgabe zur Post nach § 15 Abs. 2 Satz 1 Alt. 2 FamFG ist entsprechend § 184 Abs. 2 Satz 4 ZPO in den Akten zu vermerken, zu welcher Zeit und unter welcher Anschrift das Schriftstück zur Post gegeben wurde. Der Vermerk muss vom Urkundsbeamten der Geschäftsstelle unterschrieben werden.\n- Dem Notar kann wirksam eine sog. Doppelvollmacht zur Entgegennahme der gerichtlichen Genehmigung und Mitteilung derselben an den Vertragspartner jeweils als Bevollmächtigter des Betreuers sowie zur Entgegennahme der Mitteilung als Bevollmächtigter des Vertragspartners erteilt werden. Zur wirksamen Vornahme der Mitteilung muss der Notar seinen Willen hierzu äußerlich erkennbar machen.\n\nOLG Nürnberg, Teilurteil vom 24.03.2016, 8 U 1092/15:\n\n- Die Kündigung eines Lebensversicherungsvertrages durch den Betreuer des Versicherungsnehmers ist gemäß § 1908i Abs. 1, 1812 Abs. 1, 1831 BGB unwirksam, wenn die vereinbarte Todesfallleistung mehr als 3.000 Euro beträgt.\n- Auf die Kündigung eines Lebensversicherungsvertrages durch den Betreuer des Versicherungsnehmers findet § 1813 Abs. 1 Nr. 2 BGB über 1908i Abs. 1 BGB analoge Anwendung.\n- Für die Bestimmung des Anspruchswertes analog § 1813 Abs. 1 Nr. 2 BGB ist bei der gebotenen wirtschaftlichen Betrachtung auf die vereinbarte Todesfallleistung und nicht auf den Rückkaufswert abzustellen.\n\nOLG Frankfurt am Main, Beschluss vom 14.09.2018 - 21 W 56/18; DNotZ 2019, 308 = FGPrax 2018, 281:\n\nFür die Wirksamkeit der Ausschlagungserklärung ist es erforderlich, dass der gesetzliche Vertreter von der wirksamen Genehmigung auch Gebrauch macht.\n\nLG Hamburg, Beschluss vom 08.03.2019 - 330 T 14/19, NZI 2019, 384\n\nFür die Abtretungserklärung nach § 287 Abs. 2 InsO benötigt der Betreuer die betreuungsgerichtliche Genehmigung nach § 1812 BGB.\n\nLG München I, Endurteil vom 30.07.2020, 31 S 17737/19\n\nDie Kündigung eines Heimvertrages, mit welchem dem Betreuten ein Zimmer überlassen wird, bedarf nach § 1907 I 1 BGB zur Wirksamkeit grundsätzlich der Genehmigung des Betreuungsgerichts. Dies gilt im Hinblick auf § 1 WBVG nur dann nicht, wenn zwischen den Parteien eine vertragliche Vereinbarung dahingehend besteht, dass sich das Heim zur Erbringung und der Bewohner zur Abnahme von Pflegeleistungen verpflichten. Nicht ausreichend ist lediglich die Erklärung des Heimes, für den Fall einer festgestellten, dauernden Pflegebedürftigkeit eine anderweitige geeignete und dem Gesundheitszustand des Bewohners angemessene Unterkunft und Versorgung anzubieten.\n\nOLG Nürnberg, Beschluss vom 30.07.2020, 15 W 2126/20, RNotZ 2021, 106\n\n- Eine den Anforderungen des § 29 Abs. 1 Satz 1 GBO genügende Vollmachtsbestätigung kann nicht durch einen (weiteren) Vertreter desjenigen erklärt werden, der die ursprüngliche Vollmacht erteilt hat.\n- Die Genehmigung der von einem Vertreter ohne Vertretungsmacht gemäß § 177 Abs. 1 BGB vorgenommenen Belastung des Grundstücks eines Betreuten mit einer Grundschuld durch den Betreuer unterliegt ihrerseits dem Genehmigungsvorbehalt nach § 1821 Abs. 1 Nr. 1; § 1908i Abs. 1 BGB.\n\nBGH, Beschluss vom 11. März 2021 - V ZB 127/19\n\nDie Bestellung eines Nießbrauchs oder eines Grundpfandrechts im Zusammenhang mit dem Grundstückserwerb eines Minderjährigen ist jedenfalls dann nicht nach § 1821 Abs. 1 Nr. 1 BGB genehmigungsbedürftig, wenn sich die Belastung bei wirtschaftlicher Betrachtung als Teil des Erwerbsvorgangs darstellt und die Auflassung und die dingliche Einigung über die Belastung gleichzeitig erfolgen; die Belastung bedarf nicht deshalb der familiengerichtlichen Genehmigung, weil ihre Eintragung in das Grundbuch erst nach Umschreibung des Eigentums an dem Grundstück bewilligt und beantragt wird.\n\nOLG Nürnberg, Hinweisbeschluss vom 29.07.2021, 8 U 1230/21\n\nEine vom Betreuer des Versicherungsnehmers erklärte Kündigung einer Pflegetagegeldversicherung bedarf für ihre Wirksamkeit der Genehmigung durch das Betreuungsgericht (Fortführung von OLG Nürnberg, NJW-RR 2016, 1047).\n\nOLG München, Beschluss vom 27.09.2021, 34 Wx 252/21\n\n- Im betreuungsgerichtlichen Genehmigungsverfahren ist der Verfahrenspfleger gehalten, sich eine eigene Überzeugung davon zu verschaffen, dass der Vorgang, dessentwegen er bestellt wurde, im objektiven Interesse des Betroffenen liegt. Das setzt regelmäßig eine inhaltliche Überprüfung dieses Vorgangs voraus.\n- Zu diesem Zweck kann auch die Durchführung eigener Ermittlungen erforderlich sein.\n\nLG München II, Beschluss vom 20.01.2023, 6 T 4598/22 BET\n\nKeine Beschwerdeberechtigung eines Pfändungsgläubigers eines Erbteils gegen die betreuungsgerichtliche Genehmigung zu einem Erbauseinandersetzungsvertrag, da er nicht Beteiligter des betreuungsrechtlichen Genehmigungsverfahrens ist.\n\nLG München II, Beschluss vom 23.01.2023, 6 T 4230/22 BET\n\nEnthält ein Erbauseinandersetzungsvertrag ein unvollständiges und unrichtiges Nachlassbestandsverzeichnis, so steht dies einer betreuungsgerichtlichen Genehmigung nach §§ 1908i Abs. 1 Satz 1, 1822 Nr. 2 BGB (in der bis zum 31.12.2022 geltenden Fassung) entgegen.\n\n'‘'LG Berlin, Beschluss vom 16.01.2026, 87 T 409/25'''\n\n-Die Veräußerung von nicht hinterlegten, beweglichen Wertgegenständen unterliegt nicht der Genehmigungspflicht gemäß §§ 1848ff. BGB.\n-Eine Genehmigungsbedürftigkeit besteht nur für die Annahme des Verkaufserlöses für die beweglichen Wertgegenstände durch den Betreuer, wenn die Geldleistung mehr als 3.000 € beträgt (§ 1849 Abs. 4 BGB)."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -933,6 +1477,7 @@
       "text": "- Genehmigungen von a bis z,  Betreuerhaftung, Vollmachtswiderruf, Genehmigung der Heilbehandlung, PEG-Sonde, Checkliste für Arztgespräche, Unterbringungsverfahren, Checkliste Wohnungsangelegenheiten, Unterbringungsähnliche Maßnahme, Corona, Wohnungsauflösung, Grundrechte\n- Anlagegeld, Girokonto, Aufsicht\n- Schenkung, Betreuer als Erbe, Beglaubigung durch Betreuungsbehörde\n- Arbeitsvertrag"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur",
@@ -941,6 +1486,7 @@
       "text": "-Kampermann, Das Betreuungsrecht in der Bankpraxis, ISBN 386556139X\n- Kerkloh: Das Wohl des Betreuten bei genehmigungspflichtigen Rechtsgeschäften auf dem Gebiet der Vermögungssorge; ISBN 3826552083\n- Spanl: Vermögensverwaltung durch Vormund und Betreuer , ISBN 3802974484"
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1852",
         "BGB§1850",
@@ -955,6 +1501,7 @@
       "text": "-Ahr: Die vermögensrechtlichen Genehmigungstatbestände des neuen Betreuungsrechtes; btr aktuell 2023, 25 (Teil 1) und 49 (Teil 2)\n-Damrau: Zur Anwendung der Gerichte. Genehmigungspflicht gem. § 1850 Nrn 4 unf 5 BGB bei Schenkungen von Wohnung- und Teileigentum, Rpfleger 2026, 57\n-Damrau: Zur Anwendung der Gerichte. Genehmigungspflicht gem. § 1852 Nr. 1b BGB bei Schenkung eines Kommanditanteils an einen Betreuten.., Rpfleger 2026, 123\n-Felix: Die Genehmigungstatbestände im neuen Betreuungsrecht Teil 1 und 2; Rpfleger 2022, 541 und 2023, 6\n-Gojowcyk: Das neue Verfahren zur Erteilung betreuungsgerichtlicher Genehmigungen; btr aktuell 2023, 30\n- König: Betreuungs- und familiengerichtliche Genehmigungserfordernisse, Rpfleger 2024, 503\n- Zemlin: Die betreuungsgerichtliche Genehmigung bedingter Pflichtteilsverzichtsverträge bei Behindertentestamenten, ErbR 2026, 454\n-Zorn: Die Genehmiguingstatbestände nach § 1850 BGB im Überblick; FamRZ 2023, 915\n- Zorn: Die Genehmigungstatbestände der §§ 1851 bis 1854 BGB nach neuem Recht, FamR Z 2023, 1343"
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1908i",
         "BGB§1802",
@@ -969,6 +1516,7 @@
       "text": "-Bienwald: Von der Schwierigkeit eines Betreuers, Geld seines Betreuten anzulegen; BtPrax 1995, 20\n-ders.: Zur vormundschaftsger. Genehmigung eines Grundstückserwerbs für den Betreuten; Rpfleger 2000, 435\n-ders.: Zur Beteiligung des Betreuten an den Genehmigungsverfahren nach § 1908i Abs. 1 Satz 1, §§ 1802 ff. BGB; Rpfleger 2009, 613\n-Böttcher: Vormundschaftsgerichtliche Genehmigungen im Grundstücksrecht; Rpfleger 1987, 485\n-ders.: Vormundschaftsgerichtliche Genehmigungen im Grundstücksverkehr; RpflJB 1990, 193\n-ders: Nachweis der vormundschaftsgerichtlichen Genehmigung im Grundbuchverfahren; RpflStud. 1991, 73\n-Braun: Die vormundschaftsgerichtliche Genehmigung der Grundschuldbestellung in Ausübung einer Belastungsvollmacht; DNotZ 2005, 730\n-Brüggemann: Der sperrige Katalog, §§ 1821, 1822 BGB: Anwendungskriterien – Grenzfälle, FamRZ 1990, 5 und 124\n-Deinert: Betreuungs- und familiengerichtliche Genehmigungen von a-z, bdb-aspekte 85/2010, S. 30\n-Dümig: Anhörungspflicht bei nachlassgerichtlicher Genehmigung; Rpfleger 2000, 248\n- Eble: Familien- und betreuungsgerichtliche Genehmigungen im Gesellschaftsrecht, RNotZ 2021, 117\n-Eickmann: Das rechtliche Gehör in Verfahren vor dem Rechtspfleger; Rpfleger 1982, 449\n-ders.: Anhörungspflicht bei nachlassgerichtlicher Genehmigung; Rpfleger 2000, 245\n-ders.: Vormundschaftsgerichtliche Genehmigung im Zwangsversteigerungsverfahren; Rpfleger 1983, 199\n-Feller: Zur Genehmigungsbedürftigkeit der Auflassung durch einen Minderjährigen; MittBayNot 2005, 413\n-Feller: Zur Genehmigungsbedürftigkeit des Erwerbs eines vermieteten und verpachteten Grundstücks durch einen Minderjährigen beim Bestehen eines Vorbehaltsnießbrauchs; MittBayNot 2005, 415\n-Fiala/Müller/Braun: Genehmigungen bei Vormundschaft über Minderjährige, Betreuung und Nachlasspflegschaft; Rpfleger 2002, 389\n-Habscheid: Verfahren vor dem Rechtspfleger - rechtliches Gehör und faires Verfahren; Rpfleger 2001, 209\n- Herberger: Genehmigungsbedürftige Rechtsgeschäfte, FamRZ 2023, 1927\n-Holzhauer: Abhebungen des Betreuers vom Konto des Betreuten unter 5000,--DM immer genehmigungsfrei? BtPrax 1994, 42\n-Inoue: Der Rechtscharakter familien- und betreuungsgerichtlicher Genehmigungen; Rpfleger 2017, 369\n-Krauß: Befreiung des Betreuers von der Aufsicht durch das VormG; Zeitschrift f.d.Notariat Baden-Württ. 1995, 20\n-Klüsener: Vormundschaftsgerichtliche Genehmigungen nach § 1822 BGB; Rpfleger 1993, 133\n-ders.: Der Minderjährige im Unternehmensrecht, Vertretungshindernisse und vormundschaftsgerichtliche Genehmigungen, Rpfleger 1990, 321\n-ders.: Vormundschaftsgerichtliche Genehmigungen im Liegenschaftsrecht; Rpfleger 1981, 461\n-Kurz: Die Problematik des § 1822 BGB; NJW 1992, 1798\n-Litzenburger: Gestaltung von genehmigungspflichtigen Grundstückskaufverträgen nach Inkrafttreten des neuen FamFG, RNotZ 2009, 380\n-Mayer:  Der Anspruch auf vormundschaftsgerichtliche Genehmigung von Rechtsgeschäften; FamRZ 1994, 1007\n-Meyer-Stolte: Vormundschaftsgerichtliche Genehmigung und Grundbuch; Rpfleger 1967, 294\n-Neumann: Genehmigungspflichten und spezielle Probleme im Aufgabenkreis Wohnungsangelegenheiten; BtPrax 2008, 246\n-Renner: Die Wohnungskündigung im Betreuungsverfahren, BtPrax 1999, 96\n-Sonnenfeld: Anhörungspflicht bei nachlassgerichtlicher Genehmigung; Rpfleger 2000, 246\n-Sonnenfeld/Zorn: Wirksamwerden gerichtlich genehmigungsbedürftiger Rechtsgeschäfte; Rpfleger 2004, 533\n-Sorg: Der Aufgabenkreis Vermögenssorge und die betreuungsgerichtlichen Genehmigungen in der Vermögensverwaltung; BWNotZ 2010, 107\n-Waldner: Anmerkung zu OLG Schleswig (zur Anhörung im gerichtl. Genehmigungsverfahren), DNotZ 2001, 650\n-Wesche: Gerichtliche Genehmigung bei der Geldverwaltung; BtPrax 2004, 49\n-Wesche: Außen- und Innengenehmigung bei der Geldverwaltung nach FamFG; Rpfleger 8/2010\n-Wüstenberg: Die Genehmigungspflicht des Betreuers zur Abhebung oder Überweisung von Beträgen bis 3.000 Euro; Rpfleger 2005, 177\n-Zettel: Die vormundschaftsgerichtliche Genehmigung; JuS 1982, 751"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Vordrucke"
@@ -976,6 +1524,7 @@
       "text": "-Universeller Vordruck für Genehmigungsanträge (PDF)"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Vordrucke",
@@ -984,6 +1533,7 @@
       "text": "-Genehmigung Bankverfügung (PDF)"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Vordrucke",
@@ -992,6 +1542,7 @@
       "text": "-Weiterer Antrag Wohnungskündigung (PDF)"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Vordrucke",

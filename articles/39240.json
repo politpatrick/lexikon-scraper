@@ -4,6 +4,17 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Urteil",
+      "az": "L 10 R 2045/24",
+      "datum": "2024-11-21",
+      "fundstelle": null,
+      "gericht": "LSG Baden-Württemberg",
+      "id": "LSG Baden-Württemberg L 10 R 2045/24",
+      "label": "LSG Baden-Württemberg, Urteil vom 21.11.2024 – L 10 R 2045/24"
+    }
+  ],
   "external_links": [
     "https://www.haufe.de/recht/deutsches-anwalt-office-premium/3-der-betreute-im-prozess-51-53-170a-zpo-ii-ausschliesslichkeitserklaerung-53-abs2-zpo-nf_idesk_PI17574_HI15456611.html"
   ],
@@ -100,6 +111,7 @@
   "revid": 65177,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -107,6 +119,7 @@
       "text": "Artikel entspricht der Rechtslage ab 1.1.2023."
     },
     {
+      "decisions": [],
       "norms": [
         "ZPO§53",
         "SGBX§11",
@@ -119,6 +132,7 @@
       "text": "Die vom Betreuer ausgesprochene Ausschließlichkeitserklärung ist eine zum 1.1.2023 eingeführte neue Regelung, die sich in § 53 ZPO für Gerichtsverfahren findet, die ein Betreuer im Namen des Betreuten führt.\n\nSie kann über § 11 Abs. 3 SGB X, § 12 Abs. 3 VwVfG und § 79 Abs. 3 AO auch gegenüber Behörden abgegeben werden.\n\nIn Bußgeldsachen und Strafprozessen sowie im gerichtlichen Betreuungsverfahren gelten die Regelungen nicht."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Hintergrund"
@@ -126,6 +140,7 @@
       "text": "Der Hintergrund ist, dass es Situationen geben kann, in denen der Betreuer alleine ggü der Behörde bzw dem Gericht agieren können muss, um in der Lage zu sein, die Interessen des Betreuten wahrzunehmen."
     },
     {
+      "decisions": [],
       "norms": [
         "ZPO§53"
       ],
@@ -135,6 +150,7 @@
       "text": "Vor dem 1.1.2023 sorgte die alte Fassung des § 53 ZPO dafür, dass in behördlichen und gerichtlichen Verfahren, die der Betreuer betrieb, der Betreute unabhängig von seiner Geschäftsfähigkeit stets im konkreten Fall als handlungsunfähig bzw. prozessunfähig angesehen wurde. Das ist seit 1.1.23 nicht mehr so."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1821"
       ],
@@ -144,6 +160,9 @@
       "text": "Seither musste bei widersprüchlichen Aussagen des Betreuten immer erst eine Prüfung seiner Geschäftsfähigkeit veranlasst werden. Das wird durch die Ausschließlichkeitserklärung vermieden. Der Betreuer soll davon nur sparsam Gebrauch machen, und nur dort, wo es wegen § 1821 Abs. 4 BGB erforderlich ist."
     },
     {
+      "decisions": [
+        "LSG Baden-Württemberg L 10 R 2045/24"
+      ],
       "norms": [
         "BGB§1825",
         "SGG§71",
@@ -156,6 +175,7 @@
       "text": "LSG Baden-Württemberg, Urteil vom 21.11.2024, L 10 R 2045/24\n- Ist weder ein Einwilligungsvorbehalt gem. § 1825 BGB für den Betreuten angeordnet, noch eine Ausschließlichkeitserklärung seitens des Betreuers gem. § 71 Abs. 6 SGG i.V.m. § 53 Abs. 2 ZPO abgegeben worden, ist der voll geschäftsfähige (§ 71 Abs. 1 SGG) Kläger nicht in seiner Prozessfähigkeit beschränkt.\n-Hat ein Betreuer in Ausübung seiner gerichtlichen Vertretungsbefugnis (§ 1823 Alt. 1 BGB) im Rahmen der betreuungsgerichtlich angeordneten Vermögenssorge eine Klage wirksam zurückgenommen, ist wegen des sog. prozessualen Doppelkompetenz und dem daraus erwachsenen „Prioritätsprinzip“ die Klage nicht mehr rechtshängig und kann vom Betreuten auch nicht mehr fortgeführt werden.\n-Die Wirksamkeit der Erledigungserklärung des Betreuers kann vom Betreuten (nachträglich) nicht mehr beseitigt werden."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Weblinks"
@@ -163,6 +183,7 @@
       "text": "Kommentierung von Kurze in Haufe.de"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

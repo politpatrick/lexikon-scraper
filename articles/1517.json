@@ -4,6 +4,125 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": null,
+      "az": "2 BvR 2115/01",
+      "datum": "2006-09-19",
+      "fundstelle": null,
+      "gericht": "BVerfG",
+      "id": "2 BvR 2115/01",
+      "label": "BVerfG vom 19.09.2006 – 2 BvR 2115/01"
+    },
+    {
+      "art": null,
+      "az": "2 BvR 2132/01",
+      "datum": "2006-09-19",
+      "fundstelle": null,
+      "gericht": "BVerfG",
+      "id": "2 BvR 2132/01",
+      "label": "BVerfG vom 19.09.2006 – 2 BvR 2132/01"
+    },
+    {
+      "art": null,
+      "az": "2 BvR 348/03",
+      "datum": "2006-09-19",
+      "fundstelle": null,
+      "gericht": "BVerfG",
+      "id": "2 BvR 348/03",
+      "label": "BVerfG vom 19.09.2006 – 2 BvR 348/03"
+    },
+    {
+      "art": "Beschluss",
+      "az": "87 T 285/20",
+      "datum": "2021-12-29",
+      "fundstelle": null,
+      "gericht": "LG Berlin",
+      "id": "LG Berlin 87 T 285/20",
+      "label": "LG Berlin, Beschluss vom 29.12.2021 – 87 T 285/20"
+    },
+    {
+      "art": "Beschluss",
+      "az": "87 T 290/20",
+      "datum": "2021-12-29",
+      "fundstelle": null,
+      "gericht": "LG Berlin",
+      "id": "LG Berlin 87 T 290/20",
+      "label": "LG Berlin, Beschluss vom 29.12.2021 – 87 T 290/20"
+    },
+    {
+      "art": null,
+      "az": "2 T 89/23",
+      "datum": "2024-03-01",
+      "fundstelle": null,
+      "gericht": "LG Dresden",
+      "id": "LG Dresden 2 T 89/23",
+      "label": "LG Dresden vom 01.03.2024 – 2 T 89/23"
+    },
+    {
+      "art": "Beschluss",
+      "az": "8 T 9/15",
+      "datum": "2015-03-04",
+      "fundstelle": null,
+      "gericht": "LG Lüneburg",
+      "id": "LG Lüneburg 8 T 9/15",
+      "label": "LG Lüneburg, Beschluss vom 04.03.2015 – 8 T 9/15"
+    },
+    {
+      "art": null,
+      "az": "20 W 170/08",
+      "datum": "2008-11-21",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 20 W 170/08",
+      "label": "OLG Frankfurt am Main vom 21.11.2008 – 20 W 170/08"
+    },
+    {
+      "art": "Beschluss",
+      "az": "5 WF 215/11",
+      "datum": "2013-01-10",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 5 WF 215/11",
+      "label": "OLG Frankfurt am Main, Beschluss vom 10.01.2013 – 5 WF 215/11"
+    },
+    {
+      "art": "Beschluss",
+      "az": "6 UF 344/11",
+      "datum": "2013-01-29",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 6 UF 344/11",
+      "label": "OLG Frankfurt am Main, Beschluss vom 29.01.2013 – 6 UF 344/11"
+    },
+    {
+      "art": "Beschluss",
+      "az": "2 W 193/07",
+      "datum": "2008-09-03",
+      "fundstelle": null,
+      "gericht": "OLG Schleswig",
+      "id": "OLG Schleswig 2 W 193/07",
+      "label": "OLG Schleswig, Beschluss vom 03.09.2008 – 2 W 193/07"
+    },
+    {
+      "art": "Beschluss",
+      "az": "2 W 207/07",
+      "datum": "2008-09-03",
+      "fundstelle": null,
+      "gericht": "OLG Schleswig",
+      "id": "OLG Schleswig 2 W 207/07",
+      "label": "OLG Schleswig, Beschluss vom 03.09.2008 – 2 W 207/07"
+    },
+    {
+      "art": "Beschluss",
+      "az": "18 A 91/22",
+      "datum": "2022-03-18",
+      "fundstelle": null,
+      "gericht": "OVG Münster",
+      "id": "OVG Münster 18 A 91/22",
+      "label": "OVG Münster, Beschluss vom 18.03.2022 – 18 A 91/22"
+    }
+  ],
   "external_links": [
     "http://hcch.e-vision.nl/upload/text35d.pdf",
     "http://www.admin.ch/ch/d/ff/2007/2643.pdf",
@@ -179,6 +298,7 @@
   "revid": 66502,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -186,6 +306,7 @@
       "text": "Für eine in Deutschland lebende Person mit ausländischer Staatsangehörigkeit kann ein Betreuer durch das Betreuungsgericht nach deutschem Recht bestellt werden (es ist aber auch eine Bestellung nach dem entsprechenden Heimatrecht möglich). Für den innerdeutschen Rechtsverkehr ist die deutsche Betreuerbestellung vorzuziehen."
     },
     {
+      "decisions": [],
       "norms": [
         "EGBGBArt.24"
       ],
@@ -195,6 +316,7 @@
       "text": "Art. 24 EGBGB- Vormundschaft, Betreuung und Pflegschaft\n\n(1) Die Entstehung, die Ausübung, die Änderung und das Ende eines Fürsorgeverhältnisses (Vormundschaft, Betreuung, Pflegschaft), das kraft Gesetzes oder durch Rechtsgeschäft begründet wird, unterliegen dem Recht des Staates, in dem der Fürsorgebedürftige seinen gewöhnlichen Aufenthalt hat.\n\n(2) Maßnahmen, die im Inland in Bezug auf ein Fürsorgeverhältnis angeordnet werden, und die Ausübung dieses Fürsorgeverhältnisses unterliegen deutschem Recht. Besteht mit dem Recht eines anderen Staates eine wesentlich engere Verbindung als mit dem deutschen Recht, so kann jenes Recht angewendet werden.\n\n(3) Die Ausübung eines Fürsorgeverhältnisses aufgrund einer anzuerkennenden ausländischen Entscheidung richtet sich im Inland nach deutschem Recht."
     },
     {
+      "decisions": [],
       "norms": [
         "EGBGBArt.24",
         "FamFG§99",
@@ -206,6 +328,9 @@
       "text": "Internationale Zuständigkeit der deutschen Gerichtsbarkeit (§§ 99, 104 FamFG) für:\n-deutsche Staatsangehörige, unabhängig vom Aufenthaltsort\n-Ausländer mit gewöhnlichem Aufenthalt in Deutschland\n-Ausländer ohne gewöhnlichen Aufenthalt in Deutschland (z.B. Durchreisender), der der Fürsorge des deutschen Gerichts bedarf (Art. 24 Abs. 1 EGBGB)"
     },
     {
+      "decisions": [
+        "LG Lüneburg 8 T 9/15"
+      ],
       "norms": [
         "RPflG§8"
       ],
@@ -215,6 +340,11 @@
       "text": "Nach § 15 Abs. 1 Nr. 4 Rechtspflegergesetz ist dem Richter des Betreuungsgerichtes stets die Anordnung einer Betreuung oder Pflegschaft über einen Angehörigen eines fremden Staates vorbehalten.\n\nRechtsprechung:\n\nLG Lüneburg, Beschluss vom 04.03.2015, 8 T 9/15:\n\n- Die Entscheidung eines Rechtspflegers über die Bestellung eines Abwesenheitspflegers für einen Angehörigen eines fremden Staates ist nichtig (§ 8 Abs. 4 Satz 1 RPflG).\n- Auf die Nichtigkeit kann sich derjenige, der die Abwesenheitspflegschaft angeregt hat, nur berufen, wenn er beschwerdebefugt ist."
     },
     {
+      "decisions": [
+        "2 BvR 2115/01",
+        "2 BvR 2132/01",
+        "2 BvR 348/03"
+      ],
       "norms": [],
       "path": [
         "Konsularische Vertretung ausländischer Betroffener"
@@ -222,6 +352,7 @@
       "text": "Entsprechend Art 36 und 37 des Wiener Übereinkommens über konsularische Beziehungen vom 24.04.1963 (BGBl.1969 II S. 1585 sowie 1971 II S. 1285) muß die konsularische  Vertretung des Heimatstaates informiert werden, wenn für einen Ausländer ein Betreuungsverfahren eingeleitet wird und/oder eine Unterbringung erfolgt (Rausch: Betreuung bei Auslandsbezug; BtPrax 2004, 137, 140 f.).\n\nDas Konsulat hat sogar ggf. ein Vorschlagsrecht bei der Auswahl des Betreuers und darf auf Wunsch bei der Anhörung und bei der Untersuchung anwesend sein.\n\nUnterbleibt die konsularische Hilfe, liegt ein schwerer Verfahrensfehler vor (analog BVerfG vom 19.09.2006, 2 BvR 2115/01 , 2 BvR 2132/01, 2 BvR 348/03 = NJW 2007, 499; NJW-Spezial 2007, 89) sowie BGH FGPrax 2010, 212 und BGH FGPrax 2011, 99= NVwZ 2011, 320 (Ls.).\n\nDies wurde kürzlich im Rahmen eines betreuungsrechtlichen Unterbringungsbeschlusses durch das LG Nürnberg-Fürth bestätigt (Beschluss vom 21.11.2013, 13 T 8854/13, FamRZ 2014, 1575)."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1358",
         "EGBGBArt.15"
@@ -232,6 +363,7 @@
       "text": "In Angelegenheiten der Gesundheitssorge, die von Verheirateten in Deutschland gegebenenfalls füreinander wahrgenommen werden müssen, ist § 1358 BGB auch dann anzuwenden, wenn nach anderen familienrechtlichen Vorschriften eigentlich ausländisches Recht anwendbar wäre. Dies ist in Art. 15 EGBGB gesetzlich so geregelt."
     },
     {
+      "decisions": [],
       "norms": [
         "GVG§18",
         "GVG§20",
@@ -244,6 +376,16 @@
       "text": "Das Internationale Privatrecht gibt die juristische Antwort auf die Frage, welches materielle Recht ein deutsches Gericht in Fällen mit Auslandsberührung anzuwenden hat. Auslandsberührung entsteht, wenn ausländische Staatsbürgerinnen und/oder Staatsbürger oder ausländische juristische Personen in zivilrechtlichen Verfahren in Deutschland Beteiligte sind.\n\nGemäß dem sogenannten Territorialitätsgrundsatz sind alle in Deutschland befindlichen Personen der deutschen Gerichtsbarkeit unterworfen. Ausnahmen von dieser Regel bilden nur die sogenannten Exterritorialen, d.h. Mitglieder von diplomatischen Missionen und konsularischen Vertretungen sowie Repräsentanten anderer Staaten, die Deutschland auf Einladung besuchen (siehe § 18 GVG bis § 20 GVG).\n\nDas Internationale Privatrecht Deutschlands ist im zweiten Kapitel des Einführungsgesetzes zum Bürgerlichen Gesetzbuch (EGBGB) normiert (siehe Art. 3 EGBGB bis Art. 46e EGBGB). Es wird subsidiär angewandt, wenn nicht unmittelbar anwendbare Regelungen der Europäischen Union (= EU-Verordnungen) oder Regelungen in völkerrechtlichen Vereinbarungen, soweit sie schon unmittelbar anwendbares innerstaatliches Recht geworden sind (Beispiel: Haager Übereinkommen), einschlägig sind."
     },
     {
+      "decisions": [
+        "OLG Schleswig 2 W 193/07",
+        "OLG Schleswig 2 W 207/07",
+        "OLG Frankfurt am Main 20 W 170/08",
+        "OLG Frankfurt am Main 5 WF 215/11",
+        "OLG Frankfurt am Main 6 UF 344/11",
+        "LG Berlin 87 T 285/20",
+        "LG Berlin 87 T 290/20",
+        "OVG Münster 18 A 91/22"
+      ],
       "norms": [
         "BGB§1915",
         "BGB§1835",
@@ -255,6 +397,7 @@
       "text": "OLG Schleswig, Beschluss vom 3.9.2008, 2 W 193/07; 2 W 207/07, BtMan 2009, 100 (Ls) =  BtPrax 2009, 85 = FamRZ 2009, 1180  sowie Beschluss des OLG Frankfurt/Main vom 21.11.2008, 20 W 170/08:\n\nDie (pauschale) Betreuervergütung beinhaltet auch die Kosten für einen vom Betreuer erforderlichenfalls hinzu zu ziehenden Dolmetscher.\n\nOLG Frankfurt, Beschluss vom 10.01.2013, 5 WF 215/11, FamRZ 2013, 894 = Rpfleger 2013, 451:\n\nZur Vergütung einer Ergänzungspflegerin mit dem Wirkungskreis der Vertretung in asyl- und ausländerrechtlichen Angelegenheiten.\n\nOLG Frankfurt, Beschluss vom 29.01.2013, 6 UF 344/11, FamRZ 2013, 1160:\n\n- Überschreitet die Tätigkeit des anwaltlichen Ergänzungspflegers die typischerweise im Rahmen der Beratungshilfe zu erbringenden Leistungen, was im Fall eines ersten Asylverfahrens mit Anhörung vor dem Bundesamt regelmäßig der Fall ist, so kann er ohne Begrenzung durch die Gebührensätze der Beratungshilfe eine Vergütung nach §§ 1915 Abs. 1, 1835 Abs. 4 BGB i. V. m. dem RVG beanspruchen.\n- Sofern einem ohne Eltern eingereisten 16 Jahre alten Flüchtling ein Ergänzungspfleger mit dem Wirkungskreis \"ausländer- und asylrechtliche Betreuung\" bestellt worden ist, hat der Ergänzungspfleger die Aufgabe - ungeachtet einer gemäß §§ 12 AsylVfG, 80 AufenthaltsG bestehenden Handlungsfähigkeit des Jugendlichen - gewissenhaft und vollumfänglich für den Minderjährigen in dessen Interesse wahrzunehmen.\n\nLG Berlin, Beschluss vom 29.12.2021, 87 T 285/20, 87 T 290/20\n\nEin Einwilligungsvorbehalt kann auch auf Willenserklärungen im Bereich der Wahrnehmung der Angelegenheiten der Staatsangehörigkeit erstreckt werden.\n\nOVG Münster, Beschluss vom 18.03.2022, 18 A 91/22\n\n- Auf § 82 Abs. 4 Satz 1 AufenthG kann auch eine Anordnung gestützt werden, sich von einem niedergelassenen Arzt untersuchen zu lassen.\n- Ein Ausländer ist nicht allein deshalb seinen Mitwirkungspflichten bei der Beschaffung von Identitätspapieren enthoben, weil er unter Betreuung steht. Es ist die ureigene Aufgabe eines Betreuers, den Betreuten im übertragenen Aufgabenbereich zu unterstützen. Ansonsten ist der Betroffene selbst für seine Angelegenheiten verantwortlich."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -262,6 +405,7 @@
       "text": "- Abschiebung, Haager Übereinkommen, Grundrechte, Schwerbehindertenausweis, Alltagsgeschäfte, Patientenverfügung, Umgangsbestimmung, Aufenthaltsbestimmung, Meldepflicht, Mitwirkungspflicht, Betreuungsverein, Vertretung gegenüber Behörden, Unterstützungspflicht, Anfangsgespräch, Erörterungsgespräch, digitale Barrierefreiheit, Regress der Staatskasse\n- Vulnerabilität, Gesundheitsdatennutzungsgesetz, Notfalldaten\n- Einsichts- und Steuerungsfähigkeit, ordre public, Rundfunkbeitrag\n- Polizeirecht\n- Globales Nachhaltigkeitsziel 10, Personenstand, Ehefähigkeit\n- Eidesstattliche Versicherung, Erbschaft, Zwangsvollstreckung\n- Was ist neu?"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur"
@@ -269,6 +413,9 @@
       "text": "-Buchverzeichnis\n-Broschüren"
     },
     {
+      "decisions": [
+        "LG Dresden 2 T 89/23"
+      ],
       "norms": [],
       "path": [
         "Literatur",
@@ -277,6 +424,7 @@
       "text": "-Gojowczyk: Betreuungsverfahren mit Auslandsberührung; FamRZ 2020, 1615\n-Gojowczyk: Rechtsfragen zum Wechsel des gewöhnlichen Aufenthalts des Betreuten ins Ausland (zugleich Besprechung LG Dresden 1.3.2024 – 2 T 89/23), BtR 2024, 82\n-Karadeniz: Interkulturelle Kompetenz - Basisqualifikationen auch für rechtliche Betreuerinnen und Betreuer; BtPrax 2016, 60\n-Keuter: Haftet der Verfahrensbeistand für Dolmetscherkosten? FamRZ 2014, 1971\n-Kiermeier: Betreuung für Migranten und Migrantinnen; BtPrax 1999, 163\n-Rausch: Betreuung bei Auslandsbezug; BtPrax 2004, 137\n-Rechtliche Betreuung von Menschen mit Migrationshintergrund. Anforderungen und Best-Practice-Modell. In: iFamZ 06/2010. S. 343 (PDF)\n-Winzenried: Rechtliche Betreuung von Flüchtlingen - Besonderheiten und Herausforderungen; BtPrax 2016, 54"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Weblinks"
@@ -284,6 +432,7 @@
       "text": "-Haager Konvention über den internationalen Schutz von Erwachsenen (PDF)\n-dito (weitere Übersetzung, PDF)\n-Institut für transkulturelle Betreuung Hannover\n-Leuchtturmprojekt des BGT - Betreuung von Migrantinnen und Migranten\n-Hinweise zum türkischen Betreuungsrecht\n-Hinweise zum italienischen Betreuungsrecht\n-Hinweise zum österreichischen Sachwalterrecht\n-Hinweise zum spanischen Betreuungsrecht\n-Übersicht über die Regelungen zahlreicher Staaten zum Erwachsenenschutz"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Broschüren zum Betreuungsrecht in anderen Sprachen"
@@ -291,6 +440,7 @@
       "text": "-Broschüren mehrsprachig"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Sonstiges"

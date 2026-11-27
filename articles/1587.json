@@ -4,6 +4,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "http://news.google.de/news?sourceid=navclient-ff&ie=UTF-8&rlz=1B2GGGL_deDE176DE177&q=berufsbetreuer&btnG=News-Suche",
     "http://news.google.de/news?sourceid=navclient-ff&ie=UTF-8&rlz=1B2GGGL_deDE176DE177&q=betreuungsrecht",
@@ -31,6 +32,7 @@
   "revid": 65571,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Neuigkeitenseiten der beiden Berufsverbände"
@@ -38,6 +40,7 @@
       "text": "-Aktuelles-Seite des BdB\n-Aktuelles-Seite des BVfB"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Googeln"
@@ -45,6 +48,7 @@
       "text": "-Google-News Betreuungsrecht\n-Google-News Berufsbetreuer\n-Google-News Patientenverfügung"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Sonstige Adressen"
@@ -52,6 +56,7 @@
       "text": "-Seminarangebote für ehrenamtliche Helfer\n-uwe-ottens.de - Homepage/Weblog eines Berliner Berufsbetreuers\n-Portal für ehrenamtliche rechtliche BetreuerInnen - Ein Online-Service des BTV AWO AK"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Infos zu Betreuungen mit Auslandsberührung"
@@ -59,6 +64,7 @@
       "text": "-Internationales Vormundschaftsnetzwerk"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

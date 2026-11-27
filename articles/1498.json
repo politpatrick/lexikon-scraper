@@ -7,6 +7,7 @@
     "Adressen"
   ],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "http://www.hjr-verlag.de/imperia/md/content/hjr/produktinfo/cfmueller/1614-8983/btman_1_2007.pdf#page=26",
     "http://www.hjr-verlag.de/imperia/md/content/hjr/produktinfo/cfmueller/1614-8983/btman_1_2007.pdf#page=29"
@@ -159,6 +160,7 @@
   "revid": 66789,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -166,6 +168,7 @@
       "text": "Das 2. Betreuungsrechtsänderungsgesetz (2. BtÄndG) ist am 1.7.2005 in Kraft getreten. Es hat insbesondere das Recht der Betreuervergütung auf eine Pauschale umgestellt. Auch wurden zahlreiche weitere Gesetze geändert."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1896",
         "BGB§1901a",
@@ -177,6 +180,7 @@
       "text": "- Gegen den freien Willen des Volljährigen darf ein Betreuer nicht mehr bestellt werden (§ 1896 Abs. 1a BGB).\n- Über die Existenz von Betreuungsverfügungen und jetzt auch Vorsorgevollmachten musste das Vormundschaftsgericht unterrichtet werden (§ 1901a BGB).\n- Betreuungsvereine sind nun auch für die Beratung von Bevollmächtigten zuständig und können im Einzelfall Personen bei der Errichtung einer Vorsorgevollmacht beraten (§ 1908f BGB)."
     },
     {
+      "decisions": [],
       "norms": [
         "FGG§65",
         "FGG§68b",
@@ -190,6 +194,7 @@
       "text": "- Richter auf Probe dürfen im ersten Berufsjahr nicht eingesetzt werden (§65 FGG).\n- Das Vormundschaftsgericht kann im Einzelfall auf bereits erstellte Sachverständigengutachten des Medizinischen Dienstes der Krankenversicherung (MdK) zugreifen, ein eigenes Gerichtsgutachten ist dann nicht mehr einzuholen. Der Betroffene oder der Verfahrenspfleger müssen dem zustimmen (§ 68b FGG und § 94 SGB XI).\n- Die Überprüfungsfrist bei Betreuungsanordnungen: von 5 auf 7 Jahre verlängert (§ 69 FGG).\n- Die Bundesländer können Aufgaben von Richtern auf Rechtspfleger übertragen: Auswahl und Bestellung eines Betreuers, Bestellung eines Ergänzungs-, Verhinderungsbetreuers, Entlassung eines Betreuers und Bestellung eines neuen Betreuers (§ 19 RpflG)."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1897",
         "BGB§1899",
@@ -205,6 +210,7 @@
       "text": "- Ein neuer Berufsbetreuer soll genauer überprüft werden (Führungszeugnis, Auskunft aus Schuldnerverzeichnis) (§ 1897 Abs. 7 BGB).\n- mehrere Berufsbetreuer nur bei Sterilisation, ansonsten nur als Verhinderungsbetreuung (§ 1899 BGB).\n- Erstellung eines Betreuungsplans kann vom Richter angeordnet werden (§ 1901 Abs. 4 BGB).\n- Entlassung von Berufsbetreuern bei vorsätzlich falscher Abrechnung (§ 1908b BGB).\n- Änderung der Vergütungsstruktur: es werden pauschale Stundenansätze abhängig von der Dauer der Betreuung, dem Wohnort des Betreuten und seiner Vermögenslage eingeführt (§ 5 VBVG).\n- Änderung des Stundensatzes für Berufsbetreuer (27 €,  33,50 €,  44 €, jeweils inkl. Auslagen und Umsatzsteuer) (§ 4 VBVG).\n- Änderung des Stundensatzes für Vormünder und Pfleger (19,50 €,  25 €,  33,50 €) (§ 3 VBVG).\n\nSiehe zu den Details unter Betreuungsrechtsreform.\n\nZur neuen Pauschalvergütung siehe unter Betreuervergütung"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur"

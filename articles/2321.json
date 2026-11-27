@@ -6,6 +6,35 @@
     "Betreuungspersonen"
   ],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Urteil",
+      "az": "13 S 62/09",
+      "datum": "2009-05-15",
+      "fundstelle": null,
+      "gericht": "LG Oldenburg",
+      "id": "LG Oldenburg 13 S 62/09",
+      "label": "LG Oldenburg, Urteil vom 15.05.2009 – 13 S 62/09"
+    },
+    {
+      "art": "Urteil",
+      "az": "5 U 36/15",
+      "datum": "2016-04-28",
+      "fundstelle": null,
+      "gericht": "OLG Schleswig",
+      "id": "OLG Schleswig 5 U 36/15",
+      "label": "OLG Schleswig, Urteil vom 28.04.2016 – 5 U 36/15"
+    },
+    {
+      "art": "Beschluss",
+      "az": "XI ZR 184/09",
+      "datum": "2010-03-30",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XI ZR 184/09",
+      "label": "BGH, Beschluss vom 30.03.2010 – XI ZR 184/09"
+    }
+  ],
   "external_links": [
     "https://ao.bundesfinanzministerium.de/ao/2023/Abgabenordnung/Vierter-Teil/Zweiter-Abschnitt/Dritter-Unterabschnitt/Paragraf-154/inhalt.html#anchor42c2bb26-188a-47fd-a637-47fb31669204",
     "https://betroyt.de/podcast/#18",
@@ -135,6 +164,7 @@
   "revid": 66114,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -142,6 +172,7 @@
       "text": "Achtung: der Artikel entspricht der Rechtslage ab 1.1.2023."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1840",
         "BGB§1839",
@@ -154,6 +185,7 @@
       "text": "Seit 1.1.23 ist festgelegt, dass der Zahlungsverkehr des Betreuten grundsätzlich bargeldlos über ein Girokonto zu erfolgen hat (§ 1840 BGB).\n\nDazu hat der Betreuer ggf ein Girokonto zu eröffnen, § 1839 BGB (das geht genehmigungsfrei und ist dem Gericht mitzuteilen, § 1846 BGB). Auf ein Basiskonto hat grundsätzlich jeder einen Rechtsanspruch, § 31 ZKG.\n\nDas Guthaben auf dem Girokonto ist Verfügungsgeld, kein Anlagegeld. Dennoch ist das Giroguthaben (zusammen mit den weiteren Kontenguthaben) von der gesetzlichen Einlagensicherung (bis 100.000 €) erfasst.\n\nÜber Girokonten können Betreuer seit 2009 unbegrenzt genehmigungsfrei verfügen (§ 1849 BGB), ein Sperrvermerk kann nicht angebracht werden. Seit 1.1.2023 kann der Betreuer auch genehmigungsfrei über den eingeräumten Dispositionskredit verfügen.\n\nDer Betreuer kann Online-Banking benutzen; allerdings ist kein Geldinstitut verpflichtet, dies anzubieten. Einige Banken blockieren dies, um Betreuer zu veranlassen, einen Bankenwechsel vorzunehmen.\n\nSoweit der Betreute verschuldet ist, empfiehlt es sich, das Girokonto in ein Pfändungsschutzkonto umzuwandeln. Darauf sind derzeit (seit 1.7.23) 1409,99 € geschützt."
     },
     {
+      "decisions": [],
       "norms": [
         "FamFG§290",
         "AO§154",
@@ -165,6 +197,10 @@
       "text": "Bei einer Kontoeröffnung durch den Betreuer benötigt dieser keine Ausweispapiere des Betreuten oder dessen persönliche Anwesenheit. Es reicht nach § 1 Abs. 1 Nr. 2 ZIdPrüfV (Zahlungskonto-Identitätsprüfungsverordnung)\n\n-bei einem Betreuten die Bestellungsurkunde des Betreuers nach § 290 FamFG\n-) in Verbindung mit der Überprüfung der Identität des Betreuers anhand eines Dokuments nach § 12 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes.\n\nDies bedeutet, dass sich lediglich der Betreuer mit seinem Personalausweis oder Reisepass ausweisen muss.\n\nNach § 154 Abs. 2a AO haben sich (auch) Verfügungsberechtigte durch Vorlage ihrer Steuer-ID zu legitimieren.\n\nDas Bundesministerium der Finanzen hat in einem  Runderlass vom 11.12.2017, IV A 3-S 0325/17/10001 (BStBl I 2017, 1604) allerdings Erleichterungen u.a. für Betreuer bekannt gegeben:\n\nErleichterungen gemäß § 154 Abs. 2d AO\n\n11.1 Erleichterungen hinsichtlich der Verfügungsberechtigten\n\nNach § 154 Abs. 2d AO kann hinsichtlich der Verfügungsberechtigten  in folgenden Fällen auf die Identifizierung (Nr. 7 des AEAO zu § 154), die Aufzeichnung (Nr. 8 des AEAO zu § 154), die Herstellung der Auskunftsbereitschaft (Nr. 9 des AEAO zu § 154) und die Erhebung der steuerlichen Ordnungsmerkmale (Nr. 10 des AEAO zu § 154) verzichtet werden:\n\n-a) bei Eltern als gesetzliche Vertreter ihrer minderjährigen Kinder, wenn die Voraussetzungen für die gesetzliche Vertretung bei Kontoeröffnung durch amtliche Urkunden nachgewiesen werden,\n-b) bei Vormundschaften und Pflegschaften einschließlich Amtsvormundschaften und Amtspflegschaften, sowie bei rechtlicher Betreuung (§§ 1896 ff. BGB).\n\nAus dem Tätigkeitsbericht des Datenschutzbeauftragten Berlin 2019:\n\nBetreuerinnen und Betreuer haben sich im Zusammenhang mit der Betreuung gegenüber Dritten, also etwa Behörden, Ärzten, Kreditinstituten etc. zu legitimie­ren, um die Interessen der Betroffenen wahrnehmen zu können. Zu diesem Zweck erstellen die Betreuungsgerichte Ausweise. Solche Ausweise enthalten neben der Betreuereigenschaft auch Angaben zu den Aufgabenkreisen der Betreuerin bzw. des Betreuers. Im konkreten Fall war der Betreuer für die Vermögenssorge zu­ständig. Während der Betreuerausweis keine Informationen über die Gründe für die An­ordnung der Betreuung enthält, ist in dem Betreuungsbeschluss genau darge­stellt, welche körperlichen und/oder psychischen Erkrankungen eine Betreuung erforderlich machen. Diese weitergehenden Informationen benötigt die Bank je­doch nicht, um zu überprüfen, ob die Betreuerin bzw. der Betreuer die betroffene Person bei der Vermögenssorge vertreten kann. Die Anforderung dieser Unter­lagen war somit rechtswidrig. Die Bank hat den Fehler eingeräumt und sagte zu, sich künftig nur noch Betreuerausweise vorgelegen zu lassen. Die Betreuerin bzw. der Betreuer legitimiert sich gegenüber Dritten aus­schließlich durch die Vorlage des Betreuerausweises."
     },
     {
+      "decisions": [
+        "LG Oldenburg 13 S 62/09",
+        "XI ZR 184/09"
+      ],
       "norms": [
         "BGB§1849"
       ],
@@ -174,6 +210,7 @@
       "text": "Es kommt immer wieder zu Meinungsverschiedenheiten über die Legitimation von Betreuern. Grundsätzlich muss die einmalige Vorlage des Betreuerausweises ausreichen, jedenfalls darf eine Bank nicht verlangen, dass der Ausweis anlässlich jeder Verfügung über das Konto eines Betreuten erneut vorgelegt wird (LG Oldenburg, Urteil v. 15.9.2009, Az. 13 S 62/09; BGH, Beschl. V. 30.3.2010, Az. XI ZR 184/09). Die Abgabe einer Überweisung\nam Bankschalter wäre andernfalls jedes Mal mit unnötigem Zeitaufwand verbunden. Auf das Einräumen von Online-Banking hat der Betreuer (genau wie jeder andere Kunde) keinen Rechtsanspruch. Eine Betreuerbestellung ist aber andererseits auch kein Hinderungsgrund für Onlinebanking, zumindest seit 2009 die Verfügung über Girokonten durch Betreuer generell freigegeben wurde (§ 1849 BGB)."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1812@aF",
         "BGB§1849"
@@ -184,6 +221,9 @@
       "text": "Während bis 31.12.22 die Kündigung eines Girokontos als genehmigungspflichtig nach § 1812 BGB a.F. angesehen wurde, ist durch den neuen § 1849 BGB seit 1.1.2023 die Genehmigungspflicht entfallen."
     },
     {
+      "decisions": [
+        "OLG Schleswig 5 U 36/15"
+      ],
       "norms": [
         "BGB§676b",
         "BGB§131"
@@ -194,6 +234,7 @@
       "text": "Rechtsprechung:\n\nOLG Schleswig, Urteil vom 28.04.2016, 5 U 36/15:\n\n- Informationspflichten gemäß § 676b Abs. 2 Satz 2 BGB kann die Bank Geschäftsunfähigen gegenüber nur dadurch erfüllen, dass sie die entsprechende Information im Sinne von § 131 Abs. 1 BGB an den gesetzlichen Vertreter richtet. Die damit einhergehende fehlende Rechtssicherheit bei Rechtsgeschäften mit unerkannt Geschäftsunfähigen entspricht der grundlegenden Wertentscheidung des Gesetzgebers zugunsten der Interessen der aufgrund persönlicher Eigenschaften typischerweise schwächeren Teilnehmerinnen und Teilnehmer am rechtsgeschäftlichen Verkehr.\n-. Dem Einwand der Entreicherung einer Geschäftsunfähigen steht nicht entgegen, dass ein Erstattungsanspruch gegen die kontoführende Bank wegen einer verschuldeten Versäumung der Frist des § 676b Abs. 2 Satz 1 BGB ausgeschlossen ist."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Schutz vor Veruntreuung"
@@ -201,6 +242,7 @@
       "text": "OLG Schleswig, Art v 28.11.2013 - 5 W 40/13; NJW-RR 2014, 741\n\nAblehnung der Durchführung von Überweisungsaufträgen bei Verdacht des Missbrauchs der Vertretungsmacht\n\n- Bei Fehlen der gesetzlichen Voraussetzungen darf die Bank einen Überweisungsauftrag gemäß §§ 675 c ff., 675 j, 675 o BGB ablehnen. Eine wirksame Autorisierung liegt nur dann vor, wenn der Zahlungsdienstnutzer (= Auftraggeber) tatsächlich berechtigt ist, über das Konto zu verfügen. Die Zustimmung kann auch durch einen Vertreter des Zahlers erfolgen, soweit eine Vertretung zulässig und Vertretungsmacht gegeben ist.\n- Aus dem Girovertrag ergibt sich für ein Kreditinstitut die Schutzpflicht, die Interessen seiner Kunden zu wahren. Eine entsprechende Warnpflicht ist im Überweisungsverkehr dann anzunehmen, wenn sich der Verdacht des Missbrauchs der Vertretungsmacht aufdrängt. Im Rahmen der Abwicklung des Zahlungsverkehrs genügt es, wenn die Bank aufgrund einer auf massiven Verdachtsmomenten beruhenden objektiven Evidenz den Verdacht einer Veruntreuung schöpft."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Podcast betroyt.de"
@@ -208,6 +250,7 @@
       "text": "-Betroyt-de-Podcast von Rechtsanwalt Roy Kreutzer zum Thema Girokonto\n-Podcast betroyt.de zur Reform 2023 bei der Vermögenssorge"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -215,6 +258,7 @@
       "text": "-Rechnungslegung, e-Rechnung\n-Mitteilungspflicht, Mitwirkungspflicht, Vermögensverzeichnis, Schuldnerverzeichnis, Persönliches Budget\n-Befreiter Betreuer\n-Selbstverwaltungserklärung, Verfügungsgeld, Anlagegeld\n-Arbeitsvertrag, Rente\n-Bankvollmacht, Vollmachtswiderruf\n-Bestattungsvertrag, Bestattung, Erbausschlagung"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur"
@@ -222,6 +266,7 @@
       "text": "-Bienwald: Abhebungen vom Betreutenkonto durch Betreuer und Betreuten; Rpfl.-Stud.hefte 2013, 45\n-Grziwotz: Girokontoverwaltung ohne Kontrolle?, FamRZ 2008, 1908"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Weblinks"

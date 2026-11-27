@@ -4,6 +4,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -66,6 +67,7 @@
   "revid": 65837,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -73,6 +75,7 @@
       "text": "Achtung: Die Seite entspricht der Rechtslage ab 1.1.23."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1863",
         "BGB§1816"
@@ -83,6 +86,7 @@
       "text": "Seit 1.1.23 ist zu Beginn der Betreuung seitens des Betreuers ein Anfangsbericht zu erstellen (§ 1863 Abs. 1 BGB).\n\nFür ehrenamtliche Betreuer aus dem familiären Umfeld (entsprechend § 1816 Abs. 3 BGB), die sogenannte \"befreite Betreuer\" sind, soll stattdessen ein Anfangsgespräch bzw. ein Erörterungsgespräch geführt werden."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1863",
         "GVG§170"
@@ -93,6 +97,7 @@
       "text": "An dem Gespräch sollen folgende Personen teilnehmen (§ 1863 Abs. 2 BGB):\n\n- der Rechtspfleger des Betreuungsgerichts (§ 3 Rechtspflegergesetz)\n- der Betreute\n- der ehrenamtliche Betreuer.\n\nOb weitere Personen teilnehmen dürfen, ergibt sich nicht aus der o.g. Bestimmung. Im Sinne von § 170 GVG dürfte aber eine weitere Vertrauensperson auf Wunsch des Betreuten teilnehmen dürfen."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1821"
       ],
@@ -102,6 +107,7 @@
       "text": "- persönliche Situation des Betreuten,\n- Ziele der Betreuung, bereits durchgeführte und beabsichtigte Maßnahmen, insbesondere im Hinblick auf § 1821 Abs. 6 BGB (Rehabilitationsgebot)\n-Wünsche des Betreuten hinsichtlich der Betreuung (§ 1821 Abs. 2 BGB).\n\nEine Protokollierung durch den Rechtspfleger dürfte üblich sein (vergleiche: Dokumentationspflicht)."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

@@ -6,6 +6,98 @@
     "Betreuungspersonen"
   ],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Beschluss",
+      "az": "301 T 69/03",
+      "datum": "2003-03-19",
+      "fundstelle": null,
+      "gericht": "LG Hamburg",
+      "id": "LG Hamburg 301 T 69/03",
+      "label": "LG Hamburg, Beschluss vom 19.03.2003 – 301 T 69/03"
+    },
+    {
+      "art": "Beschluss",
+      "az": "7 T 359/23",
+      "datum": "2023-12-08",
+      "fundstelle": null,
+      "gericht": "LG Lübeck",
+      "id": "LG Lübeck 7 T 359/23",
+      "label": "LG Lübeck, Beschluss vom 08.12.2023 – 7 T 359/23"
+    },
+    {
+      "art": "Beschluss",
+      "az": "33 Wx 179/08",
+      "datum": "2008-09-24",
+      "fundstelle": null,
+      "gericht": "OLG München",
+      "id": "OLG München 33 Wx 179/08",
+      "label": "OLG München, Beschluss vom 24.09.2008 – 33 Wx 179/08"
+    },
+    {
+      "art": "Beschluss",
+      "az": "V ZB 202/09",
+      "datum": "2010-04-29",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "V ZB 202/09",
+      "label": "BGH, Beschluss vom 29.04.2010 – V ZB 202/09"
+    },
+    {
+      "art": "Beschluss",
+      "az": "XII ZB 344/12",
+      "datum": "2012-11-14",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZB 344/12",
+      "label": "BGH, Beschluss vom 14.11.2012 – XII ZB 344/12"
+    },
+    {
+      "art": "Beschluss",
+      "az": "XII ZB 386/20",
+      "datum": "2021-01-13",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZB 386/20",
+      "label": "BGH, Beschluss vom 13.01.2021 – XII ZB 386/20"
+    },
+    {
+      "art": "Beschluss",
+      "az": "XII ZB 43/11",
+      "datum": "2011-06-08",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZB 43/11",
+      "label": "BGH, Beschluss vom 08.06.2011 – XII ZB 43/11"
+    },
+    {
+      "art": null,
+      "az": "XII ZB 493/15",
+      "datum": null,
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZB 493/15",
+      "label": "BGH – XII ZB 493/15"
+    },
+    {
+      "art": null,
+      "az": "XII ZB 582/15",
+      "datum": null,
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZB 582/15",
+      "label": "BGH – XII ZB 582/15"
+    },
+    {
+      "art": "Beschluss",
+      "az": "XII ZB 634/14",
+      "datum": "2016-03-02",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "XII ZB 634/14",
+      "label": "BGH, Beschluss vom 02.03.2016 – XII ZB 634/14"
+    }
+  ],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -209,6 +301,7 @@
   "revid": 66624,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -216,6 +309,7 @@
       "text": "Artikel entspricht der Rechtslage ab 1.1.2023."
     },
     {
+      "decisions": [],
       "norms": [
         "GGArt.103",
         "FamFG§26",
@@ -227,6 +321,7 @@
       "text": "Das Sachverständigengutachtens, der Sozialbericht sowie alle weiteren relevanten Dinge des Betreuungsverfahrens werden mit dem Betroffenen in einer Anhörung erörtert, sofern dies zur Wahrung des rechtlichen Gehörs (Art. 103 Grundgesetz ) oder zur Sachverhaltsaufklärung (§ 26 FamFG ) notwendig ist, § 37 FamFG. An der Anhörung soll auch der Verfahrenspfleger teilnehmen."
     },
     {
+      "decisions": [],
       "norms": [
         "VBVG§7",
         "BtOG§19",
@@ -242,6 +337,7 @@
       "text": "Der Beschluss, mit dem die Betreuerbestellung erfolgt (§ 286 FamFG), muss folgende Angaben enthalten:\n\n- Name des Betroffenen,\n- Name des Betreuers,\n- Bezeichnung des Aufgabenkreises (§ 1815 BGB) des Betreuers,\n- ob und wenn ja, für welche Aufgabenbereiche (innerhalb des Aufgabenkreises) ein Einwilligungsvorbehalt angeordnet wurde,\n- Datum der Überprüfung der Betreuungsanordnung (maximal nach 7 Jahren, bei Anordnung gegen den Willen des Betreuten nach 2 Jahren, § 295 FamFG)\n- Name des Vereins oder der Behörde, sofern der Betreuer Mitarbeiter eines Betreuungsvereins oder der Betreuungsbehörde ist,\n- falls ein Berufsbetreuer bestellt wurde, die Tatsache, dass diese Betreuung beruflich geführt wird (§ 7 VBVG).\n\nLetzteres ist nur noch nachrichtlich, weil sich der Vergütungsanspruch seit 1.1.23 direkt aus § 7 VBVG iVm. § 19 Abs. 2 BtOG, also der Registrierung als Berufsbetreuer ergibt.\n\nDer Beschluss muss auch eine Rechtsmittelbelehrung beinhalten (§ 39 FamFG). Das mögliche Rechtsmittel ist die Beschwerde, die der Betreute und weitere Personen binnen eines Monats einlegen können (§ 303 FamFG)."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1825",
         "FamFG§295"
@@ -252,6 +348,9 @@
       "text": "In der gerichtlichen Entscheidung über die Bestellung eines Betreuers bzw. die Anordnung eines Einwilligungsvorbehaltes (§ 1825 BGB) ist auch der Zeitpunkt zu nennen, zu dem die Anordnung erneut in einem gerichtlichen Verfahren überprüft wird (§ 295 FamFG). Der Zeitraum darf höchstens 7 Jahre betragen. Bei Gerichtsentscheidungen gegen den Willen des Betreuten ist die Frist 2 Jahre. Der Beschluss ist bekannt zu machen."
     },
     {
+      "decisions": [
+        "XII ZB 344/12"
+      ],
       "norms": [
         "FamFG§280",
         "FamFG§286"
@@ -262,6 +361,7 @@
       "text": "BGH, Beschluss vom 14.11.2012, XII ZB 344/12:\n\nDie gutachterliche Stellungnahme des Sachverständigen über die voraussichtliche Dauer der Maßnahme (§ 280 Abs. 3 Nr. 5 FamFG) ist wesentlicher Anhaltspunkt für die Bestimmung der Überprüfungsfrist für die angeordnete Betreuung (§ 286 Abs. 3 FamFG). Weicht der Tatrichter von der gutachterlichen Stellungnahme ab, indem er die Überprüfungsfrist zum Nachteil des Betroffenen über die vom Sachverständigen als erforderlich bezeichnete Dauer der Maßnahme hinaus ausdehnt, muss er die hierfür tragenden Gründe in dem Beschluss darlegen."
     },
     {
+      "decisions": [],
       "norms": [
         "FamFG§40",
         "FamFG§287",
@@ -278,6 +378,17 @@
       "text": "Die gerichtliche Entscheidung wird dem Betroffenen bekannt gegeben (§§ 40, 287 FamFG  ). Die Entscheidungsgründe müssen nicht bekannt gegeben werden, wenn nach ärztlichem Zeugnis dies für den Betroffenen einen gesundheitlichen Nachteil bedeuten würde (§ 288 FamFG). Die Betreuungsbehörde und der Verfahrenspfleger werden ebenfalls informiert.\n\nUnter bestimmten Umständen erhalten auch weitere Stellen, z.B. andere Gerichte und Behörden, wie die Meldebehörde oder die Einrichtung, in der der Betreute untergebracht ist, Nachricht von der Betreuerbestellung (vgl. §§ 308 - 311 FamFG).\n\nDer Betreute, der Betreuer, die Betreuungsbehörde sowie ggf. weitere Personen können Beschwerde einlegen (§§ 59, 303, 304 FamFG)."
     },
     {
+      "decisions": [
+        "LG Hamburg 301 T 69/03",
+        "OLG München 33 Wx 179/08",
+        "XII ZB 43/11",
+        "XII ZB 634/14",
+        "XII ZB 386/20",
+        "V ZB 202/09",
+        "LG Lübeck 7 T 359/23",
+        "XII ZB 493/15",
+        "XII ZB 582/15"
+      ],
       "norms": [
         "VBVG§7",
         "BtOG§19",
@@ -289,6 +400,7 @@
       "text": "LG Hamburg, Beschluss vom 19. März 2003 – 301 T 69/03, FamRZ 2003, 1323\n\n- Die Tatsache, dass die Betreuerin ihre Privatanschrift \"geheim halten will\" stellt ihre Eignung als Betreuerin nicht in Frage. Dies ist insbesondere deswegen der Fall, weil die Erreichbarkeit der Betreuerin über andere Möglichkeiten gewährleistet und sichergestellt ist. So ist sie postalisch unter der Postfachanschrift, telefonisch über Mobiltelefon oder Anrufbeantworter sowie über Fax und E-Mail für die Betreute und Dritte erreichbar. Damit ist die Eignung, die Angelegenheiten der Betreuten zu besorgen, hinreichend gewährleistet.\n- Zudem besteht ein schützenswertes Interesse der Betreuerin an der Geheimhaltung ihrer Privatanschrift. Bekanntermaßen kommt es in Betreuungsverfahren immer wieder vor, dass die an diesem Verfahren beteiligten Personen mit Gefahren für Leib und Leben bedroht werden.\n\nOLG München, Beschluss vom 24.9.2008, 33 Wx 179/08; FamRZ 2009, 250 = FGPrax 2008, 248 = NJW-RR 2009, 221 = MDR 2009, 207:\n\nEin Betreuer kann auch vorab mündlich z.B. in einem Telefongespräch mit dem zuständigen Richter, bestellt werden. Für den Beginn der Betreuung ist dieses Datum auch dann maßgebend, wenn der schriftlich niedergelegte Beschluss erst zu einem späteren Zeitpunkt der Geschäftsstelle zur Bekanntmachung übergeben wird. - gilt nicht mehr seit 1.9.2009 !-\n\nBGH, Beschluss vom 08.06.2011,  XII ZB 43/11, NJW 2011, 2577 = MDR 2011, 917 = FGPrax 2011, 232 (Ls.) = FamRZ 2011, 1289:\n\nSieht das Betreuungsgericht von der vollständigen schriftlichen\nBekanntgabe eines Gutachtens an den Betroffenen ab, weil zu besorgen\nist, dass die Bekanntgabe die Gesundheit des Betroffenen schädigen oder\nzumindest ernsthaft gefährden werde, muss ein Verfahrenspfleger\nbestellt, diesem das Gutachten übergeben werden und die Erwartung\ngerechtfertigt sein, dass der Verfahrenspfleger mit dem Betroffenen über\ndas Gutachten spricht.\n\nLandgericht Hildesheim, Beschl. vom 21.07.2015, 5 T 151/15\n\nPostfachadresse des Betreuers ist ausreichend.\n\nEntgegen der Ansicht der Verfahrenspflegerin seien keine Bedenken zu erheben, weil die Betreuerin als ladungsfähige Anschrift lediglich ihre Postfachnummer angegeben hatte. Das Landgericht sah dies nicht als Kriterium für die fehlende Eignung der rechtlichen Betreuerin an.  Ob und auf welche Weise der Kontakt zu einem berufsmäßig tätigen Betreuer möglich ist, ist seiner Entscheidung vorbehalten. Es ist nicht gesetzlich vorgeschrieben, dass ein Betreuer außer über das Telefon auch unmittelbar in seinem Büro durch Angabe der Anschrift erreichbar ist. Entscheidend sei vielmehr, dass die betreute Person weiß, auf welchem Wege sie ihren Betreuer kontaktieren kann. Die Betreuerin hatte im Fall in ihrem Briefbogen die Kommunikation sichergestellt, weil sie neben dem Postfach die Festnetz- und Mobilfunknummer sowie Fax und E-Mail-Adresse angegeben hatte. Folglich war die Betreuerin für die betreute Person umfassend erreichbar. Aber auch Zustellungen können über die Postfachadresse wirksam bewirkt werden. Das Landgericht wies darauf hin, dass nach Erlass des Zustellungsreformgesetzes vom 25.06.2001 die Zustellung über ein Postfach erfolgen kann.\n\nBGH, Beschluss vom 2. März 2016 - XII ZB 634/14:\n\nEine Teilanfechtung nur der Betreuungsanordnung ist anders als die Teilanfechtung der Betreuerauswahl nicht möglich (Abgrenzung zu Senatsbeschluss vom 3. Februar 2016 XII ZB 493/15 zur Veröffentlichung bestimmt).\n\nBGH, Beschluss vom 13. Januar 2021 - XII ZB 386/20\n\n- Auch im Betreuungsverfahren hat die Zustellung an den für den Rechtszug bestellten Verfahrensbevollmächtigten und nicht an den Betroffenen selbst zu erfolgen. Eine gleichwohl an den anwaltlich vertretenen Betroffenen vorgenommene Zustellung ist wirkungslos und setzt Fristen nicht in Lauf (im Anschluss an BGH Beschluss vom 29. April 2010 - V ZB 202/09 - juris und Senatsbeschluss vom 11. Mai 2016 - XII ZB 582/15 - FamRZ 2016, 1259).\n- Haben sich für einen Beteiligten mehrere Verfahrensbevollmächtigte mit umfassender Zustellungsvollmacht bestellt, so ist für den Beginn des Laufs von verfahrensrechtlichen Fristen die zeitlich erste Zustellung an einen von ihnen ausschlaggebend.\n\nLG Lübeck, Beschluss v 08.12.2023, 7 T 359/23\n\n§ 7 VBVG (2023) in Verbindung mit §§ 19 Abs. 2, 32 Abs. 1 Satz 6 BtOG richtet sich nur an „berufliche“ Betreuer, die vor dem 01.01.2023 mindestens eine Betreuung berufsmäßig geführt haben und weiterhin führen. Der die Vergütung beantragende Betreuer kann dies beispielsweise belegen durch Vorlage eines aktuellen Bestellungsbeschlusses."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur"
@@ -296,6 +408,7 @@
       "text": "-Bienwald: Vorlage des Ausweises oder des Bestellungsbeschlusses; Rpfl-Stud 2021, 205\n-Formella: Aufsicht über die persönliche Betreuung; Rpfleger 1994, 238\n-ders.: Das Einführungsgespräch; BtPrax 1995, 198\n-Giers: Die Vollstreckung nach dem FamFG - Ausbilck; FPR 2008, 441\n-Mroß, Zustellung bei rechtlicher Betreuung – Änderung unter dem Radar, DGVZ 2025, 219\n-Rink: Anforderungen an das Vormundschaftsgericht aufgrund des neuen BtG; FuR 1990, 253\n-ders.: Kritische Anmerkungen zum Verfahren in Betreuungs- und Unterbringungssachen; R&P 1991, 148\n-ders.: Einheitsentscheidung im neuen Betreuungsrecht? Rpfleger 1989, 14\n-ders.: Die Wirksamkeit von Entscheidungen in Betreuungs- und Unterbringungssachen; FamRZ 1992, 1011\n-Ruhl: Einstweilige Anordnungen im Betreuungs- und Unterbringungsrecht; FuR 1994, 254\n-Wesche: Zur Einheitsentscheidung im neuen Betreuungsrecht; Rpfleger 1989, 225"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

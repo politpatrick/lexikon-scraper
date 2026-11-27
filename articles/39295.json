@@ -5,6 +5,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "https://www.bfarm.de/DE/Home/_node.html",
     "https://www.bundesgesundheitsministerium.de/e-rezept.html"
@@ -54,6 +55,7 @@
   "revid": 66078,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "SGBV§86",
         "StGB§267"
@@ -64,6 +66,7 @@
       "text": "Das E-Rezept, d.h. die elektronische Verordnung oder Verschreibung für den Patienten durch seinen Arzt oder seine Ärztin, ist für verschreibungspflichtige Arzneimittel in Deutschland seit dem 01.01.2024 zur Regel geworden. Die Verwendung von Verordnungen und Empfehlungen in elektronischer Form wurde in § 86 SGB V sozialgesetzlich vorbereitet. Es geht dabei um sogenannte Bundesmantelverträge zwischen den Kassenärztlichen Bundesvereinigungen und dem Spitzenverband Bund der Krankenkassen in Deutschland.\n\nDie verpflichtende Einführung des E-Rezepts mit Hilfe der deutschen Telematikinfrastruktur hat die jahrelange „Zettelwirtschaft“ im Gesundheitswesen beendet. Die früheren Arztrezepte auf Papier werden zur rechtssicheren Abrechnung der Arzneimittelkosten des krankenversicherten Patienten heute nicht mehr benötigt. Bekanntlich konnten in Einzelfällen auch solche Arztrezepte gefälscht werden (= Urkundenfälschung § 267 StGB)."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -71,6 +74,7 @@
       "text": "- digitale Barrierefreiheit, Assistenzleistungen\n- IT-Sicherheit, Datenschutz, Interoperabilität, Software\n- Rechtsverkehr in Deutschland, Forensik\n- elektronischer Identitätsnachweis\n- Medikationsplan, Checkliste für Arztgespräche, Arztzeugnis, Schweigepflicht\n- e-Rechnung, Nutzungspflicht\n- Was ist neu?\n- Gesundheitsdatennutzungsgesetz, Geheimhaltungspflicht\n- Krankenhaussozialdienst"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Weblinks"

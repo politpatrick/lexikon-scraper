@@ -4,6 +4,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "https://betroyt.de/podcast/folge-237-alle-3-jahre-mitteilungs-u-nachweispflicht-nach-dem-btog/",
     "https://fs.egov.sachsen.de/formserv/findform?shortname=smjus_bs_204c&formtecid=2&areashortname=SMJus"
@@ -181,6 +182,7 @@
   "revid": 65948,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -188,6 +190,7 @@
       "text": "Für rechtliche Betreuer bestehen mehrere gesetzliche Mitteilungspflichten:"
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1864",
         "BGB§1818",
@@ -206,6 +209,7 @@
       "text": "- Der Betreuer hat dem Gericht gem. § 1864 Abs. 1 BGB wesentliche Änderungen der persönlichen und wirtschaftlichen Verhältnisse des Betreuten unverzüglich mitzuteilen. Dazu gehört zB eine Erbschaft.\n-Der Betreuer hat dem Gericht nach § 1864 Abs. 2 BGB folgende Umstände mitzuteilen:\n-die eine Aufhebung der Betreuung oder des Einwilligungsvorbehalts ermöglichen,\n-die eine Einschränkung des Aufgabenkreises des Betreuers ermöglichen,\n-die die Erweiterung des Aufgabenkreises des Betreuers erfordern,\n-die die Bestellung eines weiteren Betreuers erfordern,\n-die die Anordnung eines Einwilligungsvorbehaltes erfordern und\n-aus denen sich bei einer beruflich geführten Betreuung ergibt, dass die Betreuung zukünftig ehrenamtlich geführt werden kann.\n- Der Betreuungsverein oder die Betreuungsbehörde als Betreuer ist gemäß § 1818 Abs. 3 BGB zur Mitteilung an das Betreuungsgericht verpflichtet, wenn ihnen Umstände bekannt werden, aus denen sich ergibt, dass der Volljährige durch eine oder mehrere natürliche Personen hinreichend betreut werden kann.\n-Der Betreuer hat das Gericht nach § 1838 Abs. 2 BGB von abweichenden Wünschen des Betreuten bez. der Geldanlage zu informieren.\n- Der Betreuer hat dem Betreuungsgericht gemäß § 1846 Abs. 1 BGB unverzüglich anzuzeigen, wenn er ein Girokonto, ein Anlagekonto oder ein Depot für den Betreuten eröffnet, Wertpapiere des Betreuten hinterlegt oder Wertpapiere des Betreuten gemäß § 1843 Absatz 3 BGB nicht in einem Depot verwahrt oder hinterlegt.\n- Der Betreuer hat Beginn, Art und Umfang eines neuen Erwerbsgeschäfts gemäß § 1847 BGB im Namen des Betreuten beim Betreuungsgericht anzuzeigen; ebenso die Aufgabe eines bestehenden Erwerbsgeschäfts des Betreuten.\n-Der Betreuer hat den Tod des Betreuten dem Gericht mitzuteilen, einen Schlussbericht zu erstellen und den Betreuerausweis zurückzugeben (§§ 1863 Abs. 4, 1870 BGB iVm. § 290 Abs. 3 FamFG).\n-Der Berufsbetreuer (bzw. der Betreuungsverein} hat bei einer Dauervergütung unverzüglich Änderungen mitzuteilen, die sich auf die Höhe der Vergütung  auswirken, § 14 Abs. 2 VBVG."
     },
     {
+      "decisions": [],
       "norms": [
         "BtOG§25",
         "BtOG§28",
@@ -219,6 +223,7 @@
       "text": "-Der Berufsbetreuer hat der Stammbehörde nach § 25 Abs. 1 BtOG alle Umstände mitzuteilen, die für die Registrierung relevant sind, zB die Einleitung eines Straf- oder Insolvenzverfahrens.\n-Der Berufsbetreuer hat nach einem Umzug die neu zuständige Stammbehörde zu informieren, § 28 Abs. 1 BtOG.\n-Der Berufsbetreuer hat der Stammbehörde den Bescheid nach § 8 Abs. 3 VBVG (verbindliche Vergütungseinstufung) mitzuteilen, § 25 Abs. 3 BtOG.\n-Der Berufsbetreuer hat die Stammbehörde über stattgefunden Fortbildungen zu informieren, § 29 BtOG.\n-Der Betreuungsverein hat der Stammbehörde das Ende des Beschäftigungsverhältnisses eines Vereinsbetreuers mitzuteilen (§ 13 Abs. 2 BtRegV)."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Videos und Podcasts"
@@ -226,6 +231,7 @@
       "text": "-Neu: Podcast betroyt.de zu den nachträglichen Mitteilungspflichten bei Berufsbetreuern an die Stammbehörde"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Formulare"
@@ -233,6 +239,7 @@
       "text": "-Formular Mitteilung nach § 1846/1847 BGB, PDF"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

@@ -8,6 +8,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "https://dserver.bundestag.de/btd/20/018/2001888.pdf",
     "https://e1.pcloud.link/publink/show?code=XZ3BfLZubRBUWbTJHmb7diAFEfKuRITJiBy",
@@ -340,6 +341,7 @@
   "revid": 65813,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -347,6 +349,7 @@
       "text": "Basisdaten\n Volltitel:  Betreuungsorganisationsgesetz\n Kurztitel:  Betreuungsorganisationsgesetz\n Abkürzung:  BtOG\n Art:  Bundesgesetz\n Geltungsbereich:  Bundesrepublik Deutschland\n Rechtsmaterie:  Betreuungsrecht, Verwaltungsrecht, Berufsrecht\n Fundstellennachweis:  404-33\n Datum des Gesetzes:   4.5.2021 (BGBl. I S. 882/917)\n Inkrafttreten:   01.01.2023\n Letzte Änderung:  Gesetz vom 24.6.2022\n(BGBl. I S. 954)\n Außerkrafttreten:"
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1908f@aF"
       ],
@@ -356,6 +359,7 @@
       "text": "Das Betreuungsorganisationsgesetz (BtOG) ist ein Teil der 2021 verabschiedeten und am 1.1.2023 in Kraft tretenden Betreuungsrechtsreform (dessen Artikel 9). Es ersetzt u.a. das bisherige Betreuungsbehördengesetz (BtBG).\n\nAllerdings geht das BtOG über das Betreuungsbehördengesetz hinaus. Es enthält neben den erweiterten Aufgaben der Betreuungsbehörde auch Bestimmungen über die Anerkennung, die Arbeit und Finanzierung der Betreuungsvereine (bisher in § 1908f BGB a.F.) und über den Status von rechtlichen Betreuern. Bei letzterem sind vor allem die Bestimmungen über die zum 1.1.2023 neu eingeführte Registrierung beruflicher Betreuer zu erwähnen.\n\nDas BtOG wird zu diesem Punkt durch eine Rechtsverordnung, die Betreuerregistrierungsverordnung (BtRegV) konkretisiert, die im Juli 2022 veröffentlicht wurde. Hier werden Einzelheiten der Registrierung, insbesondere des neuen Sachkundenachweises, geregelt."
     },
     {
+      "decisions": [],
       "norms": [
         "BtOG§1",
         "BtOG§2",
@@ -370,6 +374,7 @@
       "text": "-Sachliche Zuständigkeit und Durchführung überörtlicher Aufgaben, § 1\n-Örtliche Zuständigkeit, § 2\n-Fachkräfte, § 3\n-Verarbeitung personenbezogener Daten durch die Behörde, § 4"
     },
     {
+      "decisions": [],
       "norms": [
         "BtOG§5",
         "BtOG§6",
@@ -389,6 +394,7 @@
       "text": "--Informations- und Beratungspflichten, § 5\n-Förderungsaufgaben, § 6\n-Öffentliche Beglaubigung; § 7 Verordnungsermächtigung\n-Beratungs- und Unterstützungsangebot, Vermittlung geeigneter Hilfen und erweiterte Unterstützung, § 8\n-Mitteilungen an das Betreuungsgericht und die Stammbehörde, § 9\n-Mitteilung an Betreuungsvereine, § 10\n-Aufgaben im gerichtlichen Verfahren, § 11\n-Betreuervorschlag, § 12\n-Weitere Aufgaben, § 13"
     },
     {
+      "decisions": [],
       "norms": [
         "BtOG§14",
         "BtOG§15",
@@ -403,6 +409,7 @@
       "text": "--Anerkennung, § 14\n-Aufgaben kraft Gesetzes, § 15\n-Aufgaben kraft gerichtlicher Bestellung, § 16\n-Finanzielle Ausstattung, § 17\n-Verarbeitung personenbezogener Daten durch den Verein, § 18"
     },
     {
+      "decisions": [],
       "norms": [
         "BtOG§19",
         "BtOG§20"
@@ -415,6 +422,7 @@
       "text": "--Begriffsbestimmung, § 19\n-Verarbeitung personenbezogener Daten durch den Betreuer, § 20"
     },
     {
+      "decisions": [],
       "norms": [
         "BtOG§21",
         "BtOG§22"
@@ -427,6 +435,7 @@
       "text": "--Voraussetzung für eine ehrenamtliche Tätigkeit, § 21\n-Abschluss einer Vereinbarung über Begleitung und Unterstützung, § 22"
     },
     {
+      "decisions": [],
       "norms": [
         "BtOG§23",
         "BtOG§24",
@@ -445,6 +454,7 @@
       "text": "--Registrierungsvoraussetzungen; Verordnungsermächtigung, § 23\n-Registrierungsverfahren; Verordnungsermächtigung, § 24\n-Mitteilungs- und Nachweispflichten beruflicher Betreuer, § 25\n-Umgang mit den für die Registrierung relevanten Daten, § 26\n- Widerruf, Rücknahme und Löschung der Registrierung, § 27\n-Wechsel des Sitzes oder Wohnsitzes, § 28\n-Fortbildung, § 29\n-Leistungen an berufliche Betreuer, § 30"
     },
     {
+      "decisions": [],
       "norms": [
         "BtOG§31"
       ],
@@ -455,6 +465,7 @@
       "text": "--Beratung und Übermittlung von Informationen durch Geheimnisträger bei Gefährdung von Betreuten, § 31"
     },
     {
+      "decisions": [],
       "norms": [
         "BtOG§32",
         "BtOG§33",
@@ -467,6 +478,7 @@
       "text": "--Registrierung von bereits tätigen beruflichen Betreuern, § 32\n--Vorläufige Registrierung,\n-§ 33\n-Übergangsvorschrift zur Beglaubigung, § 34"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -474,6 +486,7 @@
       "text": "-Gesetzgebung in Deutschland\n-Rechtsprechung in Deutschland\n-BtOG - Volltext\n-Empfehlungen des Rechtsausschusses zur Reparaturnovelle, 18.5.2022 (PDF)\n-Synopse zum BtOG/BtBG inkl. „Reparaturnovelle“, zusammengestellt von Guy Walther, (PDF)\n-Orientierungshilfe Orgaaufwand und Stellenbedarf (Arbeitsgruppe Deutscher Verein, PDF)\n-Tabelle dazu (XLSX)\n-Elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht\n-Dokumentationspflicht\n-Was ist neu?\n-Datenschutz, IT-Sicherheit\n-Unterstützungspflicht\n-Pflicht zur Betreuungsübernahme?"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur zur Reform",
@@ -482,6 +495,7 @@
       "text": "-Bürkel/Plitzko: Das neue Betreuungsorganisationsgesetz, 2. Aufl Walhalla 2022\n-Deinert/Walther: Handbuch Betreuungsbehörde, 2023\n- Joecker: Das neue Betreuungsrecht, Reguvis, 2021\n-Mazur (Hrsg.): Textsynopse zum Gesetz zur Reform des Vormundschafts- und Betreuungsrechts, Beck 2022"
     },
     {
+      "decisions": [],
       "norms": [
         "BtOG§30"
       ],

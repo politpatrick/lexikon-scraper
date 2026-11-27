@@ -5,6 +5,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "https://www.bfarm.de/DE/Home/_node.html",
     "https://www.ias.uni-stuttgart.de/service/begriffslexikon/bedeutung-der-interoperabilitaet-fuer-das-internet-der-dinge/"
@@ -91,6 +92,7 @@
   "revid": 66806,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -98,6 +100,7 @@
       "text": "Interoperabilität ist ein Fachbegriff, mit dem die Fähigkeit eines elektronischen Systems bezeichnet wird, das online oder auch offline mit anderen Systemen zusammenarbeiten kann, ohne dass die Daten vorher extra konvertiert werden müssen. Interoperabilität im deutschen Gesundheitswesen wird für eine gut funktionierende deutsche Telematikinfrastruktur zunehmend gesetzlich vorgeschrieben."
     },
     {
+      "decisions": [],
       "norms": [
         "SGBV§386",
         "SGBXI§109a"
@@ -108,6 +111,7 @@
       "text": "Im § 386 SGB V wird ein neues Recht auf Interoperabilität im deutschen Gesundheitswesen gesetzlich an die Krankenkassen verliehen. Demnach tauschen die von der gesetzlichen Krankenversicherung rechtlich anerkannten Leistungserbringer des deutschen Gesundheitswesens ihre Patientendaten zukünftig im interoperablen Format aus. Auch die Versicherten können verlangen, dass ihre personenbezogenen Gesundheitsdaten, die in der Europäischen Union dem strengen Datenschutz unterliegen, im interoperablen Format herausgegeben werden – unverzüglich und kostenfrei!\n\nIm § 109a SGB XI wird im Prinzip das gleiche Recht auf Interoperabilität an die Pflegekassen verliehen."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "einheitliche Kodiersysteme"
@@ -115,6 +119,7 @@
       "text": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme (ICD) ist das einheitliche Kodiersystem bzw. die Klassifikation für Diagnosen in der ambulanten und stationären Gesundheitsversorgung in Deutschland. Es gibt noch weitere Klassifikationen, die zur korrekten Abrechnung der Kosten im Gesundheitswesen sehr wichtig sind."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "semantische Interoperabilität"
@@ -122,6 +127,7 @@
       "text": "Semantik ist der sprachwissenschaftliche (linguistische) Fachbegriff, der aus dem Griechischen stammt und die Bedeutungslehre für den jeweiligen Sprachlaut oder für die Wörter bezeichnet. Sowohl gesprochene Sprachen als auch Programmiersprachen sind Zeichensysteme, mit deren Hilfe Menschen sprachlich miteinander kommunizieren können. Eine semantische Interoperabilität ist immer dann zwischen zwei verschiedenen Systemen gegeben, wenn die jeweiligen Bedeutungen der übertragenen Zeichen im Empfängersystem und im Sendersystem inhaltlich übereinstimmen."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "syntaktische Interoperabilität"
@@ -129,6 +135,7 @@
       "text": "Syntax ist der sprachwissenschaftliche (linguistische) Fachbegriff für die Satzlehre. Das griechische Wort ‚syntaxis‘ bedeutet Zusammenfügung. Die Satzlehre ist ein Teil der sprachlichen Grammatik. Sie zerlegt den Satz in Satzglieder (zum Beispiel Subjekt, Prädikat, Objekt) und untersucht die verschiedenen Satzarten nach Wortstellung und Satzbetonung. Eine syntaktische Interoperabilität ist in der Datenverarbeitung dann gegeben, wenn die Gliederung der Datensätze vom Sendersystem gleichbleibend in das Empfängersystem übernommen wird."
     },
     {
+      "decisions": [],
       "norms": [
         "SGBV§354",
         "SGBV§355"
@@ -139,6 +146,7 @@
       "text": "Im 4. Untertitel für die elektronische Patientenakte werden die Festlegungen für technische Voraussetzungen und semantische und syntaktische Interoperabilität von Daten gesetzlich geregelt (§ 354 SGB V und § 355 SGB V) - ein riesiges (europäisches) IT-Infrastrukturprojekt!"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -146,6 +154,7 @@
       "text": "- elektronische Patientenakte, e-Rechnung, Nutzungspflicht\n- digitale Barrierefreiheit, Assistenzleistungen, Gesamtplanverfahren, Vorsorgeregister\n- IT-Sicherheit, Datenschutz, Software, Betreuer Cockpit, Was ist neu?\n- Gesundheitsdatennutzungsgesetz, Betreuungsarbeitsgemeinschaft\n- Informationspflicht, Checkliste für Arztgespräche\n- Subsidiaritätsprinzip, Gemeinwohlorientierung\n- Zugriffsrecht\n- Personalausweis\n- Medikationsplan, e-Rezept, Notfalldaten, medizinische Begriffe\n- Dokumentationspflicht, Begleitforschung\n- elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht\n- Mitwirkungspflicht, Ausländer, Zwangsvollstreckung\n- Querschnittsaufgaben\n- elektronischer Identitätsnachweis, Mitteilungspflicht\n- Rechtsverkehr in Deutschland\n- Formulare\n- globales Nachhaltigkeitsziel 10, Haager Übereinkommen, Berufsbetreuer"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Weblinks"

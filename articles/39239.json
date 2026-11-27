@@ -4,6 +4,17 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Beschluss",
+      "az": "4 T 137/24",
+      "datum": "2025-03-12",
+      "fundstelle": null,
+      "gericht": "LG Freiburg (Breisgau)",
+      "id": "LG Freiburg (Breisgau) 4 T 137/24",
+      "label": "LG Freiburg (Breisgau), Beschluss vom 12.03.2025 – 4 T 137/24"
+    }
+  ],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -103,6 +114,7 @@
   "revid": 66156,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -110,6 +122,7 @@
       "text": "Achtung: der Artikel entspricht der Rechtslage ab 1.1.2023."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1839",
         "BGB§1806@aF"
@@ -120,6 +133,7 @@
       "text": "Als Verfügungsgeld (§ 1839 BGB) wird seit 1.1.2023 das Geld des Betreuten bezeichnet, das zum alsbaldigen Verbrauch bestimmt ist (in Abgrenzung zum Anlagegeld).\n\nEs folgt der alten Regelung in § 1806 BGB a.F., in der es hieß, dass dasjenige Geld nicht angelegt werden muss, das genau den Anfangs beschriebenen Zweck dient."
     },
     {
+      "decisions": [],
       "norms": [
         "SGBXII§27b"
       ],
@@ -129,6 +143,7 @@
       "text": "Eine feste Summe besteht nicht. Aber die monatliche Grundsicherung oder bei Heimbewohnern der Barbetrag nach § 27b Abs. 3 SGB XII fällt mit Sicherheit darunter."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1840"
       ],
@@ -138,6 +153,7 @@
       "text": "Dieses Geld soll auf dem Girokonto bereit gehalten werden (§ 1840 BGB). Ausgenommen Barauszahlungen an den Betreuten. Eine kleinere Barkasse des Betreuers ist zwar unerwünscht, aber nicht verboten. Das betrifft vor allem Betreuungen, bei denen kleine Geldbeträge in kurzen Abständen ausgezahlt werden - und es dem Betreuer unzumutbar ist, ständig ein Geldinstitut aufzusuchen."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1854"
       ],
@@ -147,6 +163,7 @@
       "text": "Aus der Gesetzesbegründung (Bt-Drs. 19/24445, S. 274): „Ein für den Betreuten eingerichtetes Anderkonto des Betreuers ist danach nicht zulässig. Es soll grundsätzlich vermieden werden, dass der Betreuer Bargeld des Betreuten beispielweise bei sich zu Hause aufbewahrt. Bargeld kann leichter veruntreut werden oder verloren gehen als Giralgeld, dessen Abflüsse über die Kontobewegungen für das Gericht besser nachzuvollziehen sind.\n\nDie Ausnutzung eines eingeräumten Dispokredits auf dem Girokonto ist zulässig (vergleiche § 1854 Nr. 2 BGB). Eine Kreditkarte darf dem Betreuer für das Konto nicht ausgestellt werden, es sei denn das Betreuungsgericht hat die Ausstellung einer Kreditkarte nach § 1854 Nr. 2 BGB ausdrücklich genehmigt. Unbenommen bleibt aber die Möglichkeit, das Konto mittels einer auf das Guthaben begrenzten Girocard am Automaten zu verwalten.\n\nDas Konto kann online – auch bei einer Direktbank – geführt werden. … Dem Betreuten ist Bargeld zur eigenen Verwaltung zu überlassen, wenn er es wünscht. Dies ist sogar geboten, wenn es seine eigenständige Lebensgestaltung fördert.“"
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1846",
         "BGB§1849"
@@ -157,6 +174,9 @@
       "text": "Anlagekonten sind Konten, die keine Girokonten sind, zB Spar-, Festgeld- oder Tagesgeldkonten. Auf diesen sind üblicherweise Anlagegelder, also solche, die nicht für Ausgaben bereit zu halten sind. Der Gesetzgeber lässt es aber zu, dass sich auch Verfügungsgelder auf Anlagekonten befinden. Diese müssen dann speziell gekennzeichnet sein, denn für Sie gilt weder das Gebot des Sperrvermerkes nach § 1846 Abs. 1 Satz 2 BGB, noch die Genehmigungspflicht bei Verfügungen über diese, § 1849 Abs. 2 Nr. 1c BGB."
     },
     {
+      "decisions": [
+        "LG Freiburg (Breisgau) 4 T 137/24"
+      ],
       "norms": [
         "SGBXI§37",
         "SGBXII§42a",
@@ -168,6 +188,7 @@
       "text": "LG Freiburg, Beschluss vom 12.03.2025, 4 T 137/24\n\nAls Betreuer eingesetzte Eltern eines Betreuten verstoßen nicht pflichtwidrig gegen das Verwendungsverbot, wenn sie sich das Pflegegeld des Betroffenen nach § 37 SGB XI und Sozialleistungen nach § 42a Abs. 3 SGB XII) auf ihr eigenes Konto überweisen, weil insoweit jeweils Verfügungsgeld nach § 1839 BGB vorliegt."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

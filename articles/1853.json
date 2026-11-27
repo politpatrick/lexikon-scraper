@@ -5,6 +5,35 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Urteil",
+      "az": "4 AZR 773/12",
+      "datum": "2014-12-10",
+      "fundstelle": null,
+      "gericht": "BAG",
+      "id": "4 AZR 773/12",
+      "label": "BAG, Urteil vom 10.12.2014 – 4 AZR 773/12"
+    },
+    {
+      "art": "Beschluss",
+      "az": "3 T 783/08",
+      "datum": "2009-07-10",
+      "fundstelle": null,
+      "gericht": "LG Kassel",
+      "id": "LG Kassel 3 T 783/08",
+      "label": "LG Kassel, Beschluss vom 10.07.2009 – 3 T 783/08"
+    },
+    {
+      "art": "Urteil",
+      "az": "3 K 888/07",
+      "datum": "2008-03-04",
+      "fundstelle": null,
+      "gericht": "VG Trier",
+      "id": "VG Trier 3 K 888/07",
+      "label": "VG Trier, Urteil vom 04.03.2008 – 3 K 888/07"
+    }
+  ],
   "external_links": [
     "http://www.fhverlag.de/show.php?action=show&record=68.0&thema=8&page=1&from=th&UID=8gO5bim34N",
     "http://www.fhverlag.de/show.php?action=show&record=72.0&thema=7&page=1&from=th&UID=8gO5bim34N",
@@ -133,6 +162,7 @@
   "revid": 66511,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -140,6 +170,7 @@
       "text": "Achtung: Artikel ist an die Rechtslage ab 1.1.2023 angepasst."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1819",
         "BGB§1859",
@@ -152,6 +183,7 @@
       "text": "Beschäftigte von Betreuungsbehörden können zum Behördenbetreuer bestellt werden (§ 1819 Abs. 3 BGB). Behördenbetreuer kann nur sein, wer in einem Dienst- oder Arbeitsverhältnis zu einer Betreuungsbehörde bzw. deren Trägerkörperschaft (meist Kommune) steht. Grundsätzlich gelten für Behördenbetreuer die gleichen rechtlichen Bedingungen wie für andere Betreuer. Allerdings gelten für Behördenbetreuer nicht die Bestimmung zur Registrierung von Berufsbetreuern.\n\nBehördenbetreuer haben genau wie die nächsten Familienangehörigen und Vereinsbetreuer den Status des „befreiten Betreuers“, vgl. § 1859 BGB. Dies bedeutet, dass die meisten betreuungsgerichtlichen Genehmigungserfordernisse bei der Geldanlage nicht gelten.\n\nAuch sind sie während der Betreuung von der jährlichen Rechnungslegungspflicht (§ 1865 BGB) befreit.\nDas Betreuungsgericht kann jedoch im Einzelfall den Status des „befreiten“ Betreuers entziehen, in einem solchen Falle ist auch der Behördenbetreuer verpflichtet, die genannten Pflichten zu erfüllen. Gegen Behördenbetreuer kann kein Zwangsgeld festgelegt werden (§ 1862 BGB)."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1868"
       ],
@@ -162,6 +194,10 @@
       "text": "Zu den Rechten der Betreuungsbehördenleitung gehört es, die Entlassung des Behördenbetreuers beim beaufsichtigenden Betreuungsgericht zu beantragen (§ 1868 Abs. 6 BGB). Allerdings können diese Betreuungen vom bisherigen Behördenbetreuer als Einzelbetreuer weitergeführt werden, wenn dies dem Wohl des Betreuten nicht widerspricht und der Betreuer damit einverstanden ist.\n\nInzwischen sehen die meisten Landesbeamtengesetze und das Bundesbeamtengesetz bei ehrenamtlich geführten Betreuungen keine Genehmigung-, sondern nur noch eine Anzeigepflicht vor. Das gleiche gilt für Tarifbeschäftigte des öffentlichen Dienstes."
     },
     {
+      "decisions": [
+        "LG Kassel 3 T 783/08",
+        "4 AZR 773/12"
+      ],
       "norms": [
         "VBVG§14@aF",
         "VBVG§8",
@@ -174,6 +210,9 @@
       "text": "Wird ein Behördenbetreuer bestellt, hat nicht dieser einen Vergütungsanspruch. Die Betreuervergütung steht beim Behördenbetreuer der Betreuungsbehörde zu. Es besteht nur ausnahmsweise eine Möglichkeit zur Gewährung einer Ermessensvergütung, wenn der Betreute nicht mittellos ist (§ 14 VBVG - Vormünder- und Betreuervergütungsgesetz). Ansonsten besteht bei nicht mittellosen Betreuten ein Anspruch auf Aufwendungsersatz.\n\nDie Tätigkeit als Behördenbetreuer  zählt nach der Rechtsprechung des BAGes als schwierige Tätigkeit nach den Eingruppierungsvorschriften für den Sozial- und Erziehungsdienst. Dies bedeutet eine Eingruppierung nach TVöD SuE 12.\n\nLG Kassel, Beschluss vom 10.07.2009, 3 T 783/08 :\n\nDie dem Behördenbetreuer nach § 8 VBVG i.V.m. § 1836\nAbsatz 2 BGB zu gewährende Vergütung darf nicht höher sein als die\nVergütung, die ein berufsmäßig tätiger Betreuer beanspruchen könnte.\n\nBAG, Urteil vom 10.12.2014 – 4 AZR 773/12\n\n- Die Tätigkeit von Sozialarbeitern dient regelmäßig einem einheitlichen Arbeitsergebnis und bildet dann einen einheitlichen Arbeitsvorgang.\n- Hat ein Sozialarbeiter jedoch verschiedene, voneinander abgrenzbare Personenkreise zu betreuen, deren Status und Hilfsansprüche rechtlich unterschiedlich bestimmt sind, kommt bei getrennter Betreuung die Aufteilung der Tätigkeit in je einen Arbeitsvorgang für je eine Gruppe der betreuten Personen in Betracht.\nDie Eingruppierung in TVöD SuE S 14 wurde abgelehnt, TVöD SuE S 12 wurde bejaht."
     },
     {
+      "decisions": [
+        "VG Trier 3 K 888/07"
+      ],
       "norms": [],
       "path": [
         "Disziplinarische Rechtsprechung bei Behördenbetreuern"
@@ -181,6 +220,7 @@
       "text": "Bayerischer VGH München, Urteil vom 26.7.2006,  16a D 05.1055 , FamRZ 2008, 93 (Ls.):\n\nVeruntreuung von zweimal 5.000 DM zulasten betagter, im Pflegeheim lebender Personen durch den für sie als Amtsbetreuer bestellten Verwaltungsamtmann; Gleichbehandlung der Veruntreuung von Vermögen des Dienstherrn und von dem Dienstherrn anvertrautem Vermögen (Bestätigung der erstinstanzlichen Disziplinarmaßnahme der Entfernung aus dem Dienst)\n\nVG Trier, Urteil vom 04.03.2008, 3 K 888/07.TR, FamRZ 2010, 680:\n\nEin gerichtlich bestellter Behördenbetreuer, der über einen längeren Zeitraum unter Ausnutzung der ihm eingeräumten Befugnisse Gelder der zu betreuenden Personen in Höhe von ca. 15.000,- € veruntreut hat, ist aus dem Beamtenverhältnis zu entfernen.\n\nVG Berlin, Urt v 05.11.2014, 80 K 46.11 OL, BeckRS 2015, 40310:\n\nDisziplinarverfahren wegen unterlassener Mitteilungen an den Sozialhilfeträger sowie Annahme von Geschenken.\n\nVG Berlin, Urt v 26.11.2014 - 80 K 8.13 OL, BeckRS 2015, 40311:\n\nAberkennung des Ruhegehaltsanspruches im Disziplinarwege wegen zahlreicher Pflichtverletzungen als Behördenbetreuerin.\n\nVG Berlin, Urt v 21.1.2015 - 80 K 47.13 OL, BeckRS 2015, 44416:\n\nKürzung der Dienstbezüge wegen Versäumnissen im Rahmen der Tätigkeit als Amtsbetreuer."
     },
     {
+      "decisions": [],
       "norms": [
         "VBVG§14@aF",
         "BGB§1877",
@@ -193,6 +233,7 @@
       "text": "Sofern die Betreuung durch eine oder mehrere natürliche Personen (ehrenamtliche oder berufliche Betreuer) und durch einen Betreuungsverein nicht möglich ist, kann auch die Betreuungsbehörde selbst zum Betreuer bestellt werden (§ 1818 Abs. 4 BGB). Die Betreuungsbehörde hat somit die Pflicht, die Betreuung zu übernehmen, wenn keine andere Möglichkeit zur Betreuungsübernahme vorhanden ist. In diesem (Not-)Falle hat die Betreuungsbehörde keinen Vergütungsanspruch (§ 14 VBVG), lediglich bei nicht mittellosen Betreuten Anspruch auf Aufwendungsersatz (§ 1877 Abs. 1 BGB). Eine Sterilisationsbetreuung darf nicht auf die Behörde übertragen werden (§ 1818 Abs. 5 BGB)"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -200,6 +241,7 @@
       "text": "- Befreiter Betreuer, Beamte als Betreuer, Ermessensvergütung, Eingruppierung, Betreuungsbehörde, Vulnerabilität, Unterstützungspflicht, Diskriminierungsverbot, Beaufsichtigung, Amtspflichtverletzung, Anzeigepflicht\n- Einwilligungsfähigkeit\n- Selbstverwaltung der deutschen Gemeinden, elektronisches Gerichts- und Verwaltungspostfach, digitale Barrierefreiheit, Gemeinwohlorientierung\n- Verfahrenspfleger, Rechtsprechung zum Verfahrenspfleger\n- Unfallversicherung"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur"
@@ -207,6 +249,7 @@
       "text": "-Hinweis: das BtOG ist nicht eigenständig kommentiert; es ist in den Kommentaren zum Betreuungsrecht enthalten.\n\n-Barabas: Beratungsrecht\n-  Brucker: Aufgaben und Organisation der Betreuungsbehörde\n- Betreuungsbehörden auf dem Weg ins 21. Jh. Brucker: Betreuungsbehörden auf dem Weg ins 21. Jahrhundert"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur",

@@ -4,6 +4,44 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Beschluss",
+      "az": "1 BvL 14/02",
+      "datum": "2002-12-18",
+      "fundstelle": null,
+      "gericht": "BVerfG",
+      "id": "1 BvL 14/02",
+      "label": "BVerfG, Beschluss vom 18.12.2002 – 1 BvL 14/02"
+    },
+    {
+      "art": null,
+      "az": null,
+      "datum": null,
+      "fundstelle": "BVerfGE 31, 58",
+      "gericht": "BVerfG",
+      "id": "BVerfGE 31, 58",
+      "label": "BVerfG, BVerfGE 31, 58"
+    },
+    {
+      "art": null,
+      "az": null,
+      "datum": null,
+      "fundstelle": "BVerfGE 36, 146",
+      "gericht": "BVerfG",
+      "id": "BVerfGE 36, 146",
+      "label": "BVerfG, BVerfGE 36, 146"
+    },
+    {
+      "art": "Beschluss",
+      "az": "10 UF 217/10",
+      "datum": "2011-12-20",
+      "fundstelle": null,
+      "gericht": "OLG Brandenburg",
+      "id": "OLG Brandenburg 10 UF 217/10",
+      "label": "OLG Brandenburg, Beschluss vom 20.12.2011 – 10 UF 217/10"
+    }
+  ],
   "external_links": [
     "http://de.wikipedia.org/w/index.php?title=Ehef%C3%A4higkeit&oldid=18652123",
     "http://www.amazon.de/exec/obidos/ASIN/3769409930/internetsevon-21",
@@ -153,6 +191,11 @@
   "revid": 66592,
   "sections": [
     {
+      "decisions": [
+        "1 BvL 14/02",
+        "BVerfGE 31, 58",
+        "BVerfGE 36, 146"
+      ],
       "norms": [
         "BGB§1304",
         "GGArt.6"
@@ -163,6 +206,7 @@
       "text": "Ehefähigkeit ist die Möglichkeit, miteinander die Ehe zu schließen (§ 1304 BGB). Hierfür muss Geschäftsfähigkeit gegeben sein. Die Beurteilung der Ehegeschäftsfähigkeit soll allerdings nach Entscheidungen vieler Gerichte einschl. des Bundesverfassungsgerichtes wegen des grundgesetzlich verbürgten Eherechtes Art. 6 GG unter großzügigeren Kategorien gemessen werden als die Prüfung der Geschäftsfähigkeit allgemein (BVerfGE 31, 58/68 = FamRZ 1971, 414 und BVerfGE 36, 146/161 = StAZ 1973, 90/93 = FamRZ 1974, 122 sowie BVerfG, Beschluss 1 BvL 14/02 vom 18.12.2002 zur Ehefähigkeit, FamRZ 2003, 359 = NJW 2003, 1382 = NVwZ 2003, 862).\n\nBei der Ehegeschäftsfähigkeit handelt es sich wie bei der Testierfähigkeit um einen Unterfall der Geschäftsfähigkeit, nach der es darauf ankommt, ob der oder die Verlobte in der Lage ist, das Wesen der Ehe zu begreifen und insoweit eine natürliche Willensentscheidung zu treffen, ohne dass die Fähigkeiten des Verstandes ausschlaggebend sein müssen. Selbst eine erhebliche geistige Behinderung muss nicht die notwendige Einsichtsfähigkeit in das Wesen der Ehe und die natürliche Willensentscheidung zur Eheschließung ausschließen."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Rechtsprechung"
@@ -170,6 +214,7 @@
       "text": "Das Bayerische Oberste Landgericht hat dazu ausgeführt, bei der Eheschließung handele es sich um ein Rechtsgeschäft, dessen Inhalt wesentlich mehr als sonstige typische Rechtsgeschäfte von in der Gesellschaft fest verankerten Vorstellungen geprägt werde. Es sei daher im Einzelfall zu prüfen, ob sich die Beeinträchtigung der Geistestätigkeit auch auf die Ehe erstrecke und ob der Verlobte insoweit die notwendige Einsichtsfähigkeit besitze und zur freien Willensentscheidung in der Lage sei, möge diese Einsichtsfähigkeit auch für andere Rechtsgeschäfte fehlen (BayObLGZ 1996, Nr. 24 = BtPrax 1997, 111 = FamRZ 1997, 294 = NJWE-FER 1997, 1 = StAZ 1996, 229 = FGPrax 1996, 143). Es entspreche ständiger Rechtsprechung, dass sich die Geschäftsfähigkeit auf einen bestimmten, gegenständlich abgegrenzten Kreis von Angelegenheiten beschränken kann (sog. partielle Geschäftsfähigkeit). Dem komme gerade bei der Beurteilung der Ehegeschäftsfähigkeit Bedeutung zu, weil hier nicht so sehr die Fähigkeiten des Verstandes ausschlaggebend seien, sondern die Einsicht in das Wesen der Ehe und die Freiheit des Willensentschlusses zur Eingehung einer Ehe."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1825",
         "BGB§1303"
@@ -180,6 +225,7 @@
       "text": "Ein Einwilligungsvorbehalt des Betreuers kann sich ausdrücklich nicht auf die Eingehung einer Ehe (oder Lebenspartnerschaft) beziehen (§ 1825 Abs. 2 BGB). Somit ist seit Inkrafttreten des Betreuungsrechtes am 1. Januar 1992 (außer im Fall der Minderjährigkeit eines Verlobten, vgl. § 1303 BGB) in keinem Fall mehr eine Einwilligung des gesetzlichen Vertreters eines Heiratswilligen nötig. Im früheren Recht (vor 1992) war bei einer Entmündigung wegen Geistesschwäche, Trunk- oder Rauschgiftsucht sowie Verschwendung die Eheschließung nur mit Genehmigung des Vormundes zulässig. Dies wurde als beschränkte Ehemündigkeit bezeichnet"
     },
     {
+      "decisions": [],
       "norms": [
         "PStG§5",
         "BGB§1314",
@@ -191,6 +237,7 @@
       "text": "Der Standesbeamte hat die Pflicht, von Amts wegen vor der Eheschließung die Ehegeschäftsfähigkeit zu prüfen (§ 5 Personenstandsgesetz). Er muss seine Mitwirkung an der Eheschließung unterlassen, wenn die Eheschließung offenkundig nach § 1314 Abs. 2 BGB aufhebbar wäre. Lehnt der Standesbeamte die Vornahme der Eheschließung ab, ist hiergegen gerichtliche Entscheidung gegeben. Auch der Standesbeamte selbst kann das Gericht anrufen (§ 49 Personenstandsgesetz). Zuständiges Personenstandsgericht ist das Amtsgericht am Sitz des Landgerichtes. Die örtliche Zuständigkeit wird durch den Sitz des Standesbeamten bestimmt, der die angefochtene Verfügung erlassen oder die Sache dem Gericht zur Entscheidung vorgelegt hat. Das Gericht kann den Standesbeamten anweisen, die Eheschließung zu beurkunden."
     },
     {
+      "decisions": [],
       "norms": [
         "PStG§39"
       ],
@@ -200,6 +247,7 @@
       "text": "Zur Eheschließung im Ausland benötigt ein deutscher Staatsbürger oder eine deutsche Staatsbürgerin in der Regel ein Ehefähigkeitszeugnis. Für die Ausstellung dieses Dokuments ist das Standesamt zuständig, wo der/die Eheschließende im Inland den Wohnsitz oder den gewöhnlichen Aufenthalt hat(te). Der Antrag auf Erteilung eines Ehefähigkeitszeugnisses kann mündlich oder schriftlich gestellt werden. Näheres ist in § 39 PStG gesetzlich geregelt."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1304",
         "BGB§1314",
@@ -211,6 +259,9 @@
       "text": "Eine unter Verletzung des § 1304 BGB geschlossene Ehe kann durch Entscheidung des Familiengerichtes aufgehoben werden. Auch ein während der Eheschließung vorhandener Zustand der Bewusstlosigkeit oder vorübergehender Störung der Geistestätigkeit rechtfertigt die Eheaufhebung (§ 1314 Abs. 1 und 2 Nr. 1). Die Aufhebbarkeit einer Eheschließung unterscheidet sich von der früheren Rechtsfolge der Ehenichtigkeit, die bis 30.06.1998 nach § 18 Ehegesetz bei Geschäftsunfähigkeit eines Eheschließenden eintrat.\n\nDen Antrag auf Eheaufhebung kann nach § 1317 BGB binnen eines Jahres nach Bekanntwerden der die Aufhebung rechtfertigenden Umstände beim Familiengericht gestellt werden. Eine Eheaufhebung kann nicht stattfinden, wenn der Ehegatte nach Wegfall der Geschäftsunfähigkeit, der Bewusstlosigkeit oder der vorübergehenden Geistesstörung zu erkennen gegeben hat, dass er die Ehe fortsetzen will."
     },
     {
+      "decisions": [
+        "OLG Brandenburg 10 UF 217/10"
+      ],
       "norms": [
         "BGB§1316",
         "FamFG§125"
@@ -221,6 +272,7 @@
       "text": "Der Antrag kann für einen geschäftsunfähigen Ehegatten nur von seinem Betreuer als gesetzlichen Vertreter gestellt werden (§ 1316 Abs. 2 BGB). Dieser benötigt dazu einen geeigneten Aufgabenkreis (z.B. Vertretung vor dem Familiengericht). Der Betreueraufgabenbereich Vermögenssorge reicht dazu nicht aus.\n\nEin geschäftsfähiger Betreuter (auch mit angeordnetem Einwilligungsvorbehalt) kann den Antrag nur selbst stellen. Bei einem Einwilligungsvorbehalt hat der Betreuer dem Antrag zuzustimmen; der Betreuer benötigt hierzu (ebenso wie für den Antrag auf Ehescheidung) die Genehmigung des Betreuungsgerichtes (§ 125 Abs. 2 FamFG).\n\nOLG Brandenburg, Beschluss vom 20.12.2011, 10 UF 217/10\n\nFür die wirksame Bevollmächtigung eines Rechtsanwaltes in einem Ehescheidungsverfahren benötigt der Betreuer den Aufgabenbereich „Vertretung im Ehescheidungsverfahren“. Die Bestellung als Betreuer mit dem Aufgabenbereich „Vertretung vor Behörden und Gerichten“ dient lediglich der Klarstellung der Vertretungsberechtigung des Betreuers im Rahmen eines zugleich übertragenen Aufgabenbereichs und ist deshalb alleine nicht ausreichend."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1304"
       ],
@@ -230,6 +282,7 @@
       "text": "Nach dem LPartG war eine direkte Anwendung des § 1304 BGB nicht vorgesehen. Der Sinn der gleichgeschlechtlichen Lebenspartnerschaft machte es aber sinnvoll, anstelle die schärferen Bedingungen der allgemeinen Geschäftsunfähigkeit auch hier die Bestimmungen über die Ehegeschäftsfähigkeit analog anzuwenden."
     },
     {
+      "decisions": [],
       "norms": [
         "GGArt.6",
         "BGB§1297",
@@ -242,6 +295,7 @@
       "text": "Der deutsche Aufklärer Immanuel Kant (1724 – 1804) begründet in seiner Rechtslehre die Notwendigkeit eines staatlichen Schutzes für die Zivilehe auf Basis seines Freiheitsgrundrechts, das allen Menschen in gleicher Weise aufgrund ihres Menschseins zustehen soll. Wenn sich ein Mensch seinem Sexualpartner körperlich hingibt, dann macht er oder sie sich im Geschlechtsakt oft selbst zur Sache (= Sexobjekt). Dies steht im Widerspruch zu diesem Freiheitsgrundrecht. Nur unter einer einzigen Bedingung ist dieses nach Kant logisch zu rechtfertigen, ,,dass, indem die eine Person von der anderen, gleich als Sache, erworben wird, diese gegenseitig wiederum jene erwerbe; denn so gewinnt sie wiederum sich selbst und stellt ihre Persönlichkeit wieder her. Es ist aber der Erwerb eines Gliedmaßes am Menschen zugleich Erwerbung der ganzen Person, weil diese eine absolute Einheit ist“.\n\nMit der gleichen logischen Begründung schließt Kant die Polygamie als grundrechtlich zulässige Eheform aus, ,,denn in einer Polygamie gewinnt die Person, die sich weggibt, nur einen Teil desjenigen, dem sie ganz anheimfällt, und macht sich also zur bloßen Sache“. Auch das Konkubinat oder der Prostitutionsvertrag sind für Kant rein privatrechtliche Vereinbarungen, die keinen grundrechtlichen Schutz verdienen. Deshalb könnte und kann in Deutschland tatsächlich die sexuelle Hingabe nach Kants Gerechtigkeitsvorstellung im einzelnen Rechtsfall niemals eingeklagt werden. Es ist im Streitfall vor Gericht für den enttäuschten Sexualpartner nur Schadensersatz in Geld zu erlangen. Die Gewerbefreiheit als rechtliche Konsequenz der persönlichen Berufsfreiheit ist jedoch für Kant logisch und unbestritten und kann auch für SexarbeiterInnen gelten. Ganz konsequent bleibt Kant auch bei der Beurteilung der ,,Ehe an der linken Hand“. So bezeichnet er die Lebensform, in der der Mann oder die Frau die Ungleichheit des Standes bzw. Status beider Partner zur größeren Herrschaft des einen über den anderen missbraucht. Dies sei nach dem bloßen Naturrecht vom Konkubinat nicht unterschieden und daher keine wahre Ehe.\n\nFür eine rechtsgültige Zivilehe sind nach Kants Gerechtigkeitsvorstellung demnach zwei Voraussetzungen zu erfüllen: der formal korrekte Vertragsschluss und der Vollzug der gegenseitigen, absprachegemäßen Beiwohnung, da Sex nach Kant den Vertragsinhalt der Ehe darstellt. Als formaler Vertragsschluss gilt nach Kant der Treueschwur vor Zeugen mit beiden Unterschriften und/oder mit dem Ringetausch (= Kooperationsvertrag). Die Trauungszeremonie hängt von den jeweiligen gesellschaftlichen Sitten, dem religiösen Brauchtum und vom staatlichen Eherecht ab. Der inhaltliche Eheschluss ist jedoch nach Kant die sexuelle Beiwohnung der Ehepartner in der sich gegenseitig versprochenen qualitativen Art und Weise (= Sexvertrag). Erst beide Verträge konstituieren gemäß seiner aufgeklärten Rechtsvorstellung die Ehe zweier geschäftsfähiger Menschen rechtsgültig und auch dauerhaft. In einem aufgeklärten Rechtsstaat wie der Bundesrepublik Deutschland besitzen heute alle Menschen nach Erlangung ihrer Volljährigkeit ihr Grundrecht auf Schließung einer Ehe nach deutschem bürgerlichem Eherecht (siehe § 1297 BGB bis § 1588 BGB). Eine sogenannte Scheinehe kann in Deutschland gemäß § 1316 BGB auch von Amts wegen wieder aufgehoben werden, da sie grundrechtlich keinen Schutz verdient."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -249,6 +303,9 @@
       "text": "- Forensik, Gewaltschutzanordnung\n- Eherecht und Betreuung, Angehörigenvertretungsrecht, Aufgabenkreis, Maßregeln der Besserung und Sicherung, Natürlicher Wille, Sterilisation, Freier Wille, Strafprozess, Gesetzgebung\n- Personenstand, Selbstbestimmung"
     },
     {
+      "decisions": [
+        "1 BvL 14/02"
+      ],
       "norms": [],
       "path": [
         "Rechtsprechung"
@@ -256,6 +313,7 @@
       "text": "-Bundesverfassungsgericht, Beschluss 1 BvL 14/02 vom 18.12.2002 zur Ehefähigkeit"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur"

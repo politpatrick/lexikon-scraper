@@ -6,6 +6,7 @@
     "Adressen"
   ],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "https://www.bgt-ev.de/impressum.html"
   ],
@@ -20,6 +21,7 @@
   "revid": 65497,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"

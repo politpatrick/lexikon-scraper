@@ -4,6 +4,26 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Beschluss",
+      "az": "83 T 494/92",
+      "datum": "1992-10-20",
+      "fundstelle": null,
+      "gericht": "LG Berlin",
+      "id": "LG Berlin 83 T 494/92",
+      "label": "LG Berlin, Beschluss vom 20.10.1992 – 83 T 494/92"
+    },
+    {
+      "art": "Beschluss",
+      "az": "5 T 879/96",
+      "datum": "1996-10-04",
+      "fundstelle": null,
+      "gericht": "LG Hildesheim",
+      "id": "LG Hildesheim 5 T 879/96",
+      "label": "LG Hildesheim, Beschluss vom 04.10.1996 – 5 T 879/96"
+    }
+  ],
   "external_links": [
     "http://de.wikipedia.org/w/index.php?title=Sterilisationsbetreuer&oldid=18557726",
     "http://www.amazon.de/exec/obidos/ASIN/3432995318/internetsevon-21",
@@ -131,6 +151,7 @@
   "revid": 66712,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "BGB§1817"
       ],
@@ -140,6 +161,7 @@
       "text": "Ein Sterilisationsbetreuer ist ein Betreuer, der vom Betreuungsgericht ausschließlich zur Entscheidung über die Sterilisation des Betroffenen bestellt wird. Wenn bereits ein anderer Betreuer zuvor bestellt war, muss dennoch für die Entscheidung über die Sterilisation des Betroffenen stets ein separater Betreuer gem. § 1817 Abs. 2 BGB bestellt werden."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1818"
       ],
@@ -149,6 +171,7 @@
       "text": "Dass dem bisherigen Betreuer die Entscheidung über eine Sterilisation, z. B. im Rahmen einer Erweiterung des Betreueraufgabenkreises nicht übertragen werden darf, wird damit begründet, dass der besondere Sterilisationsbetreuer eine neutralere Außensicht einnehmen kann. Meist sind für Betreute zuvor bereits ehrenamtliche Betreuer bestellt, oft Familienmitglieder, und insbesondere bei geistig behinderten Menschen oft deren Eltern (oder ein Elternteil), so dass sich die Betreuung quasi als Verlängerung der elterlichen Sorge über die Volljährigkeit hinaus darstellt.\n\nZum Sterilisationsbetreuer dürfen die Betreuungsbehörde oder ein Betreuungsverein gem. § 1818 Abs. 5 BGB ausdrücklich nicht bestellt werden. Allerdings bezieht sich das Verbot nicht auf den persönlich bestellten Vereinsbetreuer oder Behördenbetreuer."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1830",
         "StGB§228",
@@ -160,6 +183,7 @@
       "text": "Der Sterilisationsbetreuer hat bei seiner Entscheidung die besonders strengen Maßstäbe des § 1830 BGB zu beachten. Eine Sterilisation stellt einen besonders schweren Persönlichkeitseingriff dar, weil sie engstens mit der gesamten Zukunft des Betroffenen verbunden ist und seine Lebensgestaltung unwiderrufbar in einem sehr wichtigen Punkt festlegt.\n\nEin einwiligungsfähiger Betreuter (im Sinne des Strafrechtes, vgl. § 228 StGB) kann in seine Sterilisation nur selbst einwilligen, die fehlende Einwilligung ist nicht ersetzbar. Damit ein Betreuer darüber entscheiden kann, muss daher neben weiteren Voraussetzungen stets eine Einwilligungsunfähigkeit vorliegen.\n\nDie Einwilligung durch den Betreuer setzt weiter voraus, dass die Einwilligungsunfähigkeit des Betroffenen auf Dauer gegeben sein muss. Die Sterilisation darf nicht gegen den natürlichen Willen der betreuten Person erfolgen. Sie ist nachrangig gegenüber allen anderen Methoden der Empfängnisverhütung, vgl. BayObLG in NJW-RR 1997, 578 ff = FamRZ 1997, 702 = FGPrax 1997, 65; BayObLG in FGPrax 2001, 159 ff = NJW 2002, 149 = MDR 2001, 1170 = FamRZ 2001, 1560.\n\nEs muss weiter anzunehmen sein, dass es zu einer Schwangerschaft (der Betreuten bzw. der Partnerin des Betreuten) kommen würde und diese Schwangerschaft oder die Folgen eine schwere körperliche oder seelische Gefährdung der betreuten Person erwarten lässt.\n\nAuch Maßnahmen im Rahmen eines Sorgerechtsentzuges nach § 1666 BGB (Kindeswohlgefährdung) nach Geburt des Kindes zählen hierzu."
     },
     {
+      "decisions": [],
       "norms": [
         "FGG§69d",
         "BGB§1830",
@@ -171,6 +195,7 @@
       "text": "Die Einwilligung des Betreuers in die Sterilisation ist in einem separaten Betreuungsverfahren durch das Vormundschaftsgericht (ab 1.9.2009 Betreuungsgericht) zu genehmigen (§ 69d FGG, ab 1.9.2009 § 297 FamFG). Hierzu sind neben persönlichen Anhörungen die Bestellung eines Verfahrenspflegers und mehrere Sachverständigengutachten erforderlich. Im Jahre 2004 wurden in der Bundesrepublik Deutschland 187 Genehmigungsanträge nach § 1830 Abs. 2 BGB gestellt, davon wurden 154 bewilligt (Quelle: Bundesministerium der Justiz, Sondererhebung Verfahren nach dem Betreuungsgesetz)."
     },
     {
+      "decisions": [],
       "norms": [
         "VBVG§11@aF",
         "VBVG§3@aF",
@@ -183,6 +208,10 @@
       "text": "Ist der Sterilisationsbetreuer als Berufsbetreuer bestellt, hat er gem. § 11 Satz 1 VBVG einen Vergütungsanspruch für nachgewiesenen konkreten Zeitaufwand (bei akademischer Ausbildung gem. § 3 VBVG Stundensatz von 44 Euro zuzügl.  Aufwendungsersatz). Die Vorschriften über die pauschalierte Betreuervergütung für Berufsbetreuer (§§ 8, 9 VBVG) finden auf den Sterilsationsbetreuer keine Anwendung."
     },
     {
+      "decisions": [
+        "LG Berlin 83 T 494/92",
+        "LG Hildesheim 5 T 879/96"
+      ],
       "norms": [],
       "path": [
         "Rechtsprechung"
@@ -190,6 +219,7 @@
       "text": "LG Berlin, Beschluss vom 20.10.1992, 83 T 494/92, BtPrax 1993, 34:\n\nDie Länge der Überprüfungsfrist für die Bestellung des Sterilisationsbetreuers bemißt sich an dem Erforderlichkeitsgrundsatz. Schon die Schwere des Eingriffs in die Intimsphäre des Betroffenen fordert eine kurze Frist.\n\nLG Hildesheim, Beschluss vom 04.10.1996, 5 T 879/96, BtPrax 1997,121:\n\nDer für die Entscheidung über eine Zustimmung zur Sterilisation bestellte Betreuer kann nicht mit der Begründung entlassen werden, er habe nach Überprüfung der Voraussetzungen einen Antrag auf Genehmigung der Sterilisation nicht gestellt."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -197,6 +227,7 @@
       "text": "- Grundrechte\n- Ehefähigkeit, Eherecht und Betreuung\n- Sterilisation\n- Stundensatz"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur",
@@ -205,6 +236,7 @@
       "text": "- Heidenreich/Otto: Sterilisation bei geistiger Behinderung , ISBN 3432995318"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur",
@@ -213,6 +245,7 @@
       "text": "-Coester, Michael: Die sorgerechtliche Indikation bei der Sterilisation behinderter Volljähriger, ZFJ 89, 350\n-Finger, Peter: Die Sterilisation geistig Behinderter; DAVorm 89, 449\n-ders.: Zur Einwilligung des Betreuers in die Sterilisation eines geistig Behinderten, NDV 89,87\n-Gonsbach, Wolf: Sterilisation ohne Kontrolle; ZFVS 89, 12\n-Kuper, Bernd-Otto: Vormundschaftsreform und Sterilisation Behinderter; Theorie und Praxis soz. Arbeit 89, 97\n-Pieroth, Bodo: Die Verfassungsgemäßheit der Sterilisation Einwilligungsunfähiger; FamRZ 90, 117\n-Pohlmann, Rüdiger: Sexuelle Aufklärung geistig behinderter Menschen, BtPrax 95, 171\n-Reis, Hans: Sterilisation bei mangelnder Einsichtsfähigkeit; ZRP 88, 318\n-Wunder, Michael: Betreuungsgesetz verabschiedet-Sterilisation ohne Einwilligung legalisiert; Soziale Psychiatrie 90, Nr51, 27\n-ders.: Sterilisation ohne Einwilligung ist legalisiert; Sozialmagazin 11/90, 36"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Weblinks"

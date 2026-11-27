@@ -7,6 +7,7 @@
     "Betreuungspersonen"
   ],
   "dead_links": [],
+  "decisions": [],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -256,6 +257,7 @@
   "revid": 66793,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "BGB§259",
         "StGB§156"
@@ -266,6 +268,7 @@
       "text": "Wer in Deutschland verpflichtet ist, über eine mit Einnahmen oder Ausgaben verbundene Verwaltung Rechenschaft abzulegen, hat dem Berechtigten eine die geordnete Zusammenstellung der Einnahmen oder der Ausgaben enthaltende Rechnung mitzuteilen, meistens mit den Belegen als Anlagen. Dies ist in § 259 Abs. 1 BGB gesetzlich so geregelt.\n\nBesteht gemäß Absatz 2 dieser Norm Grund zu der Annahme, dass die in der Rechnung enthaltenen Angaben über die Einnahmen nicht mit der erforderlichen Sorgfalt gemacht worden sind, so hat der Verpflichtete auf Verlangen zu Protokoll an Eides statt zu versichern, dass er nach bestem Wissen die Einnahmen so vollständig angegeben habe, als er oder sie dazu imstande sei. Bei Angelegenheiten von geringer Bedeutung besteht diese Verpflichtung zur Abgabe einer eidesstattlichen Versicherung gemäß Absatz 3 nicht.\n\nWer eine falsche Versicherung an Eides statt in Deutschland wissentlich (= vorsätzlich) abgibt, macht sich gemäß § 156 StGB strafbar (Geldstrafe oder Freiheitsstrafe bis zu drei Jahren). Ausländische Straftäter sind ab ihrer rechtskräftigen Verurteilung zu einer Freiheitsstrafe von mindestens drei Jahren von Ausweisung und Abschiebung in ihr Herkunftsland bedroht."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1859",
         "BGB§1872"
@@ -276,6 +279,7 @@
       "text": "War der Betreuer bei Beendigung seines Amtes gemäß § 1859 BGB befreit, genügt als Schlussrechnung die Erstellung einer Vermögensübersicht mit einer Übersicht über die Einnahmen und Ausgaben seit der letzten Vermögensübersicht. Die Richtigkeit und Vollständigkeit der Vermögensübersicht ist an Eides statt zu versichern. Dies ist in § 1872 Abs. 5 BGB so geregelt."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§2006",
         "BGB§1967",
@@ -288,6 +292,7 @@
       "text": "In Deutschland hat ein Erbe auf Verlangen eines Nachlassgläubigers gemäß § 2006 Abs. 1 BGB zu Protokoll des Nachlassgerichts an Eides statt zu versichern, dass er oder sie nach bestem Wissen die Nachlassgegenstände so vollständig angegeben habe, als er oder sie dazu imstande sei. Gemäß § 1967 Abs. 1 BGB haftet der Erbe für die Nachlassverbindlichkeiten, d.h. für die Schulden des verstorbenen Erblassers. Außerdem muss der Erbe in Deutschland auch die Kosten der Beerdigung des Erblassers tragen (siehe § 1968 BGB). Freiwillige Rechtswege für Erben gegen die Schuldübernahme sind die Erbausschlagung oder das Nachlassinsolvenzverfahren (siehe ab § 315 InsO)."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§2028"
       ],
@@ -297,6 +302,7 @@
       "text": "In Deutschland ist gemäß § 2028 Abs. 1 BGB ein Hausgenosse, der sich zur Zeit des Todes (= Erbfall) mit dem Erblasser in häuslicher Gemeinschaft befunden hat, verpflichtet, dem Erben auf Verlangen Auskunft darüber zu erteilen, welche erbschaftlichen Geschäfte er geführt hat und was ihm über den Verbleib der Erbschaftsgegenstände bekannt ist. Gemäß Absatz 2 muss der Hausgenosse auf Verlangen des Erben zu Protokoll an Eides statt versichern, dass er seine Angaben nach bestem Wissen so vollständig gemacht habe, als er dazu imstande sei."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§2032",
         "BGB§2057",
@@ -314,6 +320,7 @@
       "text": "In Deutschland ist jeder Miterbe einer Erbengemeinschaft (§ 2032 BGB) gemäß § 2057 BGB verpflichtet, den übrigen Erben auf Verlangen Auskunft über die Zuwendungen zu erteilen, die er nach den §§ 2050 bis 2053 BGB zur Ausgleichung zu bringen hat. Die Vorschriften der §§ 260, 261 BGB über die Verpflichtung zur Abgabe der eidesstattlichen Versicherung finden entsprechende Anwendung. Gemäß § 2058 BGB haften alle Erben für die gemeinschaftlichen Nachlassverbindlichkeiten des/der Verstorbenen als Gesamtschuldner (siehe § 421 BGB). Für mittellose Erben mit rechtlichem Betreuer ist daher die Erbausschlagung der juristisch einfachste Weg. Der Betreuer sollte die gesetzliche Frist von sechs Wochen unbedingt einhalten (siehe § 1944 BGB). In anderen Staaten gelten oft andere Fristen für die Erbausschlagung durch ausländische StaatsbürgerInnen mit Rechtsbetreuung in Deutschland."
     },
     {
+      "decisions": [],
       "norms": [
         "FamFG§361"
       ],
@@ -323,6 +330,7 @@
       "text": "In der freiwilligen Gerichtsbarkeit kann gemäß § 361 FamFG die Abgabe der eidesstattlichen Versicherung im Nachlassverfahren vom Nachlassgericht angeordnet werden."
     },
     {
+      "decisions": [],
       "norms": [
         "FamFG§94"
       ],
@@ -332,6 +340,7 @@
       "text": "Zur Aufklärung über den Verbleib einer herauszugebenden natürlichen Person kann das Familiengericht vom Herausgabeverpflichteten gemäß § 94 FamFG eine eidesstattliche Versicherung verlangen."
     },
     {
+      "decisions": [],
       "norms": [
         "FamFG§413"
       ],
@@ -341,6 +350,7 @@
       "text": "Auch in weiteren Angelegenheiten der freiwilligen Gerichtsbarkeit ist gemäß § 413 FamFG die eidesstattliche Versicherung als Rechtsmittel zu beantragen."
     },
     {
+      "decisions": [],
       "norms": [
         "InsO§98"
       ],
@@ -350,6 +360,7 @@
       "text": "Wenn es zur Herbeiführung wahrheitsgemäßer Aussagen erforderlich erscheint, kann das Insolvenzgericht gemäß § 98 InsO vom Schuldner die eidesstattliche Versicherung verlangen, dass er die von ihm verlangte Auskunft über seine Zahlungs(un)fähigkeit nach bestem Wissen und Gewissen richtig und vollständig erteilt hat."
     },
     {
+      "decisions": [],
       "norms": [
         "ZPO§802c",
         "ZPO§802f",
@@ -361,6 +372,7 @@
       "text": "Der Gerichtsvollzieher darf vom Schuldner Auskünfte über seine finanziellen Verhältnisse einholen. Der Gläubiger kann wählen, ob der Schuldner bereits von Beginn an dem Gerichtsvollzieher zum Zwecke der Vollstreckung einer Geldforderung detailliert Auskunft über sein Vermögen zu erteilen hat (§ 802c, § 802f  ZPO = Vermögensauskunft) oder ob dies nach einem erfolglosen Vollstreckungsversuch erfolgen soll (§ 807 ZPO)."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

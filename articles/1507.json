@@ -6,6 +6,7 @@
     "Betreuungspersonen"
   ],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "https://www.justiz.bayern.de/media/images/behoerden-und-gerichte/amtsgerichte/hersbruck/anregung_zur_bestellung_eines_betreuers.pdf",
     "https://www.justiz.nrw.de/BS/formulare/betreuung/zwischentext_formulare/bs_26a.pdf"
@@ -50,6 +51,7 @@
   "revid": 66487,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "FamFG§274"
       ],
@@ -59,6 +61,7 @@
       "text": "Die Anregung an das Betreuungsgericht, für eine andere natürliche Person einen Betreuer zu bestellen, kann von jedermann gegeben werden. Bestimmte Antragsbefugnisse für Familienangehörige oder den Staatsanwalt, wie im früheren Vormundschaftsrecht, gibt es nicht mehr.\n\nZuständig ist grundsätzlich das Betreuungsgericht (eine Abteilung des Amtsgerichtes) am gewöhnlichen Aufenthaltsort des Betroffenen, das ist i.d.R. der Wohnsitz.\n\nSinnvollerweise sollte die Anregung schriftlich erfolgen, nachstehend sind Vordruckvorschläge abgedruckt.\n\nAls Familienangehöriger kann man zugleich beantragen, an dem Betreuungsverfahren als Verfahrensbeteiligter hinzugezogen zu werden (§ 274 Abs. 4 FamFG). Es gibt dazu einen Beschluss des Gerichtes. Gegen eine Ablehnung der Verfahrensbeteiligung besteht die Möglichkeit, binnen 14 Tage die sog. \"sofortige Beschwerde\" schriftlich einzulegen.\n\nDie örtliche Betreuungsbehörde, eine Dienststelle der Kommune (Stadtverwaltung/Kreisverwaltung/Landratsamt) kann auch informiert werden."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Vordrucke"
@@ -66,6 +69,7 @@
       "text": "-Anregung einer Betreuerbestellung Bayern (PDF)\n-Anregung einer Betreuerbestellung NRW (PDF)"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

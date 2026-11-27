@@ -8,6 +8,26 @@
     "Betreuungspersonen"
   ],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Beschluss",
+      "az": "12 T 14/14",
+      "datum": "2014-03-13",
+      "fundstelle": null,
+      "gericht": "LG Hannover",
+      "id": "LG Hannover 12 T 14/14",
+      "label": "LG Hannover, Beschluss vom 13.03.2014 – 12 T 14/14"
+    },
+    {
+      "art": "Urteil",
+      "az": "22 U 85/95",
+      "datum": "1995-08-16",
+      "fundstelle": null,
+      "gericht": "OLG Düsseldorf",
+      "id": "OLG Düsseldorf 22 U 85/95",
+      "label": "OLG Düsseldorf, Urteil vom 16.08.1995 – 22 U 85/95"
+    }
+  ],
   "external_links": [
     "https://www.justiz.bayern.de/media/images/behoerden-und-gerichte/amtsgerichte/rosenheim/bet-2023-01-merkblatt-fuer-befreite-betreuer.pdf"
   ],
@@ -123,6 +143,7 @@
   "revid": 66506,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -130,6 +151,7 @@
       "text": "Artikel entspricht der Rechtslage ab 2023.\n\nAls befreiten Betreuer bezeichnet man einen Betreuer, der verschiedenen Genehmigungspflichten bei der Geldanlage sowie der Pflicht der jährlichen Rechnungslegung nicht unterliegt."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1801",
         "BGB§1782"
@@ -140,6 +162,7 @@
       "text": "Die Regelung fand sich ursprünglich im Recht der Vormundschaft Minderjähriger. Hier konnte der sorgeberechtigte Elternteil für den Fall des Todes dem von ihm benannten Vormund den Befreiten-Status einräumen, jetzt §§ 1782, 1801 BGB.\n\nDas Jugendamt, ein Vereinsvormund und ein Vormundschaftsverein sind außerdem stets als befreite Vormünder tätig (§ 1801 Abs. 1 BGB)."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1859",
         "BGB§1818"
@@ -150,6 +173,10 @@
       "text": "Mit dem Inkrafttreten des neuen Betreuungsrechtes am 1. Januar 1992 wurde die Regelung auch auf einige Betreuungspersonen ausgedehnt.\n\nKraft Gesetzes sind folgende Betreuer als \"befreite Betreuer\" bestellt (§ 1859 Abs. 2 BGB):\n\n-Elternteil als Betreuer\n-Ehegatte oder eingetragener Lebenspartner als Betreuer\n-Kind oder Kindeskind (Abkömmling bzw. Enkel/Enkelin) als Betreuer\n-seit 1.1.2023 auch Geschwister\n-Vereinsbetreuer und Behördenbetreuer\n-Betreuungsverein oder Betreuungsbehörde als Betreuer (§ 1818 BGB).\n\nDiese Aufzählung ist grundsätzlich abschließend. Es besteht aber seit 1.1.23 die Möglichkeit, anderen Personen im Bereich der Betreuung Volljähriger den Status des befreiten Betreuers zu verleihen, und zwar  durch eine Betreuungsverfügung.\n\nDas bedeutet, dass ohne eine solche Betreuungsverfügung insbesondere folgende Personen niemals befreite Betreuer sein können:\n\n-Verwandte in der Seitenlinie (Onkel, Tanten, Neffen, Nichten etc.) - außer Geschwistern\n-Verschwägerte\n-Stiefkinder und -eltern\n-Nicht familienangehörige ehrenamtliche Betreuer\n-selbstständige Berufsbetreuer.\n\nEine echte Logik ist in dieser Auflistung nicht erkennbar. Offenbar wurden die nächsten Angehörigen als befreite Betreuer gewählt, um Ihnen die Entscheidung zur Betreuungsübernahme zu erleichtern und bei Mitarbeitern von Betreuungsvereinen und -behörden wird vermutet, dass diese der internen Aufsicht der Leitung der Betreuungsbehörde bzw. des Betreuungsvereins unterliegen.\n\nDen befreiten Betreuern kann allerdings im Einzelfall der Sonderstatus durch das Betreuungsgericht entzogen werden (außer bei der Bestellung des Betreuungsvereins oder der Betreuungsbehörde nach § 1859 Abs. 3 BGB). Maßstab für die Aufhebung der Befreiung ist die ansonsten drohende Gefährdung des Betreuten. Dieses kann z.B. dann gefährdet sein, wenn ein Abkömmling als Betreuer ein erhebliches Betreutenvermögen ohne Nachweis konkreter Sachkunde zu verwalten hat und keine Gewähr dafür bietet, Ratschläge Dritter anzunehmen und zu beachten (LG München I FamRZ 1998, 701)."
     },
     {
+      "decisions": [
+        "OLG Düsseldorf 22 U 85/95",
+        "LG Hannover 12 T 14/14"
+      ],
       "norms": [
         "BGB§1845",
         "BGB§1849",
@@ -163,6 +190,7 @@
       "text": "Der befreite Betreuer ist von folgenden Beschränkungen bei der Vermögenssorge befreit:\n\n-Der befreite Betreuer braucht keinen Sperrvermerk (§ 1845 BGB) anbringen lassen.\n-Der befreite Betreuer kann ohne Genehmigung über Geldanlagen verfügen (§ 1849 BGB). Die Grenze von 3.000 Euro spielt für ihn keine Rolle.\n-Der befreite Betreuer ist von der jährlichen Rechnungslegung befreit (§ 1865 BGB). Er muss lediglich pro Jahr ein neues Vermögensverzeichnis einreichen; diese Frist kann auf 5 Jahre verlängert werden. Die Befreiung gilt allerdings nicht für die Schlussrechnung beim Ende der Betreuung nach § 1872 BGB. Allerdings reicht auch dann nach Abs. 4 nur eine Vermögensübersicht.\n-Der befreite Betreuer darf sich Aufwendungsersatz oder die Aufwandspauschale auch aus anderen Konten als Girokonten entnehmen, sofern der Betreute nicht mittellos ist.\n\nRechtsprechung:\n\nOLG Düsseldorf, Urteil vom 16.08.1995; 22 U 85/95, (DRsp Nr. 1996 / 23293)\n\n- Auch das Jugendamt als befreiter Vormund hat nach der Beendigung seines Amtes dem Mündel über seine Verwaltung während der gesamten Amtszeit Rechenschaft zu legen, die den Vorgaben des § 259 Abs. 1 BGB genügt.\n- Besteht die Aufgabe des Vormundes im wesentlichen in der Verwaltung eines Geldvermögens und nicht bebauten Grundbesitzes sowie in der Verwahrung sonstiger Vermögenswerte und sind die zu berichtenden Vorgänge über Bankkonten abgewickelt worden, genügt es, daß der Vormund zum Abschluss seiner Amtsführung zusammen mit den zeitlich geordneten Kontoauszügen und den zugehörigen Korrespondenzen und Belegen eine nach Zeitabschnitten (Kalender- oder Rechnungsjahren) unterteilte Übersicht über die Entwicklung des Mündelvermögens während seiner Amtszeit vorlegt.\n\nLG Hannover, Beschl. vom 13.3.2014, 12 T 14/14, NZFam 2014, 561:\n\nDie Befreiung des Betreuers von der jährlichen Rechnungslegung greift auch auf die Berichterstattung durch."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur"
@@ -170,6 +198,7 @@
       "text": "-Grothe: Befreite Betreuer und Rechnungslegung nach Beendigung der Betreuung; Rpfleger 2005, 173"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

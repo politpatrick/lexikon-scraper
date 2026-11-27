@@ -5,6 +5,89 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Beschluss",
+      "az": "62 IN 302/05",
+      "datum": "2005-12-06",
+      "fundstelle": null,
+      "gericht": "AG Duisburg",
+      "id": "AG Duisburg 62 IN 302/05",
+      "label": "AG Duisburg, Beschluss vom 06.12.2005 – 62 IN 302/05"
+    },
+    {
+      "art": "Beschluss",
+      "az": "904 IK 109/20",
+      "datum": "2020-03-24",
+      "fundstelle": null,
+      "gericht": "AG Hannover",
+      "id": "AG Hannover 904 IK 109/20",
+      "label": "AG Hannover, Beschluss vom 24.03.2020 – 904 IK 109/20"
+    },
+    {
+      "art": "Beschluss",
+      "az": "I ZB 20/08",
+      "datum": "2008-08-14",
+      "fundstelle": null,
+      "gericht": "BGH",
+      "id": "I ZB 20/08",
+      "label": "BGH, Beschluss vom 14.08.2008 – I ZB 20/08"
+    },
+    {
+      "art": "Urteil",
+      "az": "I-24 U 99/08",
+      "datum": "2010-02-23",
+      "fundstelle": null,
+      "gericht": "OLG Düsseldorf",
+      "id": "OLG Düsseldorf I-24 U 99/08",
+      "label": "OLG Düsseldorf, Urteil vom 23.02.2010 – I-24 U 99/08"
+    },
+    {
+      "art": "Beschluss",
+      "az": "20 W 38/18",
+      "datum": "2018-05-15",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 20 W 38/18",
+      "label": "OLG Frankfurt am Main, Beschluss vom 15.05.2018 – 20 W 38/18"
+    },
+    {
+      "art": "Beschluss",
+      "az": "20 W 90/10",
+      "datum": "2010-04-13",
+      "fundstelle": null,
+      "gericht": "OLG Frankfurt am Main",
+      "id": "OLG Frankfurt am Main 20 W 90/10",
+      "label": "OLG Frankfurt am Main, Beschluss vom 13.04.2010 – 20 W 90/10"
+    },
+    {
+      "art": "Beschluss",
+      "az": "15 W 308/16",
+      "datum": "2016-08-31",
+      "fundstelle": null,
+      "gericht": "OLG Hamm",
+      "id": "OLG Hamm 15 W 308/16",
+      "label": "OLG Hamm, Beschluss vom 31.08.2016 – 15 W 308/16"
+    },
+    {
+      "art": "Beschluss",
+      "az": "20 UF 81/15",
+      "datum": "2016-10-28",
+      "fundstelle": null,
+      "gericht": "OLG Karlsruhe",
+      "id": "OLG Karlsruhe 20 UF 81/15",
+      "label": "OLG Karlsruhe, Beschluss vom 28.10.2016 – 20 UF 81/15"
+    },
+    {
+      "art": "Beschluss",
+      "az": "31 Wx 213/12",
+      "datum": "2012-06-25",
+      "fundstelle": null,
+      "gericht": "OLG München",
+      "id": "OLG München 31 Wx 213/12",
+      "label": "OLG München, Beschluss vom 25.06.2012 – 31 Wx 213/12"
+    }
+  ],
   "external_links": [
     "http://bundesrecht.juris.de/pauswg/__9.html",
     "http://www.gesetze-im-internet.de/pa_g_1986/__6.html",
@@ -266,6 +349,7 @@
   "revid": 66918,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Einleitung"
@@ -273,6 +357,7 @@
       "text": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1823",
         "BGB§1814"
@@ -283,6 +368,12 @@
       "text": "Nach § 1823 BGB kann der Betreuer den Betreuten innerhalb seines Aufgabenkreises gerichtlich und außergerichtlich vertreten. Ihm kommt daher die Stellung eines gesetzlichen Vertreters zu (was sich mittelbar auch aus der Voraussetzung für die Betreuung in § 1814 Abs. 3 Nr. 2 BGB ergibt). Dies entspricht der früheren Rechtslage (vor 1992) bei Vormundschaften und Pflegschaften für Geschäftsunfähige."
     },
     {
+      "decisions": [
+        "OLG Düsseldorf I-24 U 99/08",
+        "OLG Hamm 15 W 308/16",
+        "OLG Frankfurt am Main 20 W 38/18",
+        "AG Hannover 904 IK 109/20"
+      ],
       "norms": [
         "BGB§164",
         "GBO§20",
@@ -302,6 +393,7 @@
       "text": "Zunächst bedeutet die rechtliche Vertretungsmacht, dass die Erklärungen des Betreuers innerhalb seines Aufgabenkreises Dritten gegenüber in jedem Fall rechtlich wirksam sind und den Betreuten unmittelbar verpflichten (§ 164 BGB). Z.B. verpflichtet der vom Betreuer geschlossene Heimvertrag den Betreuten, die Heimkosten zu tragen.\n\nRechtsprechung:\n\nOLG Düsseldorf, Urteil vom 23.02.2010 , I-24 U 99/08, FamRZ 2011, 674:\n\nHandelt ein gesetzlicher Vertreter für den Vertragspartner erkennbar im Rechtskreis des Vertretenen, besteht eine tatsächliche Vermutung dafür, dass er nicht im eigenen, sondern im Namen des Vertretenen auftritt, es sei denn, es gibt besondere Anhaltspunkte dafür, er wolle für sich persönlich handeln. Erklärt der Betreuer eines Heimbewohners, für dessen Verbindlichkeiten einstehen zu wollen, ist insofern regelmäßig ein Handeln für den Betreuten anzunehmen. Bei seiner Tätigkeit für den Betreuten nimmt der Betreuer regelmäßig nicht “ein besonderes persönliches Vertrauen“ in Anspruch.\n\nOLG Hamm Beschl v 31.8.2016 - 15 W 308/16:\n\nDer Nachweis der gesetzlichen Vertretungsmacht des Betreuers zum Zeitpunkt der notariellen Beurkundung kann auch durch den Beschluss des Betreuungsgerichts geführt werden, durch den dem Betreuer unter Angabe des Aufgabenkreises die Genehmigung zu der rechtsgeschäftlichen Erklärung erteilt worden ist.\n\nOLG Frankfurt, Beschluss vom 15.05.2018, 20 W 38/18\n\nZum grundbuchrechtlichen Nachweis für einen Betreuer, dass keine Schenkung vorliegt. Grundsätzlich darf gemäß § 20 GBO im Falle der Auflassung eines Grundstücks die Eintragung nur erfolgen, wenn die erforderliche Einigung des Berechtigten und des anderen Teils wirksam erklärt und dem Grundbuchamt gegenüber in der Form des § 29 GBO nachgewiesen ist. Die Einigung kann auch von Vertretern erklärt werden. In diesem Fall ist dem Grundbuchamt die Vertretungsmacht des Vertreters nachzuweisen; Entsprechendes gilt für eine Eintragungsbewilligung nach § 19 GBO. Dem Nachweiserfordernis genügt ein Betreuer regelmäßig durch Vorlage seiner einen einschlägigen Aufgabenkreis ausweisenden Bestellungsurkunde, § 290 FamFG, und des Beschlusses des Betreuungsgerichts über die Genehmigung des Rechtsgeschäfts, §§ 1908i Abs. 1 Satz 1, 1821 Abs. 1 Nr. 1 BGB, sowie dem Nachweis über dessen Wirksamwerden gegenüber dem Vertreter und dem anderen Teil, §§ 1908i Abs. 1 Satz 1, 1828, 1829 Abs. 1 Satz 2 BGB.\n\nBestehen allerdings Zweifel an der Entgeltlichkeit der Verfügung, ist dem Grundbuchamt darüber hinaus nachzuweisen, dass es sich nicht um eine Schenkung handelt. Denn ungeachtet einer erteilten betreuungsgerichtlichen Genehmigung kann der Betreuer in Vertretung des Betreuten keine Schenkungen machen, §§ 1908i Abs. 2 Satz 1, 1804 Satz 1 BGB; die gesetzlichen Ausnahmen nach den §§ 1908i Abs. 2 Satz 1, 1804 Satz 2 BGB sind vorliegend nicht einschlägig. Das Schenkungsverbot des § 1804 BGB gilt auch für gemischte Schenkungen. Dabei beschränkt sich das Schenkungsverbot nicht allein auf das Verpflichtungsgeschäft. § 1804 BGB verfolgt den Zweck, das Vermögen des Betreuten vor einer Schmälerung durch Schenkungen zu schützen.\n\nAG Hannover, Beschl. v. 24.03.2020 – 904 IK 109/20 - 4\n\nSelbst dann, wenn man annimmt, dass Wissenserklärungen, die im Rahmen der Formulare gem. § 305 Abs. 1 InsO abzugeben sind, höchstpersönlichen Charakter haben, ist eine Ausnahme jedenfalls dann zu machen, wenn der Schuldner zu einer Erklärungsabgabe aus physischen oder psychischen Gründen nicht in der Lage ist."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Schadensersatzpflicht"
@@ -309,6 +401,7 @@
       "text": "Im Innenverhältnis Betreuer - Betreuter kann sich der Betreuer jedoch schadensersatzpflichtig machen, wenn er Wünsche des Betreuten ohne wichtigen Grund missachtet. Der Betreuer soll daher von seiner Vertretungsbefugnis nur sparsam Gebrauch machen und, wenn immer möglich, dem Betreuten Handlungen im Geschäftsverkehr ermöglichen."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§104"
       ],
@@ -318,6 +411,7 @@
       "text": "Die gesetzliche Vertretung des Betreuers verdrängt (anders als im Vormundschaftsrecht bis 1992) nicht die Handlungsfähigkeit des Betreuten; d.h., der Betreute kann auch innerhalb des Aufgabenkreises des Betreuers selbst wirksam Rechtsgeschäfte tätigen.\n\nDies gilt nur dann nicht, wenn der Betreute geschäftsunfähig i.S. von § 104 Nr. 2 BGB (sog. natürliche Geschäftsunfähigkeit) ist, er sich also in einem Geisteszustand befindet, der die freie Willensbestimmung ausschließt. Beweisen muss die Geschäftsunfähigkeit derjenige, der sich darauf berufen will.\n\nWeiter gilt dies auch nicht, wenn für den Aufgabenkreis ein Einwilligungsvorbehalt angeordnet wurde. Hier kann der Betreute zwar Rechtsgeschäfte tätigen, benötigt aber (von Ausnahmen abgesehen), zu ihrer Wirksamkeit die Zustimmung des Betreuers."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1823",
         "BGB§1821"
@@ -328,6 +422,10 @@
       "text": "Der Betreuer kann den Betreuten innerhalb seines Aufgabenkreises zum einen außergerichtlich vertreten, z.B. gegenüber Firmen, Arbeitgebern, Vermietern und Behörden, aber auch gerichtlich (§ 1823 BGB).\n\nDiese Vertretung kann gegenüber jedem Gericht erfolgen, bei dem ein Anspruch für den Betreuten einzuklagen ist oder bei dem gegenüber dem Betreuten geklagt wird, z.B. in Kaufvertrags-, Mietvertrags-, Sozialrechts- oder Steuerrechtsfragen. Für Strafverfahren gelten Besonderheiten.\n\nEs ist darauf hinzuweisen, dass das eigenständige Handeln der betreuten Person der Stellvertreterentscheidung vorzuziehen ist (§ 1821 Abs. 1 Satz 2 BGB). Daher sollte der Betreuer stets prüfen, ob sein eigenes Handeln (beim geschäftsfähigen Betreuten) überhaupt nötig ist, ob zB Antrags- oder Rechtsmittelfristen abzulaufen drohen. Das ist natürlich besonders bei vergleichsweise kurzen Fristen problematisch."
     },
     {
+      "decisions": [
+        "I ZB 20/08",
+        "OLG Karlsruhe 20 UF 81/15"
+      ],
       "norms": [
         "ZPO§51",
         "ZPO§52",
@@ -342,6 +440,11 @@
       "text": "Soweit der Betreute geschäftsunfähig ist oder soweit ein Einwilligungsvorbehalt angeordnet wurde, ist er auch prozessunfähig, d.h., er kann selbst keine Klage erheben, aber auch persönlich nicht verklagt werden und gerichtliche Zustellungen werden nicht rechtswirksam (§§ 51, 52, 170 ZPO).\n\nSoweit der Betreute jedoch weiterhin geschäftsfähig ist (und auch kein Einwilligungsvorbehalt besteht), kann er selber weiterhin klagen und verklagt werden. Erst wenn der Betreuer die Prozessführung übernahm, wurde bis zum 31.12.2022 für diesen Prozess der Betreute prozessunfähig (§ 53 ZPO). Seit 1.1.23 gilt das nicht mehr.\n\nEs handelt sich nicht um einen verbotenen Insichprozess, wenn ein Behördenbetreuer (§§ 1818 Abs. 2/4 BGB) Sozialhilfe einklagt, auch wenn die Betreuungsbehörde zugleich örtlicher Sozialhilfeträger ist. Zur eigenen Absicherung sollten sich Betreuer auch bei Prozessen ohne Anwaltszwang durch einen Rechtsanwalt beraten und ggf. vertreten lassen.\n\nBei den Rechtsstreitigkeiten, an denen Betreute beteiligt sind, handelt es sich in der Praxis meist um Zahlungsklagen von Gläubigern, Mietstreitigkeiten und Unterhaltsprozessen, die vor den Zivil- und Familiengerichten in erster Instanz beim Amtsgericht oder Landgericht geführt werden, seltener um öffentlichrechtliche Streitigkeiten aus dem Bereich des Sozialrechts.\n\nRechtsprechung:\n\nBGH, Beschluss vom 14.08.2008, I ZB 20/08; BtPrax 2008, 257 = BtMan 2008, 221 = FamRZ 2008, 2109 = NJW-RR 2009, 1 = MDR 2008, 1357 = WM 2008, 2264 = FoVo 2009, 18:  :\n\nWenn für die Vermögenssorge des Schuldners ein gesetzlicher Vertreter bestellt, nicht aber ein Einwilligungsvorbehalt angeordnet ist, hat das Vollstreckungsgericht nach pflichtgemäßem Ermessen zu bestimmen, ob der Vertreter oder der Schuldner die eidesstattliche Offenbarungsversicherung abzugeben hat. Im vorliegenden Fall wurde die Betreuerin verpflichtet, die eV. abzugeben.\n\nOLG Karlsruhe Beschl v 28.10.2016, 20 UF 81/15:\n\nEin Beteiligter, der im Gerichtsverfahren durch einen vom Betreuungsgericht wirksam bestellten Betreuer vertreten wird, ist \"nach Vorschrift der Gesetze\" vertreten. Dies gilt auch dann, wenn die Betreuung zu Unrecht angeordnet wurde und die Betreuungsanordnung im betreuungsgerichtlichen Rechtsmittelverfahren später aufgehoben oder ihre Rechtswidrigkeit festgestellt wird (§ 62 FamFG). Eine Wiederaufnahme in Form der Nichtigkeitsklage gemäß § 579 I Nr. 4 ZPO kann hierauf nicht gestützt werden."
     },
     {
+      "decisions": [
+        "AG Duisburg 62 IN 302/05",
+        "OLG Frankfurt am Main 20 W 90/10",
+        "OLG Frankfurt am Main 20 W 38/18"
+      ],
       "norms": [
         "BGB§1823",
         "BGB§1908i",
@@ -353,6 +456,7 @@
       "text": "Bei der Prüfung der Frage, ob er einen Rechtsstreit für den von ihm Betreuten führen kann oder darf, steht am Beginn die Überlegung, ob der dem Betreuer zugewiesene Aufgabenkreis die Führung des Rechtsstreits abdeckt. Dabei kann aus der Übertragung des Aufgabenbereichs der Vermögensangelegenheiten gem. § 1823 BGB auch die Berechtigung zur Führung von Rechtsstreitigkeiten über Vermögensangelegenheiten des Betreuten sowohl auf der Kläger - als auch auf der Beklagtenseite hergeleitet werden.\n\nStreitig ist dies z.B. für Unterhaltsklagen des Betreuten: hier wird zum Teil argumentiert, dass wegen des personalen Bezugs des Unterhaltsrechts die Entscheidung des Betreuers, unterhaltsrechtlich gegen einen Angehörigen des Betreuten vorzugehen, jedenfalls einer besonderen Aufgabenzuweisung durch das Betreuungsgericht bedürfe .\nÄhnliches gilt im Bereich des öffentlichen Rechts für den Antrag auf Gewährung von Sozialhilfe und gegebenenfalls ein entsprechendes Klageverfahren. In der Rechtsprechung wurde festgestellt, dass die Beantragung von Sozialhilfe zur Personensorge, nicht zur Vermögenssorge zählt.\n\nAuf der sicheren Seite ist der Betreuer, wenn die Formulierung des Aufgabenkreises lautet „Vertretung gegenüber Gerichten“. ggfs. hat das Prozessgericht den Umfang des Betreueraufgabenkreises zu prüfen, z.B. durch Rückfrage beim Betreuungsgericht.\nSoweit es in seinen Aufgabenkreis fällt, ist der Betreuer auch zur Vertretung des Betreuten gegenüber Behörden aller Art (Sozialamt, Arbeitsagentur, Krankenkasse, Rentenversicherung, Finanzamt usw.) verpflichtet. Er stellt hier für den Betreuten Anträge aller Art (Sozialleistungen usw.), erteilt Erklärungen (z.B. Steuererklärungen) und legt ggf. gegen Entscheidungen der Behörden Rechtsmittel ein (Widerspruch, Einspruch usw.).\n\nRechtsprechung:\n\nAG Duisburg, Beschluss vom 06.12.2005 - 62 IN 302/05: NZI 2006, 182\n\n- Bei der Wahrnehmung insolvenzrechtlicher Pflichten und Obliegenheiten sind dem Schuldner schuldhafte Versäumnisse seines Betreuers grundsätzlich als Verschulden zuzurechnen.\n- Die Zurechnung entfällt, wenn der Betreuer seine Vertretungsmacht überschreitet oder offenkundig und vorsätzlich mißbraucht.\n\nOLG Frankfurt, Beschluss vom 13. April 2010, 20 W 90/10, FamRZ 2010, 1762:\n\nDas Grundbuchamt hat die Vertretungsmacht eines Betreuers zur Abgabe einer Löschungsbewilligung selbständig zu überprüfen. Dies gilt auch dann, wenn eine betreuungsgerichtliche Genehmigung dazu vorliegt. Die erforderliche Genehmigung durch das Betreuungsgericht heilt keine materiellen Mängel des genehmigten Rechtsgeschäfts, auch nicht eine Überschreitung des Wirkungskreises. Dies folgt daraus, dass die Genehmigung das Bestehen der Vertretungsmacht voraussetzt.\n\nOLG Frankfurt, Beschluss vom 15.05.2018, 20 W 38/18\n\nZum grundbuchrechtlichen Nachweis für einen Betreuer, dass keine Schenkung vorliegt. Bestehen Zweifel an der Entgeltlichkeit der Verfügung, ist dem Grundbuchamt nachzuweisen, dass es sich nicht um eine Schenkung handelt. Denn ungeachtet einer erteilten betreuungsgerichtlichen Genehmigung kann der Betreuer in Vertretung des Betreuten keine Schenkungen machen, §§ 1908i Abs. 2 Satz 1, 1804 Satz 1 BGB; die gesetzlichen Ausnahmen nach den §§ 1908i Abs. 2 Satz 1, 1804 Satz 2 BGB sind vorliegend nicht einschlägig. Das Schenkungsverbot des § 1804 BGB gilt auch für gemischte Schenkungen. Dabei beschränkt sich das Schenkungsverbot nicht allein auf das Verpflichtungsgeschäft. § 1804 BGB verfolgt den Zweck, das Vermögen des Betreuten vor einer Schmälerung durch Schenkungen zu schützen."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Vertretung bei Geschäftsunfähigkeit"
@@ -360,6 +464,9 @@
       "text": "Betreuer dürfen bestimmte Tätigkeiten nur dann vornehmen, wenn der Betreute geschäftsunfähig ist.\nWichtige Beispiele hierfür sind:\n\n-§ 4 (2) WBVG Genehmigung eines Heim- oder Betreuungsvertrags\n-§ 1411 (2) BGB\tAbschluss eines Ehevertrags\n-§ 1484 (2) BGB\tAblehnung fortgesetzte Gütergemeinschaft\n-§ 1491 (3) BGB\tVerzicht des Abkömmlings auf Gesamtgutsanteil\n-§ 1492 (3) BGB\tAufhebung der fortgesetzten Gütergemeinschaft\n-§ 1493 (2 BGB\tUnterbleiben der Aufhebung der Gütergemeinschaft nach Wiederverheiratung\n-§ 125 (2) FamFG\tEhescheidungs- oder Eheaufhebungsantrag\n-§ 1596 (1) BGB\tVaterschaftsanerkennung\tim Namen des Betreuten\n-§ 1599 (2) BGB\tZustimmung zur Vaterschaftsanerkennung\n-§ 1600a (2) BGB Vaterschaftsanfechtung\n-§ 2282 (2) BGB\tAnfechtung Erbvertrag\n-§ 2290 (3) BGB\tErbvertragsauflösungsvertrag\n-§ 2347 (2) BGB\tErbverzicht als Erblasser\n-§ 9 (1) BPersAG Antragstellung für deutschen Personalausweis\n-§ 6 (1) Paßgesetz Antragstellung für deutschen Reisepass\n-Landesrecht: Erklärung des Kirchenaustritts"
     },
     {
+      "decisions": [
+        "OLG München 31 Wx 213/12"
+      ],
       "norms": [
         "BGB§2064",
         "BGB§2248"
@@ -370,6 +477,7 @@
       "text": "Bestimmte Rechtshandlungen fallen nicht unter die gesetzliche Vertretung des Betreuers. Z.B. sind die Teilnahme an Wahlen aller Art nicht vertretbar, ebenso die Eheschließung oder Eingehung einer Lebenspartnerschaft. Die elterliche Sorge ist ebenfalls eine solche Angelegenheit, die stellvertretend nur ein vom Familiengericht für das Kind eingesetzter Vormund/Ergänzungspfleger wahrnehmen kann, nicht jedoch der Betreuer des Elternteils. Auch das Testament ist eine höchstpersönliche Erklärung.\n\nWährend die Testamentserrichtung höchstpersönlich ist (§ 2064 BGB), gilt das nicht für die amtliche Verwahrung eines Testamentes beim Amtsgericht. Einen solchen Antrag kann auch ein Betreuer oder Bevollmächtigter stellen:\n\nOLG München, Beschluss vom 25.6.2012, 31 Wx 213/12, DNotZ 2012, 868 = FamRZ 2013, 156 = MDR 2012, 1295 = NJW-RR 2012, 1288 = Rpfleger 2012, 693:\n\nDas Gesetz fordert nur, dass die Verwahrung auf Verlangen des (zukünftigen) Erblassers erfolgen muss (§ 2248 BGB). Es wird jedoch nicht verlangt, dass die Verwahrung (höchst)persönlich zu erfolgen hat. Im Ergebnis ist deshalb eine Stellvertretung möglich. Die Erteilung der Vorsorgevollmacht ist eine wirksame Ermächtigung zur Stellvertretung."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§181",
         "BGB§1817",
@@ -381,6 +489,7 @@
       "text": "Nach § 181 BGB ist eine Vertretung durch den Betreuer bei Geschäften mit sich in eigener Person nicht zulässig. Auch ist es ist nicht  zulässig, dass bei einem Rechtsgeschäft ein Betreuer die beiden Vertragspartner als gesetzlicher Vertreter vertritt. Hier muss ggf. ein Verhinderungsbetreuer wegen rechtlicher Verhinderung (§ 1817 Abs. 4 BGB) bestellt werden. Zulässig ist lediglich die Erfüllung eines bestehenden Schuldverhältnisses (also z.B. die Entnahme von Aufwendungsersatz oder vom Gericht zugebilligter Betreuervergütung seitens des Betreuers.\n\nEin Vertretungsverbot besteht auch bei Rechtsgeschäften zwischen dem Betreuten und dem Ehegatten, Lebenspartner oder Verwandten des Betreuers in gerader Linie (§ 1824 BGB)."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§1824"
       ],
@@ -390,6 +499,7 @@
       "text": "-Podcast betroyt.de zum Vertretungsverbot nach § 1824 BGB mit zusätzlichen ergänzenden Infos zum Vertretungsverbot."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -397,6 +507,7 @@
       "text": "- Gesetzgebung, Grundrechte, Angehörigenvertretungsrecht, Gesetzlicher Vertreter, Betreuerausweis, Prozessführung, Vertretung gegenüber Behörden; Informationspflicht, Unterstützungspflicht\n- Bankvollmacht, Girokonto, elektronischer Identitätsnachweis\n- Datenschutz, Einwilligungsfähigkeit"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur",
@@ -405,6 +516,7 @@
       "text": "-Haase: Ich brauche Begleitung, keine Stellvertretung; BtPrax 2026, 6\n-Harm: Der Erforderlichkeitsgrundsatz im Rahmen der Betreuungsführung „Unterstützen vor Vertreten“, BtPrax 2023, 55\n-Weber: Die Vertretungsmacht des Betreuers und seine Grenzen; btr aktuell 2023, 73"
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§181"
       ],

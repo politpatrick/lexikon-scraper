@@ -6,6 +6,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "http://dejure.org/dienste/internet2?www.uni-koeln.de/jur-fak/inststaa/gesundheitsrecht.net/urteile/sterbebegleitung/lgkempten.pdf",
     "http://dejure.org/gesetze/FamFG",
@@ -167,6 +168,7 @@
   "revid": 64059,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "BGB§1901a",
         "BGB§1901",

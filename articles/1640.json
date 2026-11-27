@@ -5,6 +5,26 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Beschluss",
+      "az": "3Z 16/92",
+      "datum": "1992-05-21",
+      "fundstelle": null,
+      "gericht": "BayObLG",
+      "id": "3Z 16/92",
+      "label": "BayObLG, Beschluss vom 21.05.1992 – 3Z 16/92"
+    },
+    {
+      "art": "Beschluss",
+      "az": "1 W 1905/93",
+      "datum": "1994-08-21",
+      "fundstelle": null,
+      "gericht": "KG",
+      "id": "KG 1 W 1905/93",
+      "label": "KG, Beschluss vom 21.08.1994 – 1 W 1905/93"
+    }
+  ],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -63,6 +83,7 @@
   "revid": 66751,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "FamFG§289"
       ],
@@ -72,6 +93,10 @@
       "text": "Der Betreuer erhält eine Bestellungsurkunde (Betreuerausweis) vom Gericht und wird durch das Betreuungsgericht, (in der Regel durch den Rechtspfleger) mündlich auf sein Betreueramt verpflichtet und über seine Aufgaben informiert (§ 289 FamFG). Für Vereine und Behörden sowie deren Betreuer gelten Ausnahmen. Bei dem Einführungsgespräch mit dem Betreuer kann das Gericht auch die betreute Person hinzuziehen.\n\nDie gesetzliche Neuregelung in § 289 FamFG sieht nur noch ein Verpflichtungsgespräch bei ehrenamtlichen Betreuern vor, die nicht mehr als eine Betreuung führen. Mehrfach-Ehrenamtler sowie alle beruflichen Betreuer (Berufsbetreuer, Vereinsbetreuer, Behördenbetreuer) werden nicht mehr zum Verpflichtungsgespräch eingeladen."
     },
     {
+      "decisions": [
+        "3Z 16/92",
+        "KG 1 W 1905/93"
+      ],
       "norms": [
         "BGB§1836",
         "BGB§242",
@@ -83,6 +108,7 @@
       "text": "BayObLG, Beschluss vom 21.05.1992, 3Z 16/92, BayObLGZ 1992 Nr. 32 = Rpfleger 92, 422:\n\nEs bestehen Bedenken gegen die Wirksamkeit einer Pflegerbestellung, die nach einer \"allgemeinen Verpflichtung für künftige Fälle\" nur schriftlich vorgenommen wurde (vgl. Rpfleger 1982,169 und 1984,48). Ausnahmsweise kann aber auch bei Bedenken gegen die Wirksamkeit der Bestellung eine Vergütung nach § 1836 BGB festgesetzt werden, wenn ein zivilrechtlicher Anspruch ohnehin besteht und die Festsetzung nach § 242 BGB geboten ist.\n\nRegelmäßig ist, wenn es sich um einen vermögenden Pflegling handelt, bei der Vergütung des als Pfleger bestellten Rechtsanwalts dessen Zeitaufwand zugrunde zu legen; beim Stundensatz sind alle in der Kanzlei dieses Rechtsanwalts anfallenden Bürokosten einschließlich der Personalkosen und der Mehrwertsteuer zu berücksichtigen. Daneben kommt die gesonderte Vergütung von Zeitaufwand des Hilfspersonals nur ausnahmsweise in Betracht. Die Vergütung muss über den Ersatz von Unkosten hinaus ein angemessenes Honorar für einen Berufspfleger erbringen.\n\nKammergericht Berlin, Beschluss vom 21.08.1994, 1 W 1905/93; DAVorm 1995, 250:\n\nDie in § 69b Abs. 1 Satz 1 FGG vorgesehene mündliche Verpflichtung des Betreuers erfordert eine persönliche Anwesenheit des zu Verpflichtenden bei Gericht. Eine fernmündliche Verpflichtung genügt nicht. Die Ausnahmevorschrift des § 69b Abs. 1 Satz 3 FGG gilt (bis 31.8.2009) nicht für Berufsbetreuer."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur"
@@ -90,6 +116,7 @@
       "text": "-Formella: Das Einführungsgespräch; BtPrax 1995, 198\n-Harm: Die Verpflichtung des ehrenamtlichen Betreuers; BtPrax 1996, 213\n-Klüsener: Der Rechtspfleger im Betreuungsrecht; Rpfleger 1991, 225"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

@@ -7,6 +7,26 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [
+    {
+      "art": "Beschluss",
+      "az": "705 XVII 01055/00",
+      "datum": "2010-02-25",
+      "fundstelle": null,
+      "gericht": "AG München",
+      "id": "AG München 705 XVII 01055/00",
+      "label": "AG München, Beschluss vom 25.02.2010 – 705 XVII 01055/00"
+    },
+    {
+      "art": null,
+      "az": "S 32 SO 208/12",
+      "datum": "2015-02-05",
+      "fundstelle": null,
+      "gericht": "SG Lübeck",
+      "id": "SG Lübeck S 32 SO 208/12",
+      "label": "SG Lübeck vom 05.02.2015 – S 32 SO 208/12"
+    }
+  ],
   "external_links": [
     "http://www.contec.de/",
     "https://sozialrecht-rosenow.de/files/alle/Downloads/96ff2_rosenow_haftungsfalle.pdf",
@@ -61,6 +81,7 @@
   "revid": 65892,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "SGBIX§29"
       ],
@@ -70,6 +91,7 @@
       "text": "Das Persönliche Budget ermöglicht Menschen mit einem Anspruch auf Teilhabeleistungen (Menschen mit Behinderung oder chronischer Erkrankung), anstatt einer traditionellen Sachleistung oder Dienstleistung Geld oder in Ausnahmefällen Gutscheine zu erhalten. Sie können so theoretisch selbst entscheiden, wann welcher Dienst und welche Person die Unterstützung erbringen soll und diese als „Kunde“ unmittelbar selbst bezahlen.\n\nSeit dem 01.01.2008 besteht in der Bundesrepublik Deutschland ein Rechtsanspruch auf das Persönliche Budget. Diese Entwicklung ist maßgeblich geprägt durch das neue Rehabilitationsrecht (Sozialgesetzbücher I - XII mit Schwerpunkt SGB IX).\n\nDas Persönliche Budget ist eine Leistungsform für Teilhabeleistungen der Rehabilitationsträger des Neunten Buches Sozialgesetzbuch Rehabilitation (§ 29 SGB IX). Träger sind zum Beispiel die Arbeitsagentur (SGB III), die gesetzliche Krankenversicherung (SGB V), die gesetzlichen Rentenversicherung (SGB VI) und die Sozialhilfeträger (SGB XII). Auch die Pflegekassen (SGB XI) und die Integrationsämter können Leistungen in der Form eines Persönlichen Budgets erbringen.\n\nInhaltliche Vorgaben und Regelungen über das Verwaltungsverfahren sind in § 29 SGB IX festgelegt.\n\nDie Höhe des Persönlichen Budgets orientiert sich am individuellen Bedarf und soll die Höhe der bisherigen Sachleistungen nicht überschreiten. Durch die Leistungsform des Persönlichen Budgets soll das Wunsch- und Wahlrecht des behinderten Menschen gestärkt werden. Grundlage des Persönlichen Budgets ist eine Zielvereinbarung zwischen dem leistungsberechtigten Menschen (Budgetnehmer) und dem oder den Leistungsträger(n) (Krankenkasse, Pflegekasse, Sozialamt, Rentenversicherung, Integrationsamt). Sind mehrere Leistungsträger beteiligt, spricht man von einer „trägerübergreifenden Komplexleistung“."
     },
     {
+      "decisions": [],
       "norms": [
         "SGBIX§29"
       ],
@@ -79,6 +101,7 @@
       "text": "Gemäß § 29 Abs. 1 Satz 5 SGB IX sind folgende Leistungen budgetfähig, d.h. vom Berechtigten als Geldleistung auf sein persönliches Girokonto oder als Gutschein zu beziehen:\n- Leistungen der Krankenkassen und der Pflegekassen;\n- Leistungen der Träger der Unfallversicherung bei Pflegebedürftigkeit;\n- Leistungen der Träger der Sozialen Entschädigung zur Krankenbehandlung, bei Pflegebedürftigkeit und zur Weiterführung des Haushalts;\n- Leistungen des Trägers der Soldatenentschädigung zur medizinischen Versorgung und bei Pflegebedürftigkeit;\n- Hilfe zur Pflege der Sozialhilfe.\n\nBudgetfähige Leistungen beziehen sich auf alltägliche und regelmäßig wiederkehrende Bedarfe (= keine Bedürfnisse) und können als Geldleistungen oder durch Gutscheine erbracht werden. Sie werden jeweils für sechs Monate verbindlich vereinbart."
     },
     {
+      "decisions": [],
       "norms": [
         "BGB§181"
       ],
@@ -88,6 +111,10 @@
       "text": "Die Vereinbarung einer (entgeltlichen) Budgetassistenz mit dem eigenen rechtlichen Betreuer ist unter Umständen ein In-Sich-Geschäft des gesetzlichen Betreuers, das wegen § 181 BGB unzulässig sein könnte. Der Betreuer kann nicht in eigenem Namen und zugleich als gesetzlicher Vertreter des Budgetnehmers einen Dienstleistungsvertrag schließen. Allerdings sagt die Betreuerbestellung nichts über die eine evtl. Geschäftsunfähigkeit des Betreuten aus – soweit der behinderte Mensch dazu in der Lage ist, kann er selbst (trotz Bestehen einer Betreuung) einen Assistenzvertrag mit dem Betreuer wirksam abschließen. In derartigen Fällen empfiehlt sich die Bestellung eines „Ergänzungsbetreuers“ beim Betreuungsgericht anzuregen, um prüfen zu lassen, ob der behinderte Mensch einen solchen Vertrag selbst wirksam schließen kann."
     },
     {
+      "decisions": [
+        "AG München 705 XVII 01055/00",
+        "SG Lübeck S 32 SO 208/12"
+      ],
       "norms": [],
       "path": [
         "Rechtsprechung"
@@ -95,6 +122,7 @@
       "text": "Ablehnende Entscheidung des AG München:\n\nAG München, Beschluss vom 25.02.2010, 705 XVII 01055/00\n\nDem Betreuer wird untersagt, mit dem Betreuten einen Vertrag zu schließen, mit dem der Betreuer die Verwaltung des Persönlichen Budgets übernimmt und hierfür gesondert entgolten wird. Falls ein solcher Vertrag geschlossen wurde, wird dem Betreuer geboten, den Vertrag wieder aufzulösen.\n\nSG Lübeck v. 5.2.2015 - S 32 SO 208/12, FamRZ 2015, 2093 = LSK 2016, 010184"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Rechtsgrundlagen"
@@ -102,6 +130,7 @@
       "text": "-https://www.bmas.de/DE/Themen/Teilhabe-Inklusion/Persoenliches-Budget/persoenliches-budget.html Nähere Infos-]"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -109,6 +138,7 @@
       "text": "-Eingliederungshilfe, Assistenzleistungen\n-Was ist neu?\n-Personenstand\n-Selbstverwaltungserklärung, Gesamtplanverfahren\n-Mittellosigkeit"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur",
@@ -117,6 +147,7 @@
       "text": "- Matthias Böhler (2009): Persönliches Budget in Werkstätten für behinderte Menschen - Die Notwendigkeit von Change Management. ISBN 978-3-8366-6779-1\n- Bernhard van Treeck, Siegfried Wurm, Harry Fuchs (2009): Das Persönliche Budget - Gestalten statt nur Antrag stellen, Neurotransmitter 6, 34-38\n- Manuela Trendel: Praxisratgeber Persönliches Budget. Walhalla-Verlag, 2008, ISBN 978-3802974120\n- Gerno Böll-Schlereth (2007): Die Arbeitgeberrolle behinderter Menschen im Rahmen Persönlicher Budgets. In: Nachrichtendienst des Deutschen Vereins für öffentliche und private Fürsorge (NDV). 12/2007, S. 489-494\n- Bettina Wessel (2007): Wer zahlt, hat Recht? - Beratung im Rahmen des Persönlichen Budgets für Menschen mit Behinderung. Berlin: Eigenverlag des Deutschen Vereins für öffentliche und private Fürsorge e.V., ISBN 978-3-7841-1772-0\n- Andre Peters, Martin Jungnickel, Ulrike Ruppert (2007): contec Arbeitshilfe Persönliches Budget; Grundlagen, Strategien und Praxistipps für erfolgreiche Sozialunternehmen. ISSN 1864-7820. Leseprobe und Bestellung im Internet unter www.contec.de\n- Elke Bartz (2006): Das Persönliche Budget. Ein Handbuch für Leistungsberechtigte. Von A wie Antragstellung bis Z wie Zielvereinbarung. Mulfingen-Hollenbach: Forum selbstbestimmter Assistenz behinderter Menschen\n- Elisabeth Wacker, Gudrun Wansing, Markus Schäfers (2005): Personenbezogene Unterstützung und Lebensqualität. Teilhabe mit einem persönlichen Budget. Wacker, Elisabeth (Hrsg.): Gesundheit und Gesellschaft. Wiesbaden: Deutscher Universitäts-Verlag, ISBN 978-3835060050\n- Thomas Klie, Alexander Spermann (Hrsg.) (2004): Persönliche Budgets - Aufbruch oder Irrweg? Ein Werkbuch zu Budgets in der Pflege und für Menschen mit Behinderungen. Hannover: Vincentz Network, ISBN 978-3878704881\n- Lebenshilfe Landesverband Baden-Württemberg (2004): Persönliches Budget von A-Z. Broschüre\n- Projekt Perle - Personenbezogene Unterstützung und Lebensqualität (2003): Was ist ein persönliches Budget? In leichter Sprache erklärt. Dortmund\n- Wendt: Handlungsempfehlung/Geschäftanweisung der Bundesagentur für Arbeit zum Persönlichen Budget; SozR aktuell 2006, 193"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Literatur",

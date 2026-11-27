@@ -5,6 +5,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "http://www.igb-sh.de/btv.htm",
     "http://www.schleswig-holstein.de/DE/Fachinhalte/B/betreuungsrecht/adressen_betreuungsbehoerden.html",
@@ -28,6 +29,7 @@
   "revid": 60423,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Betreuung in Schleswig-Holstein"

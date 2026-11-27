@@ -4,6 +4,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "https://buergerservice.org"
   ],
@@ -78,6 +79,7 @@
   "revid": 66324,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "StGB§267",
         "StGB§269",
@@ -90,6 +92,7 @@
       "text": "Was der Personalausweis oder der Reisepass rechtlich im realen Leben leistet, leistet der elektronische Identitätsnachweis (eID) im Internet bzw. im \"Cyberspace\".\n\nBeide Aus- bzw. Nachweise können gefälscht werden. Dagegen gibt es im deutschen Strafgesetzbuch zahlreiche Strafvorschriften:\n\n- Urkundenfälschung § 267 StGB\n- Fälschung beweiserheblicher Daten § 269 StGB\n- Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB\n- Missbrauch von Ausweispapieren § 281 StGB"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
@@ -97,6 +100,7 @@
       "text": "- Personalausweis, Schwerbehindertenausweis, Personenstand\n- Betreuerausweis, gesetzlicher Vertreter, Vertretungsbefugnis\n- Betreuungsrechtsreform, Was ist neu?\n- e-Rezept, Medikationsplan, elektronische Patientenakte\n- Software, Formulare\n- digitale Barrierefreiheit, e-Rechnung\n- Informationspflicht\n- Interoperabilität\n- Datenschutz\n- IT-Sicherheit, Gemeinwohlorientierung\n- Registrierung\n- ordre public, Polizeirecht, Forensik\n- Rechtsverkehr in Deutschland, Postkontrolle\n- Strafprozess\n- Zugriffsrecht\n- Elektronisches Gerichts- und Verwaltungspostfach, Nutzungspflicht"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Weblinks"

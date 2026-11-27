@@ -3,8 +3,8 @@
 ## Kennzahlen
 
 - Artikel: 317
-- Knoten: 2507 (art: 317, cat: 30, ext: 578, norm: 1582)
-- Kanten: 16970 (cites_norm: 5123, in_category: 557, links_to: 9876, references_external: 1414)
+- Knoten: 5072 (art: 317, cat: 30, dec: 2565, ext: 578, norm: 1582)
+- Kanten: 20623 (cites_decision: 3648, cites_norm: 5123, in_category: 557, links_to: 9881, references_external: 1414)
 - Wikipedia-Links: 1444
 - Bilder: 5
 - Tote interne Links: 15 (verschiedene Ziele: 12)
@@ -71,6 +71,43 @@ Artikel ohne eingehenden Link aus einem anderen Artikel.
 | § 1846 BGB | 15 |
 | § 290 FamFG | 15 |
 | § 90 SGB XII | 15 |
+
+## Meistzitierte Entscheidungen
+
+2565 verschiedene Entscheidungen, zitiert in 163 Artikeln.
+
+| Entscheidung | Artikel |
+|---|---|
+| BVerfG, Beschluss vom 02.08.2001 – 1 BvR 618/93 | 9 |
+| BGH, Beschluss vom 14.08.2008 – I ZB 20/08 | 7 |
+| BGH, Beschluss vom 15.09.2010 – XII ZB 166/10 | 7 |
+| OLG Frankfurt am Main, Beschluss vom 01.09.2008 – 20 W 354/08 | 5 |
+| OLG Frankfurt am Main, Beschluss vom 08.06.2006 – 20 W 52/06 | 5 |
+| OLG Koblenz, Urteil vom 13.02.2014 – 6 U 747/13 | 5 |
+| OLG München, Beschluss vom 24.09.2008 – 33 Wx 179/08 | 5 |
+| OLG München, Beschluss vom 25.01.2007 – 33 Wx 6/07 | 5 |
+| OLG Schleswig, Urteil vom 28.04.2016 – 5 U 36/15 | 5 |
+| BGH, Urteil vom 15.01.2014 – VIII ZR 100/13 | 5 |
+| BGH, Urteil vom 19.03.2008 – VIII ZR 68/07 | 5 |
+| BGH, Beschluss vom 02.07.2014 – XII ZB 120/14 | 5 |
+| BGH, Beschluss vom 20.08.2014 – XII ZB 179/14 | 5 |
+| BGH vom 17.03.2003 – XII ZB 2/03 | 5 |
+| BGH, Beschluss vom 28.12.2009 – XII ZB 225/09 | 5 |
+| BGH, Beschluss vom 01.02.2006 – XII ZB 236/05 | 5 |
+| BGH, Beschluss vom 11.12.2013 – XII ZB 280/11 | 5 |
+| BGH, Beschluss vom 09.02.2011 – XII ZB 364/10 | 5 |
+| BGH, Beschluss vom 14.08.2013 – XII ZB 614/11 | 5 |
+| BGH, Urteil vom 30.04.2008 – XII ZR 110/06 | 5 |
+| BGH, Urteil vom 22.07.2009 – XII ZR 77/06 | 5 |
+| BVerfG, Beschluss vom 11.06.1991 – 1 BvR 239/90 | 4 |
+| BVerfG, Beschluss vom 26.10.2010 – 1 BvR 2538/10 | 4 |
+| BayObLG, Beschluss vom 11.08.2004 – 3Z BR 102/04 | 4 |
+| BayObLG, Beschluss vom 13.12.2000 – 3Z BR 353/00 | 4 |
+| BSG, Urteil vom 28.05.2008 – B 12 KR 16/07 R | 4 |
+| BGH, Urteil vom 25.06.2010 – 2 StR 454/09 | 4 |
+| KG, Beschluss vom 28.04.2009 – 1 W 129/07 | 4 |
+| KG, Beschluss vom 20.12.2005 – 1 W 170/03 | 4 |
+| KG, Beschluss vom 20.12.2005 – 1 W 182/03 | 4 |
 
 ## Verdacht auf gelöschte Normverweise
 

@@ -4,6 +4,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [
     "http://lists.ruhr-uni-bochum.de/mailman/listinfo/btr-behoerde",
     "http://www.ethik-in-der-praxis.de/betreuungsrecht/mailingliste-betreuungsrecht/",
@@ -25,6 +26,7 @@
   "revid": 66276,
   "sections": [
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Mailingliste Betreuungsrecht"
@@ -32,6 +34,7 @@
       "text": "Die Mailingliste Betreuungsrecht der Ruhr-Uni Bochum ermöglicht seit über 30 Jahren den Meinungs- und Infoaustausch zu allen Fragen des Betreuungsrechtes.\n\nSiehe unter: http://www.ethik-in-der-praxis.de/betreuungsrecht/mailingliste-betreuungsrecht/"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Mailingliste Betreuungsrecht",
@@ -40,6 +43,7 @@
       "text": "Ist eine Mailingliste nur für Mitarbeiterinnen von Betreuungsbehörden.\n\nSiehe unter: http://lists.ruhr-uni-bochum.de/mailman/listinfo/btr-behoerde"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Diskussionsforum zum Betreuungsrecht"
@@ -47,6 +51,7 @@
       "text": "Forum Betreuung: http://www.forum-betreuung.de"
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"

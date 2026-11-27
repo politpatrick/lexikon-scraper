@@ -4,6 +4,7 @@
   ],
   "category_links": [],
   "dead_links": [],
+  "decisions": [],
   "external_links": [],
   "images": [],
   "internal_links": [
@@ -50,6 +51,7 @@
   "revid": 64510,
   "sections": [
     {
+      "decisions": [],
       "norms": [
         "BGB§1870",
         "BGB§1869",
@@ -61,6 +63,7 @@
       "text": "Achtung: diese Seite ist sowohl was die Paragraphen als auch den Inhalt betrifft, an die Rechtslage ab 1.1.2023 angepasst.\n\nEine rechtliche Betreuung kann auf verschiedene Weisen enden:\n\n-Aufhebung der Betreuung durch Beschluss des Betreuungsgerichtes (§ 1870 BGB);\n-Tod des Betreuten (§ 1870 BGB);\n-aus der Sicht des jeweiligen Betreuers auch durch einen vom Gericht beschlossenen Betreuerwechsel (§ 1869 BGB);\n-sowie bei vorläufigen Betreuerbestellungen auch durch Zeitablauf des in der einstweiligen Anordnung genannten Datums (§ 302 FamFG)."
     },
     {
+      "decisions": [],
       "norms": [],
       "path": [
         "Siehe auch"
