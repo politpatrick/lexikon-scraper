@@ -63,6 +63,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§181",
       "label": "§ 181 BGB",
@@ -71,6 +72,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§29",
       "label": "§ 29 SGB IX",

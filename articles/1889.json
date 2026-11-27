@@ -38,22 +38,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1863",
       "label": "§ 1863 BGB",
       "nummer": "1863"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901",
-      "label": "§ 1901 BGB",
+      "id": "BGB§1901@aF",
+      "label": "§ 1901 BGB a.F.",
       "nummer": "1901"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtBG",
       "id": "BtBG§4",
       "label": "§ 4 BtBG",
@@ -76,7 +79,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1901",
+        "BGB§1901@aF",
         "BtBG§4"
       ],
       "path": [
@@ -95,7 +98,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1901"
+        "BGB§1901@aF"
       ],
       "path": [
         "Handlungsempfehlungen"
@@ -113,7 +116,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1901"
+        "BGB§1901@aF"
       ],
       "path": [
         "Literatur"

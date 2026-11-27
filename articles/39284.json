@@ -107,6 +107,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1353",
       "label": "§ 1353 BGB",
@@ -115,6 +116,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1360",
       "label": "§ 1360 BGB",
@@ -123,6 +125,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1360a",
       "label": "§ 1360a BGB",
@@ -131,6 +134,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1601",
       "label": "§ 1601 BGB",
@@ -139,6 +143,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1602",
       "label": "§ 1602 BGB",
@@ -147,6 +152,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1603",
       "label": "§ 1603 BGB",
@@ -155,6 +161,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1612",
       "label": "§ 1612 BGB",
@@ -163,22 +170,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1823",
-      "label": "§ 1823 BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
       "nummer": "1823"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2",
       "label": "§ 2 BGB",
@@ -187,6 +197,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§662",
       "label": "§ 662 BGB",
@@ -195,6 +206,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§674",
       "label": "§ 674 BGB",
@@ -203,6 +215,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§823",
       "label": "§ 823 BGB",
@@ -211,6 +224,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§825",
       "label": "§ 825 BGB",
@@ -219,6 +233,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§826",
       "label": "§ 826 BGB",
@@ -227,6 +242,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§842",
       "label": "§ 842 BGB",
@@ -235,6 +251,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§843",
       "label": "§ 843 BGB",
@@ -243,6 +260,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§11",
       "label": "§ 11 BtOG",
@@ -251,6 +269,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.12",
       "label": "Art. 12 GG",
@@ -259,6 +278,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.140",
       "label": "Art. 140 GG",
@@ -267,6 +287,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.20",
       "label": "Art. 20 GG",
@@ -275,6 +296,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§177",
       "label": "§ 177 SGB IX",
@@ -283,6 +305,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§178",
       "label": "§ 178 SGB IX",
@@ -291,6 +314,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§179",
       "label": "§ 179 SGB IX",
@@ -299,6 +323,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§193",
       "label": "§ 193 SGB IX",
@@ -307,6 +332,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§194",
       "label": "§ 194 SGB IX",
@@ -315,6 +341,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§54",
       "label": "§ 54 SGB IX",
@@ -323,6 +350,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§55",
       "label": "§ 55 SGB IX",
@@ -331,6 +359,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§56",
       "label": "§ 56 SGB IX",
@@ -339,6 +368,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§59",
       "label": "§ 59 SGB IX",
@@ -347,6 +377,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VIII",
       "id": "SGBVIII§36",
       "label": "§ 36 SGB VIII",
@@ -355,6 +386,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VIII",
       "id": "SGBVIII§41",
       "label": "§ 41 SGB VIII",
@@ -363,6 +395,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VIII",
       "id": "SGBVIII§41a",
       "label": "§ 41a SGB VIII",
@@ -371,6 +404,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§341",
       "label": "§ 341 SGB V",
@@ -379,6 +413,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§37b",
       "label": "§ 37b SGB V",
@@ -387,6 +422,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§38",
       "label": "§ 38 SGB V",
@@ -395,6 +431,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§39c",
       "label": "§ 39c SGB V",
@@ -403,6 +440,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§5",
       "label": "§ 5 SGB XII",
@@ -411,6 +449,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§94",
       "label": "§ 94 SGB XII",
@@ -419,6 +458,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XIV",
       "id": "SGBXIV§1",
       "label": "§ 1 SGB XIV",
@@ -427,6 +467,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XIV",
       "id": "SGBXIV§3",
       "label": "§ 3 SGB XIV",
@@ -435,6 +476,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XIV",
       "id": "SGBXIV§7",
       "label": "§ 7 SGB XIV",
@@ -443,6 +485,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§36",
       "label": "§ 36 SGB XI",
@@ -451,6 +494,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§43c",
       "label": "§ 43c SGB XI",
@@ -459,6 +503,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§7a",
       "label": "§ 7a SGB XI",
@@ -467,6 +512,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§88",
       "label": "§ 88 SGB X",
@@ -475,6 +521,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§13",
       "label": "§ 13 StGB",
@@ -483,6 +530,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§212",
       "label": "§ 212 StGB",
@@ -491,6 +539,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§223",
       "label": "§ 223 StGB",
@@ -499,6 +548,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§25",
       "label": "§ 25 StGB",
@@ -534,8 +584,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1823",
-        "BGB§1821"
+        "BGB§1823@unbestimmt",
+        "BGB§1821@unbestimmt"
       ],
       "path": [
         "Unterstützungspflicht der rechtlich Betreuenden in Deutschland"

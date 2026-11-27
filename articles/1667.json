@@ -161,14 +161,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1862",
       "label": "§ 1862 BGB",
@@ -177,6 +179,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1868",
       "label": "§ 1868 BGB",
@@ -185,6 +188,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1896@aF",
       "label": "§ 1896 BGB a.F.",
@@ -193,6 +197,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1901@aF",
       "label": "§ 1901 BGB a.F.",
@@ -201,6 +206,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1904@aF",
       "label": "§ 1904 BGB a.F.",
@@ -209,6 +215,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1944",
       "label": "§ 1944 BGB",
@@ -217,6 +224,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§839",
       "label": "§ 839 BGB",
@@ -225,6 +233,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§65",
       "label": "§ 65 FGG",
@@ -233,6 +242,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§68b",
       "label": "§ 68b FGG",
@@ -241,6 +251,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69",
       "label": "§ 69 FGG",
@@ -249,6 +260,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69d",
       "label": "§ 69d FGG",
@@ -257,6 +269,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§271",
       "label": "§ 271 FamFG",
@@ -265,6 +278,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.1",
       "label": "Art. 1 GG",
@@ -273,6 +287,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.10",
       "label": "Art. 10 GG",
@@ -281,6 +296,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.103",
       "label": "Art. 103 GG",
@@ -289,6 +305,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.104",
       "label": "Art. 104 GG",
@@ -297,6 +314,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.11",
       "label": "Art. 11 GG",
@@ -305,6 +323,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.13",
       "label": "Art. 13 GG",
@@ -313,6 +332,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.14",
       "label": "Art. 14 GG",
@@ -321,6 +341,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.19",
       "label": "Art. 19 GG",
@@ -329,6 +350,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.2",
       "label": "Art. 2 GG",
@@ -337,6 +359,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.20",
       "label": "Art. 20 GG",
@@ -345,6 +368,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.34",
       "label": "Art. 34 GG",
@@ -353,6 +377,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.5",
       "label": "Art. 5 GG",
@@ -361,6 +386,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.6",
       "label": "Art. 6 GG",
@@ -369,6 +395,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.79",
       "label": "Art. 79 GG",
@@ -377,6 +404,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§223",
       "label": "§ 223 StGB",
@@ -385,6 +413,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§239",
       "label": "§ 239 StGB",
@@ -393,6 +422,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§240",
       "label": "§ 240 StGB",
@@ -401,6 +431,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§32",
       "label": "§ 32 StGB",
@@ -506,7 +537,7 @@
       "norms": [
         "BGB§839",
         "GGArt.34",
-        "BGB§1821"
+        "BGB§1821@unbestimmt"
       ],
       "path": [
         "Durchsetzung von Grundrechten durch Betreuer"
@@ -524,7 +555,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1821"
+        "BGB§1821@unbestimmt"
       ],
       "path": [
         "Wünsche des Betreuten und Grundrechte",

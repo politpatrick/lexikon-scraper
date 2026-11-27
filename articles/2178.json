@@ -181,6 +181,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§131",
       "label": "§ 131 BGB",
@@ -189,6 +190,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§26",
       "label": "§ 26 SGB II",
@@ -197,6 +199,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§10",
       "label": "§ 10 SGB V",
@@ -205,6 +208,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§16",
       "label": "§ 16 SGB V",
@@ -213,6 +217,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§188",
       "label": "§ 188 SGB V",
@@ -221,6 +226,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§264",
       "label": "§ 264 SGB V",
@@ -229,6 +235,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§5",
       "label": "§ 5 SGB V",
@@ -237,6 +244,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§6",
       "label": "§ 6 SGB V",
@@ -245,6 +253,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§9",
       "label": "§ 9 SGB V",
@@ -253,6 +262,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§103",
       "label": "§ 103 SGB XII",
@@ -261,6 +271,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§32",
       "label": "§ 32 SGB XII",
@@ -269,6 +280,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§48",
       "label": "§ 48 SGB XII",
@@ -277,6 +289,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§26",
       "label": "§ 26 SGB XI",
@@ -285,6 +298,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§27",
       "label": "§ 27 SGB X",
@@ -293,6 +307,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VVG",
       "id": "VVG§193",
       "label": "§ 193 VVG",
@@ -301,6 +316,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwVfG",
       "id": "VwVfG§32",
       "label": "§ 32 VwVfG",
@@ -365,9 +381,9 @@
     {
       "decisions": [],
       "norms": [
+        "SGBXII§48",
         "SGBXII§32",
-        "SGBV§264",
-        "SGBXII§48"
+        "SGBV§264"
       ],
       "path": [
         "Übersicht Krankenversicherung",

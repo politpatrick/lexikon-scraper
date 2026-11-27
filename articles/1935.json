@@ -43,6 +43,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "EStG",
       "id": "EStG§3",
       "label": "§ 3 EStG",
@@ -51,6 +52,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "EStG",
       "id": "EStG§33",
       "label": "§ 33 EStG",

@@ -146,6 +146,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -154,6 +155,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1698a",
       "label": "§ 1698a BGB",
@@ -162,22 +164,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§210",
       "label": "§ 210 BGB",
@@ -186,6 +191,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "EStG",
       "id": "EStG§32a",
       "label": "§ 32a EStG",
@@ -194,6 +200,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "EStG",
       "id": "EStG§33b",
       "label": "§ 33b EStG",
@@ -202,6 +209,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "EStG",
       "id": "EStG§9a",
       "label": "§ 9a EStG",
@@ -210,6 +218,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -218,6 +227,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§11",
       "label": "§ 11 SGB II",
@@ -226,6 +236,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§14",
       "label": "§ 14 SGB I",
@@ -234,6 +245,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§16",
       "label": "§ 16 SGB I",
@@ -242,6 +254,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§60",
       "label": "§ 60 SGB I",
@@ -250,6 +263,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VI",
       "id": "SGBVI§118",
       "label": "§ 118 SGB VI",
@@ -258,6 +272,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VI",
       "id": "SGBVI§99",
       "label": "§ 99 SGB VI",
@@ -266,6 +281,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§82",
       "label": "§ 82 SGB XII",
@@ -274,6 +290,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§48",
       "label": "§ 48 SGB X",
@@ -306,11 +323,11 @@
       "norms": [
         "SGBVI§99",
         "BGB§104",
-        "BGB§1825",
+        "BGB§1825@unbestimmt",
         "BGB§210",
         "FamFG§287",
         "SGBI§16",
-        "BGB§1896"
+        "BGB§1896@aF"
       ],
       "path": [
         "Betreuerhaftung bei unterlassenem Rentenantrag"

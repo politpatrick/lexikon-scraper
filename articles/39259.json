@@ -54,6 +54,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AufenthG",
       "id": "AufenthG§82",
       "label": "§ 82 AufenthG",
@@ -62,14 +63,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1826",
-      "label": "§ 1826 BGB",
+      "id": "BGB§1826@unbestimmt",
+      "label": "§ 1826 BGB (alte oder neue Fassung)",
       "nummer": "1826"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§278",
       "label": "§ 278 BGB",
@@ -78,6 +81,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB III",
       "id": "SGBIII§141",
       "label": "§ 141 SGB III",
@@ -86,6 +90,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§56",
       "label": "§ 56 SGB II",
@@ -94,6 +99,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§58",
       "label": "§ 58 SGB II",
@@ -102,6 +108,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§60",
       "label": "§ 60 SGB I",
@@ -110,6 +117,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§61",
       "label": "§ 61 SGB I",
@@ -118,6 +126,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§62",
       "label": "§ 62 SGB I",
@@ -126,6 +135,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§63",
       "label": "§ 63 SGB I",
@@ -134,6 +144,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§64",
       "label": "§ 64 SGB I",
@@ -142,6 +153,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§65",
       "label": "§ 65 SGB I",
@@ -150,6 +162,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§66",
       "label": "§ 66 SGB I",
@@ -158,6 +171,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§68",
       "label": "§ 68 SGB I",
@@ -166,6 +180,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§11",
       "label": "§ 11 SGB X",
@@ -174,6 +189,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§19",
       "label": "§ 19 SGB X",
@@ -182,6 +198,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§53",
       "label": "§ 53 ZPO",
@@ -194,6 +211,7 @@
     {
       "decisions": [],
       "norms": [
+        "SGBI§60",
         "SGBI§68",
         "SGBIII§141",
         "SGBII§56"
@@ -210,7 +228,7 @@
         "ZPO§53",
         "BGB§278",
         "SGBI§66",
-        "BGB§1826"
+        "BGB§1826@unbestimmt"
       ],
       "path": [
         "Pflicht des Betreuten oder Betreuers"

@@ -37,6 +37,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§359a",
       "label": "§ 359a SGB V",

@@ -53,6 +53,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.5",
       "label": "Art. 5 GG",
@@ -61,6 +62,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§25b",
       "label": "§ 25b SGB V",
@@ -69,6 +71,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§26",
       "label": "§ 26 SGB V",

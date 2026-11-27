@@ -69,6 +69,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1782",
       "label": "§ 1782 BGB",
@@ -77,14 +78,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1801",
-      "label": "§ 1801 BGB",
+      "id": "BGB§1801@unbestimmt",
+      "label": "§ 1801 BGB (alte oder neue Fassung)",
       "nummer": "1801"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1818",
       "label": "§ 1818 BGB",
@@ -93,22 +96,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1845",
-      "label": "§ 1845 BGB",
+      "id": "BGB§1845@unbestimmt",
+      "label": "§ 1845 BGB (alte oder neue Fassung)",
       "nummer": "1845"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1849",
-      "label": "§ 1849 BGB",
+      "id": "BGB§1849@unbestimmt",
+      "label": "§ 1849 BGB (alte oder neue Fassung)",
       "nummer": "1849"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1859",
       "label": "§ 1859 BGB",
@@ -117,6 +123,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1865",
       "label": "§ 1865 BGB",
@@ -125,6 +132,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1872",
       "label": "§ 1872 BGB",
@@ -133,6 +141,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§259",
       "label": "§ 259 BGB",
@@ -153,7 +162,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1801",
+        "BGB§1801@unbestimmt",
         "BGB§1782"
       ],
       "path": [
@@ -178,8 +187,8 @@
         "LG Hannover 12 T 14/14"
       ],
       "norms": [
-        "BGB§1845",
-        "BGB§1849",
+        "BGB§1845@unbestimmt",
+        "BGB§1849@unbestimmt",
         "BGB§1865",
         "BGB§1872",
         "BGB§259"

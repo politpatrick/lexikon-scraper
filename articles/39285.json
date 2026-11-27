@@ -49,6 +49,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§765",
       "label": "§ 765 BGB",
@@ -57,6 +58,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.23",
       "label": "Art. 23 GG",

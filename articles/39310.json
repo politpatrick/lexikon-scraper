@@ -43,6 +43,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1580",
       "label": "§ 1580 BGB",
@@ -51,6 +52,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1605",
       "label": "§ 1605 BGB",
@@ -59,14 +61,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1822",
-      "label": "§ 1822 BGB",
+      "id": "BGB§1822@unbestimmt",
+      "label": "§ 1822 BGB (alte oder neue Fassung)",
       "nummer": "1822"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1864",
       "label": "§ 1864 BGB",
@@ -75,6 +79,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§398",
       "label": "§ 398 BGB",
@@ -83,6 +88,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§402",
       "label": "§ 402 BGB",
@@ -91,6 +97,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§666",
       "label": "§ 666 BGB",
@@ -99,6 +106,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§61",
       "label": "§ 61 SGB II",
@@ -122,7 +130,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1822"
+        "BGB§1822@unbestimmt"
       ],
       "path": [
         "Auskunftspflicht gegenüber nahestehenden Angehörigen"

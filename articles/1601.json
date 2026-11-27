@@ -354,6 +354,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§126",
       "label": "§ 126 BGB",
@@ -362,6 +363,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§129",
       "label": "§ 129 BGB",
@@ -370,6 +372,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1358",
       "label": "§ 1358 BGB",
@@ -378,6 +381,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1827",
       "label": "§ 1827 BGB",
@@ -386,6 +390,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
+      "nummer": "1827"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1828",
       "label": "§ 1828 BGB",
@@ -394,6 +408,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1829",
       "label": "§ 1829 BGB",
@@ -402,38 +417,52 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1901",
-      "label": "§ 1901 BGB",
+      "id": "BGB§1829@unbestimmt",
+      "label": "§ 1829 BGB (alte oder neue Fassung)",
+      "nummer": "1829"
+    },
+    {
+      "alte_fassung": true,
+      "einheit": "§",
+      "fassung": "alt",
+      "gesetz": "BGB",
+      "id": "BGB§1901@aF",
+      "label": "§ 1901 BGB a.F.",
       "nummer": "1901"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901a",
-      "label": "§ 1901a BGB",
+      "id": "BGB§1901a@aF",
+      "label": "§ 1901a BGB a.F.",
       "nummer": "1901a"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901b",
-      "label": "§ 1901b BGB",
+      "id": "BGB§1901b@aF",
+      "label": "§ 1901b BGB a.F.",
       "nummer": "1901b"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1904",
-      "label": "§ 1904 BGB",
+      "id": "BGB§1904@aF",
+      "label": "§ 1904 BGB a.F.",
       "nummer": "1904"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630d",
       "label": "§ 630d BGB",
@@ -442,6 +471,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -450,6 +480,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§298",
       "label": "§ 298 FamFG",
@@ -458,6 +489,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.2",
       "label": "Art. 2 GG",
@@ -466,6 +498,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GNotKG",
       "id": "GNotKG§36",
       "label": "§ 36 GNotKG",
@@ -474,6 +507,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§11",
       "label": "§ 11 PsychKG",
@@ -482,6 +516,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§212",
       "label": "§ 212 StGB",
@@ -490,6 +525,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§216",
       "label": "§ 216 StGB",
@@ -498,6 +534,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§22",
       "label": "§ 22 StGB",
@@ -506,6 +543,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§226",
       "label": "§ 226 StGB",
@@ -514,6 +552,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§228",
       "label": "§ 228 StGB",
@@ -522,6 +561,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§23",
       "label": "§ 23 StGB",
@@ -530,6 +570,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§63",
       "label": "§ 63 StGB",
@@ -568,10 +609,10 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1827",
+        "BGB§1827@unbestimmt",
         "BGB§1829",
-        "BGB§1904",
-        "BGB§1901b",
+        "BGB§1904@aF",
+        "BGB§1901b@aF",
         "BGB§1828"
       ],
       "path": [
@@ -613,7 +654,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1901a",
+        "BGB§1901a@aF",
         "BGB§1827",
         "BGB§126",
         "BGB§129"
@@ -634,7 +675,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1829"
+        "BGB§1829@unbestimmt"
       ],
       "path": [
         "Besondere Situation in Notfällen"
@@ -647,7 +688,7 @@
         "XII ZR 177/03"
       ],
       "norms": [
-        "BGB§1904",
+        "BGB§1904@aF",
         "FamFG§298",
         "FamFG§287"
       ],
@@ -681,9 +722,9 @@
       ],
       "norms": [
         "PsychKG§11",
-        "BGB§1901b",
-        "BGB§1904",
-        "BGB§1901a",
+        "BGB§1901b@aF",
+        "BGB§1904@aF",
+        "BGB§1901a@aF",
         "StGB§212",
         "StGB§22",
         "StGB§23",
@@ -759,7 +800,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1901"
+        "BGB§1901@aF"
       ],
       "path": [
         "Literatur",

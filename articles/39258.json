@@ -60,46 +60,52 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1818",
-      "label": "§ 1818 BGB",
+      "id": "BGB§1818@unbestimmt",
+      "label": "§ 1818 BGB (alte oder neue Fassung)",
       "nummer": "1818"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1838",
-      "label": "§ 1838 BGB",
+      "id": "BGB§1838@unbestimmt",
+      "label": "§ 1838 BGB (alte oder neue Fassung)",
       "nummer": "1838"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1843",
-      "label": "§ 1843 BGB",
+      "id": "BGB§1843@unbestimmt",
+      "label": "§ 1843 BGB (alte oder neue Fassung)",
       "nummer": "1843"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1846",
-      "label": "§ 1846 BGB",
+      "id": "BGB§1846@unbestimmt",
+      "label": "§ 1846 BGB (alte oder neue Fassung)",
       "nummer": "1846"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1847",
-      "label": "§ 1847 BGB",
+      "id": "BGB§1847@unbestimmt",
+      "label": "§ 1847 BGB (alte oder neue Fassung)",
       "nummer": "1847"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1863",
       "label": "§ 1863 BGB",
@@ -108,6 +114,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1864",
       "label": "§ 1864 BGB",
@@ -116,6 +123,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1870",
       "label": "§ 1870 BGB",
@@ -124,6 +132,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§25",
       "label": "§ 25 BtOG",
@@ -132,6 +141,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§28",
       "label": "§ 28 BtOG",
@@ -140,6 +150,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§29",
       "label": "§ 29 BtOG",
@@ -148,6 +159,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtRegV",
       "id": "BtRegV§13",
       "label": "§ 13 BtRegV",
@@ -156,6 +168,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§290",
       "label": "§ 290 FamFG",
@@ -164,6 +177,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§14",
       "label": "§ 14 VBVG",
@@ -172,6 +186,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§8",
       "label": "§ 8 VBVG",
@@ -193,11 +208,11 @@
       "decisions": [],
       "norms": [
         "BGB§1864",
-        "BGB§1818",
-        "BGB§1838",
-        "BGB§1846",
-        "BGB§1843",
-        "BGB§1847",
+        "BGB§1818@unbestimmt",
+        "BGB§1838@unbestimmt",
+        "BGB§1846@unbestimmt",
+        "BGB§1843@unbestimmt",
+        "BGB§1847@unbestimmt",
         "BGB§1863",
         "BGB§1870",
         "FamFG§290",

@@ -59,24 +59,27 @@
   ],
   "norms": [
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1908f",
-      "label": "§ 1908f BGB",
+      "id": "BGB§1908f@aF",
+      "label": "§ 1908f BGB a.F.",
       "nummer": "1908f"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtBG",
       "id": "BtBG§1",
       "label": "§ 1 BtBG",
@@ -85,6 +88,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtBG",
       "id": "BtBG§2",
       "label": "§ 2 BtBG",
@@ -93,6 +97,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§65",
       "label": "§ 65 FGG",
@@ -101,6 +106,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§70",
       "label": "§ 70 FGG",
@@ -113,7 +119,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1896"
+        "BGB§1896@aF"
       ],
       "path": [
         "Einleitung"
@@ -133,7 +139,7 @@
       "norms": [
         "FGG§65",
         "FGG§70",
-        "BGB§1908f",
+        "BGB§1908f@aF",
         "BtBG§1",
         "BtBG§2"
       ],

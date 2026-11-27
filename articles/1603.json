@@ -38,22 +38,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1816",
-      "label": "§ 1816 BGB",
+      "id": "BGB§1816@unbestimmt",
+      "label": "§ 1816 BGB (alte oder neue Fassung)",
       "nummer": "1816"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1863",
       "label": "§ 1863 BGB",
@@ -62,6 +65,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1868",
       "label": "§ 1868 BGB",
@@ -74,8 +78,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1816",
-        "BGB§1821",
+        "BGB§1816@unbestimmt",
+        "BGB§1821@unbestimmt",
         "BGB§1863",
         "BGB§1868"
       ],

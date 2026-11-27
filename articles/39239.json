@@ -40,6 +40,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1806@aF",
       "label": "§ 1806 BGB a.F.",
@@ -48,6 +49,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1839",
       "label": "§ 1839 BGB",
@@ -56,38 +58,43 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1840",
-      "label": "§ 1840 BGB",
+      "id": "BGB§1840@unbestimmt",
+      "label": "§ 1840 BGB (alte oder neue Fassung)",
       "nummer": "1840"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1846",
-      "label": "§ 1846 BGB",
+      "id": "BGB§1846@unbestimmt",
+      "label": "§ 1846 BGB (alte oder neue Fassung)",
       "nummer": "1846"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1849",
-      "label": "§ 1849 BGB",
+      "id": "BGB§1849@unbestimmt",
+      "label": "§ 1849 BGB (alte oder neue Fassung)",
       "nummer": "1849"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1854",
-      "label": "§ 1854 BGB",
+      "id": "BGB§1854@unbestimmt",
+      "label": "§ 1854 BGB (alte oder neue Fassung)",
       "nummer": "1854"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§27b",
       "label": "§ 27b SGB XII",
@@ -96,6 +103,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§42a",
       "label": "§ 42a SGB XII",
@@ -104,6 +112,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§37",
       "label": "§ 37 SGB XI",
@@ -145,7 +154,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1840"
+        "BGB§1840@unbestimmt"
       ],
       "path": [
         "Girokonto"
@@ -155,7 +164,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1854"
+        "BGB§1854@unbestimmt"
       ],
       "path": [
         "Weitere Ausführungen"
@@ -165,8 +174,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1846",
-        "BGB§1849"
+        "BGB§1846@unbestimmt",
+        "BGB§1849@unbestimmt"
       ],
       "path": [
         "Verfügungsgeld auf Anlagekonto"

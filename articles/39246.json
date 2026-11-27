@@ -71,8 +71,27 @@
   ],
   "norms": [
     {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
+      "gesetz": "BGB",
+      "id": "BGB§1353",
+      "label": "§ 1353 BGB",
+      "nummer": "1353"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
+      "gesetz": "BGB",
+      "id": "BGB§1360",
+      "label": "§ 1360 BGB",
+      "nummer": "1360"
+    },
+    {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1805@aF",
       "label": "§ 1805 BGB a.F.",
@@ -81,6 +100,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1836",
       "label": "§ 1836 BGB",
@@ -89,6 +109,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1836@unbestimmt",
+      "label": "§ 1836 BGB (alte oder neue Fassung)",
+      "nummer": "1836"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1839",
       "label": "§ 1839 BGB",
@@ -97,14 +127,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1840",
-      "label": "§ 1840 BGB",
+      "id": "BGB§1839@unbestimmt",
+      "label": "§ 1839 BGB (alte oder neue Fassung)",
+      "nummer": "1839"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1840@unbestimmt",
+      "label": "§ 1840 BGB (alte oder neue Fassung)",
       "nummer": "1840"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1876",
       "label": "§ 1876 BGB",
@@ -113,6 +154,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1878",
       "label": "§ 1878 BGB",
@@ -121,6 +163,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§292",
       "label": "§ 292 FamFG",
@@ -129,6 +172,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§42a",
       "label": "§ 42a SGB XII",
@@ -137,6 +181,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§37",
       "label": "§ 37 SGB XI",
@@ -145,6 +190,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§266",
       "label": "§ 266 StGB",
@@ -153,6 +199,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§11",
       "label": "§ 11 VBVG",
@@ -161,6 +208,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§7",
       "label": "§ 7 VBVG",
@@ -187,7 +235,7 @@
         "XII ZB 300/18"
       ],
       "norms": [
-        "BGB§1840"
+        "BGB§1840@unbestimmt"
       ],
       "path": [
         "Trennung der Vermögenswerte"
@@ -205,14 +253,16 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1836",
+        "BGB§1836@unbestimmt",
         "StGB§266",
         "BGB§1876",
         "VBVG§11",
         "BGB§1878",
         "VBVG§7",
         "FamFG§292",
-        "BGB§1839"
+        "BGB§1839@unbestimmt",
+        "BGB§1353",
+        "BGB§1360"
       ],
       "path": [
         "Verwendungsverbot"

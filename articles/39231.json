@@ -43,6 +43,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1859",
       "label": "§ 1859 BGB",
@@ -51,6 +52,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1863",
       "label": "§ 1863 BGB",
@@ -59,6 +61,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1872",
       "label": "§ 1872 BGB",
@@ -67,6 +70,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1873",
       "label": "§ 1873 BGB",
@@ -75,6 +79,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§259",
       "label": "§ 259 BGB",
@@ -83,6 +88,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§269",
       "label": "§ 269 BGB",

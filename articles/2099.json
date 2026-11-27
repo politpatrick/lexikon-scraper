@@ -145,6 +145,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§45",
       "label": "§ 45 AO",
@@ -153,6 +154,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1643",
       "label": "§ 1643 BGB",
@@ -161,62 +163,79 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1795",
-      "label": "§ 1795 BGB",
+      "id": "BGB§1795@unbestimmt",
+      "label": "§ 1795 BGB (alte oder neue Fassung)",
       "nummer": "1795"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1796",
-      "label": "§ 1796 BGB",
+      "id": "BGB§1796@unbestimmt",
+      "label": "§ 1796 BGB (alte oder neue Fassung)",
       "nummer": "1796"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§181",
       "label": "§ 181 BGB",
       "nummer": "181"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1822",
-      "label": "§ 1822 BGB",
+      "id": "BGB§1822@aF",
+      "label": "§ 1822 BGB a.F.",
       "nummer": "1822"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1835",
-      "label": "§ 1835 BGB",
+      "id": "BGB§1822@unbestimmt",
+      "label": "§ 1822 BGB (alte oder neue Fassung)",
+      "nummer": "1822"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1835@unbestimmt",
+      "label": "§ 1835 BGB (alte oder neue Fassung)",
       "nummer": "1835"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1851",
-      "label": "§ 1851 BGB",
+      "id": "BGB§1851@unbestimmt",
+      "label": "§ 1851 BGB (alte oder neue Fassung)",
       "nummer": "1851"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1908i",
-      "label": "§ 1908i BGB",
+      "id": "BGB§1908i@aF",
+      "label": "§ 1908i BGB a.F.",
       "nummer": "1908i"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1944",
       "label": "§ 1944 BGB",
@@ -225,6 +244,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1954",
       "label": "§ 1954 BGB",
@@ -233,6 +253,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1957",
       "label": "§ 1957 BGB",
@@ -241,6 +262,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1968",
       "label": "§ 1968 BGB",
@@ -249,6 +271,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1970",
       "label": "§ 1970 BGB",
@@ -257,6 +280,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1975",
       "label": "§ 1975 BGB",
@@ -265,6 +289,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1990",
       "label": "§ 1990 BGB",
@@ -273,6 +298,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1993",
       "label": "§ 1993 BGB",
@@ -281,6 +307,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1994",
       "label": "§ 1994 BGB",
@@ -289,6 +316,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2006",
       "label": "§ 2006 BGB",
@@ -297,6 +325,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2013",
       "label": "§ 2013 BGB",
@@ -305,6 +334,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§206",
       "label": "§ 206 BGB",
@@ -313,6 +343,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§210",
       "label": "§ 210 BGB",
@@ -321,6 +352,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2333",
       "label": "§ 2333 BGB",
@@ -329,6 +361,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2336",
       "label": "§ 2336 BGB",
@@ -337,6 +370,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2339",
       "label": "§ 2339 BGB",
@@ -345,6 +379,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BSHG",
       "id": "BSHG§90",
       "label": "§ 90 BSHG",
@@ -353,6 +388,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -361,6 +397,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§299",
       "label": "§ 299 FamFG",
@@ -369,6 +406,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§40",
       "label": "§ 40 FamFG",
@@ -377,6 +415,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§315",
       "label": "§ 315 InsO",
@@ -385,6 +424,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§102",
       "label": "§ 102 SGB XII",
@@ -393,6 +433,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§90",
       "label": "§ 90 SGB XII",
@@ -401,6 +442,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§93",
       "label": "§ 93 SGB XII",
@@ -409,6 +451,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§212",
       "label": "§ 212 StGB",
@@ -417,6 +460,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§213",
       "label": "§ 213 StGB",
@@ -425,6 +469,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§216",
       "label": "§ 216 StGB",
@@ -433,6 +478,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VVG",
       "id": "VVG§170",
       "label": "§ 170 VVG",
@@ -480,7 +526,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1835",
+        "BGB§1835@unbestimmt",
         "SGBXII§102"
       ],
       "path": [
@@ -494,7 +540,7 @@
       ],
       "norms": [
         "BGB§1954",
-        "BGB§1851",
+        "BGB§1851@unbestimmt",
         "FamFG§299",
         "SGBXII§102",
         "AO§45",
@@ -525,7 +571,7 @@
         "IV ZR 400/14"
       ],
       "norms": [
-        "BGB§1851",
+        "BGB§1851@unbestimmt",
         "BGB§2333",
         "BGB§2336",
         "BGB§2339",
@@ -544,8 +590,8 @@
         "LG München II 6 T 4230/22"
       ],
       "norms": [
-        "BGB§1908i",
-        "BGB§1822"
+        "BGB§1908i@aF",
+        "BGB§1822@aF"
       ],
       "path": [
         "Erbauseinandersetzungsvertrag"
@@ -575,11 +621,11 @@
       "norms": [
         "SGBXII§90",
         "BGB§210",
-        "BGB§1795",
+        "BGB§1795@unbestimmt",
         "BGB§181",
-        "BGB§1796",
+        "BGB§1796@unbestimmt",
         "BGB§1944",
-        "BGB§1822"
+        "BGB§1822@unbestimmt"
       ],
       "path": [
         "Behindertentestament"

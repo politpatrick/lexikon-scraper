@@ -141,6 +141,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1631c",
       "label": "§ 1631c BGB",
@@ -149,6 +150,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1666",
       "label": "§ 1666 BGB",
@@ -157,46 +159,52 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1815",
-      "label": "§ 1815 BGB",
+      "id": "BGB§1815@unbestimmt",
+      "label": "§ 1815 BGB (alte oder neue Fassung)",
       "nummer": "1815"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1817",
-      "label": "§ 1817 BGB",
+      "id": "BGB§1817@unbestimmt",
+      "label": "§ 1817 BGB (alte oder neue Fassung)",
       "nummer": "1817"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1818",
-      "label": "§ 1818 BGB",
+      "id": "BGB§1818@unbestimmt",
+      "label": "§ 1818 BGB (alte oder neue Fassung)",
       "nummer": "1818"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1830",
-      "label": "§ 1830 BGB",
+      "id": "BGB§1830@unbestimmt",
+      "label": "§ 1830 BGB (alte oder neue Fassung)",
       "nummer": "1830"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1905",
-      "label": "§ 1905 BGB",
+      "id": "BGB§1905@aF",
+      "label": "§ 1905 BGB a.F.",
       "nummer": "1905"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§297",
       "label": "§ 297 FamFG",
@@ -205,6 +213,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§40",
       "label": "§ 40 FamFG",
@@ -213,6 +222,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§63",
       "label": "§ 63 FamFG",
@@ -221,6 +231,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "RPflG",
       "id": "RPflG§15",
       "label": "§ 15 RPflG",
@@ -229,6 +240,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§218",
       "label": "§ 218 StGB",
@@ -237,6 +249,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§223",
       "label": "§ 223 StGB",
@@ -245,6 +258,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§228",
       "label": "§ 228 StGB",
@@ -253,6 +267,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§12",
       "label": "§ 12 VBVG",
@@ -285,7 +300,7 @@
       "norms": [
         "StGB§223",
         "StGB§228",
-        "BGB§1830"
+        "BGB§1830@unbestimmt"
       ],
       "path": [
         "Sterilisation Betreuter",
@@ -296,7 +311,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1817"
+        "BGB§1817@unbestimmt"
       ],
       "path": [
         "Sterilisation Betreuter",
@@ -310,11 +325,11 @@
       ],
       "norms": [
         "BGB§1631c",
-        "BGB§1830",
-        "BGB§1815",
+        "BGB§1830@unbestimmt",
+        "BGB§1815@unbestimmt",
         "BGB§1666",
-        "BGB§1817",
-        "BGB§1818",
+        "BGB§1817@unbestimmt",
+        "BGB§1818@unbestimmt",
         "FamFG§297",
         "VBVG§12"
       ],
@@ -327,7 +342,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1830",
+        "BGB§1830@unbestimmt",
         "FamFG§297",
         "RPflG§15",
         "FamFG§40",
@@ -352,7 +367,7 @@
         "OLG Frankfurt am Main 20 W 354/08"
       ],
       "norms": [
-        "BGB§1905"
+        "BGB§1905@aF"
       ],
       "path": [
         "Rechtsprechung"

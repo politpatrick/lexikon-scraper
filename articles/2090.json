@@ -70,6 +70,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "SGB XI",
+      "id": "SGBXI§14",
+      "label": "§ 14 SGB XI",
+      "nummer": "14"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§19",
       "label": "§ 19 SGB XI",
@@ -103,7 +113,9 @@
         "B 3 P 5/19",
         "B 3 P 5/08"
       ],
-      "norms": [],
+      "norms": [
+        "SGBXI§14"
+      ],
       "path": [
         "Rechtsprechung"
       ],

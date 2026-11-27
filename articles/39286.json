@@ -45,6 +45,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§267",
       "label": "§ 267 StGB",
@@ -53,6 +54,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§269",
       "label": "§ 269 StGB",
@@ -61,6 +63,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§270",
       "label": "§ 270 StGB",
@@ -69,6 +72,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§281",
       "label": "§ 281 StGB",

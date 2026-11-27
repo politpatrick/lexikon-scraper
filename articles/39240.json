@@ -45,6 +45,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§79",
       "label": "§ 79 AO",
@@ -53,14 +54,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1823",
       "label": "§ 1823 BGB",
@@ -69,6 +72,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1825",
       "label": "§ 1825 BGB",
@@ -77,6 +81,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§11",
       "label": "§ 11 SGB X",
@@ -85,6 +90,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGG",
       "id": "SGG§71",
       "label": "§ 71 SGG",
@@ -93,6 +99,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwVfG",
       "id": "VwVfG§12",
       "label": "§ 12 VwVfG",
@@ -101,6 +108,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§53",
       "label": "§ 53 ZPO",
@@ -152,7 +160,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1821"
+        "BGB§1821@unbestimmt"
       ],
       "path": [
         "Vermeidung der Geschäftsfähigkeitsprüfung"

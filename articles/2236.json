@@ -30,6 +30,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.5",
       "label": "Art. 5 GG",
@@ -38,6 +39,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§22",
       "label": "§ 22 SGB II",
@@ -46,6 +48,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VIII",
       "id": "SGBVIII§45",
       "label": "§ 45 SGB VIII",
@@ -54,6 +57,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§72",
       "label": "§ 72 SGB XII",

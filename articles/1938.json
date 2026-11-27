@@ -59,6 +59,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§112",
       "label": "§ 112 SGB V",
@@ -67,6 +68,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§39",
       "label": "§ 39 SGB V",

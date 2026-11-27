@@ -143,6 +143,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1821",
       "label": "§ 1821 BGB",
@@ -151,6 +152,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1831",
       "label": "§ 1831 BGB",
@@ -159,6 +161,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1833",
       "label": "§ 1833 BGB",
@@ -167,38 +170,52 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1833@unbestimmt",
+      "label": "§ 1833 BGB (alte oder neue Fassung)",
+      "nummer": "1833"
+    },
+    {
+      "alte_fassung": true,
+      "einheit": "§",
+      "fassung": "alt",
+      "gesetz": "BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1903",
-      "label": "§ 1903 BGB",
+      "id": "BGB§1903@aF",
+      "label": "§ 1903 BGB a.F.",
       "nummer": "1903"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1906",
-      "label": "§ 1906 BGB",
+      "id": "BGB§1906@aF",
+      "label": "§ 1906 BGB a.F.",
       "nummer": "1906"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1907",
-      "label": "§ 1907 BGB",
+      "id": "BGB§1907@aF",
+      "label": "§ 1907 BGB a.F.",
       "nummer": "1907"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§573",
       "label": "§ 573 BGB",
@@ -207,6 +224,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§309",
       "label": "§ 309 FamFG",
@@ -215,6 +233,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§57",
       "label": "§ 57 StGB",
@@ -247,7 +266,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1833",
+        "BGB§1833@unbestimmt",
         "BGB§573"
       ],
       "path": [
@@ -279,7 +298,7 @@
         "19 T 529/02"
       ],
       "norms": [
-        "BGB§1906"
+        "BGB§1906@aF"
       ],
       "path": [
         "Heimplatzsuche"
@@ -292,8 +311,8 @@
         "XII ZB 614/11"
       ],
       "norms": [
-        "BGB§1906",
-        "BGB§1896"
+        "BGB§1906@aF",
+        "BGB§1896@aF"
       ],
       "path": [
         "Freiheitsentziehende Unterbringung"
@@ -311,9 +330,9 @@
         "OVG Lüneburg 13 ME 85/20"
       ],
       "norms": [
-        "BGB§1903",
+        "BGB§1903@aF",
         "StGB§57",
-        "BGB§1896"
+        "BGB§1896@aF"
       ],
       "path": [
         "Rechtsprechung"
@@ -340,7 +359,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1907"
+        "BGB§1907@aF"
       ],
       "path": [
         "Literatur",

@@ -35,6 +35,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§154",
       "label": "§ 154 SGB IX",
@@ -43,6 +44,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§215",
       "label": "§ 215 SGB IX",

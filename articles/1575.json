@@ -213,6 +213,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1358",
       "label": "§ 1358 BGB",
@@ -221,14 +222,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1828",
-      "label": "§ 1828 BGB",
+      "id": "BGB§1828@unbestimmt",
+      "label": "§ 1828 BGB (alte oder neue Fassung)",
       "nummer": "1828"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1829",
       "label": "§ 1829 BGB",
@@ -237,30 +240,43 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1901b",
-      "label": "§ 1901b BGB",
+      "id": "BGB§1829@unbestimmt",
+      "label": "§ 1829 BGB (alte oder neue Fassung)",
+      "nummer": "1829"
+    },
+    {
+      "alte_fassung": true,
+      "einheit": "§",
+      "fassung": "alt",
+      "gesetz": "BGB",
+      "id": "BGB§1901b@aF",
+      "label": "§ 1901b BGB a.F.",
       "nummer": "1901b"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1904",
-      "label": "§ 1904 BGB",
+      "id": "BGB§1904@aF",
+      "label": "§ 1904 BGB a.F.",
       "nummer": "1904"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1906",
-      "label": "§ 1906 BGB",
+      "id": "BGB§1906@aF",
+      "label": "§ 1906 BGB a.F.",
       "nummer": "1906"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§298",
       "label": "§ 298 BGB",
@@ -269,6 +285,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69d",
       "label": "§ 69d FGG",
@@ -277,6 +294,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§70e",
       "label": "§ 70e FGG",
@@ -285,6 +303,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§26",
       "label": "§ 26 FamFG",
@@ -293,6 +312,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§298",
       "label": "§ 298 FamFG",
@@ -301,6 +321,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§59",
       "label": "§ 59 FamFG",
@@ -309,6 +330,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§64",
       "label": "§ 64 FamFG",
@@ -317,6 +339,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§8",
       "label": "§ 8 JVEG",
@@ -325,6 +348,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "LFGG",
       "id": "LFGG§37",
       "label": "§ 37 LFGG",
@@ -333,6 +357,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "RPflG",
       "id": "RPflG§15",
       "label": "§ 15 RPflG",
@@ -341,6 +366,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§226",
       "label": "§ 226 StGB",
@@ -365,7 +391,7 @@
       "decisions": [],
       "norms": [
         "StGB§226",
-        "BGB§1829"
+        "BGB§1829@unbestimmt"
       ],
       "path": [
         "Wann ist eine Genehmigung erforderlich?"
@@ -395,7 +421,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1829"
+        "BGB§1829@unbestimmt"
       ],
       "path": [
         "Wann ist eine Genehmigung erforderlich?",
@@ -420,8 +446,8 @@
         "AG Brandenburg 85 XVII 230/15"
       ],
       "norms": [
-        "BGB§1906",
-        "BGB§1904",
+        "BGB§1906@aF",
+        "BGB§1904@aF",
         "FGG§70e",
         "FGG§69d",
         "FamFG§298"
@@ -446,7 +472,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1904"
+        "BGB§1904@aF"
       ],
       "path": [
         "Wann ist eine Genehmigung erforderlich?",
@@ -459,7 +485,7 @@
         "LG Oldenburg 8 T 180/10"
       ],
       "norms": [
-        "BGB§1904"
+        "BGB§1904@aF"
       ],
       "path": [
         "Wann ist eine Genehmigung erforderlich?",
@@ -474,8 +500,8 @@
         "OLG Hamm 10 U 41/17"
       ],
       "norms": [
-        "BGB§1904",
-        "BGB§1901b"
+        "BGB§1904@aF",
+        "BGB§1901b@aF"
       ],
       "path": [
         "Wann ist eine Genehmigung erforderlich?",
@@ -534,7 +560,7 @@
       "decisions": [],
       "norms": [
         "FamFG§298",
-        "BGB§1828",
+        "BGB§1828@unbestimmt",
         "FamFG§26"
       ],
       "path": [
@@ -546,7 +572,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1828"
+        "BGB§1828@unbestimmt"
       ],
       "path": [
         "Gerichtliches Verfahren",
@@ -568,7 +594,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1829"
+        "BGB§1829@unbestimmt"
       ],
       "path": [
         "Gerichtliches Verfahren",
@@ -615,8 +641,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1904",
-        "BGB§1906"
+        "BGB§1904@aF",
+        "BGB§1906@aF"
       ],
       "path": [
         "Literatur",

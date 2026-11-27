@@ -311,6 +311,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -319,22 +320,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1814",
       "label": "§ 1814 BGB",
       "nummer": "1814"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§375",
       "label": "§ 375 FamFG",
@@ -343,6 +347,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§410",
       "label": "§ 410 FamFG",
@@ -351,6 +356,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§415",
       "label": "§ 415 FamFG",
@@ -359,6 +365,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.11",
       "label": "Art. 11 GG",
@@ -367,6 +374,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.12",
       "label": "Art. 12 GG",
@@ -375,6 +383,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.2",
       "label": "Art. 2 GG",
@@ -383,6 +392,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.4",
       "label": "Art. 4 GG",
@@ -391,6 +401,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.5",
       "label": "Art. 5 GG",
@@ -399,6 +410,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.8",
       "label": "Art. 8 GG",
@@ -407,6 +419,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.9",
       "label": "Art. 9 GG",
@@ -415,6 +428,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§23a",
       "label": "§ 23a GVG",
@@ -423,6 +437,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§20",
       "label": "§ 20 StGB",
@@ -431,6 +446,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§412",
       "label": "§ 412 ZPO",
@@ -445,7 +461,7 @@
       "norms": [
         "BGB§104",
         "StGB§20",
-        "BGB§1896",
+        "BGB§1896@aF",
         "BGB§1814"
       ],
       "path": [
@@ -497,7 +513,7 @@
         "XII ZB 552/17"
       ],
       "norms": [
-        "BGB§1896",
+        "BGB§1896@aF",
         "GGArt.2",
         "ZPO§412",
         "BGB§104"

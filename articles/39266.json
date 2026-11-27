@@ -83,6 +83,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§131",
       "label": "§ 131 BGB",
@@ -91,6 +92,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§312d",
       "label": "§ 312d BGB",
@@ -99,6 +101,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630e",
       "label": "§ 630e BGB",
@@ -107,6 +110,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§651d",
       "label": "§ 651d BGB",
@@ -115,6 +119,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§676b",
       "label": "§ 676b BGB",
@@ -123,6 +128,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§5",
       "label": "§ 5 BtOG",
@@ -131,6 +137,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§15",
       "label": "§ 15 SGB I",
@@ -139,6 +146,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§27b",
       "label": "§ 27b SGB V",
@@ -147,6 +155,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§314",
       "label": "§ 314 SGB V",
@@ -155,6 +164,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§343",
       "label": "§ 343 SGB V",
@@ -163,6 +173,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "WBVG",
       "id": "WBVG§3",
       "label": "§ 3 WBVG",

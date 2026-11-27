@@ -81,14 +81,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1846",
-      "label": "§ 1846 BGB",
+      "id": "BGB§1846@unbestimmt",
+      "label": "§ 1846 BGB (alte oder neue Fassung)",
       "nummer": "1846"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§10",
       "label": "§ 10 FamFG",
@@ -97,6 +99,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§11",
       "label": "§ 11 FamFG",
@@ -105,6 +108,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§12",
       "label": "§ 12 FamFG",
@@ -113,6 +117,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§125",
       "label": "§ 125 FamFG",
@@ -121,6 +126,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§15",
       "label": "§ 15 FamFG",
@@ -129,6 +135,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§168",
       "label": "§ 168 FamFG",
@@ -137,6 +144,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§17",
       "label": "§ 17 FamFG",
@@ -145,6 +153,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§18",
       "label": "§ 18 FamFG",
@@ -153,6 +162,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§19",
       "label": "§ 19 FamFG",
@@ -161,6 +171,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§271",
       "label": "§ 271 FamFG",
@@ -169,6 +180,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§272",
       "label": "§ 272 FamFG",
@@ -177,6 +189,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§273",
       "label": "§ 273 FamFG",
@@ -185,6 +198,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§274",
       "label": "§ 274 FamFG",
@@ -193,6 +207,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§275",
       "label": "§ 275 FamFG",
@@ -201,6 +216,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§276",
       "label": "§ 276 FamFG",
@@ -209,6 +225,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§277",
       "label": "§ 277 FamFG",
@@ -217,6 +234,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§278",
       "label": "§ 278 FamFG",
@@ -225,6 +243,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§279",
       "label": "§ 279 FamFG",
@@ -233,6 +252,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§280",
       "label": "§ 280 FamFG",
@@ -241,6 +261,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§281",
       "label": "§ 281 FamFG",
@@ -249,6 +270,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§282",
       "label": "§ 282 FamFG",
@@ -257,6 +279,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§283",
       "label": "§ 283 FamFG",
@@ -265,6 +288,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§284",
       "label": "§ 284 FamFG",
@@ -273,6 +297,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§285",
       "label": "§ 285 FamFG",
@@ -281,6 +306,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§286",
       "label": "§ 286 FamFG",
@@ -289,6 +315,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -297,6 +324,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§288",
       "label": "§ 288 FamFG",
@@ -305,6 +333,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§289",
       "label": "§ 289 FamFG",
@@ -313,6 +342,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§290",
       "label": "§ 290 FamFG",
@@ -321,6 +351,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§291",
       "label": "§ 291 FamFG",
@@ -329,6 +360,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§292",
       "label": "§ 292 FamFG",
@@ -337,6 +369,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§293",
       "label": "§ 293 FamFG",
@@ -345,6 +378,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§294",
       "label": "§ 294 FamFG",
@@ -353,6 +387,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§295",
       "label": "§ 295 FamFG",
@@ -361,6 +396,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§296",
       "label": "§ 296 FamFG",
@@ -369,6 +405,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§297",
       "label": "§ 297 FamFG",
@@ -377,6 +414,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§298",
       "label": "§ 298 FamFG",
@@ -385,6 +423,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§299",
       "label": "§ 299 FamFG",
@@ -393,6 +432,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§300",
       "label": "§ 300 FamFG",
@@ -401,6 +441,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§301",
       "label": "§ 301 FamFG",
@@ -409,6 +450,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§302",
       "label": "§ 302 FamFG",
@@ -417,6 +459,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§303",
       "label": "§ 303 FamFG",
@@ -425,6 +468,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§304",
       "label": "§ 304 FamFG",
@@ -433,6 +477,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§305",
       "label": "§ 305 FamFG",
@@ -441,6 +486,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§306",
       "label": "§ 306 FamFG",
@@ -449,6 +495,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§307",
       "label": "§ 307 FamFG",
@@ -457,6 +504,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§308",
       "label": "§ 308 FamFG",
@@ -465,6 +513,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§309",
       "label": "§ 309 FamFG",
@@ -473,6 +522,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§310",
       "label": "§ 310 FamFG",
@@ -481,6 +531,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§311",
       "label": "§ 311 FamFG",
@@ -489,6 +540,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§312",
       "label": "§ 312 FamFG",
@@ -497,6 +549,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§313",
       "label": "§ 313 FamFG",
@@ -505,6 +558,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§314",
       "label": "§ 314 FamFG",
@@ -513,6 +567,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§315",
       "label": "§ 315 FamFG",
@@ -521,6 +576,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§316",
       "label": "§ 316 FamFG",
@@ -529,6 +585,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§317",
       "label": "§ 317 FamFG",
@@ -537,6 +594,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§318",
       "label": "§ 318 FamFG",
@@ -545,6 +603,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§319",
       "label": "§ 319 FamFG",
@@ -553,6 +612,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§320",
       "label": "§ 320 FamFG",
@@ -561,6 +621,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§321",
       "label": "§ 321 FamFG",
@@ -569,6 +630,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§322",
       "label": "§ 322 FamFG",
@@ -577,6 +639,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§323",
       "label": "§ 323 FamFG",
@@ -585,6 +648,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§324",
       "label": "§ 324 FamFG",
@@ -593,6 +657,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§325",
       "label": "§ 325 FamFG",
@@ -601,6 +666,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§326",
       "label": "§ 326 FamFG",
@@ -609,6 +675,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§327",
       "label": "§ 327 FamFG",
@@ -617,6 +684,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§328",
       "label": "§ 328 FamFG",
@@ -625,6 +693,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§329",
       "label": "§ 329 FamFG",
@@ -633,6 +702,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§330",
       "label": "§ 330 FamFG",
@@ -641,6 +711,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§331",
       "label": "§ 331 FamFG",
@@ -649,6 +720,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§332",
       "label": "§ 332 FamFG",
@@ -657,6 +729,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§333",
       "label": "§ 333 FamFG",
@@ -665,6 +738,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§334",
       "label": "§ 334 FamFG",
@@ -673,6 +747,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§335",
       "label": "§ 335 FamFG",
@@ -681,6 +756,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§336",
       "label": "§ 336 FamFG",
@@ -689,6 +765,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§337",
       "label": "§ 337 FamFG",
@@ -697,6 +774,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§338",
       "label": "§ 338 FamFG",
@@ -705,6 +783,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§339",
       "label": "§ 339 FamFG",
@@ -713,6 +792,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§34",
       "label": "§ 34 FamFG",
@@ -721,6 +801,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§39",
       "label": "§ 39 FamFG",
@@ -729,6 +810,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§40",
       "label": "§ 40 FamFG",
@@ -737,6 +819,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§41",
       "label": "§ 41 FamFG",
@@ -745,6 +828,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§58",
       "label": "§ 58 FamFG",
@@ -753,6 +837,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§59",
       "label": "§ 59 FamFG",
@@ -761,6 +846,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§61",
       "label": "§ 61 FamFG",
@@ -769,6 +855,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§63",
       "label": "§ 63 FamFG",
@@ -777,6 +864,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§64",
       "label": "§ 64 FamFG",
@@ -785,6 +873,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§65",
       "label": "§ 65 FamFG",
@@ -793,6 +882,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§66",
       "label": "§ 66 FamFG",
@@ -801,6 +891,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§7",
       "label": "§ 7 FamFG",
@@ -809,6 +900,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§70",
       "label": "§ 70 FamFG",
@@ -817,6 +909,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§71",
       "label": "§ 71 FamFG",
@@ -825,6 +918,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§9",
       "label": "§ 9 FamFG",
@@ -982,7 +1076,7 @@
         "FamFG§332",
         "FamFG§333",
         "FamFG§334",
-        "BGB§1846",
+        "BGB§1846@unbestimmt",
         "FamFG§335",
         "FamFG§336",
         "FamFG§337",

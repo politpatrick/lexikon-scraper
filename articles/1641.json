@@ -357,6 +357,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§122",
       "label": "§ 122 AO",
@@ -365,6 +366,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§34",
       "label": "§ 34 AO",
@@ -373,6 +375,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§69",
       "label": "§ 69 AO",
@@ -381,6 +384,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§79",
       "label": "§ 79 AO",
@@ -389,6 +393,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§80",
       "label": "§ 80 AO",
@@ -397,46 +402,52 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1823",
       "label": "§ 1823 BGB",
       "nummer": "1823"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901",
-      "label": "§ 1901 BGB",
+      "id": "BGB§1901@aF",
+      "label": "§ 1901 BGB a.F.",
       "nummer": "1901"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1902",
-      "label": "§ 1902 BGB",
+      "id": "BGB§1902@aF",
+      "label": "§ 1902 BGB a.F.",
       "nummer": "1902"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1903",
-      "label": "§ 1903 BGB",
+      "id": "BGB§1903@aF",
+      "label": "§ 1903 BGB a.F.",
       "nummer": "1903"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "HGB",
       "id": "HGB§335",
       "label": "§ 335 HGB",
@@ -445,6 +456,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§60",
       "label": "§ 60 SGB I",
@@ -453,6 +465,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§11",
       "label": "§ 11 SGB X",
@@ -461,6 +474,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§13",
       "label": "§ 13 SGB X",
@@ -469,6 +483,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§15",
       "label": "§ 15 SGB X",
@@ -477,6 +492,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§37",
       "label": "§ 37 SGB X",
@@ -485,6 +501,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§39",
       "label": "§ 39 SGB X",
@@ -493,6 +510,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGG",
       "id": "SGG§71",
       "label": "§ 71 SGG",
@@ -501,6 +519,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§77",
       "label": "§ 77 StGB",
@@ -509,6 +528,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwGO",
       "id": "VwGO§86",
       "label": "§ 86 VwGO",
@@ -517,6 +537,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwVfG",
       "id": "VwVfG§14",
       "label": "§ 14 VwVfG",
@@ -525,6 +546,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwVfG",
       "id": "VwVfG§41",
       "label": "§ 41 VwVfG",
@@ -533,6 +555,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwZG",
       "id": "VwZG§6",
       "label": "§ 6 VwZG",
@@ -541,6 +564,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwZG",
       "id": "VwZG§7",
       "label": "§ 7 VwZG",
@@ -549,6 +573,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwZG",
       "id": "VwZG§8",
       "label": "§ 8 VwZG",
@@ -557,6 +582,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§53",
       "label": "§ 53 ZPO",
@@ -585,9 +611,9 @@
       "norms": [
         "BGB§1823",
         "StGB§77",
-        "BGB§1902",
+        "BGB§1902@aF",
         "SGBX§15",
-        "BGB§1896"
+        "BGB§1896@aF"
       ],
       "path": [
         "Behördenangelegenheiten"
@@ -608,7 +634,7 @@
         "ZPO§53",
         "AO§79",
         "SGBX§11",
-        "BGB§1903"
+        "BGB§1903@aF"
       ],
       "path": [
         "Kein konkurrierendes Handeln"
@@ -636,15 +662,15 @@
         "ZPO§53",
         "SGBX§39",
         "VwGO§86",
-        "BGB§1903",
+        "BGB§1903@aF",
         "AO§79",
         "VwVfG§14",
         "SGBX§13",
-        "BGB§1902",
-        "BGB§1896",
+        "BGB§1902@aF",
+        "BGB§1896@aF",
         "SGBX§37",
         "VwZG§8",
-        "BGB§1901",
+        "BGB§1901@aF",
         "HGB§335"
       ],
       "path": [
@@ -717,6 +743,7 @@
         "SGBX§13",
         "VwVfG§14",
         "AO§80",
+        "SGBI§60",
         "SGBX§37",
         "VwVfG§41",
         "AO§122",

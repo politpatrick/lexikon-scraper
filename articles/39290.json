@@ -47,6 +47,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKHG",
       "id": "PsychKHG§56",
       "label": "§ 56 PsychKHG",
@@ -55,6 +56,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKHG",
       "id": "PsychKHG§6",
       "label": "§ 6 PsychKHG",

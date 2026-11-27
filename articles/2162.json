@@ -120,6 +120,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§134",
       "label": "§ 134 BGB",
@@ -128,6 +129,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§138",
       "label": "§ 138 BGB",
@@ -136,30 +138,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1877",
       "label": "§ 1877 BGB",
       "nummer": "1877"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1922",
       "label": "§ 1922 BGB",
@@ -168,6 +174,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1936",
       "label": "§ 1936 BGB",
@@ -176,6 +183,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2229",
       "label": "§ 2229 BGB",
@@ -184,6 +192,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§19",
       "label": "§ 19 BtOG",
@@ -192,6 +201,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§27",
       "label": "§ 27 BtOG",
@@ -200,6 +210,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§30",
       "label": "§ 30 BtOG",
@@ -208,6 +219,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§13",
       "label": "§ 13 FamFG",
@@ -216,6 +228,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "HeimG",
       "id": "HeimG§14",
       "label": "§ 14 HeimG",
@@ -224,6 +237,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§11",
       "label": "§ 11 VBVG",
@@ -248,7 +262,7 @@
       "norms": [
         "BtOG§19",
         "BtOG§30",
-        "BGB§1825"
+        "BGB§1825@unbestimmt"
       ],
       "path": [
         "Der Betreuer als Erbe des verstorbenen Betreuten"
@@ -281,7 +295,7 @@
         "VG Hannover 11 A 4007/23"
       ],
       "norms": [
-        "BGB§1896",
+        "BGB§1896@aF",
         "BGB§1936",
         "BGB§138",
         "BGB§134",

@@ -52,6 +52,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§81",
       "label": "§ 81 AO",
@@ -60,6 +61,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§340",
       "label": "§ 340 FamFG",
@@ -68,6 +70,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§70",
       "label": "§ 70 FamFG",
@@ -76,6 +79,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§15",
       "label": "§ 15 SGB X",
@@ -84,6 +88,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwVfG",
       "id": "VwVfG§16",
       "label": "§ 16 VwVfG",

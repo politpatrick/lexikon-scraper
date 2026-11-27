@@ -39,6 +39,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1785",
       "label": "§ 1785 BGB",
@@ -47,6 +48,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1819",
       "label": "§ 1819 BGB",
@@ -55,6 +57,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§19",
       "label": "§ 19 BtOG",
@@ -63,6 +66,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.33",
       "label": "Art. 33 GG",
@@ -71,6 +75,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.5",
       "label": "Art. 5 GG",
@@ -79,6 +84,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.6",
       "label": "Art. 6 GG",

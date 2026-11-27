@@ -276,6 +276,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -284,70 +285,79 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1818",
-      "label": "§ 1818 BGB",
+      "id": "BGB§1818@unbestimmt",
+      "label": "§ 1818 BGB (alte oder neue Fassung)",
       "nummer": "1818"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1835",
-      "label": "§ 1835 BGB",
+      "id": "BGB§1835@unbestimmt",
+      "label": "§ 1835 BGB (alte oder neue Fassung)",
       "nummer": "1835"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1837",
-      "label": "§ 1837 BGB",
+      "id": "BGB§1837@unbestimmt",
+      "label": "§ 1837 BGB (alte oder neue Fassung)",
       "nummer": "1837"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1839",
-      "label": "§ 1839 BGB",
+      "id": "BGB§1839@aF",
+      "label": "§ 1839 BGB a.F.",
       "nummer": "1839"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1840",
-      "label": "§ 1840 BGB",
+      "id": "BGB§1840@aF",
+      "label": "§ 1840 BGB a.F.",
       "nummer": "1840"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1841",
-      "label": "§ 1841 BGB",
+      "id": "BGB§1841@unbestimmt",
+      "label": "§ 1841 BGB (alte oder neue Fassung)",
       "nummer": "1841"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1843",
-      "label": "§ 1843 BGB",
+      "id": "BGB§1843@unbestimmt",
+      "label": "§ 1843 BGB (alte oder neue Fassung)",
       "nummer": "1843"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1859",
       "label": "§ 1859 BGB",
@@ -356,6 +366,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1865",
       "label": "§ 1865 BGB",
@@ -364,41 +375,46 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1872",
       "label": "§ 1872 BGB",
       "nummer": "1872"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1890",
-      "label": "§ 1890 BGB",
+      "id": "BGB§1890@aF",
+      "label": "§ 1890 BGB a.F.",
       "nummer": "1890"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1908b",
-      "label": "§ 1908b BGB",
+      "id": "BGB§1908b@aF",
+      "label": "§ 1908b BGB a.F.",
       "nummer": "1908b"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1908i",
-      "label": "§ 1908i BGB",
+      "id": "BGB§1908i@aF",
+      "label": "§ 1908i BGB a.F.",
       "nummer": "1908i"
     }
   ],
@@ -417,7 +433,7 @@
       "decisions": [],
       "norms": [
         "BGB§1865",
-        "BGB§1835"
+        "BGB§1835@unbestimmt"
       ],
       "path": [
         "Allgemeines"
@@ -428,7 +444,7 @@
       "decisions": [],
       "norms": [
         "BGB§104",
-        "BGB§1825"
+        "BGB§1825@unbestimmt"
       ],
       "path": [
         "Konkrete Verfahrensweise"
@@ -448,9 +464,9 @@
         "LG Hannover 12 T 14/14"
       ],
       "norms": [
-        "BGB§1818",
+        "BGB§1818@unbestimmt",
         "BGB§1859",
-        "BGB§1835"
+        "BGB§1835@unbestimmt"
       ],
       "path": [
         "Befreite Betreuer"
@@ -484,10 +500,10 @@
         "LG Freiburg (Breisgau) 4 T 221/25"
       ],
       "norms": [
-        "BGB§1908i",
-        "BGB§1840",
-        "BGB§1843",
-        "BGB§1841",
+        "BGB§1908i@aF",
+        "BGB§1840@aF",
+        "BGB§1843@unbestimmt",
+        "BGB§1841@unbestimmt",
         "BGB§1865"
       ],
       "path": [
@@ -518,15 +534,15 @@
         "LG Meiningen 4 T 184/21"
       ],
       "norms": [
-        "BGB§1843",
-        "BGB§1837",
-        "BGB§1841",
-        "BGB§1908i",
-        "BGB§1839",
-        "BGB§1840",
-        "BGB§1908b",
-        "BGB§1896",
-        "BGB§1890"
+        "BGB§1843@unbestimmt",
+        "BGB§1837@unbestimmt",
+        "BGB§1841@unbestimmt",
+        "BGB§1908i@aF",
+        "BGB§1839@aF",
+        "BGB§1840@aF",
+        "BGB§1908b@aF",
+        "BGB§1896@aF",
+        "BGB§1890@aF"
       ],
       "path": [
         "Weitere Rechtsprechung"

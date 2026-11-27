@@ -54,6 +54,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§383",
       "label": "§ 383 BGB",
@@ -62,6 +63,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "EGBGB",
       "id": "EGBGBArt.6",
       "label": "Art. 6 EGBGB",
@@ -70,6 +72,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.11",
       "label": "Art. 11 GG",
@@ -78,6 +81,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.13",
       "label": "Art. 13 GG",
@@ -86,6 +90,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.14",
       "label": "Art. 14 GG",
@@ -94,6 +99,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.2",
       "label": "Art. 2 GG",
@@ -102,6 +108,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.20a",
       "label": "Art. 20a GG",
@@ -110,6 +117,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.31",
       "label": "Art. 31 GG",
@@ -118,6 +126,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§109d",
       "label": "§ 109d StGB",
@@ -126,6 +135,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§11",
       "label": "§ 11 StGB",
@@ -134,6 +144,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§111",
       "label": "§ 111 StGB",
@@ -142,6 +153,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§125",
       "label": "§ 125 StGB",
@@ -150,6 +162,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§125a",
       "label": "§ 125a StGB",
@@ -158,6 +171,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§126",
       "label": "§ 126 StGB",
@@ -166,6 +180,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§130",
       "label": "§ 130 StGB",
@@ -174,6 +189,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§130a",
       "label": "§ 130a StGB",
@@ -182,6 +198,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§131",
       "label": "§ 131 StGB",
@@ -190,6 +207,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§164",
       "label": "§ 164 StGB",
@@ -198,6 +216,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§166",
       "label": "§ 166 StGB",
@@ -206,6 +225,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§184",
       "label": "§ 184 StGB",
@@ -214,6 +234,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§185",
       "label": "§ 185 StGB",
@@ -222,6 +243,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§186",
       "label": "§ 186 StGB",
@@ -230,6 +252,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§187",
       "label": "§ 187 StGB",
@@ -238,6 +261,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§188",
       "label": "§ 188 StGB",
@@ -246,6 +270,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§189",
       "label": "§ 189 StGB",
@@ -254,6 +279,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§242",
       "label": "§ 242 StGB",
@@ -262,6 +288,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§263",
       "label": "§ 263 StGB",
@@ -270,6 +297,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§303a",
       "label": "§ 303a StGB",
@@ -278,6 +306,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§303b",
       "label": "§ 303b StGB",
@@ -286,6 +315,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§74d",
       "label": "§ 74d StGB",
@@ -294,6 +324,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§98",
       "label": "§ 98 StGB",
@@ -302,6 +333,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§99",
       "label": "§ 99 StGB",

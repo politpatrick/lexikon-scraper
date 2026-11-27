@@ -76,6 +76,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1835",
       "label": "§ 1835 BGB",
@@ -84,6 +85,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1835@unbestimmt",
+      "label": "§ 1835 BGB (alte oder neue Fassung)",
+      "nummer": "1835"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1862",
       "label": "§ 1862 BGB",
@@ -92,6 +103,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1863",
       "label": "§ 1863 BGB",
@@ -100,6 +112,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1865",
       "label": "§ 1865 BGB",
@@ -108,6 +121,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1880",
       "label": "§ 1880 BGB",
@@ -116,6 +130,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BeurkG",
       "id": "BeurkG§66",
       "label": "§ 66 BeurkG",
@@ -124,6 +139,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§1",
       "label": "§ 1 BtOG",
@@ -132,6 +148,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§20",
       "label": "§ 20 BtOG",
@@ -140,6 +157,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -148,6 +166,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§29",
       "label": "§ 29 FamFG",
@@ -156,6 +175,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§30",
       "label": "§ 30 FamFG",
@@ -164,6 +184,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§19",
       "label": "§ 19 JVEG",
@@ -172,6 +193,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§22",
       "label": "§ 22 JVEG",
@@ -180,6 +202,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§60",
       "label": "§ 60 SGB I",
@@ -188,6 +211,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§90",
       "label": "§ 90 SGB XII",
@@ -196,6 +220,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§802c",
       "label": "§ 802c ZPO",
@@ -204,6 +229,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§802l",
       "label": "§ 802l ZPO",
@@ -224,7 +250,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1835",
+        "BGB§1835@unbestimmt",
         "BGB§1862",
         "BGB§1865",
         "BGB§1863",
@@ -238,7 +264,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1835"
+        "BGB§1835@unbestimmt"
       ],
       "path": [
         "Belegbeifügung"
@@ -251,7 +277,7 @@
         "BGB§1880",
         "SGBXII§90",
         "FamFG§287",
-        "BGB§1835"
+        "BGB§1835@unbestimmt"
       ],
       "path": [
         "Inhalt des Vermögensverzeichnisses"
@@ -407,7 +433,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1835"
+        "BGB§1835@unbestimmt"
       ],
       "path": [
         "Ermittlung der Vermögenswerte",
@@ -431,7 +457,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1835"
+        "BGB§1835@unbestimmt"
       ],
       "path": [
         "Weitere Beteiligte",
@@ -442,7 +468,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1835",
+        "BGB§1835@unbestimmt",
         "FamFG§29",
         "FamFG§30",
         "JVEG§19",
@@ -457,7 +483,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1835",
+        "BGB§1835@unbestimmt",
         "BGB§1863"
       ],
       "path": [

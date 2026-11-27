@@ -157,6 +157,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1698b",
       "label": "§ 1698b BGB",
@@ -165,6 +166,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§181",
       "label": "§ 181 BGB",
@@ -173,22 +175,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1812",
-      "label": "§ 1812 BGB",
+      "id": "BGB§1812@unbestimmt",
+      "label": "§ 1812 BGB (alte oder neue Fassung)",
       "nummer": "1812"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1863",
       "label": "§ 1863 BGB",
@@ -197,6 +202,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1870",
       "label": "§ 1870 BGB",
@@ -205,6 +211,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1872",
       "label": "§ 1872 BGB",
@@ -213,6 +220,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1874",
       "label": "§ 1874 BGB",
@@ -221,6 +229,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1881",
       "label": "§ 1881 BGB",
@@ -229,6 +238,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1960",
       "label": "§ 1960 BGB",
@@ -237,6 +247,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1961",
       "label": "§ 1961 BGB",
@@ -245,6 +256,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1962",
       "label": "§ 1962 BGB",
@@ -253,6 +265,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2259",
       "label": "§ 2259 BGB",
@@ -261,6 +274,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§564",
       "label": "§ 564 BGB",
@@ -269,6 +283,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§667",
       "label": "§ 667 BGB",
@@ -277,6 +292,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§290",
       "label": "§ 290 FamFG",
@@ -285,6 +301,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§59",
       "label": "§ 59 FamFG",
@@ -293,6 +310,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§63",
       "label": "§ 63 FamFG",
@@ -301,6 +319,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§62",
       "label": "§ 62 PStG",
@@ -309,6 +328,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§65",
       "label": "§ 65 PStG",
@@ -317,6 +337,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§4",
       "label": "§ 4 VBVG",
@@ -325,6 +346,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§5",
       "label": "§ 5 VBVG",
@@ -333,6 +355,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§6",
       "label": "§ 6 VBVG",
@@ -446,7 +469,7 @@
       "norms": [
         "BGB§1960",
         "BGB§1961",
-        "BGB§1814"
+        "BGB§1814@unbestimmt"
       ],
       "path": [
         "Nur wenn der Erbe keine Fürsorge treffen kann"
@@ -475,7 +498,7 @@
       "norms": [
         "BGB§1874",
         "BGB§1960",
-        "BGB§1812",
+        "BGB§1812@unbestimmt",
         "BGB§2259",
         "BGB§1698b",
         "VBVG§6",

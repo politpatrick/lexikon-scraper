@@ -171,14 +171,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1817",
-      "label": "§ 1817 BGB",
+      "id": "BGB§1817@unbestimmt",
+      "label": "§ 1817 BGB (alte oder neue Fassung)",
       "nummer": "1817"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§27",
       "label": "§ 27 BtOG",
@@ -187,6 +189,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§292",
       "label": "§ 292 FamFG",
@@ -195,6 +198,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§295",
       "label": "§ 295 FamFG",
@@ -203,6 +207,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§48",
       "label": "§ 48 FamFG",
@@ -211,6 +216,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§11",
       "label": "§ 11 VBVG",
@@ -219,6 +225,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§14",
       "label": "§ 14 VBVG",
@@ -227,6 +234,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§15",
       "label": "§ 15 VBVG",
@@ -235,6 +243,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§292",
       "label": "§ 292 VBVG",
@@ -243,6 +252,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§7",
       "label": "§ 7 VBVG",
@@ -251,6 +261,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§9",
       "label": "§ 9 VBVG",
@@ -276,7 +287,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1817",
+        "BGB§1817@unbestimmt",
         "VBVG§11"
       ],
       "path": [

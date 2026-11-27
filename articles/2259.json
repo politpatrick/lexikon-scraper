@@ -34,6 +34,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1358",
       "label": "§ 1358 BGB",
@@ -42,30 +43,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1809",
-      "label": "§ 1809 BGB",
+      "id": "BGB§1809@unbestimmt",
+      "label": "§ 1809 BGB (alte oder neue Fassung)",
       "nummer": "1809"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1827",
-      "label": "§ 1827 BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
       "nummer": "1827"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1829",
-      "label": "§ 1829 BGB",
+      "id": "BGB§1829@unbestimmt",
+      "label": "§ 1829 BGB (alte oder neue Fassung)",
       "nummer": "1829"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630d",
       "label": "§ 630d BGB",
@@ -79,9 +84,9 @@
       "decisions": [],
       "norms": [
         "BGB§630d",
-        "BGB§1827",
-        "BGB§1829",
-        "BGB§1809",
+        "BGB§1827@unbestimmt",
+        "BGB§1829@unbestimmt",
+        "BGB§1809@unbestimmt",
         "BGB§1358"
       ],
       "path": [

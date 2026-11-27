@@ -29,6 +29,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1596",
       "label": "§ 1596 BGB",
@@ -37,6 +38,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1600",
       "label": "§ 1600 BGB",
@@ -45,6 +47,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1706",
       "label": "§ 1706 BGB",
@@ -53,14 +56,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VIII",
       "id": "SGBVIII§59",
       "label": "§ 59 SGB VIII",
@@ -75,7 +80,7 @@
       "norms": [
         "SGBVIII§59",
         "BGB§1596",
-        "BGB§1825"
+        "BGB§1825@unbestimmt"
       ],
       "path": [
         "Vaterschaftsanerkennung durch Betreute"
@@ -85,7 +90,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1825"
+        "BGB§1825@unbestimmt"
       ],
       "path": [
         "Vaterschaftsanerkennung durch Betreute",

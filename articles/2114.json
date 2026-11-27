@@ -33,6 +33,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -41,6 +42,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§105",
       "label": "§ 105 BGB",
@@ -49,6 +51,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§105a",
       "label": "§ 105a BGB",
@@ -57,6 +60,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§110",
       "label": "§ 110 BGB",
@@ -65,17 +69,19 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1823",
-      "label": "§ 1823 BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
       "nummer": "1823"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     }
   ],
@@ -86,7 +92,7 @@
       "decisions": [],
       "norms": [
         "BGB§105a",
-        "BGB§1825"
+        "BGB§1825@unbestimmt"
       ],
       "path": [
         "Geschäfte des täglichen Lebens (Alltagsgeschäfte Geschäftsunfähiger)",
@@ -99,7 +105,7 @@
       "norms": [
         "BGB§104",
         "BGB§105",
-        "BGB§1823",
+        "BGB§1823@unbestimmt",
         "BGB§105a"
       ],
       "path": [
@@ -145,7 +151,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1825"
+        "BGB§1825@unbestimmt"
       ],
       "path": [
         "Geschäfte des täglichen Lebens (Alltagsgeschäfte Geschäftsunfähiger)",

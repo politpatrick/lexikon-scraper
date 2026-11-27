@@ -138,6 +138,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1",
       "label": "§ 1 BGB",
@@ -146,6 +147,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -154,14 +156,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1816",
       "label": "§ 1816 BGB",
@@ -170,6 +174,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1816@unbestimmt",
+      "label": "§ 1816 BGB (alte oder neue Fassung)",
+      "nummer": "1816"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1833",
       "label": "§ 1833 BGB",
@@ -178,6 +192,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1838",
       "label": "§ 1838 BGB",
@@ -186,22 +201,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1859",
       "label": "§ 1859 BGB",
       "nummer": "1859"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1897",
-      "label": "§ 1897 BGB",
+      "id": "BGB§1897@aF",
+      "label": "§ 1897 BGB a.F.",
       "nummer": "1897"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BNotO",
       "id": "BNotO§78a",
       "label": "§ 78a BNotO",
@@ -210,6 +228,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§7",
       "label": "§ 7 BtOG",
@@ -218,6 +237,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§12",
       "label": "§ 12 FGG",
@@ -226,6 +246,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§26",
       "label": "§ 26 FamFG",
@@ -234,6 +255,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§285",
       "label": "§ 285 FamFG",
@@ -242,6 +264,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§89",
       "label": "§ 89 FamFG",
@@ -254,7 +277,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1814"
+        "BGB§1814@unbestimmt"
       ],
       "path": [
         "Einleitung"
@@ -264,7 +287,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1816",
+        "BGB§1816@unbestimmt",
         "FamFG§285"
       ],
       "path": [
@@ -357,7 +380,7 @@
       "norms": [
         "FamFG§26",
         "FGG§12",
-        "BGB§1897",
+        "BGB§1897@aF",
         "BGB§1"
       ],
       "path": [

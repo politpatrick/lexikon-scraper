@@ -48,11 +48,12 @@
   ],
   "norms": [
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     }
   ],
@@ -81,7 +82,7 @@
         "VG Trier 5 N 728/13"
       ],
       "norms": [
-        "BGB§1896"
+        "BGB§1896@aF"
       ],
       "path": [
         "Rechtsprechung"

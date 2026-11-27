@@ -237,6 +237,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -245,94 +246,106 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1817",
-      "label": "§ 1817 BGB",
+      "id": "BGB§1817@unbestimmt",
+      "label": "§ 1817 BGB (alte oder neue Fassung)",
       "nummer": "1817"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1823",
-      "label": "§ 1823 BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
       "nummer": "1823"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1827",
-      "label": "§ 1827 BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
       "nummer": "1827"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1829",
-      "label": "§ 1829 BGB",
+      "id": "BGB§1829@unbestimmt",
+      "label": "§ 1829 BGB (alte oder neue Fassung)",
       "nummer": "1829"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1830",
-      "label": "§ 1830 BGB",
+      "id": "BGB§1830@unbestimmt",
+      "label": "§ 1830 BGB (alte oder neue Fassung)",
       "nummer": "1830"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1831",
-      "label": "§ 1831 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
       "nummer": "1831"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1904",
-      "label": "§ 1904 BGB",
+      "id": "BGB§1904@aF",
+      "label": "§ 1904 BGB a.F.",
       "nummer": "1904"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1906",
-      "label": "§ 1906 BGB",
+      "id": "BGB§1906@aF",
+      "label": "§ 1906 BGB a.F.",
       "nummer": "1906"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§253",
       "label": "§ 253 BGB",
@@ -341,6 +354,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§611",
       "label": "§ 611 BGB",
@@ -349,6 +363,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630a",
       "label": "§ 630a BGB",
@@ -357,6 +372,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630f",
       "label": "§ 630f BGB",
@@ -365,6 +381,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§297",
       "label": "§ 297 FamFG",
@@ -373,6 +390,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§31a",
       "label": "§ 31a SGB V",
@@ -381,6 +399,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§75",
       "label": "§ 75 SGB XI",
@@ -389,6 +408,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§63",
       "label": "§ 63 StGB",
@@ -397,6 +417,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VVG",
       "id": "VVG§159",
       "label": "§ 159 VVG",
@@ -439,22 +460,22 @@
       "norms": [
         "BGB§630a",
         "BGB§104",
-        "BGB§1823",
-        "BGB§1825",
+        "BGB§1823@unbestimmt",
+        "BGB§1825@unbestimmt",
         "SGBXI§75",
         "BGB§253",
         "BGB§611",
-        "BGB§1827",
-        "BGB§1829",
-        "BGB§1821",
+        "BGB§1827@unbestimmt",
+        "BGB§1829@unbestimmt",
+        "BGB§1821@unbestimmt",
         "SGBV§31a",
         "BGB§630f",
         "StGB§63",
-        "BGB§1830",
+        "BGB§1830@unbestimmt",
         "FamFG§297",
-        "BGB§1817",
-        "BGB§1831",
-        "BGB§1814",
+        "BGB§1817@unbestimmt",
+        "BGB§1831@unbestimmt",
+        "BGB§1814@unbestimmt",
         "VVG§159"
       ],
       "path": [
@@ -490,8 +511,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1904",
-        "BGB§1906"
+        "BGB§1904@aF",
+        "BGB§1906@aF"
       ],
       "path": [
         "Literatur",

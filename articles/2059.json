@@ -150,22 +150,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1831",
       "label": "§ 1831 BGB",
       "nummer": "1831"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§15",
       "label": "§ 15 FGG",
@@ -174,6 +177,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§68b",
       "label": "§ 68b FGG",
@@ -182,6 +186,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§280",
       "label": "§ 280 FamFG",
@@ -190,6 +195,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§281",
       "label": "§ 281 FamFG",
@@ -198,6 +204,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§295",
       "label": "§ 295 FamFG",
@@ -206,6 +213,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§300",
       "label": "§ 300 FamFG",
@@ -214,6 +222,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§321",
       "label": "§ 321 FamFG",
@@ -222,6 +231,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§331",
       "label": "§ 331 FamFG",
@@ -230,6 +240,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§10",
       "label": "§ 10 JVEG",
@@ -238,6 +249,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§8",
       "label": "§ 8 JVEG",
@@ -246,6 +258,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§9",
       "label": "§ 9 JVEG",
@@ -254,6 +267,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§341",
       "label": "§ 341 SGB V",
@@ -262,6 +276,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§344",
       "label": "§ 344 SGB V",
@@ -331,7 +346,7 @@
       ],
       "norms": [
         "FGG§68b",
-        "BGB§1896",
+        "BGB§1896@aF",
         "FGG§15",
         "JVEG§9",
         "JVEG§10",

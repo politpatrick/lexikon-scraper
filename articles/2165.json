@@ -35,6 +35,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -43,38 +44,43 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1829",
       "label": "§ 1829 BGB",
       "nummer": "1829"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1904",
-      "label": "§ 1904 BGB",
+      "id": "BGB§1904@aF",
+      "label": "§ 1904 BGB a.F.",
       "nummer": "1904"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§356",
       "label": "§ 356 SGB V",
@@ -144,7 +150,7 @@
       "decisions": [],
       "norms": [
         "BGB§1829",
-        "BGB§1904",
+        "BGB§1904@aF",
         "BGB§104"
       ],
       "path": [
@@ -156,8 +162,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1821",
-        "BGB§1904",
+        "BGB§1821@unbestimmt",
+        "BGB§1904@aF",
         "BGB§1829"
       ],
       "path": [
@@ -169,7 +175,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1825"
+        "BGB§1825@unbestimmt"
       ],
       "path": [
         "Betreuertätigkeit und Organtransplantation",

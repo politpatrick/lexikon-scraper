@@ -186,6 +186,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§117",
       "label": "§ 117 BRAO",
@@ -194,6 +195,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§16",
       "label": "§ 16 BRAO",
@@ -202,6 +204,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§224a",
       "label": "§ 224a BRAO",
@@ -210,6 +213,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§68",
       "label": "§ 68 FGG",
@@ -218,6 +222,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§68b",
       "label": "§ 68b FGG",
@@ -226,6 +231,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§70",
       "label": "§ 70 FGG",
@@ -234,6 +240,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§70g",
       "label": "§ 70g FGG",
@@ -242,6 +249,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§278",
       "label": "§ 278 FamFG",
@@ -250,6 +258,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§283",
       "label": "§ 283 FamFG",
@@ -258,6 +267,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§284",
       "label": "§ 284 FamFG",
@@ -266,6 +276,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§293",
       "label": "§ 293 FamFG",
@@ -274,6 +285,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§294",
       "label": "§ 294 FamFG",
@@ -282,6 +294,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§295",
       "label": "§ 295 FamFG",
@@ -290,6 +303,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§312",
       "label": "§ 312 FamFG",
@@ -298,6 +312,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§319",
       "label": "§ 319 FamFG",
@@ -306,6 +321,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§322",
       "label": "§ 322 FamFG",
@@ -314,6 +330,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§34",
       "label": "§ 34 FamFG",
@@ -322,6 +339,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§35",
       "label": "§ 35 FamFG",
@@ -330,6 +348,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§40",
       "label": "§ 40 FamFG",
@@ -338,6 +357,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.103",
       "label": "Art. 103 GG",
@@ -346,6 +366,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.13",
       "label": "Art. 13 GG",
@@ -354,6 +375,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "KostO",
       "id": "KostO§1",
       "label": "§ 1 KostO",
@@ -362,6 +384,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "KostO",
       "id": "KostO§137",
       "label": "§ 137 KostO",

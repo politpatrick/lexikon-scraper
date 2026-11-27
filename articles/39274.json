@@ -48,6 +48,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§839",
       "label": "§ 839 BGB",
@@ -56,6 +57,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.34",
       "label": "Art. 34 GG",
@@ -64,6 +66,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IV",
       "id": "SGBIV§29",
       "label": "§ 29 SGB IV",
@@ -72,6 +75,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IV",
       "id": "SGBIV§42",
       "label": "§ 42 SGB IV",
@@ -80,6 +84,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IV",
       "id": "SGBIV§43",
       "label": "§ 43 SGB IV",
@@ -88,6 +93,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IV",
       "id": "SGBIV§58",
       "label": "§ 58 SGB IV",

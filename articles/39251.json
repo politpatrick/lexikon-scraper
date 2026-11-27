@@ -39,6 +39,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§10",
       "label": "§ 10 FamFG",
@@ -47,6 +48,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§14b",
       "label": "§ 14b FamFG",
@@ -55,6 +57,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§304",
       "label": "§ 304 FamFG",

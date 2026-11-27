@@ -103,6 +103,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -111,30 +112,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§675",
       "label": "§ 675 BGB",
@@ -143,6 +148,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§66",
       "label": "§ 66 FGG",
@@ -151,6 +157,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§275",
       "label": "§ 275 FamFG",
@@ -159,6 +166,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§316",
       "label": "§ 316 FamFG",
@@ -167,6 +175,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§9",
       "label": "§ 9 FamFG",
@@ -175,6 +184,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGG",
       "id": "SGG§71",
       "label": "§ 71 SGG",
@@ -183,6 +193,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§171",
       "label": "§ 171 ZPO",
@@ -191,6 +202,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§51",
       "label": "§ 51 ZPO",
@@ -199,6 +211,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§52",
       "label": "§ 52 ZPO",
@@ -207,6 +220,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§53",
       "label": "§ 53 ZPO",
@@ -232,7 +246,7 @@
         "BGB§104",
         "ZPO§53",
         "ZPO§52",
-        "BGB§1825",
+        "BGB§1825@unbestimmt",
         "FamFG§9"
       ],
       "path": [
@@ -245,8 +259,8 @@
       "norms": [
         "ZPO§53",
         "ZPO§171",
-        "BGB§1821",
-        "BGB§1814"
+        "BGB§1821@unbestimmt",
+        "BGB§1814@unbestimmt"
       ],
       "path": [
         "Prozessunfähigkeit durch Betreuerhandeln?"
@@ -258,7 +272,7 @@
         "LSG Bayern L 13 R 352/06"
       ],
       "norms": [
-        "BGB§1825",
+        "BGB§1825@unbestimmt",
         "SGG§71",
         "ZPO§53"
       ],

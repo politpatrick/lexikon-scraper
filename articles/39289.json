@@ -57,70 +57,88 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1818",
-      "label": "§ 1818 BGB",
+      "id": "BGB§1818@unbestimmt",
+      "label": "§ 1818 BGB (alte oder neue Fassung)",
       "nummer": "1818"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1831",
-      "label": "§ 1831 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
       "nummer": "1831"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1832",
-      "label": "§ 1832 BGB",
+      "id": "BGB§1832@unbestimmt",
+      "label": "§ 1832 BGB (alte oder neue Fassung)",
       "nummer": "1832"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1833",
-      "label": "§ 1833 BGB",
+      "id": "BGB§1833@unbestimmt",
+      "label": "§ 1833 BGB (alte oder neue Fassung)",
       "nummer": "1833"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1838",
-      "label": "§ 1838 BGB",
+      "id": "BGB§1838@unbestimmt",
+      "label": "§ 1838 BGB (alte oder neue Fassung)",
       "nummer": "1838"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1843",
-      "label": "§ 1843 BGB",
+      "id": "BGB§1839@unbestimmt",
+      "label": "§ 1839 BGB (alte oder neue Fassung)",
+      "nummer": "1839"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1843@unbestimmt",
+      "label": "§ 1843 BGB (alte oder neue Fassung)",
       "nummer": "1843"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1846",
-      "label": "§ 1846 BGB",
+      "id": "BGB§1846@unbestimmt",
+      "label": "§ 1846 BGB (alte oder neue Fassung)",
       "nummer": "1846"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1847",
-      "label": "§ 1847 BGB",
+      "id": "BGB§1847@unbestimmt",
+      "label": "§ 1847 BGB (alte oder neue Fassung)",
       "nummer": "1847"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1864",
       "label": "§ 1864 BGB",
@@ -129,6 +147,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1865",
       "label": "§ 1865 BGB",
@@ -137,6 +156,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§25",
       "label": "§ 25 BtOG",
@@ -145,6 +165,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§27",
       "label": "§ 27 BtOG",
@@ -153,6 +174,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§33",
       "label": "§ 33 BtOG",
@@ -161,6 +183,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§9",
       "label": "§ 9 BtOG",
@@ -169,6 +192,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§18",
       "label": "§ 18 PStG",
@@ -177,6 +201,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§19",
       "label": "§ 19 PStG",
@@ -185,6 +210,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§20",
       "label": "§ 20 PStG",
@@ -193,6 +219,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§28",
       "label": "§ 28 PStG",
@@ -201,6 +228,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§29",
       "label": "§ 29 PStG",
@@ -209,6 +237,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§30",
       "label": "§ 30 PStG",
@@ -229,16 +258,17 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1838",
-        "BGB§1846",
-        "BGB§1843",
-        "BGB§1847",
+        "BGB§1839@unbestimmt",
+        "BGB§1838@unbestimmt",
+        "BGB§1846@unbestimmt",
+        "BGB§1843@unbestimmt",
+        "BGB§1847@unbestimmt",
         "BGB§1865",
-        "BGB§1831",
-        "BGB§1832",
-        "BGB§1833",
+        "BGB§1831@unbestimmt",
+        "BGB§1832@unbestimmt",
+        "BGB§1833@unbestimmt",
         "BGB§1864",
-        "BGB§1818"
+        "BGB§1818@unbestimmt"
       ],
       "path": [
         "Anzeigepflichten des Betreuers ggü dem Betreuungsgericht"

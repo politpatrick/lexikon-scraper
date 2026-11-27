@@ -117,6 +117,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1814",
       "label": "§ 1814 BGB",
@@ -125,30 +126,43 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1815",
-      "label": "§ 1815 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
+      "nummer": "1814"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1815@unbestimmt",
+      "label": "§ 1815 BGB (alte oder neue Fassung)",
       "nummer": "1815"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1823",
-      "label": "§ 1823 BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
       "nummer": "1823"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1871",
       "label": "§ 1871 BGB",
@@ -157,6 +171,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§8",
       "label": "§ 8 BtOG",
@@ -165,6 +180,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§102",
       "label": "§ 102 SGB IX",
@@ -173,6 +189,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§108",
       "label": "§ 108 SGB IX",
@@ -181,6 +198,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§113",
       "label": "§ 113 SGB IX",
@@ -189,6 +207,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§117",
       "label": "§ 117 SGB IX",
@@ -197,6 +216,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§192",
       "label": "§ 192 SGB IX",
@@ -205,6 +225,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§193",
       "label": "§ 193 SGB IX",
@@ -213,6 +234,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§194",
       "label": "§ 194 SGB IX",
@@ -221,6 +243,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§195",
       "label": "§ 195 SGB IX",
@@ -229,6 +252,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§2",
       "label": "§ 2 SGB IX",
@@ -237,6 +261,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§22",
       "label": "§ 22 SGB IX",
@@ -245,6 +270,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§228",
       "label": "§ 228 SGB IX",
@@ -253,6 +279,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§32",
       "label": "§ 32 SGB IX",
@@ -261,6 +288,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§42",
       "label": "§ 42 SGB IX",
@@ -269,6 +297,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§78",
       "label": "§ 78 SGB IX",
@@ -277,6 +306,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§90",
       "label": "§ 90 SGB IX",
@@ -285,6 +315,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§17",
       "label": "§ 17 SGB I",
@@ -393,12 +424,12 @@
       ],
       "norms": [
         "SGBIX§117",
-        "BGB§1814",
+        "BGB§1814@unbestimmt",
         "SGBIX§22",
-        "BGB§1823",
-        "BGB§1815",
+        "BGB§1823@unbestimmt",
+        "BGB§1815@unbestimmt",
         "SGBIX§108",
-        "BGB§1821",
+        "BGB§1821@unbestimmt",
         "SGBIX§78",
         "BGB§1871",
         "SGBIX§102",

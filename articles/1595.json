@@ -664,32 +664,36 @@
   ],
   "norms": [
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1836c",
-      "label": "§ 1836c BGB",
+      "id": "BGB§1836c@aF",
+      "label": "§ 1836c BGB a.F.",
       "nummer": "1836c"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1836d",
-      "label": "§ 1836d BGB",
+      "id": "BGB§1836d@aF",
+      "label": "§ 1836d BGB a.F.",
       "nummer": "1836d"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1836e",
-      "label": "§ 1836e BGB",
+      "id": "BGB§1836e@aF",
+      "label": "§ 1836e BGB a.F.",
       "nummer": "1836e"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1879",
       "label": "§ 1879 BGB",
@@ -698,6 +702,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1880",
       "label": "§ 1880 BGB",
@@ -706,22 +711,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1881",
       "label": "§ 1881 BGB",
       "nummer": "1881"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901",
-      "label": "§ 1901 BGB",
+      "id": "BGB§1901@aF",
+      "label": "§ 1901 BGB a.F.",
       "nummer": "1901"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§253",
       "label": "§ 253 BGB",
@@ -730,6 +738,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§528",
       "label": "§ 528 BGB",
@@ -738,6 +747,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BSHG",
       "id": "BSHG§15",
       "label": "§ 15 BSHG",
@@ -746,6 +756,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BSHG",
       "id": "BSHG§21",
       "label": "§ 21 BSHG",
@@ -754,6 +765,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BSHG",
       "id": "BSHG§88",
       "label": "§ 88 BSHG",
@@ -762,6 +774,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BSHG",
       "id": "BSHG§89",
       "label": "§ 89 BSHG",
@@ -770,6 +783,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§22",
       "label": "§ 22 FGG",
@@ -778,6 +792,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§26",
       "label": "§ 26 FamFG",
@@ -786,6 +801,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§292",
       "label": "§ 292 FamFG",
@@ -794,6 +810,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VII",
       "id": "SGBVII§39",
       "label": "§ 39 SGB VII",
@@ -802,6 +819,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§102",
       "label": "§ 102 SGB XII",
@@ -810,6 +828,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§74",
       "label": "§ 74 SGB XII",
@@ -818,6 +837,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§82",
       "label": "§ 82 SGB XII",
@@ -826,6 +846,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§87",
       "label": "§ 87 SGB XII",
@@ -834,6 +855,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§90",
       "label": "§ 90 SGB XII",
@@ -842,6 +864,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§37",
       "label": "§ 37 SGB XI",
@@ -850,6 +873,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§16",
       "label": "§ 16 VBVG",
@@ -858,6 +882,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§2",
       "label": "§ 2 VBVG",
@@ -866,6 +891,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§5",
       "label": "§ 5 VBVG",
@@ -874,6 +900,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§9",
       "label": "§ 9 VBVG",
@@ -882,6 +909,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§850c",
       "label": "§ 850c ZPO",
@@ -1109,9 +1137,9 @@
         "SGBXII§90",
         "FGG§22",
         "BGB§528",
-        "BGB§1836c",
-        "BGB§1836d",
-        "BGB§1901",
+        "BGB§1836c@aF",
+        "BGB§1836d@aF",
+        "BGB§1901@aF",
         "BGB§1880",
         "VBVG§2"
       ],
@@ -1177,8 +1205,8 @@
         "XII ZB 299/15"
       ],
       "norms": [
-        "BGB§1836c",
-        "BGB§1836e",
+        "BGB§1836c@aF",
+        "BGB§1836e@aF",
         "SGBXII§90",
         "BGB§1880"
       ],
@@ -1265,7 +1293,7 @@
       "decisions": [],
       "norms": [
         "VBVG§5",
-        "BGB§1836c"
+        "BGB§1836c@aF"
       ],
       "path": [
         "Rechtsprechungsübersicht in Leitsätzen",

@@ -26,9 +26,10 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1827",
-      "label": "§ 1827 BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
       "nummer": "1827"
     }
   ],
@@ -38,7 +39,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1827"
+        "BGB§1827@unbestimmt"
       ],
       "path": [
         "Einleitung"

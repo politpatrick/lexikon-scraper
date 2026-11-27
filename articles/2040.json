@@ -74,6 +74,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -82,6 +83,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§129",
       "label": "§ 129 BGB",
@@ -90,38 +92,43 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1823",
-      "label": "§ 1823 BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
       "nummer": "1823"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1827",
-      "label": "§ 1827 BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
       "nummer": "1827"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1831",
-      "label": "§ 1831 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
       "nummer": "1831"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BeurkG",
       "id": "BeurkG§40",
       "label": "§ 40 BeurkG",
@@ -130,6 +137,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtBG",
       "id": "BtBG§6",
       "label": "§ 6 BtBG",
@@ -138,6 +146,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§280",
       "label": "§ 280 FamFG",
@@ -146,6 +155,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§286",
       "label": "§ 286 FamFG",
@@ -154,6 +164,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -162,6 +173,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§300",
       "label": "§ 300 FamFG",
@@ -170,6 +182,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§301",
       "label": "§ 301 FamFG",
@@ -178,6 +191,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PAuswG",
       "id": "PAuswG§1",
       "label": "§ 1 PAuswG",
@@ -186,6 +200,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PAuswG",
       "id": "PAuswG§10",
       "label": "§ 10 PAuswG",
@@ -194,6 +209,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PAuswG",
       "id": "PAuswG§27",
       "label": "§ 27 PAuswG",
@@ -202,6 +218,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PAuswG",
       "id": "PAuswG§32",
       "label": "§ 32 PAuswG",
@@ -210,6 +227,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PAuswG",
       "id": "PAuswG§9",
       "label": "§ 9 PAuswG",
@@ -218,6 +236,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§30",
       "label": "§ 30 SGB I",
@@ -226,6 +245,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§228",
       "label": "§ 228 StGB",
@@ -234,6 +254,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§63",
       "label": "§ 63 StGB",
@@ -242,6 +263,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwVfG",
       "id": "VwVfG§12",
       "label": "§ 12 VwVfG",
@@ -267,7 +289,7 @@
         "FamFG§287",
         "BGB§104",
         "FamFG§286",
-        "BGB§1814",
+        "BGB§1814@unbestimmt",
         "FamFG§280"
       ],
       "path": [
@@ -281,7 +303,7 @@
         "BGB§129",
         "VwVfG§12",
         "StGB§228",
-        "BGB§1827",
+        "BGB§1827@unbestimmt",
         "BeurkG§40",
         "BtBG§6"
       ],
@@ -294,7 +316,7 @@
       "decisions": [],
       "norms": [
         "PAuswG§9",
-        "BGB§1814",
+        "BGB§1814@unbestimmt",
         "PAuswG§10"
       ],
       "path": [
@@ -329,9 +351,9 @@
         "FamFG§286",
         "FamFG§300",
         "FamFG§301",
-        "BGB§1823",
+        "BGB§1823@unbestimmt",
         "SGBI§30",
-        "BGB§1831",
+        "BGB§1831@unbestimmt",
         "StGB§63"
       ],
       "path": [

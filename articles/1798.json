@@ -61,6 +61,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1666",
       "label": "§ 1666 BGB",
@@ -69,30 +70,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1817",
-      "label": "§ 1817 BGB",
+      "id": "BGB§1817@unbestimmt",
+      "label": "§ 1817 BGB (alte oder neue Fassung)",
       "nummer": "1817"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1818",
-      "label": "§ 1818 BGB",
+      "id": "BGB§1818@unbestimmt",
+      "label": "§ 1818 BGB (alte oder neue Fassung)",
       "nummer": "1818"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1830",
-      "label": "§ 1830 BGB",
+      "id": "BGB§1830@unbestimmt",
+      "label": "§ 1830 BGB (alte oder neue Fassung)",
       "nummer": "1830"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69d",
       "label": "§ 69d FGG",
@@ -101,6 +106,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§297",
       "label": "§ 297 FamFG",
@@ -109,6 +115,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§228",
       "label": "§ 228 StGB",
@@ -117,6 +124,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "VBVG",
       "id": "VBVG§11@aF",
       "label": "§ 11 VBVG a.F.",
@@ -125,6 +133,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "VBVG",
       "id": "VBVG§3@aF",
       "label": "§ 3 VBVG a.F.",
@@ -133,6 +142,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§8",
       "label": "§ 8 VBVG",
@@ -141,6 +151,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§9",
       "label": "§ 9 VBVG",
@@ -153,7 +164,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1817"
+        "BGB§1817@unbestimmt"
       ],
       "path": [
         "Einleitung"
@@ -163,7 +174,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1818"
+        "BGB§1818@unbestimmt"
       ],
       "path": [
         "Neutrale Sichtweise"
@@ -173,7 +184,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1830",
+        "BGB§1830@unbestimmt",
         "StGB§228",
         "BGB§1666"
       ],
@@ -186,7 +197,7 @@
       "decisions": [],
       "norms": [
         "FGG§69d",
-        "BGB§1830",
+        "BGB§1830@unbestimmt",
         "FamFG§297"
       ],
       "path": [

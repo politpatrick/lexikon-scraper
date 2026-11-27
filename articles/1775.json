@@ -191,54 +191,61 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1827",
-      "label": "§ 1827 BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
       "nummer": "1827"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1829",
       "label": "§ 1829 BGB",
       "nummer": "1829"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901",
-      "label": "§ 1901 BGB",
+      "id": "BGB§1901@aF",
+      "label": "§ 1901 BGB a.F.",
       "nummer": "1901"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901a",
-      "label": "§ 1901a BGB",
+      "id": "BGB§1901a@aF",
+      "label": "§ 1901a BGB a.F.",
       "nummer": "1901a"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901b",
-      "label": "§ 1901b BGB",
+      "id": "BGB§1901b@aF",
+      "label": "§ 1901b BGB a.F.",
       "nummer": "1901b"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1904",
-      "label": "§ 1904 BGB",
+      "id": "BGB§1904@aF",
+      "label": "§ 1904 BGB a.F.",
       "nummer": "1904"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630d",
       "label": "§ 630d BGB",
@@ -247,6 +254,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.1",
       "label": "Art. 1 GG",
@@ -255,6 +263,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§13",
       "label": "§ 13 StGB",
@@ -263,6 +272,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§211",
       "label": "§ 211 StGB",
@@ -271,6 +281,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§212",
       "label": "§ 212 StGB",
@@ -279,6 +290,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§216",
       "label": "§ 216 StGB",
@@ -287,6 +299,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§217",
       "label": "§ 217 StGB",
@@ -295,6 +308,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§22",
       "label": "§ 22 StGB",
@@ -303,6 +317,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§223",
       "label": "§ 223 StGB",
@@ -311,6 +326,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§225",
       "label": "§ 225 StGB",
@@ -319,6 +335,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§228",
       "label": "§ 228 StGB",
@@ -327,6 +344,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§23",
       "label": "§ 23 StGB",
@@ -335,6 +353,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§233",
       "label": "§ 233 StGB",
@@ -343,6 +362,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§323c",
       "label": "§ 323c StGB",
@@ -396,7 +416,7 @@
       "norms": [
         "StGB§323c",
         "StGB§225",
-        "BGB§1827",
+        "BGB§1827@unbestimmt",
         "StGB§216",
         "StGB§212",
         "StGB§13",
@@ -458,7 +478,7 @@
         "XII ZB 2/03"
       ],
       "norms": [
-        "BGB§1901"
+        "BGB§1901@aF"
       ],
       "path": [
         "Rechtsprechung",
@@ -493,7 +513,7 @@
         "BGH 2 StR 454/09"
       ],
       "norms": [
-        "BGB§1901a",
+        "BGB§1901a@aF",
         "StGB§13",
         "StGB§216",
         "StGB§228",
@@ -525,9 +545,9 @@
         "StGB§22",
         "StGB§23",
         "StGB§216",
-        "BGB§1901a",
-        "BGB§1901b",
-        "BGB§1904",
+        "BGB§1901a@aF",
+        "BGB§1901b@aF",
+        "BGB§1904@aF",
         "GGArt.1",
         "StGB§217"
       ],
@@ -713,8 +733,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1904",
-        "BGB§1901"
+        "BGB§1904@aF",
+        "BGB§1901@aF"
       ],
       "path": [
         "Literatur",

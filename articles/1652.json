@@ -54,6 +54,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69b",
       "label": "§ 69b FGG",
@@ -62,6 +63,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.104",
       "label": "Art. 104 GG",
@@ -70,6 +72,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.138",
       "label": "Art. 138 GG",
@@ -78,6 +81,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.92",
       "label": "Art. 92 GG",
@@ -86,6 +90,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§123",
       "label": "§ 123 GVG",
@@ -94,6 +99,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "LFGG",
       "id": "LFGG§37",
       "label": "§ 37 LFGG",

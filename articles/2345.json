@@ -30,6 +30,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§23",
       "label": "§ 23 BtOG",
@@ -38,6 +39,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§24",
       "label": "§ 24 BtOG",

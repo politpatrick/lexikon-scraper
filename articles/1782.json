@@ -153,16 +153,9 @@
   ],
   "norms": [
     {
-      "alte_fassung": false,
-      "einheit": "§",
-      "gesetz": "BGB",
-      "id": "BGB§1792",
-      "label": "§ 1792 BGB",
-      "nummer": "1792"
-    },
-    {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1792@aF",
       "label": "§ 1792 BGB a.F.",
@@ -171,6 +164,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1799@aF",
       "label": "§ 1799 BGB a.F.",
@@ -179,6 +173,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1802@aF",
       "label": "§ 1802 BGB a.F.",
@@ -187,6 +182,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1807@aF",
       "label": "§ 1807 BGB a.F.",
@@ -195,6 +191,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1809@aF",
       "label": "§ 1809 BGB a.F.",
@@ -203,6 +200,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1810@aF",
       "label": "§ 1810 BGB a.F.",
@@ -211,6 +209,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1811@aF",
       "label": "§ 1811 BGB a.F.",
@@ -219,6 +218,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1812@aF",
       "label": "§ 1812 BGB a.F.",
@@ -227,6 +227,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1821@aF",
       "label": "§ 1821 BGB a.F.",
@@ -235,6 +236,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1822@aF",
       "label": "§ 1822 BGB a.F.",
@@ -243,6 +245,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1824@aF",
       "label": "§ 1824 BGB a.F.",
@@ -251,6 +254,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1826@aF",
       "label": "§ 1826 BGB a.F.",
@@ -259,6 +263,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1833@aF",
       "label": "§ 1833 BGB a.F.",
@@ -267,14 +272,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1835",
-      "label": "§ 1835 BGB",
+      "id": "BGB§1835@unbestimmt",
+      "label": "§ 1835 BGB (alte oder neue Fassung)",
       "nummer": "1835"
     },
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1842@aF",
       "label": "§ 1842 BGB a.F.",
@@ -283,6 +290,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1891@aF",
       "label": "§ 1891 BGB a.F.",
@@ -291,22 +299,16 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1899@aF",
       "label": "§ 1899 BGB a.F.",
       "nummer": "1899"
     },
     {
-      "alte_fassung": false,
-      "einheit": "§",
-      "gesetz": "BGB",
-      "id": "BGB§1908i",
-      "label": "§ 1908i BGB",
-      "nummer": "1908i"
-    },
-    {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1908i@aF",
       "label": "§ 1908i BGB a.F.",
@@ -315,6 +317,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "EGBGB",
       "id": "EGBGBArt.229§54",
       "label": "Art. 229 § 54 EGBGB",
@@ -323,6 +326,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§68",
       "label": "§ 68 FGG",
@@ -331,6 +335,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69g",
       "label": "§ 69g FGG",
@@ -339,6 +344,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69i",
       "label": "§ 69i FGG",
@@ -347,6 +353,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "RPflG",
       "id": "RPflG§15",
       "label": "§ 15 RPflG",
@@ -355,6 +362,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "VBVG",
       "id": "VBVG§1@aF",
       "label": "§ 1 VBVG a.F.",
@@ -363,6 +371,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "VBVG",
+      "id": "VBVG§3",
+      "label": "§ 3 VBVG",
+      "nummer": "3"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§4",
       "label": "§ 4 VBVG",
@@ -371,6 +389,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "VBVG",
       "id": "VBVG§4@aF",
       "label": "§ 4 VBVG a.F.",
@@ -379,6 +398,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§5",
       "label": "§ 5 VBVG",
@@ -387,6 +407,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "VBVG",
       "id": "VBVG§5@aF",
       "label": "§ 5 VBVG a.F.",
@@ -459,8 +480,8 @@
         "OLG München 33 Wx 119/07"
       ],
       "norms": [
-        "BGB§1908i",
-        "BGB§1792",
+        "BGB§1908i@aF",
+        "BGB§1792@aF",
         "RPflG§15",
         "FGG§69g",
         "FGG§69i",
@@ -470,7 +491,8 @@
         "VBVG§5@aF",
         "VBVG§5",
         "VBVG§4",
-        "BGB§1835"
+        "VBVG§3",
+        "BGB§1835@unbestimmt"
       ],
       "path": [
         "Rechtsprechung"

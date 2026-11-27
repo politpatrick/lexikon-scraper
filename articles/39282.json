@@ -63,6 +63,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AMG",
       "id": "AMG§22",
       "label": "§ 22 AMG",
@@ -71,6 +72,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1816",
       "label": "§ 1816 BGB",
@@ -79,6 +81,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1821",
       "label": "§ 1821 BGB",
@@ -87,6 +90,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630f",
       "label": "§ 630f BGB",
@@ -95,6 +99,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630h",
       "label": "§ 630h BGB",
@@ -103,6 +108,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§9",
       "label": "§ 9 BtOG",

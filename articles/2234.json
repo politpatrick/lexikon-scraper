@@ -175,24 +175,27 @@
   ],
   "norms": [
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1897",
-      "label": "§ 1897 BGB",
+      "id": "BGB§1897@aF",
+      "label": "§ 1897 BGB a.F.",
       "nummer": "1897"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1908b",
-      "label": "§ 1908b BGB",
+      "id": "BGB§1908b@aF",
+      "label": "§ 1908b BGB a.F.",
       "nummer": "1908b"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§280",
       "label": "§ 280 FamFG",
@@ -201,6 +204,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§281",
       "label": "§ 281 FamFG",
@@ -209,6 +213,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§286",
       "label": "§ 286 FamFG",
@@ -217,6 +222,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -225,6 +231,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§294",
       "label": "§ 294 FamFG",
@@ -233,6 +240,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§295",
       "label": "§ 295 FamFG",
@@ -241,6 +249,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§302",
       "label": "§ 302 FamFG",
@@ -249,6 +258,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§493",
       "label": "§ 493 FamFG",
@@ -257,6 +267,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§56",
       "label": "§ 56 FamFG",
@@ -265,6 +276,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§59",
       "label": "§ 59 FamFG",
@@ -273,6 +285,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§70",
       "label": "§ 70 FamFG",
@@ -281,6 +294,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§10",
       "label": "§ 10 JVEG",
@@ -289,6 +303,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§9",
       "label": "§ 9 JVEG",
@@ -351,13 +366,13 @@
       "norms": [
         "FamFG§295",
         "FamFG§70",
-        "BGB§1897",
+        "BGB§1897@aF",
         "JVEG§10",
         "JVEG§9",
         "FamFG§59",
         "FamFG§281",
         "FamFG§280",
-        "BGB§1908b",
+        "BGB§1908b@aF",
         "FamFG§294",
         "FamFG§493"
       ],

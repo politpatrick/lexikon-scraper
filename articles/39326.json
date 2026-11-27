@@ -52,6 +52,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§52",
       "label": "§ 52 AO",
@@ -60,6 +61,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.70",
       "label": "Art. 70 GG",
@@ -68,6 +70,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.83",
       "label": "Art. 83 GG",
@@ -76,6 +79,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.91a",
       "label": "Art. 91a GG",
@@ -84,6 +88,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.91b",
       "label": "Art. 91b GG",
@@ -92,6 +97,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.91c",
       "label": "Art. 91c GG",
@@ -100,6 +106,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.91d",
       "label": "Art. 91d GG",
@@ -108,6 +115,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.91e",
       "label": "Art. 91e GG",

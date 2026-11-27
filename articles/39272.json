@@ -46,6 +46,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§152",
       "label": "§ 152 SGB IX",
@@ -54,6 +55,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§156",
       "label": "§ 156 SGB IX",
@@ -62,6 +64,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§163",
       "label": "§ 163 SGB IX",
@@ -70,6 +73,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§19",
       "label": "§ 19 SGB X",

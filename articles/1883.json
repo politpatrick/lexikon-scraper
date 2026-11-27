@@ -94,6 +94,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1632",
       "label": "§ 1632 BGB",
@@ -102,22 +103,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1815",
-      "label": "§ 1815 BGB",
+      "id": "BGB§1815@unbestimmt",
+      "label": "§ 1815 BGB (alte oder neue Fassung)",
       "nummer": "1815"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1821",
       "label": "§ 1821 BGB",
@@ -126,14 +130,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1823",
-      "label": "§ 1823 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
+      "nummer": "1821"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
       "nummer": "1823"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1834",
       "label": "§ 1834 BGB",
@@ -142,14 +157,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1908i",
-      "label": "§ 1908i BGB",
+      "id": "BGB§1834@unbestimmt",
+      "label": "§ 1834 BGB (alte oder neue Fassung)",
+      "nummer": "1834"
+    },
+    {
+      "alte_fassung": true,
+      "einheit": "§",
+      "fassung": "alt",
+      "gesetz": "BGB",
+      "id": "BGB§1908i@aF",
+      "label": "§ 1908i BGB a.F.",
       "nummer": "1908i"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§618",
       "label": "§ 618 BGB",
@@ -158,6 +184,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§276",
       "label": "§ 276 FamFG",
@@ -166,6 +193,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§303",
       "label": "§ 303 FamFG",
@@ -174,6 +202,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§59",
       "label": "§ 59 FamFG",
@@ -182,6 +211,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.6",
       "label": "Art. 6 GG",
@@ -223,8 +253,8 @@
       "norms": [
         "BGB§618",
         "BGB§1632",
-        "BGB§1815",
-        "BGB§1814"
+        "BGB§1815@unbestimmt",
+        "BGB§1814@unbestimmt"
       ],
       "path": [
         "Umgangsbestimmungsrecht",
@@ -235,9 +265,9 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1834",
-        "BGB§1815",
-        "BGB§1821"
+        "BGB§1834@unbestimmt",
+        "BGB§1815@unbestimmt",
+        "BGB§1821@unbestimmt"
       ],
       "path": [
         "Umgangsbestimmungsrecht",
@@ -248,9 +278,9 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1834",
+        "BGB§1834@unbestimmt",
         "FamFG§276",
-        "BGB§1823"
+        "BGB§1823@unbestimmt"
       ],
       "path": [
         "Umgangsbestimmungsrecht",
@@ -282,7 +312,7 @@
       ],
       "norms": [
         "GGArt.6",
-        "BGB§1908i",
+        "BGB§1908i@aF",
         "BGB§1632"
       ],
       "path": [

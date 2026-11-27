@@ -50,6 +50,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§10",
       "label": "§ 10 VBVG",

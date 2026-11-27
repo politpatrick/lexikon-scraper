@@ -3,8 +3,8 @@
 ## Kennzahlen
 
 - Artikel: 317
-- Knoten: 5072 (art: 317, cat: 30, dec: 2565, ext: 578, norm: 1582)
-- Kanten: 20623 (cites_decision: 3648, cites_norm: 5123, in_category: 557, links_to: 9881, references_external: 1414)
+- Knoten: 5215 (art: 317, cat: 30, dec: 2565, ext: 578, norm: 1725)
+- Kanten: 20949 (ambiguous_with: 168, cites_decision: 3648, cites_norm: 5213, in_category: 557, links_to: 9881, references_external: 1414, superseded_by: 68)
 - Wikipedia-Links: 1444
 - Bilder: 5
 - Tote interne Links: 15 (verschiedene Ziele: 12)
@@ -17,60 +17,147 @@ Artikel ohne eingehenden Link aus einem anderen Artikel.
 
 ## Meistzitierte Normen
 
-1582 verschiedene Normen, zitiert in 274 Artikeln.
+1639 verschiedene Normen, zitiert in 274 Artikeln.
 
 | Norm | Artikel |
 |---|---|
-| § 1821 BGB | 52 |
-| § 1896 BGB | 49 |
-| § 1814 BGB | 44 |
+| § 1896 BGB a.F. | 52 |
+| § 1821 BGB (alte oder neue Fassung) | 48 |
 | § 104 BGB | 40 |
-| § 1831 BGB | 38 |
-| § 1825 BGB | 37 |
-| § 1823 BGB | 34 |
-| § 1816 BGB | 31 |
-| § 1829 BGB | 31 |
-| § 1835 BGB | 31 |
-| § 1817 BGB | 28 |
-| § 1815 BGB | 27 |
+| § 1814 BGB (alte oder neue Fassung) | 34 |
+| § 1831 BGB (alte oder neue Fassung) | 33 |
+| § 1825 BGB (alte oder neue Fassung) | 32 |
+| § 1823 BGB (alte oder neue Fassung) | 28 |
+| § 1901 BGB a.F. | 28 |
 | § 287 FamFG | 27 |
-| § 1901 BGB | 26 |
-| § 1906 BGB | 25 |
+| § 1817 BGB (alte oder neue Fassung) | 25 |
+| § 1829 BGB (alte oder neue Fassung) | 25 |
+| § 1835 BGB (alte oder neue Fassung) | 25 |
+| § 1906 BGB a.F. | 25 |
 | § 1877 BGB | 24 |
+| § 1897 BGB a.F. | 24 |
 | § 26 FamFG | 24 |
-| § 1897 BGB | 23 |
+| § 1908i BGB a.F. | 23 |
 | Art. 2 GG | 23 |
-| § 1908i BGB | 22 |
+| § 1904 BGB a.F. | 22 |
 | § 5 VBVG | 22 |
-| § 1836 BGB | 21 |
-| § 1904 BGB | 21 |
+| § 1816 BGB (alte oder neue Fassung) | 21 |
 | § 276 FamFG | 21 |
-| § 1818 BGB | 20 |
-| § 1833 BGB | 20 |
-| § 1827 BGB | 19 |
-| § 1830 BGB | 19 |
+| § 1836 BGB (alte oder neue Fassung) | 20 |
+| § 1903 BGB a.F. | 20 |
+| § 1815 BGB (alte oder neue Fassung) | 19 |
+| § 1830 BGB (alte oder neue Fassung) | 19 |
 | § 1868 BGB | 19 |
-| § 1903 BGB | 19 |
 | § 278 FamFG | 19 |
 | § 51 ZPO | 19 |
+| § 1827 BGB (alte oder neue Fassung) | 18 |
+| § 1833 BGB (alte oder neue Fassung) | 18 |
 | § 1862 BGB | 18 |
 | § 1863 BGB | 18 |
+| § 1902 BGB a.F. | 18 |
 | § 280 FamFG | 18 |
 | § 286 FamFG | 18 |
 | § 303 FamFG | 18 |
+| § 271 FamFG | 17 |
+| § 312 FamFG | 17 |
 | § 53 ZPO | 17 |
 | § 181 BGB | 16 |
-| § 1820 BGB | 16 |
-| § 1822 BGB | 16 |
+| § 1814 BGB | 16 |
+| § 1818 BGB (alte oder neue Fassung) | 16 |
 | § 1865 BGB | 16 |
-| § 1902 BGB | 16 |
-| § 271 FamFG | 16 |
 | § 292 FamFG | 16 |
 | § 295 FamFG | 16 |
-| § 1828 BGB | 15 |
-| § 1846 BGB | 15 |
 | § 290 FamFG | 15 |
 | § 90 SGB XII | 15 |
+| § 4 VBVG | 15 |
+| § 8 VBVG | 15 |
+
+## Alte und neue Fassung
+
+Zitate aus §§ 1773–1921 BGB (Reform zum 1.1.2023): alt: 449, neu: 392, unbestimmt: 684.
+
+„unbestimmt“: Die Nummer gibt es alt und neu mit anderem Inhalt, und der Abschnitt lässt die Fassung nicht erkennen.
+
+### Artikel, die nur die alte Fassung zitieren
+
+Prüfliste für die Pflege des Lexikons: alte Fassung zitiert, keine neue, kein BtOG (unbestimmte Zitate möglich). Historische Dokumente gehören zu Recht dazu.
+
+- Arbeitsvertrag
+- Ausländer
+- Bestellung mehrerer Betreuer
+- Betreuerhaftung
+- Betreuungsgesetz
+- Corona
+- Drittes Betreuungsrechtsänderungsgesetz
+- Eherecht und Betreuung
+- Eingruppierung
+- Einwilligungsfähigkeit
+- Erbschaft
+- Ermessensvergütung
+- Gegenbetreuer
+- Geschäftsfähigkeit
+- Gesetzesbegründung Patientenverfügung
+- Gesetzliche Vertretung
+- Gesetzlicher Vertreter
+- Gesundheitssorge
+- Heilbehandlung
+- Heimmitarbeiter als Betreuer
+- Insichgeschäft
+- Kindschaftsrecht
+- Natürlicher Wille
+- PEG-Sonde
+- Prozesspfleger
+- Rechtsprechung zum Sachverständigengutachten
+- Rechtsprechung zum Verfahrenspfleger
+- Rechtsprechung zur Anhörung
+- Rechtsprechung zur Unterbringung
+- Rente
+- Sachverständigengutachten
+- Sterbehilfedokumente
+- Sterilisation
+- Sterilisationsbetreuer
+- Testierfähigkeit
+- VBVG-Rechtsprechung
+- Verlängerung der Betreuung
+- Waffenbesitz
+- Wahlrecht
+- Wohnungsangelegenheiten
+- Zweites Betreuungsrechtsänderungsgesetz
+
+### Artikel mit unbestimmter Fassung
+
+| Artikel | Zitate |
+|---|---|
+| Gesetzestexte | 81 |
+| Rechtspfleger | 24 |
+| Betreuerpflichten | 23 |
+| Genehmigungen von a bis z | 17 |
+| Anlagegeld | 17 |
+| Genehmigungspflichten | 16 |
+| Geldanlage | 14 |
+| Mündelgeld | 13 |
+| Vermögenssorge | 13 |
+| Beaufsichtigung | 12 |
+| Betreuerhaftung | 11 |
+| Betreuungssache | 11 |
+| Betreuungsverfahren | 10 |
+| Abschlussbericht | 10 |
+| Gesundheitssorge | 9 |
+| Schenkung | 9 |
+| Anzeigepflicht | 9 |
+| Bestattung | 8 |
+| Betreuerbestellung | 8 |
+| Angehörigenvertretungsrecht | 8 |
+| Betreuungsrichter | 8 |
+| Vorsorgevollmacht | 7 |
+| Einwilligungsvorbehalt | 7 |
+| Datenschutz | 7 |
+| Betreuer (Ehrenamt) | 6 |
+| Heilbehandlung | 6 |
+| Rechnungslegung | 6 |
+| Vorsorgevollmacht - vertiefte Infos | 6 |
+| Zwangsbehandlung | 6 |
+| Berufsbetreuer | 5 |
 
 ## Meistzitierte Entscheidungen
 

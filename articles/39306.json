@@ -44,6 +44,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§14",
       "label": "§ 14 BtOG",
@@ -52,6 +53,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.84",
       "label": "Art. 84 GG",
@@ -60,6 +62,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.85",
       "label": "Art. 85 GG",
@@ -68,6 +71,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.86",
       "label": "Art. 86 GG",
@@ -76,6 +80,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§8",
       "label": "§ 8 VBVG",

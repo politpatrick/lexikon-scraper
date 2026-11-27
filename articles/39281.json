@@ -73,6 +73,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AGG",
       "id": "AGG§1",
       "label": "§ 1 AGG",
@@ -81,6 +82,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AGG",
       "id": "AGG§26b",
       "label": "§ 26b AGG",
@@ -89,6 +91,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AGG",
       "id": "AGG§27",
       "label": "§ 27 AGG",
@@ -97,6 +100,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AGG",
       "id": "AGG§30",
       "label": "§ 30 AGG",
@@ -105,6 +109,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AGG",
       "id": "AGG§7",
       "label": "§ 7 AGG",
@@ -113,6 +118,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.3",
       "label": "Art. 3 GG",
@@ -121,6 +127,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.84",
       "label": "Art. 84 GG",
@@ -129,6 +136,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IV",
       "id": "SGBIV§19a",
       "label": "§ 19a SGB IV",
@@ -137,6 +145,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§164",
       "label": "§ 164 SGB IX",
@@ -145,6 +154,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§33c",
       "label": "§ 33c SGB I",
@@ -153,6 +163,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§335",
       "label": "§ 335 SGB V",

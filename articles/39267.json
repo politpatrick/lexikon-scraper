@@ -62,6 +62,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§278",
       "label": "§ 278 BGB",
@@ -70,6 +71,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§76",
       "label": "§ 76 SGB IX",
@@ -78,6 +80,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§80",
       "label": "§ 80 SGB IX",
@@ -86,6 +89,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VIII",
       "id": "SGBVIII§44",
       "label": "§ 44 SGB VIII",
@@ -94,6 +98,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§9",
       "label": "§ 9 VBVG",
@@ -102,6 +107,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "WBVG",
       "id": "WBVG§1",
       "label": "§ 1 WBVG",
@@ -110,6 +116,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "WBVG",
       "id": "WBVG§6",
       "label": "§ 6 WBVG",

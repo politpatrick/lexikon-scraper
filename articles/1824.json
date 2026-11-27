@@ -62,14 +62,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1835",
-      "label": "§ 1835 BGB",
+      "id": "BGB§1835@unbestimmt",
+      "label": "§ 1835 BGB (alte oder neue Fassung)",
       "nummer": "1835"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1861",
       "label": "§ 1861 BGB",
@@ -78,6 +80,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1863",
       "label": "§ 1863 BGB",
@@ -86,6 +89,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1864",
       "label": "§ 1864 BGB",
@@ -94,6 +98,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1865",
       "label": "§ 1865 BGB",
@@ -102,6 +107,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1877",
       "label": "§ 1877 BGB",
@@ -110,6 +116,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1878",
       "label": "§ 1878 BGB",
@@ -118,6 +125,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtBG",
       "id": "BtBG§4",
       "label": "§ 4 BtBG",
@@ -126,6 +134,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§5",
       "label": "§ 5 BtOG",
@@ -134,6 +143,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§14",
       "label": "§ 14 SGB I",
@@ -142,6 +152,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§114",
       "label": "§ 114 ZPO",
@@ -211,7 +222,7 @@
       "norms": [
         "BGB§1864",
         "BGB§1863",
-        "BGB§1835",
+        "BGB§1835@unbestimmt",
         "BGB§1865"
       ],
       "path": [

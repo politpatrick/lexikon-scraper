@@ -40,14 +40,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1826",
-      "label": "§ 1826 BGB",
+      "id": "BGB§1826@unbestimmt",
+      "label": "§ 1826 BGB (alte oder neue Fassung)",
       "nummer": "1826"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1877",
       "label": "§ 1877 BGB",
@@ -56,6 +58,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§14",
       "label": "§ 14 BtOG",
@@ -64,6 +67,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§23",
       "label": "§ 23 BtOG",
@@ -84,7 +88,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1826"
+        "BGB§1826@unbestimmt"
       ],
       "path": [
         "Haftpflichtversicherung"

@@ -50,6 +50,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1631",
       "label": "§ 1631 BGB",
@@ -58,6 +59,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "FamFG",
+      "id": "FamFG§210",
+      "label": "§ 210 FamFG",
+      "nummer": "210"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§177",
       "label": "§ 177 StGB",
@@ -66,6 +77,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§240",
       "label": "§ 240 StGB",
@@ -77,7 +89,9 @@
   "sections": [
     {
       "decisions": [],
-      "norms": [],
+      "norms": [
+        "FamFG§210"
+      ],
       "path": [
         "Einleitung"
       ],

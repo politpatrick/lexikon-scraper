@@ -1064,32 +1064,36 @@
   ],
   "norms": [
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1897",
-      "label": "§ 1897 BGB",
+      "id": "BGB§1897@aF",
+      "label": "§ 1897 BGB a.F.",
       "nummer": "1897"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1903",
-      "label": "§ 1903 BGB",
+      "id": "BGB§1903@aF",
+      "label": "§ 1903 BGB a.F.",
       "nummer": "1903"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1907",
-      "label": "§ 1907 BGB",
+      "id": "BGB§1907@aF",
+      "label": "§ 1907 BGB a.F.",
       "nummer": "1907"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§117",
       "label": "§ 117 BRAO",
@@ -1098,6 +1102,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§16",
       "label": "§ 16 BRAO",
@@ -1106,6 +1111,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§224a",
       "label": "§ 224a BRAO",
@@ -1114,6 +1120,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§12",
       "label": "§ 12 FGG",
@@ -1122,6 +1129,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§18",
       "label": "§ 18 FGG",
@@ -1130,6 +1138,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§19",
       "label": "§ 19 FGG",
@@ -1138,6 +1147,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§20",
       "label": "§ 20 FGG",
@@ -1146,6 +1156,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§68",
       "label": "§ 68 FGG",
@@ -1154,6 +1165,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§68b",
       "label": "§ 68b FGG",
@@ -1162,6 +1174,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69d",
       "label": "§ 69d FGG",
@@ -1170,6 +1183,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69g",
       "label": "§ 69g FGG",
@@ -1178,6 +1192,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69i",
       "label": "§ 69i FGG",
@@ -1186,6 +1201,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§26",
       "label": "§ 26 FamFG",
@@ -1194,6 +1210,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§278",
       "label": "§ 278 FamFG",
@@ -1202,6 +1219,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§280",
       "label": "§ 280 FamFG",
@@ -1210,6 +1228,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§283",
       "label": "§ 283 FamFG",
@@ -1218,6 +1237,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§284",
       "label": "§ 284 FamFG",
@@ -1226,6 +1246,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§288",
       "label": "§ 288 FamFG",
@@ -1234,6 +1255,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§295",
       "label": "§ 295 FamFG",
@@ -1242,6 +1264,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§319",
       "label": "§ 319 FamFG",
@@ -1250,6 +1273,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§335",
       "label": "§ 335 FamFG",
@@ -1258,6 +1282,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§34",
       "label": "§ 34 FamFG",
@@ -1266,6 +1291,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§37",
       "label": "§ 37 FamFG",
@@ -1274,6 +1300,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§420",
       "label": "§ 420 FamFG",
@@ -1282,6 +1309,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§62",
       "label": "§ 62 FamFG",
@@ -1290,6 +1318,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§68",
       "label": "§ 68 FamFG",
@@ -1298,6 +1327,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.103",
       "label": "Art. 103 GG",
@@ -1306,6 +1336,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.104",
       "label": "Art. 104 GG",
@@ -1314,6 +1345,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.3",
       "label": "Art. 3 GG",
@@ -1322,6 +1354,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§32",
       "label": "§ 32 PsychKG",
@@ -1330,6 +1363,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§291",
       "label": "§ 291 ZPO",
@@ -1402,7 +1436,7 @@
         "FGG§19",
         "FGG§20",
         "GGArt.3",
-        "BGB§1907",
+        "BGB§1907@aF",
         "FGG§69d",
         "FGG§69g"
       ],
@@ -1456,8 +1490,8 @@
         "GGArt.103",
         "FamFG§283",
         "FamFG§284",
-        "BGB§1903",
-        "BGB§1897",
+        "BGB§1903@aF",
+        "BGB§1897@aF",
         "FamFG§280",
         "FamFG§62",
         "FamFG§335",

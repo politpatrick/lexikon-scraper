@@ -37,6 +37,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§334",
       "label": "§ 334 SGB V",
@@ -45,6 +46,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§355",
       "label": "§ 355 SGB V",
@@ -53,6 +55,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§358",
       "label": "§ 358 SGB V",
@@ -61,6 +64,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§359",
       "label": "§ 359 SGB V",

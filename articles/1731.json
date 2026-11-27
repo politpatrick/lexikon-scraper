@@ -103,6 +103,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1358",
       "label": "§ 1358 BGB",
@@ -111,6 +112,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1816",
       "label": "§ 1816 BGB",
@@ -119,6 +121,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1820",
       "label": "§ 1820 BGB",
@@ -127,6 +130,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1821",
       "label": "§ 1821 BGB",
@@ -135,6 +139,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1822",
       "label": "§ 1822 BGB",
@@ -143,6 +148,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1823",
       "label": "§ 1823 BGB",
@@ -151,6 +157,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1834",
       "label": "§ 1834 BGB",
@@ -159,6 +166,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
+      "gesetz": "BGB",
+      "id": "BGB§1838",
+      "label": "§ 1838 BGB",
+      "nummer": "1838"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1862",
       "label": "§ 1862 BGB",
@@ -167,6 +184,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1876",
       "label": "§ 1876 BGB",
@@ -175,6 +193,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1877",
       "label": "§ 1877 BGB",
@@ -183,6 +202,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1878",
       "label": "§ 1878 BGB",
@@ -191,6 +211,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1880",
       "label": "§ 1880 BGB",
@@ -199,6 +220,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§30",
       "label": "§ 30 BtOG",
@@ -207,6 +229,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "EGBGB",
       "id": "EGBGBArt.229§54",
       "label": "Art. 229 § 54 EGBGB",
@@ -215,6 +238,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§278",
       "label": "§ 278 FamFG",
@@ -223,6 +247,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§493",
       "label": "§ 493 FamFG",
@@ -257,6 +282,7 @@
         "BGB§1823",
         "BGB§1816",
         "BGB§1862",
+        "BGB§1838",
         "BGB§1358",
         "BGB§1878",
         "BGB§1880"

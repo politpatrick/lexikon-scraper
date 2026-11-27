@@ -25,9 +25,10 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1833",
-      "label": "§ 1833 BGB",
+      "id": "BGB§1833@unbestimmt",
+      "label": "§ 1833 BGB (alte oder neue Fassung)",
       "nummer": "1833"
     }
   ],
@@ -37,7 +38,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1833"
+        "BGB§1833@unbestimmt"
       ],
       "path": [
         "Einleitung"

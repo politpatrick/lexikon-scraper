@@ -222,46 +222,52 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1817",
-      "label": "§ 1817 BGB",
+      "id": "BGB§1817@unbestimmt",
+      "label": "§ 1817 BGB (alte oder neue Fassung)",
       "nummer": "1817"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1823",
-      "label": "§ 1823 BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
       "nummer": "1823"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1861",
       "label": "§ 1861 BGB",
       "nummer": "1861"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1902",
-      "label": "§ 1902 BGB",
+      "id": "BGB§1902@aF",
+      "label": "§ 1902 BGB a.F.",
       "nummer": "1902"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1903",
-      "label": "§ 1903 BGB",
+      "id": "BGB§1903@aF",
+      "label": "§ 1903 BGB a.F.",
       "nummer": "1903"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BSHG",
       "id": "BSHG§5",
       "label": "§ 5 BSHG",
@@ -270,6 +276,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§21",
       "label": "§ 21 SGB II",
@@ -278,6 +285,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§22",
       "label": "§ 22 SGB II",
@@ -286,6 +294,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§24",
       "label": "§ 24 SGB II",
@@ -294,6 +303,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§34",
       "label": "§ 34 SGB II",
@@ -302,6 +312,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§7",
       "label": "§ 7 SGB II",
@@ -310,6 +321,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§60",
       "label": "§ 60 SGB I",
@@ -318,6 +330,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§65",
       "label": "§ 65 SGB I",
@@ -326,6 +339,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§66",
       "label": "§ 66 SGB I",
@@ -334,6 +348,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§67",
       "label": "§ 67 SGB I",
@@ -342,6 +357,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§107",
       "label": "§ 107 SGB V",
@@ -350,6 +366,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§103",
       "label": "§ 103 SGB XII",
@@ -358,6 +375,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§104",
       "label": "§ 104 SGB XII",
@@ -366,6 +384,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§18",
       "label": "§ 18 SGB XII",
@@ -374,6 +393,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "SGB XII",
+      "id": "SGBXII§27",
+      "label": "§ 27 SGB XII",
+      "nummer": "27"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§27a",
       "label": "§ 27a SGB XII",
@@ -382,6 +411,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§27b",
       "label": "§ 27b SGB XII",
@@ -390,6 +420,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "SGB XII",
       "id": "SGBXII§35@aF",
       "label": "§ 35 SGB XII a.F.",
@@ -398,6 +429,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "SGB XII",
+      "id": "SGBXII§41",
+      "label": "§ 41 SGB XII",
+      "nummer": "41"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§44",
       "label": "§ 44 SGB XII",
@@ -406,6 +447,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "SGB XII",
+      "id": "SGBXII§47",
+      "label": "§ 47 SGB XII",
+      "nummer": "47"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
+      "gesetz": "SGB XII",
+      "id": "SGBXII§53",
+      "label": "§ 53 SGB XII",
+      "nummer": "53"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
+      "gesetz": "SGB XII",
+      "id": "SGBXII§61",
+      "label": "§ 61 SGB XII",
+      "nummer": "61"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§62",
       "label": "§ 62 SGB XII",
@@ -414,6 +483,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§67",
       "label": "§ 67 SGB XII",
@@ -422,6 +492,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§69",
       "label": "§ 69 SGB XII",
@@ -430,6 +501,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§11",
       "label": "§ 11 SGB X",
@@ -438,6 +510,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§32",
       "label": "§ 32 SGB X",
@@ -446,6 +519,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§45",
       "label": "§ 45 SGB X",
@@ -454,6 +528,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§47",
       "label": "§ 47 SGB X",
@@ -462,6 +537,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§48",
       "label": "§ 48 SGB X",
@@ -470,6 +546,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§50",
       "label": "§ 50 SGB X",
@@ -478,6 +555,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§64",
       "label": "§ 64 SGB X",
@@ -486,6 +564,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§67",
       "label": "§ 67 SGB X",
@@ -494,6 +573,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§851",
       "label": "§ 851 ZPO",
@@ -509,6 +589,11 @@
         "B 8 SO 7/15"
       ],
       "norms": [
+        "SGBXII§27",
+        "SGBXII§41",
+        "SGBXII§47",
+        "SGBXII§61",
+        "SGBXII§53",
         "SGBXII§18"
       ],
       "path": [
@@ -524,7 +609,8 @@
       "norms": [
         "SGBXII§18",
         "SGBXII§44",
-        "SGBX§11"
+        "SGBX§11",
+        "SGBI§60"
       ],
       "path": [
         "Betreuerbestellung für Sozialhilfeantrag ?"
@@ -534,8 +620,9 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1823",
-        "BGB§1861"
+        "BGB§1823@unbestimmt",
+        "BGB§1861",
+        "SGBI§60"
       ],
       "path": [
         "Aufgabenkreis zur Sozialhilfebeantragung"
@@ -574,6 +661,7 @@
         "B 14 AS 45/07"
       ],
       "norms": [
+        "SGBI§60",
         "SGBI§65",
         "SGBX§67"
       ],
@@ -588,7 +676,7 @@
         "B 8 SO 18/09"
       ],
       "norms": [
-        "BGB§1817"
+        "BGB§1817@unbestimmt"
       ],
       "path": [
         "Volljährige Behinderte im Haushalt der Eltern"
@@ -657,7 +745,7 @@
         "SGBI§60",
         "SGBI§67",
         "SGBI§66",
-        "BGB§1902",
+        "BGB§1902@aF",
         "SGBX§45"
       ],
       "path": [
@@ -677,7 +765,7 @@
         "SGBX§47",
         "SGBX§50",
         "SGBXII§103",
-        "BGB§1903",
+        "BGB§1903@aF",
         "SGBXII§44",
         "ZPO§851",
         "SGBXII§27b",

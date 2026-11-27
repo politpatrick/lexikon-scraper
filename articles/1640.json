@@ -49,14 +49,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1836",
-      "label": "§ 1836 BGB",
+      "id": "BGB§1836@unbestimmt",
+      "label": "§ 1836 BGB (alte oder neue Fassung)",
       "nummer": "1836"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§242",
       "label": "§ 242 BGB",
@@ -65,6 +67,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69b",
       "label": "§ 69b FGG",
@@ -73,6 +76,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§289",
       "label": "§ 289 FamFG",
@@ -98,7 +102,7 @@
         "KG 1 W 1905/93"
       ],
       "norms": [
-        "BGB§1836",
+        "BGB§1836@unbestimmt",
         "BGB§242",
         "FGG§69b"
       ],

@@ -85,6 +85,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1297",
       "label": "§ 1297 BGB",
@@ -93,6 +94,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1303",
       "label": "§ 1303 BGB",
@@ -101,6 +103,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1304",
       "label": "§ 1304 BGB",
@@ -109,6 +112,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1314",
       "label": "§ 1314 BGB",
@@ -117,6 +121,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1316",
       "label": "§ 1316 BGB",
@@ -125,6 +130,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1317",
       "label": "§ 1317 BGB",
@@ -133,6 +139,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1588",
       "label": "§ 1588 BGB",
@@ -141,14 +148,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§125",
       "label": "§ 125 FamFG",
@@ -157,6 +166,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.6",
       "label": "Art. 6 GG",
@@ -165,6 +175,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§39",
       "label": "§ 39 PStG",
@@ -173,6 +184,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§49",
       "label": "§ 49 PStG",
@@ -181,6 +193,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PStG",
       "id": "PStG§5",
       "label": "§ 5 PStG",
@@ -216,7 +229,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1825",
+        "BGB§1825@unbestimmt",
         "BGB§1303"
       ],
       "path": [

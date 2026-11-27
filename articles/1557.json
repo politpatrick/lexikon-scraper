@@ -142,6 +142,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AMG",
       "id": "AMG§41",
       "label": "§ 41 AMG",
@@ -150,6 +151,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1358",
       "label": "§ 1358 BGB",
@@ -158,46 +160,52 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1827",
-      "label": "§ 1827 BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
       "nummer": "1827"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1829",
-      "label": "§ 1829 BGB",
+      "id": "BGB§1829@unbestimmt",
+      "label": "§ 1829 BGB (alte oder neue Fassung)",
       "nummer": "1829"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1904",
-      "label": "§ 1904 BGB",
+      "id": "BGB§1904@aF",
+      "label": "§ 1904 BGB a.F.",
       "nummer": "1904"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1906",
-      "label": "§ 1906 BGB",
+      "id": "BGB§1906@aF",
+      "label": "§ 1906 BGB a.F.",
       "nummer": "1906"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630d",
       "label": "§ 630d BGB",
@@ -206,6 +214,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630e",
       "label": "§ 630e BGB",
@@ -214,6 +223,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§114a",
       "label": "§ 114a SGB XI",
@@ -222,6 +232,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§174a",
       "label": "§ 174a StGB",
@@ -230,6 +241,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§174b",
       "label": "§ 174b StGB",
@@ -238,6 +250,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§174c",
       "label": "§ 174c StGB",
@@ -246,6 +259,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§223",
       "label": "§ 223 StGB",
@@ -254,6 +268,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§226",
       "label": "§ 226 StGB",
@@ -262,6 +277,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§228",
       "label": "§ 228 StGB",
@@ -276,7 +292,7 @@
       "norms": [
         "StGB§223",
         "StGB§228",
-        "BGB§1827",
+        "BGB§1827@unbestimmt",
         "BGB§630d"
       ],
       "path": [
@@ -335,7 +351,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1814",
+        "BGB§1814@unbestimmt",
         "BGB§630d",
         "BGB§630e",
         "SGBXI§114a",
@@ -350,7 +366,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1829",
+        "BGB§1829@unbestimmt",
         "StGB§226"
       ],
       "path": [
@@ -432,8 +448,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1904",
-        "BGB§1906"
+        "BGB§1904@aF",
+        "BGB§1906@aF"
       ],
       "path": [
         "Siehe auch",

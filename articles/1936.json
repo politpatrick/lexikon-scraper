@@ -354,6 +354,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§34",
       "label": "§ 34 AO",
@@ -362,6 +363,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1814",
       "label": "§ 1814 BGB",
@@ -370,14 +372,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1815",
-      "label": "§ 1815 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
+      "nummer": "1814"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1815@unbestimmt",
+      "label": "§ 1815 BGB (alte oder neue Fassung)",
       "nummer": "1815"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1819",
       "label": "§ 1819 BGB",
@@ -386,14 +399,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1822",
       "label": "§ 1822 BGB",
@@ -402,38 +417,43 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1823",
-      "label": "§ 1823 BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
       "nummer": "1823"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1826",
-      "label": "§ 1826 BGB",
+      "id": "BGB§1826@unbestimmt",
+      "label": "§ 1826 BGB (alte oder neue Fassung)",
       "nummer": "1826"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1828",
-      "label": "§ 1828 BGB",
+      "id": "BGB§1828@unbestimmt",
+      "label": "§ 1828 BGB (alte oder neue Fassung)",
       "nummer": "1828"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1829",
-      "label": "§ 1829 BGB",
+      "id": "BGB§1829@unbestimmt",
+      "label": "§ 1829 BGB (alte oder neue Fassung)",
       "nummer": "1829"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1835",
       "label": "§ 1835 BGB",
@@ -442,6 +462,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1868",
       "label": "§ 1868 BGB",
@@ -450,6 +471,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1871",
       "label": "§ 1871 BGB",
@@ -458,22 +480,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1872",
       "label": "§ 1872 BGB",
       "nummer": "1872"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1899",
-      "label": "§ 1899 BGB",
+      "id": "BGB§1899@aF",
+      "label": "§ 1899 BGB a.F.",
       "nummer": "1899"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630d",
       "label": "§ 630d BGB",
@@ -482,6 +507,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§43a",
       "label": "§ 43a BRAO",
@@ -490,6 +516,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtBG",
       "id": "BtBG§3",
       "label": "§ 3 BtBG",
@@ -498,6 +525,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtBG",
       "id": "BtBG§7",
       "label": "§ 7 BtBG",
@@ -506,6 +534,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtBG",
       "id": "BtBG§8",
       "label": "§ 8 BtBG",
@@ -514,6 +543,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§11",
       "label": "§ 11 BtOG",
@@ -522,6 +552,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§12",
       "label": "§ 12 BtOG",
@@ -530,6 +561,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§14",
       "label": "§ 14 BtOG",
@@ -538,6 +570,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§18",
       "label": "§ 18 BtOG",
@@ -546,6 +579,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§20",
       "label": "§ 20 BtOG",
@@ -554,6 +588,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§26",
       "label": "§ 26 BtOG",
@@ -562,6 +597,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§4",
       "label": "§ 4 BtOG",
@@ -570,6 +606,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§5",
       "label": "§ 5 BtOG",
@@ -578,6 +615,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§9",
       "label": "§ 9 BtOG",
@@ -586,6 +624,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "DSGVO",
       "id": "DSGVOArt.13",
       "label": "Art. 13 DSGVO",
@@ -594,6 +633,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "DSGVO",
       "id": "DSGVOArt.15",
       "label": "Art. 15 DSGVO",
@@ -602,6 +642,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "DSGVO",
       "id": "DSGVOArt.2",
       "label": "Art. 2 DSGVO",
@@ -610,6 +651,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "DSGVO",
       "id": "DSGVOArt.30",
       "label": "Art. 30 DSGVO",
@@ -618,6 +660,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "DSGVO",
       "id": "DSGVOArt.4",
       "label": "Art. 4 DSGVO",
@@ -626,6 +669,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "DSGVO",
       "id": "DSGVOArt.6",
       "label": "Art. 6 DSGVO",
@@ -634,6 +678,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "DSGVO",
       "id": "DSGVOArt.9",
       "label": "Art. 9 DSGVO",
@@ -642,6 +687,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "EGGVG",
       "id": "EGGVG§12",
       "label": "§ 12 EGGVG",
@@ -650,6 +696,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "EGGVG",
       "id": "EGGVG§22",
       "label": "§ 22 EGGVG",
@@ -658,6 +705,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "EGGVG",
       "id": "EGGVG§23",
       "label": "§ 23 EGGVG",
@@ -666,6 +714,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§13",
       "label": "§ 13 FamFG",
@@ -674,6 +723,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§274",
       "label": "§ 274 FamFG",
@@ -682,6 +732,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§276",
       "label": "§ 276 FamFG",
@@ -690,6 +741,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§279",
       "label": "§ 279 FamFG",
@@ -698,6 +750,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "FamFG",
+      "id": "FamFG§293",
+      "label": "§ 293 FamFG",
+      "nummer": "293"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§302",
       "label": "§ 302 FamFG",
@@ -706,6 +768,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§303",
       "label": "§ 303 FamFG",
@@ -714,6 +777,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§308",
       "label": "§ 308 FamFG",
@@ -722,6 +786,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§309a",
       "label": "§ 309a FamFG",
@@ -730,6 +795,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§311",
       "label": "§ 311 FamFG",
@@ -738,6 +804,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§315",
       "label": "§ 315 FamFG",
@@ -746,6 +813,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§320",
       "label": "§ 320 FamFG",
@@ -754,6 +822,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§326",
       "label": "§ 326 FamFG",
@@ -762,6 +831,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§335",
       "label": "§ 335 FamFG",
@@ -770,6 +840,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§338",
       "label": "§ 338 FamFG",
@@ -778,6 +849,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§339",
       "label": "§ 339 FamFG",
@@ -786,6 +858,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§64",
       "label": "§ 64 FamFG",
@@ -794,6 +867,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§170",
       "label": "§ 170 GVG",
@@ -802,6 +876,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB III",
       "id": "SGBIII§145",
       "label": "§ 145 SGB III",
@@ -810,6 +885,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§60",
       "label": "§ 60 SGB I",
@@ -818,6 +894,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§18",
       "label": "§ 18 SGB XII",
@@ -826,6 +903,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§7",
       "label": "§ 7 VBVG",
@@ -834,6 +912,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§8",
       "label": "§ 8 VBVG",
@@ -935,7 +1014,7 @@
       "norms": [
         "DSGVOArt.4",
         "DSGVOArt.6",
-        "BGB§1814"
+        "BGB§1814@unbestimmt"
       ],
       "path": [
         "Datenschutz in der Betreuung",
@@ -957,12 +1036,12 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1821",
-        "BGB§1823",
+        "BGB§1821@unbestimmt",
+        "BGB§1823@unbestimmt",
         "AO§34",
         "SGBI§60",
         "BGB§630d",
-        "BGB§1828"
+        "BGB§1828@unbestimmt"
       ],
       "path": [
         "Datenschutz in der Betreuung",
@@ -974,7 +1053,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1815"
+        "BGB§1815@unbestimmt"
       ],
       "path": [
         "Datenschutz in der Betreuung",
@@ -999,7 +1078,7 @@
       ],
       "norms": [
         "BGB§1872",
-        "BGB§1826"
+        "BGB§1826@unbestimmt"
       ],
       "path": [
         "Datenschutz in der Betreuung",
@@ -1022,6 +1101,7 @@
     {
       "decisions": [],
       "norms": [
+        "BGB§1814@unbestimmt",
         "SGBI§60",
         "SGBIII§145",
         "DSGVOArt.13",
@@ -1060,6 +1140,7 @@
         "BtOG§5",
         "BGB§1835",
         "FamFG§326",
+        "FamFG§293",
         "FamFG§315",
         "FamFG§274",
         "FamFG§279",
@@ -1104,7 +1185,7 @@
         "FamFG§274",
         "FamFG§315",
         "FamFG§13",
-        "BGB§1829",
+        "BGB§1829@unbestimmt",
         "FamFG§276"
       ],
       "path": [
@@ -1176,7 +1257,7 @@
         "DSGVOArt.6",
         "FamFG§279",
         "BtBG§8",
-        "BGB§1899",
+        "BGB§1899@aF",
         "EGGVG§23",
         "FamFG§64",
         "DSGVOArt.15",

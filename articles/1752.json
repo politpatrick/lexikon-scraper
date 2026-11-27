@@ -160,6 +160,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -168,6 +169,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§107",
       "label": "§ 107 BGB",
@@ -176,6 +178,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1624",
       "label": "§ 1624 BGB",
@@ -184,22 +187,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1795",
-      "label": "§ 1795 BGB",
+      "id": "BGB§1795@unbestimmt",
+      "label": "§ 1795 BGB (alte oder neue Fassung)",
       "nummer": "1795"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1804",
-      "label": "§ 1804 BGB",
+      "id": "BGB§1804@aF",
+      "label": "§ 1804 BGB a.F.",
       "nummer": "1804"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1804@unbestimmt",
+      "label": "§ 1804 BGB (alte oder neue Fassung)",
+      "nummer": "1804"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§181",
       "label": "§ 181 BGB",
@@ -208,70 +223,88 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1812",
-      "label": "§ 1812 BGB",
+      "id": "BGB§1812@unbestimmt",
+      "label": "§ 1812 BGB (alte oder neue Fassung)",
       "nummer": "1812"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@aF",
+      "label": "§ 1821 BGB a.F.",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1826",
-      "label": "§ 1826 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
+      "nummer": "1821"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1826@unbestimmt",
+      "label": "§ 1826 BGB (alte oder neue Fassung)",
       "nummer": "1826"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1828",
-      "label": "§ 1828 BGB",
+      "id": "BGB§1828@aF",
+      "label": "§ 1828 BGB a.F.",
       "nummer": "1828"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1829",
-      "label": "§ 1829 BGB",
+      "id": "BGB§1829@aF",
+      "label": "§ 1829 BGB a.F.",
       "nummer": "1829"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1831",
-      "label": "§ 1831 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
       "nummer": "1831"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1837",
-      "label": "§ 1837 BGB",
+      "id": "BGB§1837@unbestimmt",
+      "label": "§ 1837 BGB (alte oder neue Fassung)",
       "nummer": "1837"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1852",
-      "label": "§ 1852 BGB",
+      "id": "BGB§1852@unbestimmt",
+      "label": "§ 1852 BGB (alte oder neue Fassung)",
       "nummer": "1852"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1854",
       "label": "§ 1854 BGB",
@@ -280,30 +313,43 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1899",
-      "label": "§ 1899 BGB",
+      "id": "BGB§1854@unbestimmt",
+      "label": "§ 1854 BGB (alte oder neue Fassung)",
+      "nummer": "1854"
+    },
+    {
+      "alte_fassung": true,
+      "einheit": "§",
+      "fassung": "alt",
+      "gesetz": "BGB",
+      "id": "BGB§1899@aF",
+      "label": "§ 1899 BGB a.F.",
       "nummer": "1899"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1903",
-      "label": "§ 1903 BGB",
+      "id": "BGB§1903@aF",
+      "label": "§ 1903 BGB a.F.",
       "nummer": "1903"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1908i",
-      "label": "§ 1908i BGB",
+      "id": "BGB§1908i@aF",
+      "label": "§ 1908i BGB a.F.",
       "nummer": "1908i"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2050",
       "label": "§ 2050 BGB",
@@ -312,6 +358,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§516",
       "label": "§ 516 BGB",
@@ -320,6 +367,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§528",
       "label": "§ 528 BGB",
@@ -328,6 +376,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§534",
       "label": "§ 534 BGB",
@@ -336,6 +385,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§80",
       "label": "§ 80 BGB",
@@ -344,6 +394,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§812",
       "label": "§ 812 BGB",
@@ -352,6 +403,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§985",
       "label": "§ 985 BGB",
@@ -360,6 +412,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§290",
       "label": "§ 290 FamFG",
@@ -368,6 +421,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GBO",
       "id": "GBO§19",
       "label": "§ 19 GBO",
@@ -376,6 +430,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GBO",
       "id": "GBO§20",
       "label": "§ 20 GBO",
@@ -384,6 +439,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GBO",
       "id": "GBO§29",
       "label": "§ 29 GBO",
@@ -392,6 +448,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§266",
       "label": "§ 266 StGB",
@@ -400,6 +457,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§153a",
       "label": "§ 153a StPO",
@@ -435,8 +493,8 @@
       "norms": [
         "BGB§985",
         "BGB§812",
-        "BGB§1826",
-        "BGB§1854"
+        "BGB§1826@unbestimmt",
+        "BGB§1854@unbestimmt"
       ],
       "path": [
         "Schenkungen durch den Betreuer"
@@ -447,10 +505,10 @@
       "decisions": [],
       "norms": [
         "BGB§181",
-        "BGB§1795",
+        "BGB§1795@unbestimmt",
         "StGB§266",
         "StPO§153a",
-        "BGB§1804"
+        "BGB§1804@unbestimmt"
       ],
       "path": [
         "früheres Schenkungsverbot"
@@ -461,7 +519,7 @@
       "decisions": [],
       "norms": [
         "BGB§104",
-        "BGB§1903"
+        "BGB§1903@aF"
       ],
       "path": [
         "Einwilligungsvorbehalt und Geschäftsunfähigkeit"
@@ -487,12 +545,12 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1854",
-        "BGB§1821",
-        "BGB§1812",
-        "BGB§1804",
+        "BGB§1854@unbestimmt",
+        "BGB§1821@unbestimmt",
+        "BGB§1812@unbestimmt",
+        "BGB§1804@unbestimmt",
         "BGB§534",
-        "BGB§1899"
+        "BGB§1899@aF"
       ],
       "path": [
         "Erlaubte Sittlichkeits- und Anstandsschenkungen"
@@ -502,9 +560,9 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1821",
+        "BGB§1821@unbestimmt",
         "BGB§528",
-        "BGB§1854"
+        "BGB§1854@unbestimmt"
       ],
       "path": [
         "Gelegenheitsgeschenke"
@@ -523,7 +581,7 @@
       "decisions": [],
       "norms": [
         "BGB§1624",
-        "BGB§1854",
+        "BGB§1854@unbestimmt",
         "BGB§2050"
       ],
       "path": [
@@ -548,18 +606,18 @@
         "LG Offenburg 1 T 23/25"
       ],
       "norms": [
-        "BGB§1804",
-        "BGB§1812",
-        "BGB§1837",
-        "BGB§1831",
+        "BGB§1804@aF",
+        "BGB§1812@unbestimmt",
+        "BGB§1837@unbestimmt",
+        "BGB§1831@unbestimmt",
         "GBO§20",
         "GBO§29",
         "GBO§19",
         "FamFG§290",
-        "BGB§1908i",
-        "BGB§1821",
-        "BGB§1828",
-        "BGB§1829"
+        "BGB§1908i@aF",
+        "BGB§1821@aF",
+        "BGB§1828@aF",
+        "BGB§1829@aF"
       ],
       "path": [
         "Rechtsprechung"
@@ -578,7 +636,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1852"
+        "BGB§1852@unbestimmt"
       ],
       "path": [
         "Literatur",

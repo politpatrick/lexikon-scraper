@@ -142,6 +142,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VII",
       "id": "SGBVII§2",
       "label": "§ 2 SGB VII",

@@ -294,14 +294,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1809",
-      "label": "§ 1809 BGB",
+      "id": "BGB§1809@unbestimmt",
+      "label": "§ 1809 BGB (alte oder neue Fassung)",
       "nummer": "1809"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1814",
       "label": "§ 1814 BGB",
@@ -310,14 +312,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1815",
-      "label": "§ 1815 BGB",
+      "id": "BGB§1815@unbestimmt",
+      "label": "§ 1815 BGB (alte oder neue Fassung)",
       "nummer": "1815"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1816",
       "label": "§ 1816 BGB",
@@ -326,30 +330,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1819",
-      "label": "§ 1819 BGB",
+      "id": "BGB§1819@unbestimmt",
+      "label": "§ 1819 BGB (alte oder neue Fassung)",
       "nummer": "1819"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1841",
-      "label": "§ 1841 BGB",
+      "id": "BGB§1841@unbestimmt",
+      "label": "§ 1841 BGB (alte oder neue Fassung)",
       "nummer": "1841"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1859",
       "label": "§ 1859 BGB",
@@ -358,6 +366,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1862",
       "label": "§ 1862 BGB",
@@ -366,6 +375,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1865",
       "label": "§ 1865 BGB",
@@ -374,6 +384,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1877",
       "label": "§ 1877 BGB",
@@ -382,22 +393,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1879",
       "label": "§ 1879 BGB",
       "nummer": "1879"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1897",
-      "label": "§ 1897 BGB",
+      "id": "BGB§1897@aF",
+      "label": "§ 1897 BGB a.F.",
       "nummer": "1897"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§12",
       "label": "§ 12 BtOG",
@@ -406,6 +420,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§14",
       "label": "§ 14 BtOG",
@@ -414,6 +429,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§16",
       "label": "§ 16 BtOG",
@@ -422,6 +438,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§19",
       "label": "§ 19 BtOG",
@@ -430,6 +447,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§23",
       "label": "§ 23 BtOG",
@@ -438,6 +456,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtRegV",
       "id": "BtRegV§3",
       "label": "§ 3 BtRegV",
@@ -446,6 +465,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "EStG",
       "id": "EStG§18",
       "label": "§ 18 EStG",
@@ -454,6 +474,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§286",
       "label": "§ 286 FamFG",
@@ -462,6 +483,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§42",
       "label": "§ 42 FamFG",
@@ -470,6 +492,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB III",
       "id": "SGBIII§28a",
       "label": "§ 28a SGB III",
@@ -478,6 +501,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§30",
       "label": "§ 30 SGB I",
@@ -486,6 +510,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§31",
       "label": "§ 31 SGB I",
@@ -494,6 +519,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VII",
       "id": "SGBVII§2",
       "label": "§ 2 SGB VII",
@@ -502,6 +528,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VII",
       "id": "SGBVII§33",
       "label": "§ 33 SGB VII",
@@ -510,6 +537,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VI",
       "id": "SGBVI§7",
       "label": "§ 7 SGB VI",
@@ -518,6 +546,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§188",
       "label": "§ 188 SGB V",
@@ -526,6 +555,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§20",
       "label": "§ 20 SGB XI",
@@ -534,6 +564,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§23",
       "label": "§ 23 SGB XI",
@@ -542,6 +573,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "UStG",
       "id": "UStG§19",
       "label": "§ 19 UStG",
@@ -550,6 +582,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "UStG",
       "id": "UStG§4",
       "label": "§ 4 UStG",
@@ -558,6 +591,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§1",
       "label": "§ 1 VBVG",
@@ -566,6 +600,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§7",
       "label": "§ 7 VBVG",
@@ -574,6 +609,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§9",
       "label": "§ 9 VBVG",
@@ -582,6 +618,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VVG",
       "id": "VVG§193",
       "label": "§ 193 VVG",
@@ -614,7 +651,9 @@
       "decisions": [
         "1 BvR 1909/95"
       ],
-      "norms": [],
+      "norms": [
+        "BtOG§23"
+      ],
       "path": [
         "Berufliche Betreuungsführung und Rechtstatsachen"
       ],
@@ -641,9 +680,9 @@
         "BtOG§19",
         "BGB§1816",
         "BtOG§16",
-        "BGB§1819",
+        "BGB§1819@unbestimmt",
         "FamFG§42",
-        "BGB§1897"
+        "BGB§1897@aF"
       ],
       "path": [
         "Bestellung als Berufsbetreuer"
@@ -686,11 +725,11 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1821",
+        "BGB§1821@unbestimmt",
         "BGB§1862",
         "BGB§1859",
         "BGB§1865",
-        "BGB§1841"
+        "BGB§1841@unbestimmt"
       ],
       "path": [
         "Betreuerpflichten"
@@ -777,7 +816,7 @@
       "norms": [
         "EStG§18",
         "UStG§4",
-        "BGB§1809",
+        "BGB§1809@unbestimmt",
         "BGB§1877",
         "UStG§19"
       ],
@@ -804,8 +843,8 @@
         "VG Frankfurt am Main 4 K 9702/17"
       ],
       "norms": [
-        "BGB§1815",
-        "BGB§1897"
+        "BGB§1815@unbestimmt",
+        "BGB§1897@aF"
       ],
       "path": [
         "Steuerrechtliche Seite",

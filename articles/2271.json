@@ -79,6 +79,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -87,6 +88,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§164",
       "label": "§ 164 BGB",
@@ -95,6 +97,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§167",
       "label": "§ 167 BGB",
@@ -103,14 +106,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1795",
-      "label": "§ 1795 BGB",
+      "id": "BGB§1795@unbestimmt",
+      "label": "§ 1795 BGB (alte oder neue Fassung)",
       "nummer": "1795"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§181",
       "label": "§ 181 BGB",
@@ -119,30 +124,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1835",
-      "label": "§ 1835 BGB",
+      "id": "BGB§1835@aF",
+      "label": "§ 1835 BGB a.F.",
       "nummer": "1835"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1835a",
-      "label": "§ 1835a BGB",
+      "id": "BGB§1835a@aF",
+      "label": "§ 1835a BGB a.F.",
       "nummer": "1835a"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§311b",
       "label": "§ 311b BGB",
@@ -151,6 +160,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§670",
       "label": "§ 670 BGB",
@@ -159,6 +169,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§168",
       "label": "§ 168 FamFG",
@@ -167,6 +178,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§292",
       "label": "§ 292 FamFG",
@@ -175,6 +187,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VVG",
       "id": "VVG§159",
       "label": "§ 159 VVG",
@@ -198,9 +211,9 @@
       "decisions": [],
       "norms": [
         "BGB§164",
-        "BGB§1795",
+        "BGB§1795@unbestimmt",
         "BGB§104",
-        "BGB§1814"
+        "BGB§1814@unbestimmt"
       ],
       "path": [
         "Gesetzliche Vertretung"
@@ -227,8 +240,8 @@
       "norms": [
         "BGB§181",
         "BGB§670",
-        "BGB§1835",
-        "BGB§1835a",
+        "BGB§1835@aF",
+        "BGB§1835a@aF",
         "FamFG§168",
         "FamFG§292"
       ],

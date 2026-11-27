@@ -544,6 +544,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1698b",
       "label": "§ 1698b BGB",
@@ -552,30 +553,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1815",
-      "label": "§ 1815 BGB",
+      "id": "BGB§1815@unbestimmt",
+      "label": "§ 1815 BGB (alte oder neue Fassung)",
       "nummer": "1815"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1817",
-      "label": "§ 1817 BGB",
+      "id": "BGB§1817@unbestimmt",
+      "label": "§ 1817 BGB (alte oder neue Fassung)",
       "nummer": "1817"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1836",
-      "label": "§ 1836 BGB",
+      "id": "BGB§1836@unbestimmt",
+      "label": "§ 1836 BGB (alte oder neue Fassung)",
       "nummer": "1836"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1869",
       "label": "§ 1869 BGB",
@@ -584,6 +589,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§187",
       "label": "§ 187 BGB",
@@ -592,6 +598,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1871",
       "label": "§ 1871 BGB",
@@ -600,6 +607,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1874",
       "label": "§ 1874 BGB",
@@ -608,6 +616,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1876",
       "label": "§ 1876 BGB",
@@ -616,6 +625,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1877",
       "label": "§ 1877 BGB",
@@ -624,6 +634,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1878",
       "label": "§ 1878 BGB",
@@ -632,6 +643,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1901@aF",
       "label": "§ 1901 BGB a.F.",
@@ -640,6 +652,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1908d@aF",
       "label": "§ 1908d BGB a.F.",
@@ -648,6 +661,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§242",
       "label": "§ 242 BGB",
@@ -656,6 +670,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§291",
       "label": "§ 291 BGB",
@@ -664,6 +679,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§404",
       "label": "§ 404 BGB",
@@ -672,6 +688,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§412",
       "label": "§ 412 BGB",
@@ -680,6 +697,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BVormVG",
       "id": "BVormVG§1",
       "label": "§ 1 BVormVG",
@@ -688,6 +706,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§32",
       "label": "§ 32 BtOG",
@@ -696,6 +715,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§14b",
       "label": "§ 14b FamFG",
@@ -704,6 +724,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§15",
       "label": "§ 15 FamFG",
@@ -712,6 +733,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§168",
       "label": "§ 168 FamFG",
@@ -720,6 +742,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§277",
       "label": "§ 277 FamFG",
@@ -728,6 +751,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -736,6 +760,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§292",
       "label": "§ 292 FamFG",
@@ -744,6 +769,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§302",
       "label": "§ 302 FamFG",
@@ -752,6 +778,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§318",
       "label": "§ 318 FamFG",
@@ -760,6 +787,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§198",
       "label": "§ 198 GVG",
@@ -768,6 +796,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "HeimG",
       "id": "HeimG§1",
       "label": "§ 1 HeimG",
@@ -776,6 +805,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§102",
       "label": "§ 102 SGB IX",
@@ -784,6 +814,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§105",
       "label": "§ 105 SGB IX",
@@ -792,6 +823,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§113",
       "label": "§ 113 SGB IX",
@@ -800,6 +832,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§8",
       "label": "§ 8 SGB IX",
@@ -808,6 +841,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§90",
       "label": "§ 90 SGB IX",
@@ -816,6 +850,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VIII",
       "id": "SGBVIII§19",
       "label": "§ 19 SGB VIII",
@@ -824,6 +859,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§10",
       "label": "§ 10 VBVG",
@@ -832,6 +868,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§11",
       "label": "§ 11 VBVG",
@@ -840,6 +877,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§12",
       "label": "§ 12 VBVG",
@@ -848,6 +886,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§15",
       "label": "§ 15 VBVG",
@@ -856,6 +895,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§16",
       "label": "§ 16 VBVG",
@@ -864,6 +904,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§2",
       "label": "§ 2 VBVG",
@@ -872,6 +913,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§3",
       "label": "§ 3 VBVG",
@@ -880,6 +922,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§4",
       "label": "§ 4 VBVG",
@@ -888,6 +931,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§5",
       "label": "§ 5 VBVG",
@@ -896,6 +940,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "VBVG",
       "id": "VBVG§5@aF",
       "label": "§ 5 VBVG a.F.",
@@ -904,6 +949,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§8",
       "label": "§ 8 VBVG",
@@ -912,6 +958,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§9",
       "label": "§ 9 VBVG",
@@ -920,6 +967,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§104",
       "label": "§ 104 ZPO",
@@ -971,7 +1019,7 @@
       ],
       "norms": [
         "VBVG§3",
-        "BGB§1817",
+        "BGB§1817@unbestimmt",
         "VBVG§12",
         "FamFG§277",
         "FamFG§318",
@@ -1053,7 +1101,7 @@
         "OLG Köln 16 Wx 69/06"
       ],
       "norms": [
-        "BGB§1815",
+        "BGB§1815@unbestimmt",
         "VBVG§11"
       ],
       "path": [
@@ -1161,7 +1209,7 @@
         "OLG Rostock 3 W 144/05"
       ],
       "norms": [
-        "BGB§1836",
+        "BGB§1836@unbestimmt",
         "VBVG§15",
         "BGB§291",
         "ZPO§104"
@@ -1178,7 +1226,7 @@
         "XII ZB 26/12"
       ],
       "norms": [
-        "BGB§1836",
+        "BGB§1836@unbestimmt",
         "VBVG§2",
         "VBVG§5",
         "VBVG§16",
@@ -1250,7 +1298,7 @@
         "LG Frankfurt (Oder) 19 T 274/07"
       ],
       "norms": [
-        "BGB§1817",
+        "BGB§1817@unbestimmt",
         "VBVG§12"
       ],
       "path": [

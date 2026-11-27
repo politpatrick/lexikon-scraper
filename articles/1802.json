@@ -66,6 +66,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1596",
       "label": "§ 1596 BGB",
@@ -74,6 +75,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1599",
       "label": "§ 1599 BGB",
@@ -82,6 +84,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1600",
       "label": "§ 1600 BGB",
@@ -90,6 +93,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1626a",
       "label": "§ 1626a BGB",
@@ -98,6 +102,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1626c",
       "label": "§ 1626c BGB",
@@ -106,6 +111,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1632",
       "label": "§ 1632 BGB",
@@ -114,6 +120,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1664",
       "label": "§ 1664 BGB",
@@ -122,6 +129,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1666",
       "label": "§ 1666 BGB",
@@ -130,6 +138,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1666a",
       "label": "§ 1666a BGB",
@@ -138,6 +147,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1671",
       "label": "§ 1671 BGB",
@@ -146,6 +156,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1673",
       "label": "§ 1673 BGB",
@@ -154,6 +165,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1674",
       "label": "§ 1674 BGB",
@@ -162,6 +174,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1678",
       "label": "§ 1678 BGB",
@@ -170,6 +183,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1682",
       "label": "§ 1682 BGB",
@@ -178,6 +192,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1706",
       "label": "§ 1706 BGB",
@@ -186,6 +201,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1712",
       "label": "§ 1712 BGB",
@@ -194,6 +210,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1741",
       "label": "§ 1741 BGB",
@@ -202,6 +219,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1747",
       "label": "§ 1747 BGB",
@@ -210,6 +228,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1748",
       "label": "§ 1748 BGB",
@@ -218,6 +237,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1750",
       "label": "§ 1750 BGB",
@@ -226,62 +246,70 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1773",
-      "label": "§ 1773 BGB",
+      "id": "BGB§1773@unbestimmt",
+      "label": "§ 1773 BGB (alte oder neue Fassung)",
       "nummer": "1773"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1831",
-      "label": "§ 1831 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
       "nummer": "1831"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1835",
-      "label": "§ 1835 BGB",
+      "id": "BGB§1835@unbestimmt",
+      "label": "§ 1835 BGB (alte oder neue Fassung)",
       "nummer": "1835"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1910",
-      "label": "§ 1910 BGB",
+      "id": "BGB§1910@aF",
+      "label": "§ 1910 BGB a.F.",
       "nummer": "1910"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§3",
       "label": "§ 3 BGB",
@@ -290,6 +318,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BeurkG",
       "id": "BeurkG§11",
       "label": "§ 11 BeurkG",
@@ -298,6 +327,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§49",
       "label": "§ 49 FGG",
@@ -306,6 +336,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§49a",
       "label": "§ 49a FGG",
@@ -314,6 +345,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§50",
       "label": "§ 50 FGG",
@@ -322,6 +354,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§158",
       "label": "§ 158 FamFG",
@@ -330,6 +363,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§276",
       "label": "§ 276 FamFG",
@@ -338,6 +372,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§317",
       "label": "§ 317 FamFG",
@@ -346,6 +381,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VIII",
       "id": "SGBVIII§59",
       "label": "§ 59 SGB VIII",
@@ -368,8 +404,8 @@
       "norms": [
         "BGB§1596",
         "SGBVIII§59",
-        "BGB§1825",
-        "BGB§1910",
+        "BGB§1825@unbestimmt",
+        "BGB§1910@aF",
         "BeurkG§11"
       ],
       "path": [
@@ -407,10 +443,10 @@
       "norms": [
         "BGB§1673",
         "BGB§1666",
-        "BGB§1831",
+        "BGB§1831@unbestimmt",
         "BGB§1674",
-        "BGB§1773",
-        "BGB§1896"
+        "BGB§1773@unbestimmt",
+        "BGB§1896@aF"
       ],
       "path": [
         "Elterliche Sorge"
@@ -421,7 +457,7 @@
       "decisions": [],
       "norms": [
         "BGB§1671",
-        "BGB§1821"
+        "BGB§1821@unbestimmt"
       ],
       "path": [
         "Elterliche Sorge nach Scheidung/Trennung"
@@ -433,7 +469,7 @@
       "norms": [
         "BGB§1626a",
         "BGB§1626c",
-        "BGB§1825",
+        "BGB§1825@unbestimmt",
         "BGB§1673",
         "BGB§1678"
       ],
@@ -467,7 +503,7 @@
       "decisions": [],
       "norms": [
         "BGB§1712",
-        "BGB§1773"
+        "BGB§1773@unbestimmt"
       ],
       "path": [
         "Beistandschaft des Jugendamtes (§ § 1712 ff. BGB)"
@@ -494,7 +530,7 @@
         "BGB§1682",
         "BGB§1632",
         "FamFG§158",
-        "BGB§1835",
+        "BGB§1835@unbestimmt",
         "FGG§49",
         "FGG§49a"
       ],

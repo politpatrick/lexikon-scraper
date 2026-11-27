@@ -43,6 +43,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§11",
       "label": "§ 11 SGB IX",
@@ -51,6 +52,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§63",
       "label": "§ 63 SGB V",
@@ -59,6 +61,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§64",
       "label": "§ 64 SGB V",
@@ -67,6 +70,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§64a",
       "label": "§ 64a SGB V",
@@ -75,6 +79,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§64b",
       "label": "§ 64b SGB V",
@@ -83,6 +88,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§64c",
       "label": "§ 64c SGB V",
@@ -91,6 +97,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§64d",
       "label": "§ 64d SGB V",
@@ -99,6 +106,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§64e",
       "label": "§ 64e SGB V",
@@ -107,6 +115,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§65",
       "label": "§ 65 SGB V",
@@ -115,6 +124,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§65c",
       "label": "§ 65c SGB V",
@@ -123,6 +133,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§123",
       "label": "§ 123 SGB XI",
@@ -131,6 +142,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§124",
       "label": "§ 124 SGB XI",
@@ -139,6 +151,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§125",
       "label": "§ 125 SGB XI",
@@ -147,6 +160,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§125a",
       "label": "§ 125a SGB XI",

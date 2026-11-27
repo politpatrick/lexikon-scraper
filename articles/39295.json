@@ -37,6 +37,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§86",
       "label": "§ 86 SGB V",
@@ -45,6 +46,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§267",
       "label": "§ 267 StGB",

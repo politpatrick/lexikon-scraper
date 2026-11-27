@@ -486,14 +486,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1815",
-      "label": "§ 1815 BGB",
+      "id": "BGB§1815@unbestimmt",
+      "label": "§ 1815 BGB (alte oder neue Fassung)",
       "nummer": "1815"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1831",
       "label": "§ 1831 BGB",
@@ -502,38 +504,52 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1832",
-      "label": "§ 1832 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
+      "nummer": "1831"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1832@unbestimmt",
+      "label": "§ 1832 BGB (alte oder neue Fassung)",
       "nummer": "1832"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1846",
-      "label": "§ 1846 BGB",
+      "id": "BGB§1846@unbestimmt",
+      "label": "§ 1846 BGB (alte oder neue Fassung)",
       "nummer": "1846"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1906",
-      "label": "§ 1906 BGB",
+      "id": "BGB§1906@aF",
+      "label": "§ 1906 BGB a.F.",
       "nummer": "1906"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1906a",
-      "label": "§ 1906a BGB",
+      "id": "BGB§1906a@aF",
+      "label": "§ 1906a BGB a.F.",
       "nummer": "1906a"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§253",
       "label": "§ 253 BGB",
@@ -542,6 +558,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630a",
       "label": "§ 630a BGB",
@@ -550,6 +567,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§677",
       "label": "§ 677 BGB",
@@ -558,6 +576,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§839",
       "label": "§ 839 BGB",
@@ -566,6 +585,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§70d",
       "label": "§ 70d FGG",
@@ -574,6 +594,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§14",
       "label": "§ 14 FamFG",
@@ -582,6 +603,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§14b",
       "label": "§ 14b FamFG",
@@ -590,6 +612,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§26",
       "label": "§ 26 FamFG",
@@ -598,6 +621,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§312",
       "label": "§ 312 FamFG",
@@ -606,6 +630,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§315",
       "label": "§ 315 FamFG",
@@ -614,6 +639,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§320",
       "label": "§ 320 FamFG",
@@ -622,6 +648,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§321",
       "label": "§ 321 FamFG",
@@ -630,6 +657,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§327",
       "label": "§ 327 FamFG",
@@ -638,6 +666,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§329",
       "label": "§ 329 FamFG",
@@ -646,6 +675,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§331",
       "label": "§ 331 FamFG",
@@ -654,6 +684,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§338",
       "label": "§ 338 FamFG",
@@ -662,6 +693,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.104",
       "label": "Art. 104 GG",
@@ -670,6 +702,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.19",
       "label": "Art. 19 GG",
@@ -678,6 +711,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.2",
       "label": "Art. 2 GG",
@@ -686,6 +720,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.34",
       "label": "Art. 34 GG",
@@ -694,6 +729,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§23a",
       "label": "§ 23a GVG",
@@ -702,6 +738,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§11",
       "label": "§ 11 PsychKG",
@@ -710,6 +747,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§14",
       "label": "§ 14 PsychKG",
@@ -718,6 +756,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§15",
       "label": "§ 15 PsychKG",
@@ -726,6 +765,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§18",
       "label": "§ 18 PsychKG",
@@ -734,6 +774,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§20",
       "label": "§ 20 PsychKG",
@@ -742,6 +783,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§22",
       "label": "§ 22 PsychKG",
@@ -750,6 +792,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§26",
       "label": "§ 26 PsychKG",
@@ -758,6 +801,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§28",
       "label": "§ 28 PsychKG",
@@ -766,6 +810,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§32",
       "label": "§ 32 PsychKG",
@@ -774,6 +819,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§33",
       "label": "§ 33 PsychKG",
@@ -782,6 +828,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§7",
       "label": "§ 7 PsychKG",
@@ -790,6 +837,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKG",
       "id": "PsychKG§8",
       "label": "§ 8 PsychKG",
@@ -798,6 +846,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKHG",
       "id": "PsychKHG§13",
       "label": "§ 13 PsychKHG",
@@ -806,6 +855,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKHG",
       "id": "PsychKHG§20",
       "label": "§ 20 PsychKHG",
@@ -814,6 +864,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "PsychKHG",
       "id": "PsychKHG§21",
       "label": "§ 21 PsychKHG",
@@ -822,6 +873,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IX",
       "id": "SGBIX§4",
       "label": "§ 4 SGB IX",
@@ -830,6 +882,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§20",
       "label": "§ 20 StGB",
@@ -838,6 +891,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§63",
       "label": "§ 63 StGB",
@@ -873,7 +927,9 @@
     },
     {
       "decisions": [],
-      "norms": [],
+      "norms": [
+        "FamFG§312"
+      ],
       "path": [
         "Zuständigkeit"
       ],
@@ -882,7 +938,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1832",
+        "BGB§1832@unbestimmt",
         "PsychKG§28",
         "PsychKG§18",
         "PsychKG§22",
@@ -898,7 +954,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1831"
+        "BGB§1831@unbestimmt"
       ],
       "path": [
         "Betreuungsrechtliche Unterbringung"
@@ -937,7 +993,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1831"
+        "BGB§1831@unbestimmt"
       ],
       "path": [
         "Beteiligung von Betreuern an Unterbringungsmaßnahmen nach den PsychKGen",
@@ -984,7 +1040,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1831"
+        "BGB§1831@unbestimmt"
       ],
       "path": [
         "Beteiligung von Betreuern an Unterbringungsmaßnahmen nach den PsychKGen",
@@ -996,7 +1052,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1815"
+        "BGB§1815@unbestimmt"
       ],
       "path": [
         "Beteiligung von Betreuern an Unterbringungsmaßnahmen nach den PsychKGen",
@@ -1090,7 +1146,7 @@
       ],
       "norms": [
         "PsychKG§11",
-        "BGB§1906",
+        "BGB§1906@aF",
         "GGArt.2",
         "FamFG§312",
         "FamFG§331",
@@ -1104,7 +1160,7 @@
         "BGB§253",
         "GGArt.34",
         "GGArt.104",
-        "BGB§1906a",
+        "BGB§1906a@aF",
         "PsychKHG§20",
         "PsychKG§32",
         "PsychKG§33",
@@ -1155,8 +1211,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1846",
-        "BGB§1906"
+        "BGB§1846@unbestimmt",
+        "BGB§1906@aF"
       ],
       "path": [
         "Literatur",

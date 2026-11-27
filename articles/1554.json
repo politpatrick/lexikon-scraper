@@ -42,9 +42,10 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1819",
-      "label": "§ 1819 BGB",
+      "id": "BGB§1819@unbestimmt",
+      "label": "§ 1819 BGB (alte oder neue Fassung)",
       "nummer": "1819"
     }
   ],
@@ -88,7 +89,7 @@
         "XII ZB 475/19"
       ],
       "norms": [
-        "BGB§1819"
+        "BGB§1819@unbestimmt"
       ],
       "path": [
         "Zustimmung gegenüber dem Betreuungsgericht"

@@ -55,6 +55,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1859",
       "label": "§ 1859 BGB",
@@ -63,6 +64,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1872",
       "label": "§ 1872 BGB",
@@ -71,6 +73,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1944",
       "label": "§ 1944 BGB",
@@ -79,6 +82,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1967",
       "label": "§ 1967 BGB",
@@ -87,6 +91,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1968",
       "label": "§ 1968 BGB",
@@ -95,6 +100,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2006",
       "label": "§ 2006 BGB",
@@ -103,6 +109,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2028",
       "label": "§ 2028 BGB",
@@ -111,6 +118,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2032",
       "label": "§ 2032 BGB",
@@ -119,6 +127,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2050",
       "label": "§ 2050 BGB",
@@ -127,6 +136,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2053",
       "label": "§ 2053 BGB",
@@ -135,6 +145,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2057",
       "label": "§ 2057 BGB",
@@ -143,6 +154,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2058",
       "label": "§ 2058 BGB",
@@ -151,6 +163,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§259",
       "label": "§ 259 BGB",
@@ -159,6 +172,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§260",
       "label": "§ 260 BGB",
@@ -167,6 +181,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§261",
       "label": "§ 261 BGB",
@@ -175,6 +190,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§421",
       "label": "§ 421 BGB",
@@ -183,6 +199,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§361",
       "label": "§ 361 FamFG",
@@ -191,6 +208,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§413",
       "label": "§ 413 FamFG",
@@ -199,6 +217,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§94",
       "label": "§ 94 FamFG",
@@ -207,6 +226,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§315",
       "label": "§ 315 InsO",
@@ -215,6 +235,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§98",
       "label": "§ 98 InsO",
@@ -223,6 +244,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§156",
       "label": "§ 156 StGB",
@@ -231,6 +253,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§802c",
       "label": "§ 802c ZPO",
@@ -239,6 +262,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§802f",
       "label": "§ 802f ZPO",
@@ -247,6 +271,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§807",
       "label": "§ 807 ZPO",

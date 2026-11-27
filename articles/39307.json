@@ -37,6 +37,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§242",
       "label": "§ 242 BGB",
@@ -45,6 +46,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§255",
       "label": "§ 255 BGB",
@@ -53,6 +55,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§273",
       "label": "§ 273 BGB",
@@ -61,6 +64,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§274",
       "label": "§ 274 BGB",
@@ -69,6 +73,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§320",
       "label": "§ 320 BGB",
@@ -77,6 +82,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§322",
       "label": "§ 322 BGB",
@@ -85,6 +91,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§854",
       "label": "§ 854 BGB",
@@ -93,6 +100,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§756",
       "label": "§ 756 ZPO",
@@ -101,6 +109,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§765",
       "label": "§ 765 ZPO",
@@ -109,6 +118,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§765a",
       "label": "§ 765a ZPO",
@@ -117,6 +127,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§882b",
       "label": "§ 882b ZPO",
@@ -125,6 +136,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§882c",
       "label": "§ 882c ZPO",
@@ -133,6 +145,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§882f",
       "label": "§ 882f ZPO",
@@ -141,6 +154,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§882i",
       "label": "§ 882i ZPO",

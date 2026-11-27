@@ -430,6 +430,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -438,6 +439,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§167",
       "label": "§ 167 BGB",
@@ -446,6 +448,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1814",
       "label": "§ 1814 BGB",
@@ -454,30 +457,43 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
+      "nummer": "1814"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1880",
       "label": "§ 1880 BGB",
       "nummer": "1880"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1903",
-      "label": "§ 1903 BGB",
+      "id": "BGB§1903@aF",
+      "label": "§ 1903 BGB a.F.",
       "nummer": "1903"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2209",
       "label": "§ 2209 BGB",
@@ -486,6 +502,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§675",
       "label": "§ 675 BGB",
@@ -494,6 +511,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§271",
       "label": "§ 271 FamFG",
@@ -502,6 +520,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§275",
       "label": "§ 275 FamFG",
@@ -510,6 +529,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§277",
       "label": "§ 277 FamFG",
@@ -518,6 +538,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§278",
       "label": "§ 278 FamFG",
@@ -526,6 +547,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§283",
       "label": "§ 283 FamFG",
@@ -534,6 +556,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§284",
       "label": "§ 284 FamFG",
@@ -542,6 +565,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -550,6 +574,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§307",
       "label": "§ 307 FamFG",
@@ -558,6 +583,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§316",
       "label": "§ 316 FamFG",
@@ -566,6 +592,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§81",
       "label": "§ 81 FamFG",
@@ -574,6 +601,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.3",
       "label": "Art. 3 GG",
@@ -582,6 +610,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GNotKG",
       "id": "GNotKG§23",
       "label": "§ 23 GNotKG",
@@ -590,6 +619,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GNotKG",
       "id": "GNotKG§26",
       "label": "§ 26 GNotKG",
@@ -598,6 +628,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GNotKG",
       "id": "GNotKG§3",
       "label": "§ 3 GNotKG",
@@ -606,6 +637,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GNotKG",
       "id": "GNotKG§36",
       "label": "§ 36 GNotKG",
@@ -614,6 +646,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GNotKG",
       "id": "GNotKG§52",
       "label": "§ 52 GNotKG",
@@ -622,6 +655,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GNotKG",
       "id": "GNotKG§8",
       "label": "§ 8 GNotKG",
@@ -630,6 +664,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GNotKG",
       "id": "GNotKG§81",
       "label": "§ 81 GNotKG",
@@ -638,6 +673,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§2",
       "label": "§ 2 JVEG",
@@ -646,6 +682,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§8",
       "label": "§ 8 JVEG",
@@ -654,6 +691,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§9",
       "label": "§ 9 JVEG",
@@ -662,6 +700,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "RVG",
       "id": "RVG§23",
       "label": "§ 23 RVG",
@@ -670,6 +709,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "RVG",
       "id": "RVG§23@aF",
       "label": "§ 23 RVG a.F.",
@@ -678,6 +718,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "RVG",
       "id": "RVG§33",
       "label": "§ 33 RVG",
@@ -686,6 +727,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB I",
       "id": "SGBI§31",
       "label": "§ 31 SGB I",
@@ -694,6 +736,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VII",
       "id": "SGBVII§33",
       "label": "§ 33 SGB VII",
@@ -702,6 +745,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VII",
       "id": "SGBVII§39",
       "label": "§ 39 SGB VII",
@@ -710,6 +754,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§90",
       "label": "§ 90 SGB XII",
@@ -718,6 +763,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§1",
       "label": "§ 1 VBVG",
@@ -726,6 +772,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "VBVG",
       "id": "VBVG§3@aF",
       "label": "§ 3 VBVG a.F.",
@@ -734,6 +781,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§91",
       "label": "§ 91 ZPO",
@@ -787,7 +835,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1814",
+        "BGB§1814@unbestimmt",
         "FamFG§271"
       ],
       "path": [
@@ -905,7 +953,7 @@
       "norms": [
         "JVEG§8",
         "JVEG§9",
-        "BGB§1903",
+        "BGB§1903@aF",
         "JVEG§2"
       ],
       "path": [
@@ -988,9 +1036,10 @@
         "AG Brandenburg 85 XVII 79/21"
       ],
       "norms": [
+        "BGB§1814",
         "FamFG§81",
         "BGB§167",
-        "BGB§1896"
+        "BGB§1896@aF"
       ],
       "path": [
         "Kostenauferlegung"

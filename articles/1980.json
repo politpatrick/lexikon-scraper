@@ -73,6 +73,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§104",
       "label": "§ 104 FamFG",
@@ -81,6 +82,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§97",
       "label": "§ 97 FamFG",
@@ -89,6 +91,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.25",
       "label": "Art. 25 GG",

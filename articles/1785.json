@@ -144,6 +144,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -152,6 +153,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§126",
       "label": "§ 126 BGB",
@@ -160,6 +162,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§129",
       "label": "§ 129 BGB",
@@ -168,6 +171,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§164",
       "label": "§ 164 BGB",
@@ -176,6 +180,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§168",
       "label": "§ 168 BGB",
@@ -184,6 +189,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§181",
       "label": "§ 181 BGB",
@@ -192,54 +198,61 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1816",
-      "label": "§ 1816 BGB",
+      "id": "BGB§1816@unbestimmt",
+      "label": "§ 1816 BGB (alte oder neue Fassung)",
       "nummer": "1816"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1820",
-      "label": "§ 1820 BGB",
+      "id": "BGB§1820@unbestimmt",
+      "label": "§ 1820 BGB (alte oder neue Fassung)",
       "nummer": "1820"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1827",
-      "label": "§ 1827 BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
       "nummer": "1827"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1829",
-      "label": "§ 1829 BGB",
+      "id": "BGB§1829@unbestimmt",
+      "label": "§ 1829 BGB (alte oder neue Fassung)",
       "nummer": "1829"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1831",
-      "label": "§ 1831 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
       "nummer": "1831"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§662",
       "label": "§ 662 BGB",
@@ -248,6 +261,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§666",
       "label": "§ 666 BGB",
@@ -256,6 +270,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§667",
       "label": "§ 667 BGB",
@@ -264,6 +279,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§670",
       "label": "§ 670 BGB",
@@ -272,6 +288,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§671",
       "label": "§ 671 BGB",
@@ -280,6 +297,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§672",
       "label": "§ 672 BGB",
@@ -288,6 +306,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§675",
       "label": "§ 675 BGB",
@@ -296,6 +315,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BeurkG",
       "id": "BeurkG§11",
       "label": "§ 11 BeurkG",
@@ -304,6 +324,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtBG",
       "id": "BtBG§6",
       "label": "§ 6 BtBG",
@@ -312,6 +333,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GBO",
       "id": "GBO§29",
       "label": "§ 29 GBO",
@@ -320,6 +342,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§34",
       "label": "§ 34 StGB",
@@ -328,6 +351,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§51",
       "label": "§ 51 ZPO",
@@ -336,6 +360,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§80",
       "label": "§ 80 ZPO",
@@ -368,8 +393,8 @@
         "BeurkG§11",
         "BGB§129",
         "BGB§126",
-        "BGB§1829",
-        "BGB§1831",
+        "BGB§1829@unbestimmt",
+        "BGB§1831@unbestimmt",
         "ZPO§51",
         "BtBG§6",
         "GBO§29",
@@ -388,7 +413,7 @@
         "StGB§34",
         "BGB§670",
         "BGB§675",
-        "BGB§1827"
+        "BGB§1827@unbestimmt"
       ],
       "path": [
         "Unterschied zur Patientenverfügung und Betreuungsverfügung"
@@ -409,7 +434,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1820",
+        "BGB§1820@unbestimmt",
         "BGB§671",
         "BGB§168"
       ],
@@ -423,7 +448,7 @@
         "OLG Hamm 26 U 62/06"
       ],
       "norms": [
-        "BGB§1816"
+        "BGB§1816@unbestimmt"
       ],
       "path": [
         "Nachteil der Vorsorgevollmacht"
@@ -433,8 +458,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1829",
-        "BGB§1831",
+        "BGB§1829@unbestimmt",
+        "BGB§1831@unbestimmt",
         "ZPO§51",
         "BGB§181"
       ],
@@ -460,9 +485,9 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1820",
-        "BGB§1814",
-        "BGB§1816"
+        "BGB§1820@unbestimmt",
+        "BGB§1814@unbestimmt",
+        "BGB§1816@unbestimmt"
       ],
       "path": [
         "Vorlage beim Betreuungsgericht"

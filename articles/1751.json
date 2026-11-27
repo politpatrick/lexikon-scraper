@@ -314,54 +314,61 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1802",
-      "label": "§ 1802 BGB",
+      "id": "BGB§1802@unbestimmt",
+      "label": "§ 1802 BGB (alte oder neue Fassung)",
       "nummer": "1802"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1805",
-      "label": "§ 1805 BGB",
+      "id": "BGB§1805@unbestimmt",
+      "label": "§ 1805 BGB (alte oder neue Fassung)",
       "nummer": "1805"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1806",
-      "label": "§ 1806 BGB",
+      "id": "BGB§1806@aF",
+      "label": "§ 1806 BGB a.F.",
       "nummer": "1806"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1807",
-      "label": "§ 1807 BGB",
+      "id": "BGB§1806@unbestimmt",
+      "label": "§ 1806 BGB (alte oder neue Fassung)",
+      "nummer": "1806"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1807@unbestimmt",
+      "label": "§ 1807 BGB (alte oder neue Fassung)",
       "nummer": "1807"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1809",
-      "label": "§ 1809 BGB",
+      "id": "BGB§1809@unbestimmt",
+      "label": "§ 1809 BGB (alte oder neue Fassung)",
       "nummer": "1809"
-    },
-    {
-      "alte_fassung": false,
-      "einheit": "§",
-      "gesetz": "BGB",
-      "id": "BGB§1811",
-      "label": "§ 1811 BGB",
-      "nummer": "1811"
     },
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1811@aF",
       "label": "§ 1811 BGB a.F.",
@@ -370,54 +377,70 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1812",
-      "label": "§ 1812 BGB",
+      "id": "BGB§1811@unbestimmt",
+      "label": "§ 1811 BGB (alte oder neue Fassung)",
+      "nummer": "1811"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1812@unbestimmt",
+      "label": "§ 1812 BGB (alte oder neue Fassung)",
       "nummer": "1812"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1813",
-      "label": "§ 1813 BGB",
+      "id": "BGB§1813@unbestimmt",
+      "label": "§ 1813 BGB (alte oder neue Fassung)",
       "nummer": "1813"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1816",
-      "label": "§ 1816 BGB",
+      "id": "BGB§1816@unbestimmt",
+      "label": "§ 1816 BGB (alte oder neue Fassung)",
       "nummer": "1816"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1817",
-      "label": "§ 1817 BGB",
+      "id": "BGB§1817@unbestimmt",
+      "label": "§ 1817 BGB (alte oder neue Fassung)",
       "nummer": "1817"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1820",
-      "label": "§ 1820 BGB",
+      "id": "BGB§1820@unbestimmt",
+      "label": "§ 1820 BGB (alte oder neue Fassung)",
       "nummer": "1820"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1825",
-      "label": "§ 1825 BGB",
+      "id": "BGB§1825@unbestimmt",
+      "label": "§ 1825 BGB (alte oder neue Fassung)",
       "nummer": "1825"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1848",
       "label": "§ 1848 BGB",
@@ -426,33 +449,37 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1852",
-      "label": "§ 1852 BGB",
+      "id": "BGB§1852@unbestimmt",
+      "label": "§ 1852 BGB (alte oder neue Fassung)",
       "nummer": "1852"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1854",
-      "label": "§ 1854 BGB",
+      "id": "BGB§1854@unbestimmt",
+      "label": "§ 1854 BGB (alte oder neue Fassung)",
       "nummer": "1854"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901",
-      "label": "§ 1901 BGB",
+      "id": "BGB§1901@aF",
+      "label": "§ 1901 BGB a.F.",
       "nummer": "1901"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1908i",
-      "label": "§ 1908i BGB",
+      "id": "BGB§1908i@aF",
+      "label": "§ 1908i BGB a.F.",
       "nummer": "1908i"
     }
   ],
@@ -470,11 +497,11 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1802",
-        "BGB§1820",
-        "BGB§1806",
-        "BGB§1807",
-        "BGB§1811"
+        "BGB§1802@unbestimmt",
+        "BGB§1820@unbestimmt",
+        "BGB§1806@unbestimmt",
+        "BGB§1807@unbestimmt",
+        "BGB§1811@unbestimmt"
       ],
       "path": [
         "Geldanlage durch den Betreuer"
@@ -484,8 +511,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1806",
-        "BGB§1901"
+        "BGB§1806@unbestimmt",
+        "BGB§1901@aF"
       ],
       "path": [
         "Nicht laufend benötigtes Vermögen muss angelegt werden"
@@ -497,7 +524,7 @@
         "XII ZB 518/20"
       ],
       "norms": [
-        "BGB§1807"
+        "BGB§1807@unbestimmt"
       ],
       "path": [
         "Die Geldanlage hat mündelsicher zu erfolgen"
@@ -507,7 +534,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1908i"
+        "BGB§1908i@aF"
       ],
       "path": [
         "Informationen zur Mündelsicherheit erteilen"
@@ -517,8 +544,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1807",
-        "BGB§1811"
+        "BGB§1807@unbestimmt",
+        "BGB§1811@unbestimmt"
       ],
       "path": [
         "Das Gericht kann Ausnahmen gestatten"
@@ -528,9 +555,9 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1812",
-        "BGB§1809",
-        "BGB§1816"
+        "BGB§1812@unbestimmt",
+        "BGB§1809@unbestimmt",
+        "BGB§1816@unbestimmt"
       ],
       "path": [
         "Genehmigungspflicht"
@@ -540,7 +567,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1813"
+        "BGB§1813@unbestimmt"
       ],
       "path": [
         "Genehmigungspflicht",
@@ -553,9 +580,9 @@
         "LG Nürnberg-Fürth 13 T 6052/97"
       ],
       "norms": [
-        "BGB§1813",
-        "BGB§1812",
-        "BGB§1825"
+        "BGB§1813@unbestimmt",
+        "BGB§1812@unbestimmt",
+        "BGB§1825@unbestimmt"
       ],
       "path": [
         "Problem 3000-Euro-Grenze"
@@ -565,8 +592,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1817",
-        "BGB§1825"
+        "BGB§1817@unbestimmt",
+        "BGB§1825@unbestimmt"
       ],
       "path": [
         "Befreiungsregelungen"
@@ -578,12 +605,12 @@
         "KG 8 U 35/14"
       ],
       "norms": [
-        "BGB§1809",
-        "BGB§1807",
-        "BGB§1817",
-        "BGB§1852",
-        "BGB§1854",
-        "BGB§1812"
+        "BGB§1809@unbestimmt",
+        "BGB§1807@unbestimmt",
+        "BGB§1817@unbestimmt",
+        "BGB§1852@unbestimmt",
+        "BGB§1854@unbestimmt",
+        "BGB§1812@unbestimmt"
       ],
       "path": [
         "Mündelsperrvermerk - was ist das?"
@@ -620,13 +647,13 @@
         "LG Karlsruhe 11 T 136/22"
       ],
       "norms": [
-        "BGB§1811",
-        "BGB§1807",
-        "BGB§1901",
-        "BGB§1812",
-        "BGB§1805",
-        "BGB§1908i",
-        "BGB§1806",
+        "BGB§1811@unbestimmt",
+        "BGB§1807@unbestimmt",
+        "BGB§1901@aF",
+        "BGB§1812@unbestimmt",
+        "BGB§1805@unbestimmt",
+        "BGB§1908i@aF",
+        "BGB§1806@aF",
         "BGB§1811@aF",
         "BGB§1848"
       ],
@@ -671,8 +698,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1812",
-        "BGB§1813"
+        "BGB§1812@unbestimmt",
+        "BGB§1813@unbestimmt"
       ],
       "path": [
         "Literatur",

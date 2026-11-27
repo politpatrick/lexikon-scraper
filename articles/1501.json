@@ -44,6 +44,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AufenthG",
       "id": "AufenthG§57",
       "label": "§ 57 AufenthG",
@@ -52,6 +53,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AufenthG",
       "id": "AufenthG§60",
       "label": "§ 60 AufenthG",
@@ -60,6 +62,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AufenthG",
       "id": "AufenthG§62d",
       "label": "§ 62d AufenthG",
@@ -68,14 +71,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.20",
       "label": "Art. 20 GG",
@@ -84,6 +89,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.6",
       "label": "Art. 6 GG",
@@ -92,6 +98,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwGO",
       "id": "VwGO§123",
       "label": "§ 123 VwGO",
@@ -125,7 +132,7 @@
         "OVG Nordrhein-Westfalen 18 A 2192/04"
       ],
       "norms": [
-        "BGB§1814",
+        "BGB§1814@unbestimmt",
         "GGArt.20",
         "VwGO§123",
         "GGArt.6",

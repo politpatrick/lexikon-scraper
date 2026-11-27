@@ -177,30 +177,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1816",
-      "label": "§ 1816 BGB",
+      "id": "BGB§1816@unbestimmt",
+      "label": "§ 1816 BGB (alte oder neue Fassung)",
       "nummer": "1816"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1897",
-      "label": "§ 1897 BGB",
+      "id": "BGB§1897@aF",
+      "label": "§ 1897 BGB a.F.",
       "nummer": "1897"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1908b",
-      "label": "§ 1908b BGB",
+      "id": "BGB§1908b@aF",
+      "label": "§ 1908b BGB a.F.",
       "nummer": "1908b"
     },
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.2",
       "label": "Art. 2 GG",
@@ -209,6 +213,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.6",
       "label": "Art. 6 GG",
@@ -229,7 +234,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1816"
+        "BGB§1816@unbestimmt"
       ],
       "path": [
         "Allgemeines"
@@ -242,8 +247,8 @@
       ],
       "norms": [
         "GGArt.6",
-        "BGB§1908b",
-        "BGB§1897",
+        "BGB§1908b@aF",
+        "BGB§1897@aF",
         "GGArt.2"
       ],
       "path": [
@@ -269,8 +274,8 @@
         "LG Passau 2 T 52/16"
       ],
       "norms": [
-        "BGB§1897",
-        "BGB§1908b",
+        "BGB§1897@aF",
+        "BGB§1908b@aF",
         "GGArt.6"
       ],
       "path": [
@@ -284,7 +289,7 @@
         "OLG Stuttgart 8 W 190/98"
       ],
       "norms": [
-        "BGB§1897"
+        "BGB§1897@aF"
       ],
       "path": [
         "Zur Betreuerbestellung von Verwandten von Heimmitarbeitern:"
@@ -302,7 +307,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1897"
+        "BGB§1897@aF"
       ],
       "path": [
         "Literatur"

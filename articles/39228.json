@@ -48,6 +48,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1358",
       "label": "§ 1358 BGB",
@@ -56,9 +57,10 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1828",
-      "label": "§ 1828 BGB",
+      "id": "BGB§1828@unbestimmt",
+      "label": "§ 1828 BGB (alte oder neue Fassung)",
       "nummer": "1828"
     }
   ],
@@ -84,7 +86,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1828",
+        "BGB§1828@unbestimmt",
         "BGB§1358"
       ],
       "path": [

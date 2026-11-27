@@ -42,6 +42,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGG",
       "id": "SGG§77",
       "label": "§ 77 SGG",
@@ -50,6 +51,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGG",
       "id": "SGG§86b",
       "label": "§ 86b SGG",

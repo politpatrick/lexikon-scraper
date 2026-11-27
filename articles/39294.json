@@ -66,6 +66,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.28",
       "label": "Art. 28 GG",
@@ -74,6 +75,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.3",
       "label": "Art. 3 GG",
@@ -82,6 +84,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.72",
       "label": "Art. 72 GG",
@@ -90,6 +93,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.74",
       "label": "Art. 74 GG",
@@ -98,6 +102,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.84",
       "label": "Art. 84 GG",
@@ -106,6 +111,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.91a",
       "label": "Art. 91a GG",
@@ -114,6 +120,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§105",
       "label": "§ 105 SGB V",
@@ -122,6 +129,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§135",
       "label": "§ 135 SGB V",
@@ -130,6 +138,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§95",
       "label": "§ 95 SGB V",

@@ -509,6 +509,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1358",
       "label": "§ 1358 BGB",
@@ -517,54 +518,61 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1806",
-      "label": "§ 1806 BGB",
+      "id": "BGB§1806@unbestimmt",
+      "label": "§ 1806 BGB (alte oder neue Fassung)",
       "nummer": "1806"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1831",
-      "label": "§ 1831 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
       "nummer": "1831"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1846",
-      "label": "§ 1846 BGB",
+      "id": "BGB§1846@unbestimmt",
+      "label": "§ 1846 BGB (alte oder neue Fassung)",
       "nummer": "1846"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1867",
       "label": "§ 1867 BGB",
       "nummer": "1867"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1904",
-      "label": "§ 1904 BGB",
+      "id": "BGB§1904@aF",
+      "label": "§ 1904 BGB a.F.",
       "nummer": "1904"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1906",
-      "label": "§ 1906 BGB",
+      "id": "BGB§1906@aF",
+      "label": "§ 1906 BGB a.F.",
       "nummer": "1906"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§823",
       "label": "§ 823 BGB",
@@ -573,6 +581,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§839",
       "label": "§ 839 BGB",
@@ -581,6 +590,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "FamFG",
+      "id": "FamFG§312",
+      "label": "§ 312 FamFG",
+      "nummer": "312"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§323",
       "label": "§ 323 FamFG",
@@ -589,6 +608,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.1",
       "label": "Art. 1 GG",
@@ -597,6 +617,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.104",
       "label": "Art. 104 GG",
@@ -605,6 +626,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.2",
       "label": "Art. 2 GG",
@@ -613,6 +635,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.34",
       "label": "Art. 34 GG",
@@ -621,6 +644,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§239",
       "label": "§ 239 StGB",
@@ -629,6 +653,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§34",
       "label": "§ 34 StGB",
@@ -637,6 +662,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§63",
       "label": "§ 63 StGB",
@@ -645,6 +671,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StVollzG",
       "id": "StVollzG§109",
       "label": "§ 109 StVollzG",
@@ -665,7 +692,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1831"
+        "BGB§1831@unbestimmt"
       ],
       "path": [
         "Voraussetzungen für unterbringungsähnliche Maßnahmen"
@@ -683,7 +710,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1831"
+        "BGB§1831@unbestimmt"
       ],
       "path": [
         "Zulässig ist dies nur zum Schutz des Betreuten vor Selbstgefährdung"
@@ -701,7 +728,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1831"
+        "BGB§1831@unbestimmt"
       ],
       "path": [
         "Soweit die genannten Maßnahmen über längere Zeit oder regelmäßig erfolgen"
@@ -711,7 +738,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1831",
+        "BGB§1831@unbestimmt",
+        "FamFG§312",
         "FamFG§323"
       ],
       "path": [
@@ -828,11 +856,11 @@
         "III ZR 113/18"
       ],
       "norms": [
-        "BGB§1904",
-        "BGB§1906",
+        "BGB§1904@aF",
+        "BGB§1906@aF",
         "GGArt.104",
-        "BGB§1806",
-        "BGB§1846",
+        "BGB§1806@unbestimmt",
+        "BGB§1846@unbestimmt",
         "StGB§239",
         "BGB§823",
         "StGB§34",
@@ -870,7 +898,7 @@
         "3Z BR 132/02"
       ],
       "norms": [
-        "BGB§1906"
+        "BGB§1906@aF"
       ],
       "path": [
         "Rechtsprechung zur Frage der Freiheitsentziehung in der eigenen Wohnung"
@@ -888,7 +916,7 @@
         "AG Auerbach 6 XVII 234/18"
       ],
       "norms": [
-        "BGB§1906",
+        "BGB§1906@aF",
         "GGArt.1"
       ],
       "path": [
@@ -935,7 +963,7 @@
         "LG Freiburg (Breisgau) 4 T 133/10"
       ],
       "norms": [
-        "BGB§1906"
+        "BGB§1906@aF"
       ],
       "path": [
         "Literatur",

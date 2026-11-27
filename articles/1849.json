@@ -52,14 +52,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BNotO",
       "id": "BNotO§78a",
       "label": "§ 78a BNotO",
@@ -68,6 +70,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BNotO",
       "id": "BNotO§78b",
       "label": "§ 78b BNotO",
@@ -81,7 +84,7 @@
       "decisions": [],
       "norms": [
         "BNotO§78a",
-        "BGB§1814"
+        "BGB§1814@unbestimmt"
       ],
       "path": [
         "Zentrales Vorsorgeregister der Bundesnotarkammer (BNotK)"

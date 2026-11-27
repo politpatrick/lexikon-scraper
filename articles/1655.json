@@ -162,30 +162,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1831",
-      "label": "§ 1831 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
       "nummer": "1831"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1905",
-      "label": "§ 1905 BGB",
+      "id": "BGB§1905@aF",
+      "label": "§ 1905 BGB a.F.",
       "nummer": "1905"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§69l",
       "label": "§ 69l FGG",
@@ -194,6 +198,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§309",
       "label": "§ 309 FamFG",
@@ -202,6 +207,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.28",
       "label": "Art. 28 GG",
@@ -210,6 +216,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.3",
       "label": "Art. 3 GG",
@@ -218,6 +225,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.38",
       "label": "Art. 38 GG",
@@ -226,6 +234,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IV",
       "id": "SGBIV§50",
       "label": "§ 50 SGB IV",
@@ -234,6 +243,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IV",
       "id": "SGBIV§51",
       "label": "§ 51 SGB IV",
@@ -242,6 +252,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§107a",
       "label": "§ 107a StGB",
@@ -250,6 +261,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§13",
       "label": "§ 13 StGB",
@@ -258,6 +270,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§20",
       "label": "§ 20 StGB",
@@ -266,6 +279,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§63",
       "label": "§ 63 StGB",
@@ -274,6 +288,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§64",
       "label": "§ 64 StGB",
@@ -282,6 +297,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§126a",
       "label": "§ 126a StPO",
@@ -382,8 +398,8 @@
         "3Z BR 178/96"
       ],
       "norms": [
-        "BGB§1905",
-        "BGB§1896",
+        "BGB§1905@aF",
+        "BGB§1896@aF",
         "FamFG§309",
         "StGB§63"
       ],
@@ -405,7 +421,7 @@
         "2 BvQ 22/19"
       ],
       "norms": [
-        "BGB§1896"
+        "BGB§1896@aF"
       ],
       "path": [
         "Wahlrecht in Deutschland",
@@ -420,7 +436,7 @@
         "StGB§63",
         "StGB§64",
         "StPO§126a",
-        "BGB§1831"
+        "BGB§1831@unbestimmt"
       ],
       "path": [
         "Wahlrecht in Deutschland",

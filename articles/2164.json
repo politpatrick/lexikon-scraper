@@ -92,22 +92,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1601",
       "label": "§ 1601 BGB",
       "nummer": "1601"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1836c",
-      "label": "§ 1836c BGB",
+      "id": "BGB§1836c@aF",
+      "label": "§ 1836c BGB a.F.",
       "nummer": "1836c"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1879",
       "label": "§ 1879 BGB",
@@ -116,6 +119,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1880",
       "label": "§ 1880 BGB",
@@ -124,6 +128,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1881",
       "label": "§ 1881 BGB",
@@ -132,6 +137,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§2311",
       "label": "§ 2311 BGB",
@@ -140,6 +146,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§277",
       "label": "§ 277 FamFG",
@@ -148,6 +155,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§292a",
       "label": "§ 292a FamFG",
@@ -156,6 +164,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB II",
       "id": "SGBII§12",
       "label": "§ 12 SGB II",
@@ -164,6 +173,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB IV",
       "id": "SGBIV§16",
       "label": "§ 16 SGB IV",
@@ -172,6 +182,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§102",
       "label": "§ 102 SGB XII",
@@ -180,6 +191,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§85",
       "label": "§ 85 SGB XII",
@@ -188,6 +200,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§90",
       "label": "§ 90 SGB XII",
@@ -196,6 +209,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§94",
       "label": "§ 94 SGB XII",
@@ -204,6 +218,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§5",
       "label": "§ 5 VBVG",
@@ -212,6 +227,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§850",
       "label": "§ 850 ZPO",
@@ -220,6 +236,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§850c",
       "label": "§ 850c ZPO",
@@ -228,6 +245,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§850k",
       "label": "§ 850k ZPO",
@@ -361,7 +379,7 @@
       "decisions": [],
       "norms": [
         "VBVG§5",
-        "BGB§1836c"
+        "BGB§1836c@aF"
       ],
       "path": [
         "Siehe auch",

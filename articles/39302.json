@@ -26,9 +26,10 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1820",
-      "label": "§ 1820 BGB",
+      "id": "BGB§1820@unbestimmt",
+      "label": "§ 1820 BGB (alte oder neue Fassung)",
       "nummer": "1820"
     }
   ],
@@ -38,7 +39,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1820"
+        "BGB§1820@unbestimmt"
       ],
       "path": [
         "Allgemeines"

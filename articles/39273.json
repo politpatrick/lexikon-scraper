@@ -50,6 +50,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§274",
       "label": "§ 274 BGB",
@@ -58,6 +59,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§293",
       "label": "§ 293 BGB",
@@ -66,6 +68,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§320",
       "label": "§ 320 BGB",
@@ -74,6 +77,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§322",
       "label": "§ 322 BGB",
@@ -82,6 +86,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§275",
       "label": "§ 275 SGB V",
@@ -90,6 +95,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§115",
       "label": "§ 115 SGB XI",
@@ -98,6 +104,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§43b",
       "label": "§ 43b SGB XI",

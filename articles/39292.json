@@ -51,6 +51,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§1",
       "label": "§ 1 GVG",
@@ -59,6 +60,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§12",
       "label": "§ 12 GVG",
@@ -67,6 +69,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§13",
       "label": "§ 13 GVG",
@@ -75,6 +78,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§16",
       "label": "§ 16 GVG",
@@ -83,6 +87,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§17",
       "label": "§ 17 GVG",
@@ -91,6 +96,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GVG",
       "id": "GVG§17a",
       "label": "§ 17a GVG",

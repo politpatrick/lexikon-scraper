@@ -196,30 +196,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1850",
-      "label": "§ 1850 BGB",
+      "id": "BGB§1850@unbestimmt",
+      "label": "§ 1850 BGB (alte oder neue Fassung)",
       "nummer": "1850"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1858",
       "label": "§ 1858 BGB",
       "nummer": "1858"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901",
-      "label": "§ 1901 BGB",
+      "id": "BGB§1901@aF",
+      "label": "§ 1901 BGB a.F.",
       "nummer": "1901"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§311b",
       "label": "§ 311b BGB",
@@ -228,6 +232,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§873",
       "label": "§ 873 BGB",
@@ -236,6 +241,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§892",
       "label": "§ 892 BGB",
@@ -244,6 +250,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§902",
       "label": "§ 902 BGB",
@@ -252,6 +259,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§985",
       "label": "§ 985 BGB",
@@ -260,6 +268,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§987",
       "label": "§ 987 BGB",
@@ -268,6 +277,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§67",
       "label": "§ 67 FGG",
@@ -276,6 +286,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§276",
       "label": "§ 276 FamFG",
@@ -284,6 +295,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§40",
       "label": "§ 40 FamFG",
@@ -292,6 +304,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GBO",
       "id": "GBO§29",
       "label": "§ 29 GBO",
@@ -300,6 +313,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GBO",
       "id": "GBO§3",
       "label": "§ 3 GBO",
@@ -308,6 +322,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GNotKG",
       "id": "GNotKG§60",
       "label": "§ 60 GNotKG",
@@ -316,6 +331,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§90",
       "label": "§ 90 SGB XII",
@@ -360,7 +376,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1850"
+        "BGB§1850@unbestimmt"
       ],
       "path": [
         "Grundverkäufe"
@@ -393,7 +409,7 @@
       "norms": [
         "BGB§985",
         "BGB§987",
-        "BGB§1901",
+        "BGB§1901@aF",
         "FGG§67",
         "FamFG§276",
         "GBO§29",
@@ -431,7 +447,7 @@
       "decisions": [],
       "norms": [
         "BGB§311b",
-        "BGB§1850",
+        "BGB§1850@unbestimmt",
         "BGB§1858",
         "FamFG§40"
       ],
@@ -490,7 +506,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1850"
+        "BGB§1850@unbestimmt"
       ],
       "path": [
         "Videos und Podcasts"
@@ -500,7 +516,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1850"
+        "BGB§1850@unbestimmt"
       ],
       "path": [
         "Literatur"

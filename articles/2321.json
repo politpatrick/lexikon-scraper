@@ -82,6 +82,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AO",
       "id": "AO§154",
       "label": "§ 154 AO",
@@ -90,6 +91,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§131",
       "label": "§ 131 BGB",
@@ -98,6 +100,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1812@aF",
       "label": "§ 1812 BGB a.F.",
@@ -106,6 +109,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1839",
       "label": "§ 1839 BGB",
@@ -114,6 +118,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1840",
       "label": "§ 1840 BGB",
@@ -122,6 +127,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1846",
       "label": "§ 1846 BGB",
@@ -130,6 +136,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1849",
       "label": "§ 1849 BGB",
@@ -138,14 +145,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1849@unbestimmt",
+      "label": "§ 1849 BGB (alte oder neue Fassung)",
+      "nummer": "1849"
+    },
+    {
+      "alte_fassung": true,
+      "einheit": "§",
+      "fassung": "alt",
+      "gesetz": "BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§676b",
       "label": "§ 676b BGB",
@@ -154,6 +172,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§290",
       "label": "§ 290 FamFG",
@@ -189,7 +208,7 @@
       "norms": [
         "FamFG§290",
         "AO§154",
-        "BGB§1896"
+        "BGB§1896@aF"
       ],
       "path": [
         "Kontoeröffnung/Legitimationspflichten"
@@ -202,7 +221,7 @@
         "XI ZR 184/09"
       ],
       "norms": [
-        "BGB§1849"
+        "BGB§1849@unbestimmt"
       ],
       "path": [
         "Laufende Bankgeschäfte"

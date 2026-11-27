@@ -109,6 +109,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1357",
       "label": "§ 1357 BGB",
@@ -117,6 +118,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1358",
       "label": "§ 1358 BGB",
@@ -125,6 +127,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1567",
       "label": "§ 1567 BGB",
@@ -133,6 +136,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1629",
       "label": "§ 1629 BGB",
@@ -141,14 +145,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1815",
       "label": "§ 1815 BGB",
@@ -157,14 +163,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1816",
-      "label": "§ 1816 BGB",
+      "id": "BGB§1816@unbestimmt",
+      "label": "§ 1816 BGB (alte oder neue Fassung)",
       "nummer": "1816"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1821",
       "label": "§ 1821 BGB",
@@ -173,38 +181,52 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1823",
-      "label": "§ 1823 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
+      "nummer": "1821"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
       "nummer": "1823"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1827",
-      "label": "§ 1827 BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
       "nummer": "1827"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1828",
-      "label": "§ 1828 BGB",
+      "id": "BGB§1828@unbestimmt",
+      "label": "§ 1828 BGB (alte oder neue Fassung)",
       "nummer": "1828"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1829",
-      "label": "§ 1829 BGB",
+      "id": "BGB§1829@unbestimmt",
+      "label": "§ 1829 BGB (alte oder neue Fassung)",
       "nummer": "1829"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1831",
       "label": "§ 1831 BGB",
@@ -213,6 +235,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
+      "nummer": "1831"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1867",
       "label": "§ 1867 BGB",
@@ -221,6 +253,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§187",
       "label": "§ 187 BGB",
@@ -229,6 +262,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "EGBGB",
       "id": "EGBGBArt.15",
       "label": "Art. 15 EGBGB",
@@ -237,6 +271,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§272",
       "label": "§ 272 FamFG",
@@ -245,6 +280,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -253,6 +289,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§313",
       "label": "§ 313 FamFG",
@@ -261,6 +298,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§333",
       "label": "§ 333 FamFG",
@@ -269,6 +307,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§203",
       "label": "§ 203 StGB",
@@ -300,7 +339,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1814"
+        "BGB§1814@unbestimmt"
       ],
       "path": [
         "Individuelle Regelungen"
@@ -319,11 +358,11 @@
       "decisions": [],
       "norms": [
         "BGB§1358",
-        "BGB§1831",
-        "BGB§1821",
-        "BGB§1827",
-        "BGB§1828",
-        "BGB§1829"
+        "BGB§1831@unbestimmt",
+        "BGB§1821@unbestimmt",
+        "BGB§1827@unbestimmt",
+        "BGB§1828@unbestimmt",
+        "BGB§1829@unbestimmt"
       ],
       "path": [
         "Die ab 1.1.2023 geltende Regelungen"
@@ -334,9 +373,9 @@
       "decisions": [],
       "norms": [
         "BGB§1358",
-        "BGB§1823",
-        "BGB§1827",
-        "BGB§1829",
+        "BGB§1823@unbestimmt",
+        "BGB§1827@unbestimmt",
+        "BGB§1829@unbestimmt",
         "StGB§203"
       ],
       "path": [
@@ -364,7 +403,7 @@
       "norms": [
         "BGB§1358",
         "BGB§187",
-        "BGB§1816",
+        "BGB§1816@unbestimmt",
         "FamFG§287"
       ],
       "path": [
@@ -377,8 +416,8 @@
       "decisions": [],
       "norms": [
         "BGB§1821",
-        "BGB§1827",
-        "BGB§1828"
+        "BGB§1827@unbestimmt",
+        "BGB§1828@unbestimmt"
       ],
       "path": [
         "Erläuterungen",
@@ -389,8 +428,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1829",
-        "BGB§1831"
+        "BGB§1829@unbestimmt",
+        "BGB§1831@unbestimmt"
       ],
       "path": [
         "Erläuterungen",

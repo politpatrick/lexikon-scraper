@@ -53,6 +53,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§105",
       "label": "§ 105 BGB",
@@ -61,6 +62,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§105a",
       "label": "§ 105a BGB",
@@ -69,6 +71,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§706",
       "label": "§ 706 BGB",
@@ -77,6 +80,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§740",
       "label": "§ 740 BGB",

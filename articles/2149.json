@@ -292,6 +292,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1812@aF",
       "label": "§ 1812 BGB a.F.",
@@ -300,14 +301,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1823",
-      "label": "§ 1823 BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
       "nummer": "1823"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1825",
       "label": "§ 1825 BGB",
@@ -316,6 +319,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1854",
       "label": "§ 1854 BGB",
@@ -324,6 +328,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1903@aF",
       "label": "§ 1903 BGB a.F.",
@@ -332,6 +337,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§1",
       "label": "§ 1 BRAO",
@@ -340,6 +346,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§22a",
       "label": "§ 22a FamFG",
@@ -348,6 +355,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§13",
       "label": "§ 13 InsO",
@@ -356,6 +364,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§287",
       "label": "§ 287 InsO",
@@ -364,6 +373,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§300",
       "label": "§ 300 InsO",
@@ -372,6 +382,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§301",
       "label": "§ 301 InsO",
@@ -380,6 +391,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§305",
       "label": "§ 305 InsO",
@@ -388,6 +400,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§335",
       "label": "§ 335 InsO",
@@ -396,6 +409,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§343",
       "label": "§ 343 InsO",
@@ -404,6 +418,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "InsO",
       "id": "InsO§4",
       "label": "§ 4 InsO",
@@ -412,6 +427,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§27b",
       "label": "§ 27b SGB XII",
@@ -420,6 +436,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§170",
       "label": "§ 170 ZPO",
@@ -428,6 +445,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§455",
       "label": "§ 455 ZPO",
@@ -436,6 +454,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§51",
       "label": "§ 51 ZPO",
@@ -444,6 +463,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§53",
       "label": "§ 53 ZPO",
@@ -452,6 +472,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§56",
       "label": "§ 56 ZPO",
@@ -460,6 +481,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§57",
       "label": "§ 57 ZPO",
@@ -468,6 +490,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§579",
       "label": "§ 579 ZPO",
@@ -476,6 +499,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§586",
       "label": "§ 586 ZPO",
@@ -484,6 +508,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§757a",
       "label": "§ 757a ZPO",
@@ -492,6 +517,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§758",
       "label": "§ 758 ZPO",
@@ -500,6 +526,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§758a",
       "label": "§ 758a ZPO",
@@ -508,6 +535,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§802c",
       "label": "§ 802c ZPO",
@@ -516,6 +544,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§802f",
       "label": "§ 802f ZPO",
@@ -524,6 +553,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§807",
       "label": "§ 807 ZPO",
@@ -532,6 +562,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§820b",
       "label": "§ 820b ZPO",
@@ -540,6 +571,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§851",
       "label": "§ 851 ZPO",
@@ -548,6 +580,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§888",
       "label": "§ 888 ZPO",
@@ -575,7 +608,7 @@
       "norms": [
         "ZPO§51",
         "ZPO§53",
-        "BGB§1823",
+        "BGB§1823@unbestimmt",
         "ZPO§170",
         "ZPO§579",
         "ZPO§586",

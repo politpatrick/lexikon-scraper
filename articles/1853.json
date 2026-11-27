@@ -80,30 +80,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1818",
-      "label": "§ 1818 BGB",
+      "id": "BGB§1818@unbestimmt",
+      "label": "§ 1818 BGB (alte oder neue Fassung)",
       "nummer": "1818"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1819",
-      "label": "§ 1819 BGB",
+      "id": "BGB§1819@unbestimmt",
+      "label": "§ 1819 BGB (alte oder neue Fassung)",
       "nummer": "1819"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1836",
-      "label": "§ 1836 BGB",
+      "id": "BGB§1836@unbestimmt",
+      "label": "§ 1836 BGB (alte oder neue Fassung)",
       "nummer": "1836"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1859",
       "label": "§ 1859 BGB",
@@ -112,6 +116,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1862",
       "label": "§ 1862 BGB",
@@ -120,6 +125,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1865",
       "label": "§ 1865 BGB",
@@ -128,6 +134,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1868",
       "label": "§ 1868 BGB",
@@ -136,6 +143,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1877",
       "label": "§ 1877 BGB",
@@ -144,6 +152,7 @@
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "VBVG",
       "id": "VBVG§14@aF",
       "label": "§ 14 VBVG a.F.",
@@ -152,6 +161,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§8",
       "label": "§ 8 VBVG",
@@ -172,7 +182,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1819",
+        "BGB§1819@unbestimmt",
         "BGB§1859",
         "BGB§1865",
         "BGB§1862"
@@ -201,7 +211,7 @@
       "norms": [
         "VBVG§14@aF",
         "VBVG§8",
-        "BGB§1836"
+        "BGB§1836@unbestimmt"
       ],
       "path": [
         "Bestellung zum Behördenbetreuer",
@@ -224,7 +234,7 @@
       "norms": [
         "VBVG§14@aF",
         "BGB§1877",
-        "BGB§1818"
+        "BGB§1818@unbestimmt"
       ],
       "path": [
         "Disziplinarische Rechtsprechung bei Behördenbetreuern",

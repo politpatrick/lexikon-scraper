@@ -183,6 +183,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§105a",
       "label": "§ 105a BGB",

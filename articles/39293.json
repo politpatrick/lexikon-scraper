@@ -57,6 +57,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§275",
       "label": "§ 275 SGB V",
@@ -65,6 +66,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§278",
       "label": "§ 278 SGB V",
@@ -73,6 +75,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§283a",
       "label": "§ 283a SGB V",
@@ -81,6 +84,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§41",
       "label": "§ 41 SGB XI",
@@ -89,6 +93,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§42",
       "label": "§ 42 SGB XI",
@@ -97,6 +102,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§8",
       "label": "§ 8 SGB XI",

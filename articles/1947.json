@@ -731,6 +731,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1814",
       "label": "§ 1814 BGB",
@@ -739,6 +740,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
+      "nummer": "1814"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1816",
       "label": "§ 1816 BGB",
@@ -747,6 +758,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1823",
       "label": "§ 1823 BGB",
@@ -755,62 +767,79 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1835",
-      "label": "§ 1835 BGB",
+      "id": "BGB§1823@unbestimmt",
+      "label": "§ 1823 BGB (alte oder neue Fassung)",
+      "nummer": "1823"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1835@unbestimmt",
+      "label": "§ 1835 BGB (alte oder neue Fassung)",
       "nummer": "1835"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1836",
-      "label": "§ 1836 BGB",
+      "id": "BGB§1836@unbestimmt",
+      "label": "§ 1836 BGB (alte oder neue Fassung)",
       "nummer": "1836"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1897",
-      "label": "§ 1897 BGB",
+      "id": "BGB§1897@aF",
+      "label": "§ 1897 BGB a.F.",
       "nummer": "1897"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901",
-      "label": "§ 1901 BGB",
+      "id": "BGB§1901@aF",
+      "label": "§ 1901 BGB a.F.",
       "nummer": "1901"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1902",
-      "label": "§ 1902 BGB",
+      "id": "BGB§1902@aF",
+      "label": "§ 1902 BGB a.F.",
       "nummer": "1902"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1903",
-      "label": "§ 1903 BGB",
+      "id": "BGB§1903@aF",
+      "label": "§ 1903 BGB a.F.",
       "nummer": "1903"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§43a",
       "label": "§ 43a BRAO",
@@ -819,6 +848,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§45",
       "label": "§ 45 BRAO",
@@ -827,6 +857,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§13",
       "label": "§ 13 FamFG",
@@ -835,6 +866,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§277",
       "label": "§ 277 FamFG",
@@ -843,6 +875,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.103",
       "label": "Art. 103 GG",
@@ -851,6 +884,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.19",
       "label": "Art. 19 GG",
@@ -859,6 +893,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§1",
       "label": "§ 1 JVEG",
@@ -867,6 +902,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "JVEG",
       "id": "JVEG§19",
       "label": "§ 19 JVEG",
@@ -875,6 +911,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§11",
       "label": "§ 11 StGB",
@@ -883,6 +920,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§20",
       "label": "§ 20 StGB",
@@ -891,6 +929,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§21",
       "label": "§ 21 StGB",
@@ -899,6 +938,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§247",
       "label": "§ 247 StGB",
@@ -907,6 +947,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§25",
       "label": "§ 25 StGB",
@@ -915,6 +956,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§26",
       "label": "§ 26 StGB",
@@ -923,6 +965,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§263",
       "label": "§ 263 StGB",
@@ -931,6 +974,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§266",
       "label": "§ 266 StGB",
@@ -939,6 +983,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§29",
       "label": "§ 29 StGB",
@@ -947,6 +992,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§56c",
       "label": "§ 56c StGB",
@@ -955,6 +1001,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§57",
       "label": "§ 57 StGB",
@@ -963,6 +1010,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§61",
       "label": "§ 61 StGB",
@@ -971,6 +1019,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§63",
       "label": "§ 63 StGB",
@@ -979,6 +1028,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§64",
       "label": "§ 64 StGB",
@@ -987,6 +1037,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§67b",
       "label": "§ 67b StGB",
@@ -995,6 +1046,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§71",
       "label": "§ 71 StGB",
@@ -1003,6 +1055,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§77",
       "label": "§ 77 StGB",
@@ -1011,6 +1064,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§136",
       "label": "§ 136 StPO",
@@ -1019,6 +1073,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§137",
       "label": "§ 137 StPO",
@@ -1027,6 +1082,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§140",
       "label": "§ 140 StPO",
@@ -1035,6 +1091,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§141",
       "label": "§ 141 StPO",
@@ -1043,6 +1100,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§149",
       "label": "§ 149 StPO",
@@ -1051,6 +1109,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§206a",
       "label": "§ 206a StPO",
@@ -1059,6 +1118,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§244",
       "label": "§ 244 StPO",
@@ -1067,6 +1127,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§247",
       "label": "§ 247 StPO",
@@ -1075,6 +1136,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§296",
       "label": "§ 296 StPO",
@@ -1083,6 +1145,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§298",
       "label": "§ 298 StPO",
@@ -1091,6 +1154,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§302",
       "label": "§ 302 StPO",
@@ -1099,6 +1163,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§311",
       "label": "§ 311 StPO",
@@ -1107,6 +1172,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§314",
       "label": "§ 314 StPO",
@@ -1115,6 +1181,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§349",
       "label": "§ 349 StPO",
@@ -1123,6 +1190,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§359",
       "label": "§ 359 StPO",
@@ -1131,6 +1199,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "StPO",
+      "id": "StPO§403",
+      "label": "§ 403 StPO",
+      "nummer": "403"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§410",
       "label": "§ 410 StPO",
@@ -1139,6 +1217,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§413",
       "label": "§ 413 StPO",
@@ -1147,6 +1226,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§416",
       "label": "§ 416 StPO",
@@ -1155,6 +1235,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§44",
       "label": "§ 44 StPO",
@@ -1163,6 +1244,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§45",
       "label": "§ 45 StPO",
@@ -1171,6 +1253,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§455",
       "label": "§ 455 StPO",
@@ -1179,6 +1262,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§46",
       "label": "§ 46 StPO",
@@ -1187,6 +1271,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§52",
       "label": "§ 52 StPO",
@@ -1195,6 +1280,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§53",
       "label": "§ 53 StPO",
@@ -1203,6 +1289,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§71",
       "label": "§ 71 StPO",
@@ -1211,6 +1298,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§1",
       "label": "§ 1 VBVG",
@@ -1219,6 +1307,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§4",
       "label": "§ 4 VBVG",
@@ -1227,6 +1316,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§51",
       "label": "§ 51 ZPO",
@@ -1235,6 +1325,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§53",
       "label": "§ 53 ZPO",
@@ -1251,7 +1342,7 @@
         "StGB§21",
         "StPO§413",
         "StPO§140",
-        "BGB§1823",
+        "BGB§1823@unbestimmt",
         "StPO§137",
         "StPO§149",
         "StPO§298",
@@ -1295,7 +1386,7 @@
         "OLG München 2 Ws 192/22"
       ],
       "norms": [
-        "BGB§1814"
+        "BGB§1814@unbestimmt"
       ],
       "path": [
         "Allgemeines",
@@ -1354,7 +1445,7 @@
       "norms": [
         "StPO§149",
         "StPO§136",
-        "BGB§1902",
+        "BGB§1902@aF",
         "StPO§298",
         "StGB§11",
         "StPO§296",
@@ -1380,11 +1471,11 @@
       ],
       "norms": [
         "StPO§149",
-        "BGB§1896",
-        "BGB§1902",
+        "BGB§1896@aF",
+        "BGB§1902@aF",
         "ZPO§51",
         "ZPO§53",
-        "BGB§1903",
+        "BGB§1903@aF",
         "StPO§298"
       ],
       "path": [
@@ -1416,7 +1507,9 @@
         "OLG Düsseldorf 4 Ws 230/92",
         "OLG Brandenburg 1 Ws 242/08"
       ],
-      "norms": [],
+      "norms": [
+        "BGB§1896@aF"
+      ],
       "path": [
         "Allgemeines",
         "Bekanntgabe von Urteilen an Betreute"
@@ -1447,13 +1540,13 @@
         "(5) 1 Ss 475/04 (73/04)"
       ],
       "norms": [
-        "BGB§1896",
+        "BGB§1896@aF",
         "StPO§149",
         "StGB§57",
         "ZPO§51",
         "ZPO§53",
-        "BGB§1902",
-        "BGB§1903",
+        "BGB§1902@aF",
+        "BGB§1903@aF",
         "BGB§1823"
       ],
       "path": [
@@ -1545,9 +1638,10 @@
         "StGB§247",
         "BGB§1814",
         "StGB§266",
-        "BGB§1901",
+        "BGB§1901@aF",
+        "StPO§403",
         "BRAO§43a",
-        "BGB§1896"
+        "BGB§1896@aF"
       ],
       "path": [
         "Allgemeines",
@@ -1564,7 +1658,7 @@
         "StPO§52",
         "StPO§247",
         "BGB§1816",
-        "BGB§1897"
+        "BGB§1897@aF"
       ],
       "path": [
         "Allgemeines",
@@ -1591,12 +1685,12 @@
         "StGB§63",
         "StGB§67b",
         "StPO§244",
-        "BGB§1836",
+        "BGB§1836@unbestimmt",
         "VBVG§1",
         "VBVG§4",
         "FamFG§277",
         "StPO§149",
-        "BGB§1835",
+        "BGB§1835@unbestimmt",
         "BRAO§45",
         "StPO§71",
         "JVEG§1",

@@ -154,22 +154,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1848",
-      "label": "§ 1848 BGB",
+      "id": "BGB§1848@unbestimmt",
+      "label": "§ 1848 BGB (alte oder neue Fassung)",
       "nummer": "1848"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1849",
-      "label": "§ 1849 BGB",
+      "id": "BGB§1849@unbestimmt",
+      "label": "§ 1849 BGB (alte oder neue Fassung)",
       "nummer": "1849"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1880",
       "label": "§ 1880 BGB",
@@ -178,6 +181,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1881",
       "label": "§ 1881 BGB",
@@ -186,6 +190,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BSHG",
       "id": "BSHG§15",
       "label": "§ 15 BSHG",
@@ -194,6 +199,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.14",
       "label": "Art. 14 GG",
@@ -202,6 +208,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§27b",
       "label": "§ 27b SGB XII",
@@ -210,6 +217,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§33",
       "label": "§ 33 SGB XII",
@@ -218,6 +226,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§74",
       "label": "§ 74 SGB XII",
@@ -226,6 +235,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§90",
       "label": "§ 90 SGB XII",
@@ -246,8 +256,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1849",
-        "BGB§1848"
+        "BGB§1849@unbestimmt",
+        "BGB§1848@unbestimmt"
       ],
       "path": [
         "Bestattungs- und Grabpflegeverträge"

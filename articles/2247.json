@@ -56,6 +56,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -64,14 +65,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1814",
-      "label": "§ 1814 BGB",
+      "id": "BGB§1814@unbestimmt",
+      "label": "§ 1814 BGB (alte oder neue Fassung)",
       "nummer": "1814"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§170",
       "label": "§ 170 ZPO",
@@ -80,6 +83,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§579",
       "label": "§ 579 ZPO",
@@ -88,6 +92,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§584",
       "label": "§ 584 ZPO",
@@ -96,6 +101,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§586",
       "label": "§ 586 ZPO",
@@ -121,7 +127,7 @@
         "ZPO§579",
         "ZPO§586",
         "ZPO§584",
-        "BGB§1814"
+        "BGB§1814@unbestimmt"
       ],
       "path": [
         "Besonderheiten für Betreuer"

@@ -171,6 +171,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AMG",
       "id": "AMG§40",
       "label": "§ 40 AMG",
@@ -179,6 +180,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "AMG",
       "id": "AMG§41",
       "label": "§ 41 AMG",
@@ -187,78 +189,97 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1827",
-      "label": "§ 1827 BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
       "nummer": "1827"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1828",
-      "label": "§ 1828 BGB",
+      "id": "BGB§1828@unbestimmt",
+      "label": "§ 1828 BGB (alte oder neue Fassung)",
       "nummer": "1828"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1829",
-      "label": "§ 1829 BGB",
+      "id": "BGB§1829@unbestimmt",
+      "label": "§ 1829 BGB (alte oder neue Fassung)",
       "nummer": "1829"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1831",
-      "label": "§ 1831 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
       "nummer": "1831"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1832",
-      "label": "§ 1832 BGB",
+      "id": "BGB§1832@unbestimmt",
+      "label": "§ 1832 BGB (alte oder neue Fassung)",
       "nummer": "1832"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901",
-      "label": "§ 1901 BGB",
+      "id": "BGB§1901@aF",
+      "label": "§ 1901 BGB a.F.",
       "nummer": "1901"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1904",
-      "label": "§ 1904 BGB",
+      "id": "BGB§1904@aF",
+      "label": "§ 1904 BGB a.F.",
       "nummer": "1904"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1906",
-      "label": "§ 1906 BGB",
+      "id": "BGB§1906@aF",
+      "label": "§ 1906 BGB a.F.",
       "nummer": "1906"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "BGB",
+      "id": "BGB§630a",
+      "label": "§ 630a BGB",
+      "nummer": "630a"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630d",
       "label": "§ 630d BGB",
@@ -267,6 +288,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§630e",
       "label": "§ 630e BGB",
@@ -275,6 +297,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§823",
       "label": "§ 823 BGB",
@@ -283,6 +306,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§203",
       "label": "§ 203 StGB",
@@ -291,6 +315,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§218",
       "label": "§ 218 StGB",
@@ -299,6 +324,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§223",
       "label": "§ 223 StGB",
@@ -307,6 +333,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StGB",
       "id": "StGB§228",
       "label": "§ 228 StGB",
@@ -326,7 +353,9 @@
     },
     {
       "decisions": [],
-      "norms": [],
+      "norms": [
+        "BGB§630a"
+      ],
       "path": [
         "Allgemeines",
         "Allgemeine zivilrechtliche Fragen"
@@ -361,8 +390,8 @@
       "norms": [
         "StGB§228",
         "BGB§630d",
-        "BGB§1827",
-        "BGB§1828"
+        "BGB§1827@unbestimmt",
+        "BGB§1828@unbestimmt"
       ],
       "path": [
         "Allgemeines",
@@ -464,7 +493,7 @@
       ],
       "norms": [
         "StGB§203",
-        "BGB§1829"
+        "BGB§1829@unbestimmt"
       ],
       "path": [
         "Allgemeines",
@@ -494,7 +523,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1829"
+        "BGB§1829@unbestimmt"
       ],
       "path": [
         "Allgemeines",
@@ -534,8 +563,8 @@
       ],
       "norms": [
         "StGB§218",
-        "BGB§1901",
-        "BGB§1829"
+        "BGB§1901@aF",
+        "BGB§1829@unbestimmt"
       ],
       "path": [
         "Allgemeines",
@@ -547,7 +576,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1821"
+        "BGB§1821@unbestimmt"
       ],
       "path": [
         "Allgemeines",
@@ -562,9 +591,9 @@
         "XII ZB 225/09"
       ],
       "norms": [
-        "BGB§1831",
-        "BGB§1829",
-        "BGB§1832"
+        "BGB§1831@unbestimmt",
+        "BGB§1829@unbestimmt",
+        "BGB§1832@unbestimmt"
       ],
       "path": [
         "Allgemeines",
@@ -634,8 +663,8 @@
         "XII ZB 2/03"
       ],
       "norms": [
-        "BGB§1904",
-        "BGB§1906"
+        "BGB§1904@aF",
+        "BGB§1906@aF"
       ],
       "path": [
         "Literatur",

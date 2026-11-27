@@ -51,6 +51,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§22",
       "label": "§ 22 BtOG",

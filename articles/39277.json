@@ -53,6 +53,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§31a",
       "label": "§ 31a SGB V",
@@ -61,6 +62,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§342",
       "label": "§ 342 SGB V",
@@ -69,6 +71,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§353",
       "label": "§ 353 SGB V",
@@ -77,6 +80,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§358",
       "label": "§ 358 SGB V",
@@ -85,6 +89,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§360",
       "label": "§ 360 SGB V",
@@ -93,6 +98,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§361",
       "label": "§ 361 SGB V",
@@ -101,6 +107,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§361a",
       "label": "§ 361a SGB V",
@@ -109,6 +116,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§361b",
       "label": "§ 361b SGB V",

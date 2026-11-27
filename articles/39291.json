@@ -51,6 +51,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§133",
       "label": "§ 133 BGB",
@@ -59,14 +60,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.19",
       "label": "Art. 19 GG",
@@ -75,6 +78,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.33",
       "label": "Art. 33 GG",
@@ -83,6 +87,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StPO",
       "id": "StPO§24",
       "label": "§ 24 StPO",
@@ -91,6 +96,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "StVollzG",
       "id": "StVollzG§26",
       "label": "§ 26 StVollzG",
@@ -111,7 +117,7 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1821",
+        "BGB§1821@unbestimmt",
         "BGB§133",
         "StPO§24"
       ],

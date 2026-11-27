@@ -58,22 +58,25 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1827",
-      "label": "§ 1827 BGB",
+      "id": "BGB§1827@unbestimmt",
+      "label": "§ 1827 BGB (alte oder neue Fassung)",
       "nummer": "1827"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1828",
-      "label": "§ 1828 BGB",
+      "id": "BGB§1828@unbestimmt",
+      "label": "§ 1828 BGB (alte oder neue Fassung)",
       "nummer": "1828"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB V",
       "id": "SGBV§132g",
       "label": "§ 132g SGB V",
@@ -82,6 +85,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XII",
       "id": "SGBXII§75",
       "label": "§ 75 SGB XII",
@@ -90,6 +94,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB XI",
       "id": "SGBXI§43",
       "label": "§ 43 SGB XI",
@@ -124,8 +129,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1827",
-        "BGB§1828"
+        "BGB§1827@unbestimmt",
+        "BGB§1828@unbestimmt"
       ],
       "path": [
         "Bedeutung für Rechtliche Betreuer"

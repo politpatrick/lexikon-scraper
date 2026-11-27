@@ -350,6 +350,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§134",
       "label": "§ 134 BGB",
@@ -358,6 +359,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§138",
       "label": "§ 138 BGB",
@@ -366,22 +368,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1833",
-      "label": "§ 1833 BGB",
+      "id": "BGB§1833@unbestimmt",
+      "label": "§ 1833 BGB (alte oder neue Fassung)",
       "nummer": "1833"
-    },
-    {
-      "alte_fassung": false,
-      "einheit": "§",
-      "gesetz": "BGB",
-      "id": "BGB§1835",
-      "label": "§ 1835 BGB",
-      "nummer": "1835"
     },
     {
       "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
       "id": "BGB§1835@aF",
       "label": "§ 1835 BGB a.F.",
@@ -390,22 +386,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
+      "gesetz": "BGB",
+      "id": "BGB§1835@unbestimmt",
+      "label": "§ 1835 BGB (alte oder neue Fassung)",
+      "nummer": "1835"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1877",
       "label": "§ 1877 BGB",
       "nummer": "1877"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1906",
-      "label": "§ 1906 BGB",
+      "id": "BGB§1906@aF",
+      "label": "§ 1906 BGB a.F.",
       "nummer": "1906"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§276",
       "label": "§ 276 BGB",
@@ -414,6 +422,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§675",
       "label": "§ 675 BGB",
@@ -422,6 +431,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§14",
       "label": "§ 14 BRAO",
@@ -430,6 +440,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§3",
       "label": "§ 3 BRAO",
@@ -438,6 +449,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§43a",
       "label": "§ 43a BRAO",
@@ -446,6 +458,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§45",
       "label": "§ 45 BRAO",
@@ -454,6 +467,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BRAO",
       "id": "BRAO§51",
       "label": "§ 51 BRAO",
@@ -462,6 +476,16 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
+      "gesetz": "BtOG",
+      "id": "BtOG§23",
+      "label": "§ 23 BtOG",
+      "nummer": "23"
+    },
+    {
+      "alte_fassung": false,
+      "einheit": "§",
+      "fassung": null,
       "gesetz": "EStG",
       "id": "EStG§18",
       "label": "§ 18 EStG",
@@ -470,6 +494,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FGG",
       "id": "FGG§66",
       "label": "§ 66 FGG",
@@ -478,6 +503,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§10",
       "label": "§ 10 FamFG",
@@ -486,6 +512,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§11",
       "label": "§ 11 FamFG",
@@ -494,6 +521,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§14b",
       "label": "§ 14b FamFG",
@@ -502,6 +530,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§23",
       "label": "§ 23 FamFG",
@@ -510,6 +539,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§275",
       "label": "§ 275 FamFG",
@@ -518,6 +548,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§276",
       "label": "§ 276 FamFG",
@@ -526,6 +557,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§277",
       "label": "§ 277 FamFG",
@@ -534,6 +566,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§286",
       "label": "§ 286 FamFG",
@@ -542,6 +575,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§316",
       "label": "§ 316 FamFG",
@@ -550,6 +584,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§317",
       "label": "§ 317 FamFG",
@@ -558,6 +593,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§64",
       "label": "§ 64 FamFG",
@@ -566,6 +602,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "RVG",
       "id": "RVG§15",
       "label": "§ 15 RVG",
@@ -574,6 +611,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "RVG",
       "id": "RVG§49",
       "label": "§ 49 RVG",
@@ -582,6 +620,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VBVG",
       "id": "VBVG§11",
       "label": "§ 11 VBVG",
@@ -649,8 +688,8 @@
         "FamFG§277",
         "BGB§1877",
         "BGB§1835@aF",
-        "BGB§1835",
-        "BGB§1906",
+        "BGB§1835@unbestimmt",
+        "BGB§1906@aF",
         "RVG§15",
         "RVG§49"
       ],
@@ -675,9 +714,10 @@
       "norms": [
         "BRAO§14",
         "FamFG§286",
+        "BtOG§23",
         "VBVG§11",
         "BGB§1877",
-        "BGB§1835",
+        "BGB§1835@unbestimmt",
         "BRAO§45",
         "FamFG§276",
         "FamFG§64",
@@ -695,10 +735,10 @@
         "XII ZB 300/18"
       ],
       "norms": [
-        "BGB§1833",
+        "BGB§1833@unbestimmt",
         "BGB§276",
         "BRAO§51",
-        "BGB§1906"
+        "BGB§1906@aF"
       ],
       "path": [
         "Haftung als Berufsbetreuer"

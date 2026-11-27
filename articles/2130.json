@@ -48,40 +48,45 @@
   ],
   "norms": [
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901a",
-      "label": "§ 1901a BGB",
+      "id": "BGB§1901a@aF",
+      "label": "§ 1901a BGB a.F.",
       "nummer": "1901a"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901b",
-      "label": "§ 1901b BGB",
+      "id": "BGB§1901b@aF",
+      "label": "§ 1901b BGB a.F.",
       "nummer": "1901b"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1901c",
-      "label": "§ 1901c BGB",
+      "id": "BGB§1901c@aF",
+      "label": "§ 1901c BGB a.F.",
       "nummer": "1901c"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1904",
-      "label": "§ 1904 BGB",
+      "id": "BGB§1904@aF",
+      "label": "§ 1904 BGB a.F.",
       "nummer": "1904"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§287",
       "label": "§ 287 FamFG",
@@ -90,6 +95,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "FamFG",
       "id": "FamFG§298",
       "label": "§ 298 FamFG",
@@ -110,10 +116,10 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1901a",
-        "BGB§1901b",
-        "BGB§1901c",
-        "BGB§1904",
+        "BGB§1901a@aF",
+        "BGB§1901b@aF",
+        "BGB§1901c@aF",
+        "BGB§1904@aF",
         "FamFG§287",
         "FamFG§298"
       ],

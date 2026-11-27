@@ -151,6 +151,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§104",
       "label": "§ 104 BGB",
@@ -159,6 +160,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§126",
       "label": "§ 126 BGB",
@@ -167,6 +169,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§129",
       "label": "§ 129 BGB",
@@ -175,6 +178,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§167",
       "label": "§ 167 BGB",
@@ -183,6 +187,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§168",
       "label": "§ 168 BGB",
@@ -191,6 +196,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§181",
       "label": "§ 181 BGB",
@@ -199,30 +205,34 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1816",
-      "label": "§ 1816 BGB",
+      "id": "BGB§1816@unbestimmt",
+      "label": "§ 1816 BGB (alte oder neue Fassung)",
       "nummer": "1816"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1820",
-      "label": "§ 1820 BGB",
+      "id": "BGB§1820@unbestimmt",
+      "label": "§ 1820 BGB (alte oder neue Fassung)",
       "nummer": "1820"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1821",
-      "label": "§ 1821 BGB",
+      "id": "BGB§1821@unbestimmt",
+      "label": "§ 1821 BGB (alte oder neue Fassung)",
       "nummer": "1821"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "neu",
       "gesetz": "BGB",
       "id": "BGB§1827",
       "label": "§ 1827 BGB",
@@ -231,46 +241,52 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1829",
-      "label": "§ 1829 BGB",
+      "id": "BGB§1829@unbestimmt",
+      "label": "§ 1829 BGB (alte oder neue Fassung)",
       "nummer": "1829"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": "unbestimmt",
       "gesetz": "BGB",
-      "id": "BGB§1831",
-      "label": "§ 1831 BGB",
+      "id": "BGB§1831@unbestimmt",
+      "label": "§ 1831 BGB (alte oder neue Fassung)",
       "nummer": "1831"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1896",
-      "label": "§ 1896 BGB",
+      "id": "BGB§1896@aF",
+      "label": "§ 1896 BGB a.F.",
       "nummer": "1896"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1904",
-      "label": "§ 1904 BGB",
+      "id": "BGB§1904@aF",
+      "label": "§ 1904 BGB a.F.",
       "nummer": "1904"
     },
     {
-      "alte_fassung": false,
+      "alte_fassung": true,
       "einheit": "§",
+      "fassung": "alt",
       "gesetz": "BGB",
-      "id": "BGB§1906",
-      "label": "§ 1906 BGB",
+      "id": "BGB§1906@aF",
+      "label": "§ 1906 BGB a.F.",
       "nummer": "1906"
     },
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§1945",
       "label": "§ 1945 BGB",
@@ -279,6 +295,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§311b",
       "label": "§ 311b BGB",
@@ -287,6 +304,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§662",
       "label": "§ 662 BGB",
@@ -295,6 +313,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§671",
       "label": "§ 671 BGB",
@@ -303,6 +322,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BGB",
       "id": "BGB§839",
       "label": "§ 839 BGB",
@@ -311,6 +331,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BNotO",
       "id": "BNotO§17",
       "label": "§ 17 BNotO",
@@ -319,6 +340,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BNotO",
       "id": "BNotO§20",
       "label": "§ 20 BNotO",
@@ -327,6 +349,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BeurkG",
       "id": "BeurkG§10",
       "label": "§ 10 BeurkG",
@@ -335,6 +358,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BeurkG",
       "id": "BeurkG§11",
       "label": "§ 11 BeurkG",
@@ -343,6 +367,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BeurkG",
       "id": "BeurkG§17",
       "label": "§ 17 BeurkG",
@@ -351,6 +376,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BeurkG",
       "id": "BeurkG§40",
       "label": "§ 40 BeurkG",
@@ -359,6 +385,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BeurkG",
       "id": "BeurkG§5",
       "label": "§ 5 BeurkG",
@@ -367,6 +394,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BeurkG",
       "id": "BeurkG§6",
       "label": "§ 6 BeurkG",
@@ -375,6 +403,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtBG",
       "id": "BtBG§6",
       "label": "§ 6 BtBG",
@@ -383,6 +412,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§2",
       "label": "§ 2 BtOG",
@@ -391,6 +421,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "BtOG",
       "id": "BtOG§7",
       "label": "§ 7 BtOG",
@@ -399,6 +430,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GBO",
       "id": "GBO§29",
       "label": "§ 29 GBO",
@@ -407,6 +439,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "GBO",
       "id": "GBO§32",
       "label": "§ 32 GBO",
@@ -415,6 +448,7 @@
     {
       "alte_fassung": false,
       "einheit": "Art.",
+      "fassung": null,
       "gesetz": "GG",
       "id": "GGArt.34",
       "label": "Art. 34 GG",
@@ -423,6 +457,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "KostO",
       "id": "KostO§141",
       "label": "§ 141 KostO",
@@ -431,6 +466,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "KostO",
       "id": "KostO§151a",
       "label": "§ 151a KostO",
@@ -439,6 +475,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "KostO",
       "id": "KostO§32",
       "label": "§ 32 KostO",
@@ -447,6 +484,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "KostO",
       "id": "KostO§33",
       "label": "§ 33 KostO",
@@ -455,6 +493,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "KostO",
       "id": "KostO§41",
       "label": "§ 41 KostO",
@@ -463,6 +502,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "KostO",
       "id": "KostO§45",
       "label": "§ 45 KostO",
@@ -471,6 +511,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VIII",
       "id": "SGBVIII§59",
       "label": "§ 59 SGB VIII",
@@ -479,6 +520,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB VIII",
       "id": "SGBVIII§87e",
       "label": "§ 87e SGB VIII",
@@ -487,6 +529,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "SGB X",
       "id": "SGBX§30",
       "label": "§ 30 SGB X",
@@ -495,6 +538,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "UStG",
       "id": "UStG§2",
       "label": "§ 2 UStG",
@@ -503,6 +547,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "VwVfG",
       "id": "VwVfG§34",
       "label": "§ 34 VwVfG",
@@ -511,6 +556,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§114",
       "label": "§ 114 ZPO",
@@ -519,6 +565,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§416",
       "label": "§ 416 ZPO",
@@ -527,6 +574,7 @@
     {
       "alte_fassung": false,
       "einheit": "§",
+      "fassung": null,
       "gesetz": "ZPO",
       "id": "ZPO§440",
       "label": "§ 440 ZPO",
@@ -549,8 +597,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1829",
-        "BGB§1831",
+        "BGB§1829@unbestimmt",
+        "BGB§1831@unbestimmt",
         "BGB§126",
         "BGB§129",
         "BtBG§6",
@@ -608,8 +656,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1829",
-        "BGB§1831"
+        "BGB§1829@unbestimmt",
+        "BGB§1831@unbestimmt"
       ],
       "path": [
         "Unterschriftsbeglaubigung durch Betreuungsbehörden",
@@ -634,9 +682,9 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1816",
-        "BGB§1821",
-        "BGB§1820"
+        "BGB§1816@unbestimmt",
+        "BGB§1821@unbestimmt",
+        "BGB§1820@unbestimmt"
       ],
       "path": [
         "Unterschriftsbeglaubigung durch Betreuungsbehörden",
@@ -663,8 +711,8 @@
       "decisions": [],
       "norms": [
         "BGB§167",
-        "BGB§1829",
-        "BGB§1831",
+        "BGB§1829@unbestimmt",
+        "BGB§1831@unbestimmt",
         "BGB§126"
       ],
       "path": [
@@ -856,8 +904,8 @@
     {
       "decisions": [],
       "norms": [
-        "BGB§1904",
-        "BGB§1906",
+        "BGB§1904@aF",
+        "BGB§1906@aF",
         "BGB§1945",
         "BGB§126",
         "BGB§129",
@@ -885,7 +933,7 @@
         "BGB§104",
         "BGB§181",
         "BGB§662",
-        "BGB§1896"
+        "BGB§1896@aF"
       ],
       "path": [
         "Unterschriftsbeglaubigung durch Betreuungsbehörden",
