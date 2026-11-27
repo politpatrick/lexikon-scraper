@@ -170,3 +170,16 @@ def test_report_btog_article_not_on_old_only_list():
                                "nummer": "1", "alte_fassung": False, "fassung": None}])
     part = quality_report([a], build_graph([a])).split("### Artikel, die nur die alte Fassung zitieren")[1]
     assert "Btog" not in part.split("###")[0]
+
+
+def test_report_old_list_allows_unbestimmt():
+    a = art(1, "rechnungslegung", norms=[fnorm("BGB§1840@aF", "1840", "alt"),
+                                         fnorm("BGB§1821@unbestimmt", "1821", "unbestimmt")])
+    part = quality_report([a], build_graph([a])).split("### Artikel, die nur die alte Fassung zitieren")[1]
+    assert "Rechnungslegung" in part.split("###")[0]
+
+
+def test_ambiguous_edges_use_article_file():
+    a = art(7, "x", norms=[fnorm("BGB§1821@unbestimmt", "1821", "unbestimmt")])
+    e = [e for e in build_graph([a])["links"] if e["relation"] == "ambiguous_with"]
+    assert {x["source_file"] for x in e} == {"articles/7.json"}

@@ -68,10 +68,11 @@ def build_graph(articles: list[Article]) -> dict:
                     node(f"norm:BGB§{new}", f"§ {new} BGB", "concept", MAPPING_FILE)
                     edge(me, "superseded_by", f"norm:BGB§{new}", MAPPING_FILE)
             elif n.get("fassung") == "unbestimmt":
-                node(f"norm:BGB§{n['nummer']}", f"§ {n['nummer']} BGB", "concept", MAPPING_FILE)
-                node(f"norm:BGB§{n['nummer']}@aF", f"§ {n['nummer']} BGB a.F.", "concept", MAPPING_FILE)
-                edge(me, "ambiguous_with", f"norm:BGB§{n['nummer']}", MAPPING_FILE)
-                edge(me, "ambiguous_with", f"norm:BGB§{n['nummer']}@aF", MAPPING_FILE)
+                sf = article_file(a)
+                node(f"norm:BGB§{n['nummer']}", f"§ {n['nummer']} BGB", "concept", sf)
+                node(f"norm:BGB§{n['nummer']}@aF", f"§ {n['nummer']} BGB a.F.", "concept", sf)
+                edge(me, "ambiguous_with", f"norm:BGB§{n['nummer']}", sf)
+                edge(me, "ambiguous_with", f"norm:BGB§{n['nummer']}@aF", sf)
     return {"directed": False, "multigraph": False, "graph": {},
             "nodes": sorted(nodes.values(), key=lambda n: n["id"]),
             "links": edges}
