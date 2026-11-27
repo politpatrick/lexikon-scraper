@@ -3,7 +3,10 @@ from __future__ import annotations
 
 from urllib.parse import urlparse
 
+from lexikon.fassung import load_mapping
 from lexikon.normalize import Article
+
+MAPPING_FILE = "src/lexikon/data/reform2023_bgb.csv"
 
 
 def article_file(a: Article) -> str:
@@ -11,7 +14,8 @@ def article_file(a: Article) -> str:
 
 
 def build_graph(articles: list[Article]) -> dict:
-    """Knoten: art:/cat:/ext:/norm:/dec:. Kanten: links_to, in_category, cites_norm, cites_decision, references_external.
+    """Knoten: art:/cat:/ext:/norm:/dec:. Kanten: links_to, in_category, cites_norm, cites_decision, references_external,
+    superseded_by (alte Fassung → Nachfolger), ambiguous_with (unbestimmte Fassung → beide Lesarten).
 
     ``directed: false`` folgt der graphify-Konvention; die Richtung steckt in
     der Reihenfolge source → target.
@@ -52,6 +56,23 @@ def build_graph(articles: list[Article]) -> dict:
             if host:
                 node(f"ext:{host}", host, "concept", sf)
                 edge(me, "references_external", f"ext:{host}", sf)
+    # Fassungen: alte Norm → Nachfolger (Synopse); unbestimmte Zitate → beide Lesarten
+    mapping = load_mapping()
+    for a in articles:
+        for n in a.norms:
+            if n["gesetz"] != "BGB" or n["einheit"] != "§":
+                continue
+            me = f"norm:{n['id']}"
+            if n.get("fassung") == "alt":
+                for new in mapping.get(n["nummer"], []):
+                    node(f"norm:BGB§{new}", f"§ {new} BGB", "concept", MAPPING_FILE)
+                    edge(me, "superseded_by", f"norm:BGB§{new}", MAPPING_FILE)
+            elif n.get("fassung") == "unbestimmt":
+                sf = article_file(a)
+                node(f"norm:BGB§{n['nummer']}", f"§ {n['nummer']} BGB", "concept", sf)
+                node(f"norm:BGB§{n['nummer']}@aF", f"§ {n['nummer']} BGB a.F.", "concept", sf)
+                edge(me, "ambiguous_with", f"norm:BGB§{n['nummer']}", sf)
+                edge(me, "ambiguous_with", f"norm:BGB§{n['nummer']}@aF", sf)
     return {"directed": False, "multigraph": False, "graph": {},
             "nodes": sorted(nodes.values(), key=lambda n: n["id"]),
             "links": edges}

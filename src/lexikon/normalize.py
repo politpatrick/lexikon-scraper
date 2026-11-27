@@ -13,6 +13,7 @@ from lexikon.links import classify, slug
 from lexikon.models import RawPage
 from lexikon.decisions import (DecisionRef, completeness, decisions_from_templates, merge_decisions,
                                parse_decisions)
+from lexikon.fassung import apply_fassung, section_signal
 from lexikon.norms import NORM_TEMPLATES, NormRef, norms_from_templates, parse_norms
 from lexikon.templates import canonical_name, render_template
 
@@ -193,8 +194,10 @@ def _sections(code, title: str) -> list[tuple[Section, list[NormRef], list[Decis
         text = _clean(_render(buf, title))
         if text:
             nodes = heading + [Text("\n")] + buf
-            refs = _section_norms(nodes, title)
             decs = _section_decisions(nodes, title)
+            refs = _section_norms(nodes, title)
+            signal = section_signal(refs, text, [d.datum for d in decs if d.datum])
+            refs = list({r.id: r for r in apply_fassung(refs, signal, text)}.values())
             sections.append((Section(path, text, [r.id for r in refs], [d.id for d in decs]), refs, decs))
 
     for node in code.nodes:
@@ -250,7 +253,7 @@ def normalize(page: RawPage, redirects: dict[str, str], known: set[str]) -> Arti
         for r in refs:
             norms.setdefault(r.id, {"id": r.id, "label": r.label, "gesetz": r.gesetz,
                                     "einheit": r.einheit, "nummer": r.nummer,
-                                    "alte_fassung": r.alte_fassung})
+                                    "alte_fassung": r.alte_fassung, "fassung": r.fassung})
     return Article(
         pageid=page.pageid,
         title=page.title,

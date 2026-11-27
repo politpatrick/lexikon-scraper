@@ -127,3 +127,11 @@ def test_no_catastrophic_backtracking(text):
 ])
 def test_sample_findings(text, expected):
     assert ids(text) == expected
+
+
+@pytest.mark.parametrize("text", [
+    "§§ 1908i Abs. 1 Satz 1, 1822 Nr. 2 BGB (in der bis zum 31.12.2022 geltenden Fassung)",
+    "§ 1836 I BGB (a.F.",
+])
+def test_parenthesised_old_version_marker(text):
+    assert all(r.alte_fassung for r in parse_norms(text))

@@ -43,11 +43,11 @@ _NUM = r"\d+[a-z]?\b"
 _SUB = r"(?:Abs\.|Abs\b|Absatz|Satz|S\.|Nr\.|Nummer|Ziff\.|Ziffer|Buchst\.|lit\.|Alt\.|Halbs\.)"
 _ROMAN_SUB = r"\b[IVX]{1,4}\b"
 _SEP = r"(?:,|und\b|sowie\b|u\.)"
-_TOKEN = rf"(?:{_UNIT}|{_SUB}|{_NUM}|{_SEP}|{_ROMAN_SUB}|bis\b|oder\b|ff\.|f\.|[–-])"
+_TOKEN = rf"(?:{_UNIT}|{_SUB}|{_NUM}|{_SEP}|{_ROMAN_SUB}|bis\b|oder\b|ff\.?|f\.|[–-])"
 _SGB = r"SGB[  -]?(?P<sgb>XIV|XIII|XII|XI|X|IX|VIII|VII|VI|V|IV|III|II|I|1[0-4]|[1-9])"
 _NAMES = sorted(LAWS + list(TEXT_VARIANTS), key=len, reverse=True)
 _LAW = rf"(?:{_SGB}|(?P<name>{'|'.join(map(re.escape, _NAMES))}))"
-_AF = r"(?P<af>\s*(?:a\.\s?F\.?|aF|in der bis (?:zum )?31\.12\.2022 geltenden Fassung)(?!\w))?"
+_AF = r"(?P<af>\s*\(?\s*(?:a\.\s?F\.?|aF|in der bis (?:zum )?31\.12\.2022 geltenden Fassung)(?!\w))?"
 #: Leerraum mit höchstens einem Zeilenumbruch: Ketten laufen nicht über Absätze hinweg.
 _WS = r"[^\S\n]*+(?:\n[^\S\n]*+)?"
 _PATTERN = re.compile(
@@ -64,15 +64,33 @@ class NormRef:
     einheit: str  # "§" oder "Art."
     nummer: str   # "1814", "1906a" oder zusammengesetzt "229 § 54" (Art. 229 § 54 EGBGB)
     alte_fassung: bool = False
+    unbestimmt: bool = False  # Nummer gibt es alt und neu, Kontext entscheidet nicht (fassung.py)
 
     @property
     def id(self) -> str:
         base = f"{self.gesetz.replace(' ', '')}{self.einheit}{self.nummer.replace(' ', '')}"
-        return base + ("@aF" if self.alte_fassung else "")
+        if self.alte_fassung:
+            return base + "@aF"
+        return base + ("@unbestimmt" if self.unbestimmt else "")
 
     @property
     def label(self) -> str:
-        return f"{self.einheit} {self.nummer} {self.gesetz}" + (" a.F." if self.alte_fassung else "")
+        base = f"{self.einheit} {self.nummer} {self.gesetz}"
+        if self.alte_fassung:
+            return base + " a.F."
+        return base + (" (alte oder neue Fassung)" if self.unbestimmt else "")
+
+    @property
+    def fassung(self) -> str | None:
+        """``alt``, ``unbestimmt``, ``neu`` (Reformbereich ohne Hinweis auf alt) oder None."""
+        if self.alte_fassung:
+            return "alt"
+        if self.unbestimmt:
+            return "unbestimmt"
+        from lexikon.fassung import LAST_CURRENT, REFORM_START
+        if self.gesetz == "BGB" and self.einheit == "§" and self.nummer.isdigit():
+            return "neu" if REFORM_START <= int(self.nummer) <= LAST_CURRENT else None
+        return None
 
 
 def _sgb(numeral: str) -> str:

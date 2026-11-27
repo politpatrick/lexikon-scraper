@@ -173,14 +173,17 @@ def test_norms_per_section_and_article():
             "== Verfahren ==\nNach {{Zitat de §|1814|bgb}} [[BGB]] und § 272 Abs. 2 FamFG sowie § 1814 BGB.")
     a = normalize(raw("X", text), {}, {"bgb"})
     assert a.sections[0].norms == ["LFGG§37"]
-    assert a.sections[1].norms == ["BGB§1814", "FamFG§272"]
-    assert [n["id"] for n in a.norms] == ["BGB§1814", "FamFG§272", "LFGG§37"]
-    assert a.norms[0] == {"id": "BGB§1814", "label": "§ 1814 BGB", "gesetz": "BGB",
-                          "einheit": "§", "nummer": "1814", "alte_fassung": False}
+    # ohne Hinweis auf eine Fassung ist § 1814 BGB doppeldeutig (alt: Hinterlegung, neu: Betreuerbestellung)
+    assert a.sections[1].norms == ["BGB§1814@unbestimmt", "FamFG§272"]
+    assert [n["id"] for n in a.norms] == ["BGB§1814@unbestimmt", "FamFG§272", "LFGG§37"]
+    assert a.norms[0] == {"id": "BGB§1814@unbestimmt", "label": "§ 1814 BGB (alte oder neue Fassung)",
+                          "gesetz": "BGB", "einheit": "§", "nummer": "1814", "alte_fassung": False,
+                          "fassung": "unbestimmt"}
 
 
 def test_old_and_current_version_are_separate_norms():
-    a = normalize(raw("X", "§ 1822 BGB a.F. und später § 1822 BGB"), {}, set())
+    a = normalize(raw("X", "§ 1822 BGB a.F. regelte Genehmigungen.\n== Neu ==\n"
+                           "Seit dem 1.1.2023 regelt § 1822 BGB Mitteilungen."), {}, set())
     assert [(n["id"], n["label"], n["alte_fassung"]) for n in a.norms] == [
         ("BGB§1822", "§ 1822 BGB", False),
         ("BGB§1822@aF", "§ 1822 BGB a.F.", True),
@@ -234,3 +237,21 @@ def test_unify_leaves_ambiguous_bare_az():
     c = normalize(raw("C", "{{Rspr|1 T 5/03}}"), {}, set())
     unify_decisions([a, b, c])
     assert [d["id"] for d in c.decisions] == ["1 T 5/03"]
+
+
+def test_fassung_from_section_context():
+    text = ("Nach § 1821 BGB und § 1906 BGB (BGH, Beschluss vom 05.01.2011 - XII ZB 152/10).\n"
+            "== Neues Recht ==\nSeit dem 1.1.2023 regelt § 1821 BGB die Wünsche.\n"
+            "== Offen ==\nZu § 1821 BGB siehe oben.")
+    a = normalize(raw("X", text), {}, set())
+    # alter Kontext allein entscheidet nicht (Vergleich in überarbeiteten Artikeln)
+    assert a.sections[0].norms == ["BGB§1821@unbestimmt", "BGB§1906@aF"]
+    assert a.sections[1].norms == ["BGB§1821"]
+    assert a.sections[2].norms == ["BGB§1821@unbestimmt"]
+    fassungen = {n["id"]: n["fassung"] for n in a.norms}
+    assert fassungen == {"BGB§1821": "neu", "BGB§1821@unbestimmt": "unbestimmt", "BGB§1906@aF": "alt"}
+
+
+def test_fassung_ignores_other_laws():
+    a = normalize(raw("X", "§ 26 FamFG und § 242 BGB"), {}, set())
+    assert [(n["id"], n["fassung"]) for n in a.norms] == [("BGB§242", None), ("FamFG§26", None)]

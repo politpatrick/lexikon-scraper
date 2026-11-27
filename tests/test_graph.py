@@ -132,3 +132,54 @@ def test_decision_nodes_edges_and_report():
     assert ("art:b", "cites_decision", "dec:V ZR 2/19") in rel
     section = quality_report(arts, g).split("## Meistzitierte Entscheidungen")[1]
     assert "| BGH – XII ZB 1/20 | 2 |" in section
+
+
+def fnorm(i, nummer, fassung):
+    return {"id": i, "label": i, "gesetz": "BGB", "einheit": "§", "nummer": nummer,
+            "alte_fassung": fassung == "alt", "fassung": fassung}
+
+
+def test_superseded_by_and_ambiguous_edges():
+    a = art(1, "a", norms=[fnorm("BGB§1896@aF", "1896", "alt"), fnorm("BGB§1821@unbestimmt", "1821", "unbestimmt")])
+    g = build_graph([a])
+    ids = {n["id"] for n in g["nodes"]}
+    rel = {(e["source"], e["relation"], e["target"]) for e in g["links"]}
+    assert ("norm:BGB§1896@aF", "superseded_by", "norm:BGB§1814") in rel
+    assert ("norm:BGB§1896@aF", "superseded_by", "norm:BGB§1815") in rel
+    assert ("norm:BGB§1821@unbestimmt", "ambiguous_with", "norm:BGB§1821") in rel
+    assert ("norm:BGB§1821@unbestimmt", "ambiguous_with", "norm:BGB§1821@aF") in rel
+    assert {"norm:BGB§1814", "norm:BGB§1821", "norm:BGB§1821@aF"} <= ids
+    assert all(e["source"] in ids and e["target"] in ids for e in g["links"])
+
+
+def test_report_fassung_section():
+    only_old = art(1, "nur-alt", norms=[fnorm("BGB§1896@aF", "1896", "alt")])
+    mixed = art(2, "gemischt", norms=[fnorm("BGB§1896@aF", "1896", "alt"), fnorm("BGB§1814", "1814", "neu")])
+    open_ = art(3, "offen", norms=[fnorm("BGB§1821@unbestimmt", "1821", "unbestimmt")])
+    r = quality_report([only_old, mixed, open_], build_graph([only_old, mixed, open_]))
+    part = r.split("## Alte und neue Fassung")[1].split("\n## ")[0]
+    assert "alt: 2" in part and "neu: 1" in part and "unbestimmt: 1" in part
+    only = part.split("### Artikel, die nur die alte Fassung zitieren")[1].split("###")[0]
+    assert "Nur-Alt" in only and "Gemischt" not in only
+    assert "Offen" in part.split("### Artikel mit unbestimmter Fassung")[1]
+
+
+def test_report_btog_article_not_on_old_only_list():
+    a = art(1, "btog", norms=[fnorm("BGB§1908f@aF", "1908f", "alt"),
+                              {"id": "BtOG§1", "label": "§ 1 BtOG", "gesetz": "BtOG", "einheit": "§",
+                               "nummer": "1", "alte_fassung": False, "fassung": None}])
+    part = quality_report([a], build_graph([a])).split("### Artikel, die nur die alte Fassung zitieren")[1]
+    assert "Btog" not in part.split("###")[0]
+
+
+def test_report_old_list_allows_unbestimmt():
+    a = art(1, "rechnungslegung", norms=[fnorm("BGB§1840@aF", "1840", "alt"),
+                                         fnorm("BGB§1821@unbestimmt", "1821", "unbestimmt")])
+    part = quality_report([a], build_graph([a])).split("### Artikel, die nur die alte Fassung zitieren")[1]
+    assert "Rechnungslegung" in part.split("###")[0]
+
+
+def test_ambiguous_edges_use_article_file():
+    a = art(7, "x", norms=[fnorm("BGB§1821@unbestimmt", "1821", "unbestimmt")])
+    e = [e for e in build_graph([a])["links"] if e["relation"] == "ambiguous_with"]
+    assert {x["source_file"] for x in e} == {"articles/7.json"}
