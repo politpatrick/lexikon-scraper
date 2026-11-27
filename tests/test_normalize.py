@@ -201,3 +201,15 @@ def test_template_norm_not_double_counted_from_rendered_text():
     a = normalize(raw("V", "Für {{Zitat de §|8|vbvg}} VBVG gilt"), {}, set())
     assert a.sections[0].norms == ["VBVG§8@aF"]
     assert a.sections[0].text == "Für § 8 VBVG gilt"
+
+
+def test_decisions_per_section_and_article():
+    text = ("Einleitung: LG Frankfurt/Oder, Beschluss vom 1.2.2003, {{Rspr|19 T 529/02}}.\n"
+            "== Rechtsprechung ==\nBGH, Beschluss vom 05.01.2011 - XII ZB 152/10; vgl. {{rspr|BVerfGE 31, 58}}.")
+    a = normalize(raw("X", text), {}, set())
+    assert a.sections[0].decisions == ["LG Frankfurt/Oder 19 T 529/02"]
+    assert a.sections[1].decisions == ["XII ZB 152/10", "BVerfGE 31, 58"]
+    assert [d["id"] for d in a.decisions] == ["BVerfGE 31, 58", "LG Frankfurt/Oder 19 T 529/02", "XII ZB 152/10"]
+    assert a.decisions[2] == {"id": "XII ZB 152/10", "label": "BGH, Beschluss vom 05.01.2011 – XII ZB 152/10",
+                              "gericht": "BGH", "art": "Beschluss", "datum": "2011-01-05",
+                              "az": "XII ZB 152/10", "fundstelle": None}

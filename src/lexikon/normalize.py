@@ -11,6 +11,7 @@ from mwparserfromhell.nodes import (
 
 from lexikon.links import classify, slug
 from lexikon.models import RawPage
+from lexikon.decisions import DecisionRef, decisions_from_templates, merge_decisions, parse_decisions
 from lexikon.norms import NORM_TEMPLATES, NormRef, norms_from_templates, parse_norms
 from lexikon.templates import canonical_name, render_template
 
@@ -32,6 +33,7 @@ class Section:
     path: tuple[str, ...]
     text: str
     norms: list[str] = field(default_factory=list)
+    decisions: list[str] = field(default_factory=list)
 
 
 @dataclass
@@ -50,11 +52,12 @@ class Article:
     category_links: list[str] = field(default_factory=list)
     dead_links: list[str] = field(default_factory=list)
     norms: list[dict] = field(default_factory=list)
+    decisions: list[dict] = field(default_factory=list)
 
     def to_json(self) -> dict:
         d = dict(self.__dict__)
-        d["sections"] = [{"path": list(s.path), "text": s.text, "norms": s.norms}
-                         for s in self.sections]
+        d["sections"] = [{"path": list(s.path), "text": s.text, "norms": s.norms,
+                          "decisions": s.decisions} for s in self.sections]
         return d
 
 
@@ -173,8 +176,13 @@ def _section_norms(nodes: list, title: str) -> list[NormRef]:
     return list(found.values())
 
 
-def _sections(code, title: str) -> list[tuple[Section, list[NormRef]]]:
-    sections: list[tuple[Section, list[NormRef]]] = []
+def _section_decisions(nodes: list, title: str) -> list[DecisionRef]:
+    code = mwparserfromhell.parse("".join(str(n) for n in nodes))
+    return merge_decisions(parse_decisions(_render(nodes, title)) + decisions_from_templates(code))
+
+
+def _sections(code, title: str) -> list[tuple[Section, list[NormRef], list[DecisionRef]]]:
+    sections: list[tuple[Section, list[NormRef], list[DecisionRef]]] = []
     stack: list[tuple[int, str]] = []
     path: tuple[str, ...] = (INTRO,)
     heading: list = []
@@ -183,8 +191,10 @@ def _sections(code, title: str) -> list[tuple[Section, list[NormRef]]]:
     def flush():
         text = _clean(_render(buf, title))
         if text:
-            refs = _section_norms(heading + [Text("\n")] + buf, title)
-            sections.append((Section(path, text, [r.id for r in refs]), refs))
+            nodes = heading + [Text("\n")] + buf
+            refs = _section_norms(nodes, title)
+            decs = _section_decisions(nodes, title)
+            sections.append((Section(path, text, [r.id for r in refs], [d.id for d in decs]), refs, decs))
 
     for node in code.nodes:
         if isinstance(node, Heading):
@@ -229,7 +239,13 @@ def normalize(page: RawPage, redirects: dict[str, str], known: set[str]) -> Arti
     internal.discard(own)
     sections = _sections(code, page.title)
     norms: dict[str, dict] = {}
-    for _, refs in sections:
+    decisions: dict[str, dict] = {}
+    for _, _, decs in sections:
+        for dref in decs:
+            decisions.setdefault(dref.id, {"id": dref.id, "label": dref.label, "gericht": dref.gericht,
+                                           "art": dref.art, "datum": dref.datum, "az": dref.az,
+                                           "fundstelle": dref.fundstelle})
+    for _, refs, _ in sections:
         for r in refs:
             norms.setdefault(r.id, {"id": r.id, "label": r.label, "gesetz": r.gesetz,
                                     "einheit": r.einheit, "nummer": r.nummer,
@@ -241,7 +257,7 @@ def normalize(page: RawPage, redirects: dict[str, str], known: set[str]) -> Arti
         revid=page.revid,
         timestamp=page.timestamp,
         categories=list(page.categories),
-        sections=[sec for sec, _ in sections],
+        sections=[sec for sec, _, _ in sections],
         internal_links=sorted(internal),
         wikipedia_links=sorted(set(wiki)),
         images=sorted(set(images)),
@@ -249,4 +265,5 @@ def normalize(page: RawPage, redirects: dict[str, str], known: set[str]) -> Arti
         category_links=sorted(set(cat_links)),
         dead_links=sorted(dead),
         norms=[norms[k] for k in sorted(norms)],
+        decisions=[decisions[k] for k in sorted(decisions)],
     )

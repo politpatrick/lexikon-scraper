@@ -4,8 +4,8 @@
 
 **Blocked by:** 03 (und 02, falls Entscheidungen per Vorlage zitiert werden)
 
-**Status:** ready-for-agent
+**Status:** erledigt 27.11.2026. 1.915 Entscheidungen in 159 Artikeln, 2.667 cites_decision-Kanten
 
-- [ ] `LG Augsburg, Beschluss vom 30. Januar 2018 – 054 T 161/18` wird vollständig erkannt
-- [ ] `BGH XII ZB 123/20` ohne Datum wird erkannt
-- [ ] Identisches Aktenzeichen + Gericht ergibt genau einen Knoten
+- [x] `LG Augsburg, Beschluss vom 30. Januar 2018 – 054 T 161/18` wird vollständig erkannt
+- [x] `BGH XII ZB 123/20` ohne Datum wird erkannt
+- [x] Identisches Aktenzeichen + Gericht ergibt genau einen Knoten

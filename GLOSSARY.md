@@ -14,7 +14,7 @@ Fachvokabular dieses Repos. Code, Tickets und Specs verwenden genau diese Begrif
 | **Normzitat** (`NormRef`) | Verweis auf eine Rechtsnorm, kanonisiert als `GESETZ§NUMMER` bzw. `GESETZArt.NUMMER` ohne Leerzeichen (z. B. `BGB§1814`, `SGBXII§42`, `EGBGBArt.24`, `EGBGBArt.229§54`); Absatz und Satz gehören nicht zur ID. Die alte Fassung ist Teil der ID: `BGB§1822@aF` ist ein anderer Knoten als `BGB§1822` | Norm |
 | **Norm** | Knoten im Wissensnetz für einen Paragraphen/Artikel eines Gesetzes | Normzitat |
 | **Fassung** | `alt` (vor 01.01.2023) oder `neu` (ab 01.01.2023) bei betreuungsrechtlichen Normen | – |
-| **Entscheidungszitat** (`DecisionRef`) | Verweis auf Rechtsprechung: Gericht, Art, Datum, Aktenzeichen | – |
+| **Entscheidungszitat** (`DecisionRef`) | Verweis auf Rechtsprechung: Gericht, Art, Datum, Aktenzeichen oder amtliche Fundstelle. Kennung: Aktenzeichen von BGH, BVerfG und BSG allein (`XII ZB 152/10`), sonst Gericht + Aktenzeichen (`LG Mühlhausen 1 T 5/11`), bei Fundstellen diese (`BVerfGE 31, 58`) | – |
 | **Wissensnetz** | Die Menge aller Knoten und Kanten, exportiert als `graph/graph.json` | graphify-Ausgabe |
 | **Kante** | Typisierte Beziehung: `links_to`, `in_category`, `cites_norm`, `cites_decision`, `references_external`, `superseded_by` | – |
 | **Chunk** | Retrieval-Einheit des RAG, abgeleitet aus einem Abschnitt | Abschnitt |
