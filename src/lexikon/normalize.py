@@ -11,7 +11,8 @@ from mwparserfromhell.nodes import (
 
 from lexikon.links import classify, slug
 from lexikon.models import RawPage
-from lexikon.decisions import DecisionRef, decisions_from_templates, merge_decisions, parse_decisions
+from lexikon.decisions import (DecisionRef, completeness, decisions_from_templates, merge_decisions,
+                               parse_decisions)
 from lexikon.norms import NORM_TEMPLATES, NormRef, norms_from_templates, parse_norms
 from lexikon.templates import canonical_name, render_template
 
@@ -267,3 +268,29 @@ def normalize(page: RawPage, redirects: dict[str, str], known: set[str]) -> Arti
         norms=[norms[k] for k in sorted(norms)],
         decisions=[decisions[k] for k in sorted(decisions)],
     )
+
+
+def unify_decisions(articles: list[Article]) -> None:
+    """Vereinheitlicht Entscheidungszitate über alle Artikel (ändert die Artikel).
+
+    - Ein Zitat ohne Gericht (nur Aktenzeichen) wird dem einzigen Zitat mit Gericht
+      und gleichem Aktenzeichen zugeordnet; bei mehreren Kandidaten bleibt es offen.
+    - Je Entscheidung gelten die Angaben des vollständigsten Zitats (Gericht, Art,
+      Datum), damit Knoten, Artikel und Bericht dieselbe Bezeichnung tragen.
+    """
+    best: dict[str, dict] = {}
+    for a in articles:
+        for d in a.decisions:
+            if d["id"] not in best or completeness(d) > completeness(best[d["id"]]):
+                best[d["id"]] = d
+    qualified: dict[str, set[str]] = {}
+    for i, d in best.items():
+        if d["az"] and i != d["az"]:
+            qualified.setdefault(re.sub(r"\sR$", "", d["az"]), set()).add(i)
+    remap = {i: next(iter(qualified[i])) for i, d in best.items()
+             if d["az"] and i == re.sub(r"\sR$", "", d["az"]) and len(qualified.get(i, ())) == 1}
+    for a in articles:
+        ids = sorted({remap.get(d["id"], d["id"]) for d in a.decisions})
+        a.decisions = [best[i] for i in ids]
+        for sec in a.sections:
+            sec.decisions = list(dict.fromkeys(remap.get(i, i) for i in sec.decisions))
