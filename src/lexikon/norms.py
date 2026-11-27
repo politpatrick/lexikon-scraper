@@ -64,15 +64,31 @@ class NormRef:
     einheit: str  # "§" oder "Art."
     nummer: str   # "1814", "1906a" oder zusammengesetzt "229 § 54" (Art. 229 § 54 EGBGB)
     alte_fassung: bool = False
+    unbestimmt: bool = False  # Nummer gibt es alt und neu, Kontext entscheidet nicht (fassung.py)
 
     @property
     def id(self) -> str:
         base = f"{self.gesetz.replace(' ', '')}{self.einheit}{self.nummer.replace(' ', '')}"
-        return base + ("@aF" if self.alte_fassung else "")
+        if self.alte_fassung:
+            return base + "@aF"
+        return base + ("@unbestimmt" if self.unbestimmt else "")
 
     @property
     def label(self) -> str:
-        return f"{self.einheit} {self.nummer} {self.gesetz}" + (" a.F." if self.alte_fassung else "")
+        base = f"{self.einheit} {self.nummer} {self.gesetz}"
+        if self.alte_fassung:
+            return base + " a.F."
+        return base + (" (alte oder neue Fassung)" if self.unbestimmt else "")
+
+    @property
+    def fassung(self) -> str | None:
+        """``alt``, ``unbestimmt``, ``neu`` (Reformbereich ohne Hinweis auf alt) oder None."""
+        if self.alte_fassung:
+            return "alt"
+        if self.unbestimmt:
+            return "unbestimmt"
+        from lexikon.fassung import in_reform_range
+        return "neu" if in_reform_range(self) else None
 
 
 def _sgb(numeral: str) -> str:

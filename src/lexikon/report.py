@@ -47,6 +47,22 @@ def quality_report(articles: list[Article], graph: dict) -> str:
             f"{sum(1 for a in articles if a.norms)} Artikeln.", "",
             "| Norm | Artikel |", "|---|---|"]
     out += [f"| {norm_labels[i]} | {n} |" for i, n in sorted(citing.items(), key=lambda x: (-x[1], x[0]))[:50]]
+    reform = [(a, n) for a in articles for n in a.norms if n.get("fassung") in ("alt", "neu", "unbestimmt")]
+    by_fassung = Counter(n["fassung"] for _, n in reform)
+    only_old = sorted(a.title for a in articles
+                      if {n.get("fassung") for n in a.norms if n.get("fassung")} == {"alt"}
+                      and not any(n["gesetz"] == "BtOG" for n in a.norms))  # BtOG: neues Recht
+    open_counts = Counter(a.title for a, n in reform if n["fassung"] == "unbestimmt")
+    out += ["", "## Alte und neue Fassung", "",
+            "Zitate aus §§ 1773–1921 BGB (Reform zum 1.1.2023): "
+            + ", ".join(f"{k}: {by_fassung.get(k, 0)}" for k in ("alt", "neu", "unbestimmt")) + ".", "",
+            "„unbestimmt“: Die Nummer gibt es alt und neu mit anderem Inhalt, und der Abschnitt lässt "
+            "die Fassung nicht erkennen.", "",
+            "### Artikel, die nur die alte Fassung zitieren", "",
+            "Prüfliste für die Pflege des Lexikons.", ""]
+    out += [f"- {t}" for t in only_old] or ["- keine"]
+    out += ["", "### Artikel mit unbestimmter Fassung", "", "| Artikel | Zitate |", "|---|---|"]
+    out += [f"| {t} | {n} |" for t, n in open_counts.most_common(30)]
     dec_labels = {d["id"]: d["label"] for a in articles for d in a.decisions}
     dec_citing = Counter(d["id"] for a in articles for d in a.decisions)
     out += ["", "## Meistzitierte Entscheidungen", "",
