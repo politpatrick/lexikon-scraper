@@ -8,7 +8,7 @@ from pathlib import Path
 from lexikon.archive import dump_json, load_raw, load_unreadable, sync_raw
 from lexikon.graph import build_graph
 from lexikon.links import slug
-from lexikon.normalize import build_redirect_map, is_content, normalize
+from lexikon.normalize import build_redirect_map, is_content, normalize, unify_decisions
 from lexikon.report import quality_report
 from lexikon.templates import inventory, inventory_report
 
@@ -41,6 +41,7 @@ def cmd_build(args) -> int:
             print(f"Hinweis: Weiterleitung ohne eigenen Eintrag: {p.title}", file=sys.stderr)
     known = {slug(p.title) for p in content}
     articles = [normalize(p, redirects, known) for p in content]
+    unify_decisions(articles)
 
     out = Path(args.articles)
     out.mkdir(parents=True, exist_ok=True)

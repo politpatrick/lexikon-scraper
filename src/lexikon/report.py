@@ -47,6 +47,14 @@ def quality_report(articles: list[Article], graph: dict) -> str:
             f"{sum(1 for a in articles if a.norms)} Artikeln.", "",
             "| Norm | Artikel |", "|---|---|"]
     out += [f"| {norm_labels[i]} | {n} |" for i, n in sorted(citing.items(), key=lambda x: (-x[1], x[0]))[:50]]
+    dec_labels = {d["id"]: d["label"] for a in articles for d in a.decisions}
+    dec_citing = Counter(d["id"] for a in articles for d in a.decisions)
+    out += ["", "## Meistzitierte Entscheidungen", "",
+            f"{len(dec_citing)} verschiedene Entscheidungen, zitiert in "
+            f"{sum(1 for a in articles if a.decisions)} Artikeln.", "",
+            "| Entscheidung | Artikel |", "|---|---|"]
+    out += [f"| {dec_labels[i]} | {n} |"
+            for i, n in sorted(dec_citing.items(), key=lambda x: (-x[1], x[0]))[:30]]
     suspects = [(a.title, snippet) for a in articles for s in a.sections
                 for snippet in _gap_snippets(s.text)]
     out += ["", "## Verdacht auf gelöschte Normverweise", "",

@@ -115,3 +115,20 @@ def test_report_gap_check_is_fast():
     start = time.perf_counter()
     quality_report([a], build_graph([a]))
     assert time.perf_counter() - start < 0.5
+
+
+def dec(i, label):
+    return {"id": i, "label": label, "gericht": "BGH", "art": None, "datum": None, "az": i, "fundstelle": None}
+
+
+def test_decision_nodes_edges_and_report():
+    arts = [art(1, "a"), art(2, "b")]
+    arts[0].decisions = [dec("XII ZB 1/20", "BGH – XII ZB 1/20")]
+    arts[1].decisions = [dec("XII ZB 1/20", "BGH – XII ZB 1/20"), dec("V ZR 2/19", "BGH – V ZR 2/19")]
+    g = build_graph(arts)
+    nodes = {n["id"]: n for n in g["nodes"]}
+    assert nodes["dec:XII ZB 1/20"]["label"] == "BGH – XII ZB 1/20"
+    rel = {(e["source"], e["relation"], e["target"]) for e in g["links"]}
+    assert ("art:b", "cites_decision", "dec:V ZR 2/19") in rel
+    section = quality_report(arts, g).split("## Meistzitierte Entscheidungen")[1]
+    assert "| BGH – XII ZB 1/20 | 2 |" in section

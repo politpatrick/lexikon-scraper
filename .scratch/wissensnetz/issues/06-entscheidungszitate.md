@@ -4,8 +4,8 @@
 
 **Blocked by:** 03 (und 02, falls Entscheidungen per Vorlage zitiert werden)
 
-**Status:** ready-for-agent
+**Status:** erledigt 27.11.2026 (nach Review überarbeitet). 2.565 Entscheidungen, davon 241 BayObLG; 30/30 Stichproben richtig; 4,3 % der Aktenzeichen-Kandidaten nach Gerichtsnamen unerkannt
 
-- [ ] `LG Augsburg, Beschluss vom 30. Januar 2018 – 054 T 161/18` wird vollständig erkannt
-- [ ] `BGH XII ZB 123/20` ohne Datum wird erkannt
-- [ ] Identisches Aktenzeichen + Gericht ergibt genau einen Knoten
+- [x] `LG Augsburg, Beschluss vom 30. Januar 2018 – 054 T 161/18` wird vollständig erkannt
+- [x] `BGH XII ZB 123/20` ohne Datum wird erkannt
+- [x] Identisches Aktenzeichen + Gericht ergibt genau einen Knoten

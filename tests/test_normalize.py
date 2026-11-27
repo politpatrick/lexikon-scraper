@@ -201,3 +201,36 @@ def test_template_norm_not_double_counted_from_rendered_text():
     a = normalize(raw("V", "Für {{Zitat de §|8|vbvg}} VBVG gilt"), {}, set())
     assert a.sections[0].norms == ["VBVG§8@aF"]
     assert a.sections[0].text == "Für § 8 VBVG gilt"
+
+
+def test_decisions_per_section_and_article():
+    text = ("Einleitung: LG Frankfurt/Oder, Beschluss vom 1.2.2003, {{Rspr|19 T 529/02}}.\n"
+            "== Rechtsprechung ==\nBGH, Beschluss vom 05.01.2011 - XII ZB 152/10; vgl. {{rspr|BVerfGE 31, 58}}.")
+    a = normalize(raw("X", text), {}, set())
+    assert a.sections[0].decisions == ["LG Frankfurt (Oder) 19 T 529/02"]
+    assert a.sections[1].decisions == ["XII ZB 152/10", "BVerfGE 31, 58"]
+    assert [d["id"] for d in a.decisions] == ["BVerfGE 31, 58", "LG Frankfurt (Oder) 19 T 529/02", "XII ZB 152/10"]
+    assert a.decisions[2] == {"id": "XII ZB 152/10", "label": "BGH, Beschluss vom 05.01.2011 – XII ZB 152/10",
+                              "gericht": "BGH", "art": "Beschluss", "datum": "2011-01-05",
+                              "az": "XII ZB 152/10", "fundstelle": None}
+
+
+def test_unify_decisions_across_articles():
+    from lexikon.normalize import unify_decisions
+    a = normalize(raw("A", "OLG Brandenburg, Beschluss vom 1.2.2003, 11 Wx 38/03"), {}, set())
+    b = normalize(raw("B", "Siehe {{Rspr|11 Wx 38/03}}.\n== Zwei ==\nBVerfG 1 BvR 618/93"), {}, set())
+    c = normalize(raw("C", "BVerfG, Beschluss vom 02.08.2001, 1 BvR 618/93"), {}, set())
+    unify_decisions([a, b, c])
+    assert [d["id"] for d in b.decisions] == ["1 BvR 618/93", "OLG Brandenburg 11 Wx 38/03"]
+    assert b.sections[0].decisions == ["OLG Brandenburg 11 Wx 38/03"]
+    # das vollständigste Zitat liefert die Angaben, für alle Artikel gleich
+    assert b.decisions[0]["label"] == c.decisions[0]["label"] == "BVerfG, Beschluss vom 02.08.2001 – 1 BvR 618/93"
+
+
+def test_unify_leaves_ambiguous_bare_az():
+    from lexikon.normalize import unify_decisions
+    a = normalize(raw("A", "LG Bonn, Beschluss vom 1.2.2003, 1 T 5/03"), {}, set())
+    b = normalize(raw("B", "LG Köln, Beschluss vom 1.2.2003, 1 T 5/03"), {}, set())
+    c = normalize(raw("C", "{{Rspr|1 T 5/03}}"), {}, set())
+    unify_decisions([a, b, c])
+    assert [d["id"] for d in c.decisions] == ["1 T 5/03"]
