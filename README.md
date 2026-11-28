@@ -6,10 +6,12 @@ und baut daraus ein Wissensnetz für Recherche und RAG.
 | Verzeichnis | Inhalt |
 |---|---|
 | `raw/` | Rohseiten: unveränderter Wikitext je Seite mit Revision (Archivwahrheit, ADR 0001) |
-| `articles/` | Artikel: Abschnitte mit Pfad, typisierte Links |
+| `articles/` | Artikel: Abschnitte mit Pfad, typisierte Links, Normzitate (mit Fassung), Entscheidungen |
 | `graph/graph.json` | Wissensnetz, graphify-kompatibel (ADR 0002) |
-| `reports/qualitaet.md` | Waisen, tote Links, Kennzahlen |
-| `artikel/` | Altformat, wird mit Ticket 08 abgelöst |
+| `reports/qualitaet.md` | Kennzahlen, Waisen, tote Links, Normen, Entscheidungen, alte/neue Fassung |
+| `reports/vorlagen.md` | Inventur der Wiki-Vorlagen |
+
+Das frühere Format `artikel/` wurde am 28.11.2026 entfernt (Ticket 08); die Git-Historie enthält jeden Stand.
 
 ## Nutzung
 

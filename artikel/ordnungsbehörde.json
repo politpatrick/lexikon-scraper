@@ -1,9 +1,0 @@
-{
-  "id": "ordnungsbehörde",
-  "titel": "Ordnungsbehörde",
-  "inhalt": "redirect[Polizeirecht](polizeirecht)",
-  "zusammenfassung": "redirect[Polizeirecht](polizeirecht)...",
-  "verwandteArtikel": [
-    "polizeirecht"
-  ]
-}

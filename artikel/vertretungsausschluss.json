@@ -1,9 +1,0 @@
-{
-  "id": "vertretungsausschluss",
-  "titel": "Vertretungsausschluss",
-  "inhalt": "redirect [Gesetzliche Vertretung](gesetzliche-vertretung)",
-  "zusammenfassung": "redirect [Gesetzliche Vertretung](gesetzliche-vertretung)...",
-  "verwandteArtikel": [
-    "gesetzliche-vertretung"
-  ]
-}

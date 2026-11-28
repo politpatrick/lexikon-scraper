@@ -1,9 +1,0 @@
-{
-  "id": "arbeitsunfall",
-  "titel": "Arbeitsunfall",
-  "inhalt": "redirect [Unfallversicherung](unfallversicherung)",
-  "zusammenfassung": "redirect [Unfallversicherung](unfallversicherung)...",
-  "verwandteArtikel": [
-    "unfallversicherung"
-  ]
-}

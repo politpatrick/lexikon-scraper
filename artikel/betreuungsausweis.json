@@ -1,9 +1,0 @@
-{
-  "id": "betreuungsausweis",
-  "titel": "Betreuungsausweis",
-  "inhalt": "redirect [Betreuerausweis](betreuerausweis)",
-  "zusammenfassung": "redirect [Betreuerausweis](betreuerausweis)...",
-  "verwandteArtikel": [
-    "betreuerausweis"
-  ]
-}

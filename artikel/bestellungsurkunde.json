@@ -1,9 +1,0 @@
-{
-  "id": "bestellungsurkunde",
-  "titel": "Bestellungsurkunde",
-  "inhalt": "redirect [Betreuerausweis](betreuerausweis)",
-  "zusammenfassung": "redirect [Betreuerausweis](betreuerausweis)...",
-  "verwandteArtikel": [
-    "betreuerausweis"
-  ]
-}

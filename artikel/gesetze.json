@@ -1,9 +1,0 @@
-{
-  "id": "gesetze",
-  "titel": "Gesetze",
-  "inhalt": "redirect [Gesetzestexte](gesetzestexte)",
-  "zusammenfassung": "redirect [Gesetzestexte](gesetzestexte)...",
-  "verwandteArtikel": [
-    "gesetzestexte"
-  ]
-}
