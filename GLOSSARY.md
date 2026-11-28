@@ -17,4 +17,7 @@ Fachvokabular dieses Repos. Code, Tickets und Specs verwenden genau diese Begrif
 | **Entscheidungszitat** (`DecisionRef`) | Verweis auf Rechtsprechung: Gericht, Art, Datum, Aktenzeichen oder amtliche Fundstelle. Kennung: Aktenzeichen von BGH, BVerfG und BSG allein (`XII ZB 152/10`), sonst Gericht + Aktenzeichen (`LG Mühlhausen 1 T 5/11`), bei Fundstellen diese (`BVerfGE 31, 58`) | – |
 | **Wissensnetz** | Die Menge aller Knoten und Kanten, exportiert als `graph/graph.json` | graphify-Ausgabe |
 | **Kante** | Typisierte Beziehung: `links_to`, `in_category`, `cites_norm`, `cites_decision`, `references_external`, `superseded_by` (alte Norm → Nachfolger), `ambiguous_with` (unbestimmte Fassung → beide Lesarten) | – |
-| **Chunk** | Retrieval-Einheit des RAG, abgeleitet aus einem Abschnitt | Abschnitt |
+| **Chunk** | Retrieval-Einheit des RAG, abgeleitet aus einem Abschnitt (lange geteilt, kurze verbunden), mit Kontextkopf „Artikel › Pfad“ | Abschnitt |
+| **Treffer** | Ein Chunk als Ergebnis einer Suche, mit Quelle, Stand und Rechtslage | Chunk |
+| **Rechtslage** | Kennzeichnung eines Treffers: `aktuell`, `vor_2023`, `unbestimmt` oder `ohne_bezug` (aus den Fassungen seiner Normzitate) | Fassung |
+| **Testsatz** | Fragen mit erwarteten Artikeln (`eval/fragen.jsonl`), Grundlage für Recall@5 und MRR | – |
