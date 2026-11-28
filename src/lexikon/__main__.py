@@ -68,6 +68,24 @@ def cmd_build(args) -> int:
     return 0
 
 
+def cmd_graphify(args) -> int:
+    """Erzeugt die graphify-Ausgaben (Bericht, graph.html) aus graph/graph.json, ohne LLM."""
+    import shutil
+    import subprocess
+
+    exe = shutil.which("graphify")
+    if exe is None:
+        print('graphify ist nicht installiert: uv tool install "graphifyy[mcp]"', file=sys.stderr)
+        return 1
+    root = Path(args.root)
+    out = root / "graphify-out"
+    out.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(args.graph, out / "graph.json")
+    subprocess.run([exe, "cluster-only", str(root), "--no-label"], check=True)
+    print(f"graphify-Ausgaben in {out}: GRAPH_REPORT.md, graph.html, graph.json")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="lexikon")
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -81,6 +99,10 @@ def main(argv: list[str] | None = None) -> int:
     b.add_argument("--report", default="reports/qualitaet.md")
     b.add_argument("--templates-report", default="reports/vorlagen.md")
     b.set_defaults(func=cmd_build)
+    g = sub.add_parser("graphify", help="graphify-Ausgaben (Bericht, graph.html) erzeugen, ohne LLM")
+    g.add_argument("--graph", default="graph/graph.json")
+    g.add_argument("--root", default=".", help="Verzeichnis, in dem graphify-out/ entsteht")
+    g.set_defaults(func=cmd_graphify)
     args = parser.parse_args(argv)
     return args.func(args)
 

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "lexikon-wissensnetz": {
+      "type": "stdio",
+      "command": "graphify-mcp",
+      "args": ["graph/graph.json"]
+    }
+  }
+}

@@ -66,3 +66,28 @@ def test_build_writes_template_inventory(tmp_path):
     report = (tmp_path / "v.md").read_text(encoding="utf-8")
     assert "| Zitat de § | 1 | 1 | Normzitat |" in report
     assert "Unbekannte Vorlagen: 1" in report
+
+
+def test_graphify_command_copies_graph_and_clusters(tmp_path, monkeypatch):
+    import subprocess
+    graph = tmp_path / "graph" / "graph.json"
+    graph.parent.mkdir()
+    graph.write_text('{"nodes": [], "links": []}', encoding="utf-8")
+    calls = []
+    monkeypatch.setattr("shutil.which", lambda name: f"/usr/bin/{name}")
+    monkeypatch.setattr(subprocess, "run", lambda cmd, **kw: calls.append((cmd, kw)) or
+                        subprocess.CompletedProcess(cmd, 0))
+    rc = main(["graphify", "--graph", str(graph), "--root", str(tmp_path)])
+    assert rc == 0
+    assert (tmp_path / "graphify-out" / "graph.json").read_text(encoding="utf-8") == graph.read_text(encoding="utf-8")
+    cmd, kw = calls[0]
+    assert cmd == ["/usr/bin/graphify", "cluster-only", str(tmp_path), "--no-label"]  # ohne LLM
+    assert kw.get("check") is True
+
+
+def test_graphify_command_without_graphify_installed(tmp_path, monkeypatch, capsys):
+    graph = tmp_path / "g.json"
+    graph.write_text("{}", encoding="utf-8")
+    monkeypatch.setattr("shutil.which", lambda name: None)
+    assert main(["graphify", "--graph", str(graph), "--root", str(tmp_path)]) == 1
+    assert "graphifyy[mcp]" in capsys.readouterr().err
