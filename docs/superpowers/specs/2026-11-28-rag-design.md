@@ -1,6 +1,6 @@
 # Spec: RAG über das Lexikon Betreuungsrecht
 
-**Status:** Entwurf, wartet auf Freigabe · 2026-11-28
+**Status:** freigegeben 28.11.2026 · Tickets: `.scratch/rag/issues/`
 **Vokabular:** `GLOSSARY.md` (neu: Chunk, Treffer, Testsatz) · **ADRs:** 0001, 0002 · **Vorgänger-Spec:** `2026-11-24-wissensnetz-design.md`
 
 ## Problem Statement
@@ -122,8 +122,8 @@ hinzu, wenn sie auf einem Testsatz messbar besser abschneidet.
 ## Further Notes
 
 **Offene Fragen:**
-1. Wer erstellt bzw. prüft den Testsatz? Ich empfehle: Ich entwerfe 40 Fragen aus den Daten, du prüfst sie und ergänzt 10 aus deiner Praxis.
-2. Soll die Suche auch die Rohseiten der 102 nicht lesbaren Seiten kennen, also nur Titel und Weiterleitungsziel?
+1. ~~Wer erstellt den Testsatz?~~ Entschieden: Agent entwirft 40 Fragen, Fachkraft prüft und ergänzt 10 (Ticket 01).
+2. ~~Nicht lesbare Seiten?~~ Entschieden: Titel und Weiterleitungsziel werden bekannt (Ticket 08).
 3. Stufe 2 setzt die Lizenzklärung voraus. Dazu gehören die 24 Artikel mit `{{Quelle Wikipedia}}`, die unter CC BY-SA stehen und deshalb mit Namensnennung und Weitergabe unter gleicher Lizenz verbunden sind.
 
 **Bekannte Grenzen aus dem Wissensnetz:**
