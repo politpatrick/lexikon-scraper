@@ -2,16 +2,6 @@
   "id": "strafanzeige",
   "titel": "Strafanzeige",
   "inhalt": "redirect [Strafprozess](strafprozess)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Strafprozess",
-      "tags": [
-        "redirect",
-        "strafprozess"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Strafprozess](strafprozess)...",
   "verwandteArtikel": [
     "strafprozess"

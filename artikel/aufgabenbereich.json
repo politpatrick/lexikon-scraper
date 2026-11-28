@@ -2,16 +2,6 @@
   "id": "aufgabenbereich",
   "titel": "Aufgabenbereich",
   "inhalt": "redirect [Aufgabenkreis](aufgabenkreis)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Aufgabenkreis",
-      "tags": [
-        "redirect",
-        "aufgabenkreis"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Aufgabenkreis](aufgabenkreis)...",
   "verwandteArtikel": [
     "aufgabenkreis"

@@ -2,16 +2,6 @@
   "id": "mietkündigung",
   "titel": "Mietkündigung",
   "inhalt": "redirect [Wohnungsauflösung](wohnungsauflösung)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Wohnungsauflösung",
-      "tags": [
-        "redirect",
-        "wohnungsauflösung"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Wohnungsauflösung](wohnungsauflösung)...",
   "verwandteArtikel": [
     "wohnungsauflösung"

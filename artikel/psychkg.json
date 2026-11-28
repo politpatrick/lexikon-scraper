@@ -2,17 +2,6 @@
   "id": "psychkg",
   "titel": "Psychkg",
   "inhalt": "redirect[Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirectPsychisch-Kranken-Gesetz",
-      "tags": [
-        "redirectpsychisch",
-        "kranken",
-        "gesetz"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect[Psychisch-Kranken-Gesetz](psychisch-kranken-gesetz)...",
   "verwandteArtikel": [
     "psychisch-kranken-gesetz"

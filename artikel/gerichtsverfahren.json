@@ -2,16 +2,6 @@
   "id": "gerichtsverfahren",
   "titel": "Gerichtsverfahren",
   "inhalt": "redirect [Prozessführung](prozessführung)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Prozessführung",
-      "tags": [
-        "redirect",
-        "prozessführung"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Prozessführung](prozessführung)...",
   "verwandteArtikel": [
     "prozessführung"

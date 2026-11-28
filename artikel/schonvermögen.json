@@ -2,16 +2,6 @@
   "id": "schonvermögen",
   "titel": "Schonvermögen",
   "inhalt": "redirect [Freibetrag](freibetrag)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Freibetrag",
-      "tags": [
-        "redirect",
-        "freibetrag"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Freibetrag](freibetrag)...",
   "verwandteArtikel": [
     "freibetrag"

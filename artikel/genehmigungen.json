@@ -2,16 +2,6 @@
   "id": "genehmigungen",
   "titel": "Genehmigungen",
   "inhalt": "redirect [Genehmigungspflichten](genehmigungspflichten)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Genehmigungspflichten",
-      "tags": [
-        "redirect",
-        "genehmigungspflichten"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Genehmigungspflichten](genehmigungspflichten)...",
   "verwandteArtikel": [
     "genehmigungspflichten"

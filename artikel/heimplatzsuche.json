@@ -2,17 +2,6 @@
   "id": "heimplatzsuche",
   "titel": "Heimplatzsuche",
   "inhalt": "redirect [Aufenthaltsbestimmung#Heimplatzsuche](aufenthaltsbestimmung#heimplatzsuche)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Aufenthaltsbestimmung#Heimplatzsuche",
-      "tags": [
-        "redirect",
-        "aufenthaltsbestimmung",
-        "heimplatzsuche"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Aufenthaltsbestimmung#Heimplatzsuche](aufenthaltsbestimmung#heimplatzsuche)...",
   "verwandteArtikel": [
     "aufenthaltsbestimmung#heimplatzsuche"

@@ -2,17 +2,6 @@
   "id": "nebentätigkeit",
   "titel": "Nebentätigkeit",
   "inhalt": "redirect [Beamte als Betreuer](beamte-als-betreuer)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Beamte als Betreuer",
-      "tags": [
-        "redirect",
-        "beamte",
-        "betreuer"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Beamte als Betreuer](beamte-als-betreuer)...",
   "verwandteArtikel": [
     "beamte-als-betreuer"

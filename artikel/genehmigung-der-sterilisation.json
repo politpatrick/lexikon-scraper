@@ -2,16 +2,6 @@
   "id": "genehmigung-der-sterilisation",
   "titel": "Genehmigung der Sterilisation",
   "inhalt": "redirect [Sterilisation](sterilisation)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Sterilisation",
-      "tags": [
-        "redirect",
-        "sterilisation"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Sterilisation](sterilisation)...",
   "verwandteArtikel": [
     "sterilisation"

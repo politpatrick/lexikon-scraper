@@ -2,16 +2,6 @@
   "id": "erforderlichkeit",
   "titel": "Erforderlichkeit",
   "inhalt": "redirect [Betreuungsvoraussetzung](betreuungsvoraussetzung)",
-  "struktur": [
-    {
-      "titel": "Einleitung",
-      "inhalt": "redirect Betreuungsvoraussetzung",
-      "tags": [
-        "redirect",
-        "betreuungsvoraussetzung"
-      ]
-    }
-  ],
   "zusammenfassung": "redirect [Betreuungsvoraussetzung](betreuungsvoraussetzung)...",
   "verwandteArtikel": [
     "betreuungsvoraussetzung"
