@@ -4,9 +4,9 @@
 
 **Blocked by:** 03
 
-**Status:** ready-for-agent
+**Status:** erledigt 28.11.2026. `python -m lexikon graphify` (119 Communities, ohne LLM); `.mcp.json` mit Server `lexikon-wissensnetz` (graphify-mcp auf graph/graph.json), Handshake und Abfragen getestet
 
-- [ ] Ein Befehl baut die graphify-Ausgaben reproduzierbar
-- [ ] `graphify path` findet einen Pfad zwischen „Einwilligungsvorbehalt“ und „Betreuungsgericht“
-- [ ] Die MCP-Konfiguration für Claude Code ist dokumentiert
-- [ ] Die graphify-Ausgaben werden nicht automatisch committet (Größe, Rauschen), solange nicht anders entschieden
+- [x] Ein Befehl baut die graphify-Ausgaben reproduzierbar
+- [x] `graphify path` findet einen Pfad zwischen „Einwilligungsvorbehalt“ und „Betreuungsgericht“
+- [x] Die MCP-Konfiguration für Claude Code ist dokumentiert
+- [x] Die graphify-Ausgaben werden nicht automatisch committet (Größe, Rauschen), solange nicht anders entschieden
