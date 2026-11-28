@@ -1,9 +1,0 @@
-{
-  "id": "immobilie",
-  "titel": "Immobilie",
-  "inhalt": "redirect[Grundstück](grundstück)",
-  "zusammenfassung": "redirect[Grundstück](grundstück)...",
-  "verwandteArtikel": [
-    "grundstück"
-  ]
-}

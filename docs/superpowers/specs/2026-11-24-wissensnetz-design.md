@@ -86,7 +86,7 @@ späteres Teilprojekt mit eigener Spec. Es baut auf `articles/` und `graph/` auf
 **Offene Fragen, die die Freigabe blockieren:**
 1. Unter welcher Lizenz steht das Lexikon, und ist dieses Repo öffentlich? Davon hängt ab, ob die Spiegelung zulässig ist.
 2. Wer prüft die Zuordnungstabelle alt→neu fachlich?
-3. Soll `artikel/` nach dem Vollständigkeitsnachweis gelöscht werden oder als Altformat eingefroren bleiben?
+3. ~~Soll `artikel/` nach dem Vollständigkeitsnachweis gelöscht werden oder als Altformat eingefroren bleiben?~~ Entschieden 28.11.2026: gelöscht (Ticket 08).
 
 **Annahmen:** Tickets liegen als lokale Markdown-Dateien in `.scratch/` (Standard von
 `/setup-matt-pocock-skills`). Es werden keine GitHub-Issues angelegt, solange du das nicht bestätigst.

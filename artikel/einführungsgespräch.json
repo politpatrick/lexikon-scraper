@@ -1,9 +1,0 @@
-{
-  "id": "einführungsgespräch",
-  "titel": "Einführungsgespräch",
-  "inhalt": "redirect [Verpflichtungsgespräch](verpflichtungsgespräch)",
-  "zusammenfassung": "redirect [Verpflichtungsgespräch](verpflichtungsgespräch)...",
-  "verwandteArtikel": [
-    "verpflichtungsgespräch"
-  ]
-}

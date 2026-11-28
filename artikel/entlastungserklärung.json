@@ -1,9 +1,0 @@
-{
-  "id": "entlastungserklärung",
-  "titel": "Entlastungserklärung",
-  "inhalt": "redirect [Schlusstätigkeiten](schlusstätigkeiten)",
-  "zusammenfassung": "redirect [Schlusstätigkeiten](schlusstätigkeiten)...",
-  "verwandteArtikel": [
-    "schlusstätigkeiten"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "telefonkontrolle",
-  "titel": "Telefonkontrolle",
-  "inhalt": "redirect [Telefonverkehr](telefonverkehr)",
-  "zusammenfassung": "redirect [Telefonverkehr](telefonverkehr)...",
-  "verwandteArtikel": [
-    "telefonverkehr"
-  ]
-}

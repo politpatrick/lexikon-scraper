@@ -1,9 +1,0 @@
-{
-  "id": "behandlungsvertrag",
-  "titel": "Behandlungsvertrag",
-  "inhalt": "redirect [Heilbehandlung](heilbehandlung)",
-  "zusammenfassung": "redirect [Heilbehandlung](heilbehandlung)...",
-  "verwandteArtikel": [
-    "heilbehandlung"
-  ]
-}

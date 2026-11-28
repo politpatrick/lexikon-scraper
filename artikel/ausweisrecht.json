@@ -1,9 +1,0 @@
-{
-  "id": "ausweisrecht",
-  "titel": "Ausweisrecht",
-  "inhalt": "redirect [Personalausweis](personalausweis)",
-  "zusammenfassung": "redirect [Personalausweis](personalausweis)...",
-  "verwandteArtikel": [
-    "personalausweis"
-  ]
-}

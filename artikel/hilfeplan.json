@@ -1,9 +1,0 @@
-{
-  "id": "hilfeplan",
-  "titel": "Hilfeplan",
-  "inhalt": "redirect [Betreuungsplan](betreuungsplan)",
-  "zusammenfassung": "redirect [Betreuungsplan](betreuungsplan)...",
-  "verwandteArtikel": [
-    "betreuungsplan"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "mietkündigung",
-  "titel": "Mietkündigung",
-  "inhalt": "redirect [Wohnungsauflösung](wohnungsauflösung)",
-  "zusammenfassung": "redirect [Wohnungsauflösung](wohnungsauflösung)...",
-  "verwandteArtikel": [
-    "wohnungsauflösung"
-  ]
-}

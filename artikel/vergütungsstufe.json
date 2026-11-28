@@ -1,9 +1,0 @@
-{
-  "id": "vergütungsstufe",
-  "titel": "Vergütungsstufe",
-  "inhalt": "redirect [Stundensatz](stundensatz)",
-  "zusammenfassung": "redirect [Stundensatz](stundensatz)...",
-  "verwandteArtikel": [
-    "stundensatz"
-  ]
-}
